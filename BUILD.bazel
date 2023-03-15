@@ -1,5 +1,11 @@
 load("@npm//:defs.bzl", "npm_link_all_packages")
 load("@npm//:ajv-cli/package_json.bzl", ajv = "bin")
+load("@gazelle//:def.bzl", "gazelle")
+
+# gazelle:prefix github.com/bazel-contrib/bazel-catalog
+# gazelle:exclude **/*.pb.go
+# gazelle:exclude **/x_*.go
+gazelle(name = "gazelle")
 
 npm_link_all_packages(name = "node_modules")
 
