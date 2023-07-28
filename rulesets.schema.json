@@ -9,12 +9,30 @@
       "items": {
         "type": "object",
         "properties": {
+          "maintainers": {
+            "description": "same as the maintainers object on bazel-central-registry metadata.json files",
+            "type": "object",
+            "properties": {
+              "github": {
+                "type": "string",
+                "description": "maintainer's github username"
+              },
+              "email": {
+                "type": "string",
+                "description": "maintainer's email address"
+              },
+              "name": {
+                "type": "string",
+                "description": "maintainer's name"
+              }
+            }
+          },
           "ghrepo": {
             "description": "GitHub repository",
             "type": "string"
           },
           "bazel-recommended": {
-            "description": "whether this ruleset is listed on https://docs.bazel.build/rules.html#recommended-rules",
+            "description": "whether this ruleset is listed on https://bazel.build/rules#recommended-rules",
             "type": "boolean"
           },
           "shortname": {
