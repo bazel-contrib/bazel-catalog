@@ -6,6 +6,7 @@
 # It also relies on `jq` being on the PATH.
 set -o errexit -o nounset -o pipefail
 
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 OUTPUT_ROOT=$(mktemp -d /tmp/gitstats.XXX)
 CLONES_DIR=${CLONES_DIR:-$HOME/bazel-clones}
 GITSTATS_BIN=${GITSTATS_BIN:-$HOME/Projects/hoxu-gitstats-55c5c28/gitstats}
@@ -31,6 +32,10 @@ do
     "$GITSTATS_BIN" . "$DESTDIR"
 
     echo "- [${ghrepo}](./${ghrepo})" >> "$OUTPUT_ROOT"/index.md
-done < <(jq -r '.rulesets[].ghrepo' < rulesets.json)
+done < <(
+    jq --raw-output \
+    --from-file "${SCRIPT_DIR}"/../filters/ghrepo.jq \
+    < "$SCRIPT_DIR"/../rulesets.json
+)
 
 echo "Now overwrite the gh-pages branch with content from ${OUTPUT_ROOT}"

@@ -1,4 +1,5 @@
 "Bazel dependencies"
+bazel_dep(name = "aspect_bazel_lib", version = "1.33.0")
 bazel_dep(name = "aspect_rules_js", version = "1.17.0")
 
 npm = use_extension("@aspect_rules_js//npm:extensions.bzl", "npm", dev_dependency = True)
@@ -10,7 +11,7 @@ npm.npm_translate_lock(
 
 use_repo(npm, "npm")
 
-bazel_dep(name = "gazelle", version = "0.27.0")
+bazel_dep(name = "gazelle", version = "0.30.0")
 
 go_deps = use_extension("@gazelle//:extensions.bzl", "go_deps")
 go_deps.from_file(go_mod = "//:go.mod")

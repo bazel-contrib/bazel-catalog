@@ -2,206 +2,396 @@
   "$schema": "./rulesets.schema.json",
   "rulesets": [
     {
-      "ghrepo": "bazelbuild/bazel-skylib",
-      "bzlmod_name": "bazel_skylib",
+      "repository": "github:BLAKE3-team/BLAKE3"
+    },
+    {
+      "repository": "github:BalderOdinson/rules_cuda"
+    },
+    {
+      "repository": "github:DataDog/rules_oci_bootstrap"
+    },
+    {
+      "repository": "github:GZGavinZhao/gzgz_rules_sass"
+    },
+    {
+      "repository": "github:GoogleContainerTools/container-structure-test"
+    },
+    {
+      "repository": "github:LMDB/lmdb"
+    },
+    {
+      "repository": "github:MobileNativeFoundation/rules_xcodeproj"
+    },
+    {
+      "repository": "github:Tencent/rapidjson"
+    },
+    {
+      "repository": "github:Tessil/robin-map"
+    },
+    {
+      "repository": "github:abseil/abseil-cpp"
+    },
+    {
+      "repository": "github:abseil/abseil-py"
+    },
+    {
+      "repository": "github:acqio/rules_microsoft_azure"
+    },
+    {
+      "repository": "github:apple/apple_rules_lint"
+    },
+    {
+      "repository": "github:apple/swift-argument-parser"
+    },
+    {
+      "repository": "github:aspect-build/bazel-lib"
+    },
+    {
+      "repository": "github:aspect-build/rules_esbuild"
+    },
+    {
+      "repository": "github:aspect-build/rules_jasmine"
+    },
+    {
+      "repository": "github:aspect-build/rules_jest"
+    },
+    {
+      "repository": "github:aspect-build/rules_js"
+    },
+    {
+      "repository": "github:aspect-build/rules_py"
+    },
+    {
+      "repository": "github:aspect-build/rules_rollup"
+    },
+    {
+      "repository": "github:aspect-build/rules_swc"
+    },
+    {
+      "repository": "github:aspect-build/rules_terser"
+    },
+    {
+      "repository": "github:aspect-build/rules_ts"
+    },
+    {
+      "repository": "github:bazel-contrib/bazel_features"
+    },
+    {
+      "repository": "github:bazel-contrib/rules_bazel_integration_test"
+    },
+    {
+      "repository": "github:bazel-contrib/rules_jvm"
+    },
+    {
+      "repository": "github:bazel-contrib/rules_oci"
+    },
+    {
+      "repository": "github:bazelbuild/apple_support"
+    },
+    {
+      "repository": "github:bazelbuild/bazel-gazelle"
+    },
+    {
+      "repository": "github:bazelbuild/bazel-skylib",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_android",
-      "bzlmod_name": "rules_android"
+      "repository": "github:bazelbuild/platforms"
     },
     {
-      "ghrepo": "bazelbuild/rules_appengine"
+      "repository": "github:bazelbuild/rules_android"
     },
     {
-      "ghrepo": "bazelbuild/rules_apple",
+      "repository": "github:bazelbuild/rules_appengine"
+    },
+    {
+      "repository": "github:bazelbuild/rules_apple",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_cc",
-      "bzlmod_name": "rules_cc"
+      "repository": "github:bazelbuild/rules_cc"
     },
     {
-      "ghrepo": "bazelbuild/rules_closure"
+      "repository": "github:bazelbuild/rules_closure"
     },
     {
-      "ghrepo": "bazelbuild/rules_d"
+      "repository": "github:bazelbuild/rules_d"
     },
     {
-      "ghrepo": "bazelbuild/rules_docker",
+      "repository": "github:bazelbuild/rules_docker",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_dotnet",
+      "repository": "github:bazelbuild/rules_dotnet",
       "shortname": ".NET"
     },
     {
-      "ghrepo": "bazelbuild/rules_foreign_cc"
+      "repository": "github:bazelbuild/rules_foreign_cc"
     },
     {
-      "ghrepo": "bazelbuild/rules_fuzzing"
+      "repository": "github:bazelbuild/rules_fuzzing"
     },
     {
-      "ghrepo": "bazelbuild/rules_go",
+      "repository": "github:bazelbuild/rules_go",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_groovy"
+      "repository": "github:bazelbuild/rules_groovy"
     },
     {
-      "ghrepo": "bazelbuild/rules_gwt"
+      "repository": "github:bazelbuild/rules_gwt"
     },
     {
-      "ghrepo": "bazelbuild/rules_java",
-      "bzlmod_name": "rules_java"
+      "repository": "github:bazelbuild/rules_java"
     },
     {
-      "ghrepo": "bazelbuild/rules_jsonnet"
+      "repository": "github:bazelbuild/rules_jsonnet"
     },
     {
-      "ghrepo": "bazelbuild/rules_jvm_external",
+      "repository": "github:bazelbuild/rules_jvm_external",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_k8s",
+      "repository": "github:bazelbuild/rules_k8s",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_kotlin"
+      "repository": "github:bazelbuild/rules_kotlin"
     },
     {
-      "ghrepo": "bazelbuild/rules_license",
-      "bzlmod_name": "rules_license"
+      "repository": "github:bazelbuild/rules_license"
     },
     {
-      "ghrepo": "bazelbuild/rules_nodejs",
-      "bazel-recommended": true,
-      "repository": "build_bazel_rules_nodejs",
-      "bzlmod_name": "rules_nodejs"
+      "repository": "github:bazelbuild/rules_nodejs",
+      "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_perl"
+      "repository": "github:bazelbuild/rules_perl"
     },
     {
-      "ghrepo": "bazelbuild/rules_pkg",
+      "repository": "github:bazelbuild/rules_pkg",
       "shortname": "Packaging",
-      "bazel-recommended": true,
-      "bzlmod_name": "rules_pkg"
+      "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_postcss"
+      "repository": "github:bazelbuild/rules_postcss"
     },
     {
-      "ghrepo": "bazelbuild/rules_proto",
+      "repository": "github:bazelbuild/rules_proto",
       "shortname": "Protocol Buffers",
-      "bazel-recommended": true,
-      "bzlmod_name": "rules_proto"
-    },
-    {
-      "ghrepo": "bazelbuild/rules_python",
-      "bazel-recommended": true,
-      "bzlmod_name": "rules_python"
-    },
-    {
-      "ghrepo": "bazelbuild/rules_rust"
-    },
-    {
-      "ghrepo": "bazelbuild/rules_sass"
-    },
-    {
-      "ghrepo": "bazelbuild/rules_scala",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "bazelbuild/rules_swift"
-    },
-    {
-      "ghrepo": "bazelbuild/rules_webtesting",
+      "repository": "github:bazelbuild/rules_python",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "nelhage/rules_boost",
+      "repository": "github:bazelbuild/rules_rust"
+    },
+    {
+      "repository": "github:bazelbuild/rules_sass"
+    },
+    {
+      "repository": "github:bazelbuild/rules_scala",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "tweag/rules_haskell",
+      "repository": "github:bazelbuild/rules_swift"
+    },
+    {
+      "repository": "github:bazelbuild/rules_testing"
+    },
+    {
+      "repository": "github:bazelbuild/rules_webtesting",
       "bazel-recommended": true
     },
     {
-      "ghrepo": "slamdev/rules_helm"
+      "repository": "github:bazelbuild/stardoc"
     },
     {
-      "ghrepo": "hdl/bazel_rules_hdl"
+      "repository": "github:bazelruby/rules_ruby"
     },
     {
-      "ghrepo": "tweag/rules_nixpkgs"
+      "repository": "github:buildfoundation/bazel_rules_detekt"
     },
     {
-      "ghrepo": "tweag/rules_sh",
-      "bzlmod_name": "rules_sh"
+      "repository": "github:c-ares/c-ares"
     },
     {
-      "ghrepo": "tweag/gazelle_cabal"
+      "repository": "github:catchorg/Catch2"
     },
     {
-      "ghrepo": "vmware/rules_oss_audit"
+      "repository": "github:cgrindel/bazel-starlib"
     },
     {
-      "ghrepo": "salesforce/rules_spring"
+      "repository": "github:cgrindel/rules_swift_package_manager"
     },
     {
-      "ghrepo": "grailbio/bazel-toolchain"
+      "repository": "github:chriskohlhoff/asio"
     },
     {
-      "ghrepo": "grailbio/bazel-compilation-database"
+      "repository": "github:coinbase/rules_ruby"
     },
     {
-      "ghrepo": "grailbio/rules_r"
+      "repository": "github:drmohundro/SWXMLHash"
     },
     {
-      "ghrepo": "dropbox/dbx_build_tools"
+      "repository": "github:dropbox/dbx_build_tools"
     },
     {
-      "ghrepo": "jmillikin/rules_m4"
+      "repository": "github:fmtlib/fmt"
     },
     {
-      "ghrepo": "jmillikin/rules_ragel"
+      "repository": "github:gabime/spdlog"
     },
     {
-      "ghrepo": "jmillikin/rules_bison"
+      "repository": "github:gflags/gflags"
     },
     {
-      "ghrepo": "jmillikin/rules_flex"
+      "repository": "github:google/benchmark"
     },
     {
-      "ghrepo": "bazelruby/rules_ruby"
+      "repository": "github:google/boringssl"
     },
     {
-      "ghrepo": "coinbase/rules_ruby"
+      "repository": "github:google/glog"
     },
     {
-      "ghrepo": "buildfoundation/bazel_rules_detekt"
+      "repository": "github:google/go-jsonnet"
     },
     {
-      "ghrepo": "DataDog/rules_oci_bootstrap"
+      "repository": "github:google/googletest"
     },
     {
-      "ghrepo": "acqio/rules_microsoft_azure"
+      "repository": "github:google/jsonnet"
     },
     {
-      "ghrepo": "spietras/rules_conda"
+      "repository": "github:google/re2"
     },
     {
-      "ghrepo": "ubiquitoustech/rules_vite"
+      "repository": "github:google/zopfli"
     },
     {
-      "ghrepo": "kkiningh/rules_verilator"
+      "repository": "github:grailbio/bazel-compilation-database"
     },
     {
-      "ghrepo": "BalderOdinson/rules_cuda"
+      "repository": "github:grailbio/bazel-toolchain"
     },
     {
-      "ghrepo": "simuons/rules_clojure"
+      "repository": "github:grailbio/rules_r"
+    },
+    {
+      "repository": "github:grpc/grpc"
+    },
+    {
+      "repository": "github:hdl/bazel_rules_hdl"
+    },
+    {
+      "repository": "github:jmillikin/rules_bison"
+    },
+    {
+      "repository": "github:jmillikin/rules_flex"
+    },
+    {
+      "repository": "github:jmillikin/rules_m4"
+    },
+    {
+      "repository": "github:jmillikin/rules_ragel"
+    },
+    {
+      "repository": "github:jpsim/SourceKitten"
+    },
+    {
+      "repository": "github:jpsim/Yams"
+    },
+    {
+      "repository": "github:keith/buildifier-prebuilt"
+    },
+    {
+      "repository": "github:keith/rules_apple_linker"
+    },
+    {
+      "repository": "github:keith/rules_multirun"
+    },
+    {
+      "repository": "github:kkiningh/rules_verilator"
+    },
+    {
+      "repository": "github:luben/zstd-jni"
+    },
+    {
+      "repository": "github:madler/zlib"
+    },
+    {
+      "repository": "github:nelhage/rules_boost",
+      "bazel-recommended": true
+    },
+    {
+      "repository": "github:nlohmann/json"
+    },
+    {
+      "repository": "github:oxidase/rules_poetry"
+    },
+    {
+      "repository": "github:protocolbuffers/protobuf"
+    },
+    {
+      "repository": "github:protocolbuffers/upb"
+    },
+    {
+      "repository": "github:rabbitmq/looking_glass"
+    },
+    {
+      "repository": "github:rabbitmq/lz4-erlang"
+    },
+    {
+      "repository": "github:rabbitmq/rules_erlang"
+    },
+    {
+      "repository": "github:realm/SwiftLint"
+    },
+    {
+      "repository": "github:robolectric/robolectric-bazel"
+    },
+    {
+      "repository": "github:salesforce/rules_spring"
+    },
+    {
+      "repository": "github:seh/rules_cue"
+    },
+    {
+      "repository": "github:seh/rules_kustomize"
+    },
+    {
+      "repository": "github:simuons/rules_clojure"
+    },
+    {
+      "repository": "github:slamdev/rules_helm"
+    },
+    {
+      "repository": "github:spietras/rules_conda"
+    },
+    {
+      "repository": "github:tweag/gazelle_cabal"
+    },
+    {
+      "repository": "github:tweag/rules_haskell",
+      "bazel-recommended": true
+    },
+    {
+      "repository": "github:tweag/rules_nixpkgs"
+    },
+    {
+      "repository": "github:tweag/rules_sh"
+    },
+    {
+      "repository": "github:ubiquitoustech/rules_vite"
+    },
+    {
+      "repository": "github:vmware/rules_oss_audit"
+    },
+    {
+      "repository": "github:wjakob/nanobind"
     }
   ]
 }
