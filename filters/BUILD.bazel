@@ -1,0 +1,108 @@
+load(":defs.bzl", "assert_jq")
+
+exports_files(["*.jq"])
+
+SAMPLE_RULESETS = {
+    "$schema": "./rulesets.schema.json",
+    "rulesets": [
+        {
+            "repository": "github:bazelbuild/bazel-skylib",
+            "bazel-recommended": True
+        },
+        {
+            "repository": "github:aspect-build/bazel-lib",
+        },
+        {
+            "repository": "gitlab:some-other/rules_thing"
+        },
+    ],
+}
+
+assert_jq(
+    name = "test_ghrepo",
+    filter_file = "ghrepo.jq",
+    inputs = [SAMPLE_RULESETS],
+    args = ["--raw-output"],
+    expected_text = [
+        "bazelbuild/bazel-skylib",
+        "aspect-build/bazel-lib",
+    ],
+)
+
+SAMPLE_BCR = [
+  {
+    "module_name": "rules_robolectric",
+    "metadata": {
+      "homepage": "https://github.com/robolectric/robolectric-bazel",
+      "maintainers": [
+        {
+          "email": "ben@ben.cm",
+          "github": "Bencodes",
+          "name": "Ben Lee"
+        }
+      ],
+      "repository": [
+        "github:robolectric/robolectric-bazel"
+      ],
+      "versions": [
+        "4.10",
+        "4.10.1",
+        "4.10.2",
+        "4.10.3"
+      ],
+      "yanked_versions": {}
+    }
+  },
+  {
+    "module_name": "aspect_bazel_lib",
+    "metadata": {
+      "homepage": "https://docs.aspect.build/rules/aspect_bazel_lib",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ],
+      "repository": [
+        "github:aspect-build/bazel-lib"
+      ],
+      "versions": [
+        "1.31.1",
+        "1.31.2",
+        "1.31.3",
+        "1.32.0",
+        "1.32.1",
+        "1.33.0"
+      ],
+      "yanked_versions": {
+        "1.31.0": "1.31.0 has a breaking change to the default yq version"
+      }
+    }
+  },
+]
+
+assert_jq(
+    name = "test_merge_bcr",
+    filter_file = "merge_bcr.jq",
+    inputs = [SAMPLE_RULESETS, SAMPLE_BCR],
+    args = ["--slurp"],
+    expected_json = {
+      "$schema": "./rulesets.schema.json",
+      "rulesets": [
+        {
+          "repository": "github:aspect-build/bazel-lib"
+        },
+        {
+          "bazel-recommended": True,
+          "repository": "github:bazelbuild/bazel-skylib"
+        },
+        {
+          "repository": "github:robolectric/robolectric-bazel"
+        },
+        {
+          "repository": "gitlab:some-other/rules_thing"
+        }
+      ]
+    }
+)

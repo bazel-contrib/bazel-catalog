@@ -27,8 +27,8 @@
               }
             }
           },
-          "ghrepo": {
-            "description": "GitHub repository",
+          "repository": {
+            "description": "GitHub repository if the string starts with github: - other formats not yet supported",
             "type": "string"
           },
           "bazel-recommended": {
@@ -39,17 +39,20 @@
             "description": "human-readable shorter name for navigation, like rules_pkg is Packaging. Defaults to just title case of the repo name.",
             "type": "string"
           },
-          "repository": {
+          "load-repository": {
             "type": "string",
             "description": "what name this ruleset documents that users should load() its symbols from"
           },
-          "bzlmod_name": {
-            "description": "Bzlmod name in the Bazel Central Registry.",
-            "type": "string"
+          "bzlmod_names": {
+            "description": "Names of modules in the Bazel Central Registry which are hosted in this repo.",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
           }
         },
         "additionalProperties": false,
-        "required": ["ghrepo"]
+        "required": ["repository"]
       }
     }
   },
