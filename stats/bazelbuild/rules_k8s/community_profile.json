@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "This repository contains rules for interacting with Kubernetes configurations / clusters.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_k8s/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazelbuild/rules_k8s/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/rules_k8s/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_k8s/contents/README.md",
+      "html_url": "https://github.com/bazelbuild/rules_k8s/blob/master/README.md"
+    }
+  },
+  "updated_at": "2022-06-16T01:40:22Z",
+  "content_reports_enabled": false
+}

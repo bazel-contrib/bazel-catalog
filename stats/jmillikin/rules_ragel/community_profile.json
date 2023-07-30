@@ -1,0 +1,22 @@
+{
+  "health_percentage": 28,
+  "description": "Bazel build rules for Ragel",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/jmillikin/rules_ragel/blob/trunk/LICENSE"
+    },
+    "readme": null
+  },
+  "updated_at": "2020-03-21T17:57:51Z"
+}

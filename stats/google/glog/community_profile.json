@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "C++ implementation of the Google logging module",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/glog/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/glog/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/google/.github/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/google/glog/blob/master/COPYING"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/glog/contents/README.rst",
+      "html_url": "https://github.com/google/glog/blob/master/README.rst"
+    }
+  },
+  "updated_at": "2021-05-06T20:19:54Z",
+  "content_reports_enabled": false
+}

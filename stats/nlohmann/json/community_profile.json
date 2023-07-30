@@ -1,0 +1,39 @@
+{
+  "health_percentage": 100,
+  "description": "JSON for Modern C++",
+  "documentation": "https://json.nlohmann.me",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/nlohmann/json/blob/develop/.github/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/nlohmann/json/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/nlohmann/json/contents/.github/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/nlohmann/json/blob/develop/.github/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/nlohmann/json/contents/.github/CONTRIBUTING.md",
+      "html_url": "https://github.com/nlohmann/json/blob/develop/.github/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/nlohmann/json/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/nlohmann/json/blob/develop/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/nlohmann/json/blob/develop/LICENSE.MIT"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/nlohmann/json/contents/README.md",
+      "html_url": "https://github.com/nlohmann/json/blob/develop/README.md"
+    }
+  },
+  "updated_at": "2023-06-11T08:16:28Z"
+}

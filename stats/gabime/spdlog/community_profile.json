@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Fast C++ logging library.",
+  "documentation": "http://gabime.github.io/spdlog/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/gabime/spdlog/blob/v1.x/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/gabime/spdlog/contents/README.md",
+      "html_url": "https://github.com/gabime/spdlog/blob/v1.x/README.md"
+    }
+  },
+  "updated_at": "2023-06-01T21:16:18Z"
+}

@@ -1,0 +1,26 @@
+{
+  "health_percentage": 37,
+  "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+  "documentation": "http://rapidjson.org/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/Tencent/rapidjson/blob/master/license.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/Tencent/rapidjson/contents/readme.md",
+      "html_url": "https://github.com/Tencent/rapidjson/blob/master/readme.md"
+    }
+  },
+  "updated_at": "2019-11-25T03:55:05Z",
+  "content_reports_enabled": false
+}

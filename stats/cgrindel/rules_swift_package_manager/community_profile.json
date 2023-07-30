@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.",
+  "documentation": "https://github.com/cgrindel/rules_swift_package_manager/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/cgrindel/rules_swift_package_manager/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/cgrindel/rules_swift_package_manager/contents/README.md",
+      "html_url": "https://github.com/cgrindel/rules_swift_package_manager/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-01-10T13:53:12Z"
+}

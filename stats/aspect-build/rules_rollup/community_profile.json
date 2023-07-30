@@ -1,0 +1,40 @@
+{
+  "health_percentage": 75,
+  "description": "Bazel rules for https://rollupjs.org/ - a JavaScript bundler",
+  "documentation": "https://github.com/aspect-build/rules_rollup/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/aspect-build/rules_rollup/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/aspect-build/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/aspect-build/rules_rollup/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/aspect-build/rules_rollup/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/aspect-build/.github/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/aspect-build/rules_rollup/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/aspect-build/rules_rollup/contents/README.md",
+      "html_url": "https://github.com/aspect-build/rules_rollup/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-03-27T17:15:44Z",
+  "content_reports_enabled": false
+}

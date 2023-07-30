@@ -1,0 +1,40 @@
+{
+  "health_percentage": 75,
+  "description": "Straightforward, type-safe argument parsing for Swift",
+  "documentation": "https://apple.github.io/swift-argument-parser/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/apple/swift-argument-parser/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/apple/swift-argument-parser/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/apple/swift-argument-parser/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/apple/swift-argument-parser/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/apple/swift-argument-parser/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/apple/swift-argument-parser/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/apple/swift-argument-parser/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/apple/swift-argument-parser/blob/main/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/apple/swift-argument-parser/blob/main/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/apple/swift-argument-parser/contents/README.md",
+      "html_url": "https://github.com/apple/swift-argument-parser/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-07-27T05:02:34Z",
+  "content_reports_enabled": false
+}

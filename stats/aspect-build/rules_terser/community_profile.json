@@ -1,0 +1,40 @@
+{
+  "health_percentage": 75,
+  "description": "Bazel rules for https://terser.org/ - a JavaScript minifier",
+  "documentation": "https://github.com/aspect-build/rules_terser/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/aspect-build/rules_terser/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/aspect-build/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/aspect-build/rules_terser/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/aspect-build/rules_terser/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/aspect-build/.github/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/aspect-build/rules_terser/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/aspect-build/rules_terser/contents/README.md",
+      "html_url": "https://github.com/aspect-build/rules_terser/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": false
+}

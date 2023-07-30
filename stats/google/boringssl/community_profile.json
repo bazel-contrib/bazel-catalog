@@ -1,0 +1,40 @@
+{
+  "health_percentage": 87,
+  "description": "Mirror of BoringSSL",
+  "documentation": "https://boringssl.googlesource.com/boringssl",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/boringssl/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/boringssl/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/google/boringssl/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/google/boringssl/contents/.github/PULL_REQUEST_TEMPLATE",
+      "html_url": "https://github.com/google/boringssl/blob/master/.github/PULL_REQUEST_TEMPLATE"
+    },
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/google/boringssl/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/boringssl/contents/README.md",
+      "html_url": "https://github.com/google/boringssl/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-02-15T18:31:11Z",
+  "content_reports_enabled": false
+}

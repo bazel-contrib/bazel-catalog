@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Groovy rules for Bazel",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_groovy/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazelbuild/rules_groovy/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/rules_groovy/blob/master/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_groovy/contents/README.md",
+      "html_url": "https://github.com/bazelbuild/rules_groovy/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-05-16T04:00:07Z",
+  "content_reports_enabled": false
+}

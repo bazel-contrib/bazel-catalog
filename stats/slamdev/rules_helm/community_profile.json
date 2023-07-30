@@ -1,0 +1,28 @@
+{
+  "health_percentage": 57,
+  "description": "Helm rules for Bazel",
+  "documentation": "https://github.com/slamdev/rules_helm/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/slamdev/rules_helm/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/slamdev/rules_helm/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/slamdev/rules_helm/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/slamdev/rules_helm/contents/README.md",
+      "html_url": "https://github.com/slamdev/rules_helm/blob/main/README.md"
+    }
+  },
+  "updated_at": null
+}

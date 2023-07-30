@@ -1,0 +1,40 @@
+{
+  "health_percentage": 87,
+  "description": "NodeJS toolchain for Bazel.",
+  "documentation": "https://bazelbuild.github.io/rules_nodejs/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/bazelbuild/rules_nodejs/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/bazelbuild/rules_nodejs/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_nodejs/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/bazelbuild/rules_nodejs/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_nodejs/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazelbuild/rules_nodejs/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_nodejs/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/bazelbuild/rules_nodejs/blob/main/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/rules_nodejs/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_nodejs/contents/README.md",
+      "html_url": "https://github.com/bazelbuild/rules_nodejs/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-07-23T02:34:22Z",
+  "content_reports_enabled": true
+}

@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "Rules for importing Nixpkgs packages into Bazel.",
+  "documentation": "https://github.com/tweag/rules_nixpkgs/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/tweag/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/tweag/rules_nixpkgs/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/tweag/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/tweag/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/tweag/rules_nixpkgs/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/tweag/rules_nixpkgs/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/tweag/rules_nixpkgs/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/tweag/rules_nixpkgs/contents/README.md",
+      "html_url": "https://github.com/tweag/rules_nixpkgs/blob/master/README.md"
+    }
+  },
+  "updated_at": "2023-05-16T12:27:09Z",
+  "content_reports_enabled": false
+}

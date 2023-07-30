@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Rules for creating conda environments in Bazel :green_heart:",
+  "documentation": "https://spietras.github.io/rules_conda",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit-0",
+      "name": "MIT No Attribution",
+      "spdx_id": "MIT-0",
+      "url": "https://api.github.com/licenses/mit-0",
+      "node_id": "MDc6TGljZW5zZTQx",
+      "html_url": "https://github.com/spietras/rules_conda/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/spietras/rules_conda/contents/README.md",
+      "html_url": "https://github.com/spietras/rules_conda/blob/main/README.md"
+    }
+  },
+  "updated_at": "2020-08-27T05:45:51Z"
+}

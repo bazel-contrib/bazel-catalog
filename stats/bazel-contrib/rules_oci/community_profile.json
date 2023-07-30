@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Bazel rules for building OCI containers",
+  "documentation": "https://github.com/bazel-contrib/rules_oci/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazel-contrib/rules_oci/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazel-contrib/rules_oci/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazel-contrib/rules_oci/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazel-contrib/rules_oci/contents/README.md",
+      "html_url": "https://github.com/bazel-contrib/rules_oci/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-07-12T04:39:12Z",
+  "content_reports_enabled": false
+}

@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "Protocol Buffers - Google's data interchange format",
+  "documentation": "http://protobuf.dev",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/protocolbuffers/protobuf/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/protocolbuffers/protobuf/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/protocolbuffers/protobuf/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/protocolbuffers/protobuf/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/protocolbuffers/protobuf/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/protocolbuffers/protobuf/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/protocolbuffers/protobuf/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/protocolbuffers/protobuf/contents/README.md",
+      "html_url": "https://github.com/protocolbuffers/protobuf/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-07-17T21:15:41Z",
+  "content_reports_enabled": false
+}

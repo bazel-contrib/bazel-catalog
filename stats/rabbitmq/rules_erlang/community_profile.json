@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "Bazel rules for building Erlang applications and libraries",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/rabbitmq/rules_erlang/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/rabbitmq/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/rabbitmq/rules_erlang/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/rabbitmq/rules_erlang/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/rabbitmq/rules_erlang/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/rabbitmq/rules_erlang/contents/README.md",
+      "html_url": "https://github.com/rabbitmq/rules_erlang/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": false
+}
