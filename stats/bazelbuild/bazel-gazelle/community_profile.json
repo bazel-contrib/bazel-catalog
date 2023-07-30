@@ -1,0 +1,35 @@
+{
+  "health_percentage": 62,
+  "description": "Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.",
+  "documentation": "https://bazelbuild.github.io/bazel-gazelle/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/bazel-gazelle/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazelbuild/bazel-gazelle/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/bazelbuild/bazel-gazelle/contents/.github/ISSUE_TEMPLATE",
+      "html_url": "https://github.com/bazelbuild/bazel-gazelle/blob/master/.github/ISSUE_TEMPLATE"
+    },
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/bazelbuild/bazel-gazelle/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/bazelbuild/bazel-gazelle/blob/master/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/bazel-gazelle/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/bazel-gazelle/contents/README.rst",
+      "html_url": "https://github.com/bazelbuild/bazel-gazelle/blob/master/README.rst"
+    }
+  },
+  "updated_at": "2019-08-13T17:12:03Z",
+  "content_reports_enabled": false
+}

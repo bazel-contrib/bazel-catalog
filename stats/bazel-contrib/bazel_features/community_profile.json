@@ -1,0 +1,29 @@
+{
+  "health_percentage": 62,
+  "description": "Support Bazel \"feature detection\" from starlark",
+  "documentation": "https://docs.google.com/document/d/1HJf3gMYIrzmTRqbD4nWXH2eJRHXjLrOU0mmIeZplUzY/edit#heading=h.5mcn15i0e1ch",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazel-contrib/bazel_features/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazel-contrib/bazel_features/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazel-contrib/bazel_features/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazel-contrib/bazel_features/contents/README.md",
+      "html_url": "https://github.com/bazel-contrib/bazel_features/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": true
+}

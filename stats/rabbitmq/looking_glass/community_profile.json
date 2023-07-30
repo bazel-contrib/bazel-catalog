@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "An Erlang/Elixir/BEAM profiler tool",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/rabbitmq/looking_glass/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/rabbitmq/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/rabbitmq/looking_glass/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/rabbitmq/looking_glass/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/rabbitmq/looking_glass/contents/README.asciidoc",
+      "html_url": "https://github.com/rabbitmq/looking_glass/blob/main/README.asciidoc"
+    }
+  },
+  "updated_at": "2019-03-20T08:06:28Z",
+  "content_reports_enabled": false
+}

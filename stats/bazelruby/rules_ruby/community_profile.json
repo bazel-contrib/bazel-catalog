@@ -1,0 +1,34 @@
+{
+  "health_percentage": 50,
+  "description": "Ruby Rules for Bazel. It is, perhaps, production-ready. This project builds atop the work of Yugui, whose original rules can be found at https://github.com/yugui/rules_ruby. Please be aware there is an active fork of this project maintained by Coinbase at https://github.com/coinbase/rules_ruby.",
+  "documentation": "https://github.com/bazelruby/rules_ruby/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/bazelruby/rules_ruby/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/bazelruby/rules_ruby/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/bazelruby/rules_ruby/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/bazelruby/rules_ruby/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelruby/rules_ruby/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelruby/rules_ruby/contents/README.adoc",
+      "html_url": "https://github.com/bazelruby/rules_ruby/blob/master/README.adoc"
+    }
+  },
+  "updated_at": "2021-07-09T22:02:51Z",
+  "content_reports_enabled": false
+}

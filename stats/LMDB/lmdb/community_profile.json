@@ -1,0 +1,16 @@
+{
+  "health_percentage": 12,
+  "description": "Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.",
+  "documentation": "http://www.openldap.org/software/repo.html",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": null,
+    "readme": null
+  },
+  "updated_at": "2019-01-14T19:07:21Z",
+  "content_reports_enabled": false
+}

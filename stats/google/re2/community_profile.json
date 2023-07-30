@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+  "documentation": "https://google.github.io/re2/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/re2/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/re2/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/google/re2/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU=",
+      "html_url": "https://github.com/google/re2/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/re2/contents/README",
+      "html_url": "https://github.com/google/re2/blob/main/README"
+    }
+  },
+  "updated_at": "2019-02-15T18:31:03Z",
+  "content_reports_enabled": false
+}

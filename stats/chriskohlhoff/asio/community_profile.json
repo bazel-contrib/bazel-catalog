@@ -1,0 +1,15 @@
+{
+  "health_percentage": 14,
+  "description": "Asio C++ Library",
+  "documentation": "http://think-async.com/Asio",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": null,
+    "readme": null
+  },
+  "updated_at": "2018-05-18T08:27:28Z"
+}

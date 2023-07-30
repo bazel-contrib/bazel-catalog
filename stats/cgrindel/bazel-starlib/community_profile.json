@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Rules, macros, and APIs that are useful for the implementation of Bazel repositories.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/cgrindel/bazel-starlib/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/cgrindel/bazel-starlib/contents/README.md",
+      "html_url": "https://github.com/cgrindel/bazel-starlib/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-03-08T16:21:30Z"
+}

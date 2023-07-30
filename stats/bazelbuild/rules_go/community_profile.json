@@ -1,0 +1,35 @@
+{
+  "health_percentage": 62,
+  "description": "Go rules for Bazel",
+  "documentation": "https://github.com/bazelbuild/rules_go/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_go/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazelbuild/rules_go/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_go/contents/.github/ISSUE_TEMPLATE",
+      "html_url": "https://github.com/bazelbuild/rules_go/blob/master/.github/ISSUE_TEMPLATE"
+    },
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_go/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/bazelbuild/rules_go/blob/master/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/rules_go/blob/master/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_go/contents/README.rst",
+      "html_url": "https://github.com/bazelbuild/rules_go/blob/master/README.rst"
+    }
+  },
+  "updated_at": "2022-01-24T20:16:07Z",
+  "content_reports_enabled": false
+}

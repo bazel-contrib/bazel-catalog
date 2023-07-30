@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/BLAKE3-team/BLAKE3/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/BLAKE3-team/BLAKE3/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/BLAKE3-team/BLAKE3/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/BLAKE3-team/BLAKE3/contents/README.md",
+      "html_url": "https://github.com/BLAKE3-team/BLAKE3/blob/master/README.md"
+    }
+  },
+  "updated_at": "2020-01-10T14:57:28Z",
+  "content_reports_enabled": false
+}

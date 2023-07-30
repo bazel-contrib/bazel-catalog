@@ -1,0 +1,40 @@
+{
+  "health_percentage": 62,
+  "description": "Bazel Starlark extensions for defining fuzz tests in Bazel projects",
+  "documentation": "https://github.com/bazelbuild/rules_fuzzing/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/bazelbuild/rules_fuzzing/blob/master/docs/code-of-conduct.md",
+      "url": "https://api.github.com/repos/bazelbuild/rules_fuzzing/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_fuzzing/contents/docs/code-of-conduct.md",
+      "html_url": "https://github.com/bazelbuild/rules_fuzzing/blob/master/docs/code-of-conduct.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_fuzzing/contents/docs/contributing.md",
+      "html_url": "https://github.com/bazelbuild/rules_fuzzing/blob/master/docs/contributing.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_fuzzing/contents/.github/ISSUE_TEMPLATE.md",
+      "html_url": "https://github.com/bazelbuild/rules_fuzzing/blob/master/.github/ISSUE_TEMPLATE.md"
+    },
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/rules_fuzzing/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_fuzzing/contents/README.md",
+      "html_url": "https://github.com/bazelbuild/rules_fuzzing/blob/master/README.md"
+    }
+  },
+  "updated_at": "2022-02-03T17:53:04Z",
+  "content_reports_enabled": false
+}

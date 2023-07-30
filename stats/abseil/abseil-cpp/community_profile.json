@@ -1,0 +1,32 @@
+{
+  "health_percentage": 62,
+  "description": "Abseil Common Libraries (C++)",
+  "documentation": "https://abseil.io",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/abseil/abseil-cpp/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/abseil/abseil-cpp/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/abseil/abseil-cpp/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/abseil/abseil-cpp/blob/master/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/abseil/abseil-cpp/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/abseil/abseil-cpp/contents/README.md",
+      "html_url": "https://github.com/abseil/abseil-cpp/blob/master/README.md"
+    }
+  },
+  "updated_at": "2021-02-19T01:19:00Z",
+  "content_reports_enabled": false
+}

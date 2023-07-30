@@ -1,0 +1,43 @@
+{
+  "health_percentage": 62,
+  "description": null,
+  "documentation": "https://bazelbuild.github.io/rules_license/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/docs/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/bazelbuild/rules_license/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_license/contents/docs/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/docs/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_license/contents/docs/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/docs/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_license/contents/.github/ISSUE_TEMPLATE.md",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/.github/ISSUE_TEMPLATE.md"
+    },
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_license/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazelbuild/rules_license/contents/README.md",
+      "html_url": "https://github.com/bazelbuild/rules_license/blob/main/README.md"
+    }
+  },
+  "updated_at": "2020-04-16T20:32:04Z",
+  "content_reports_enabled": false
+}

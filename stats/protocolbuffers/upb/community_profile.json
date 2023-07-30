@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "a small protobuf implementation in C",
+  "documentation": "http://protobuf.dev/upb/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/protocolbuffers/upb/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/protocolbuffers/upb/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/protocolbuffers/upb/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/protocolbuffers/upb/contents/README.md",
+      "html_url": "https://github.com/protocolbuffers/upb/blob/main/README.md"
+    }
+  },
+  "updated_at": "2019-05-15T21:06:53Z",
+  "content_reports_enabled": false
+}

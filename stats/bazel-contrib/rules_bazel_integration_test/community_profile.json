@@ -1,0 +1,26 @@
+{
+  "health_percentage": 37,
+  "description": "Rules and macros for executing integration tests that use Bazel. Supports running integration tests with multiple versions of Bazel.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazel-contrib/rules_bazel_integration_test/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazel-contrib/rules_bazel_integration_test/contents/README.md",
+      "html_url": "https://github.com/bazel-contrib/rules_bazel_integration_test/blob/main/README.md"
+    }
+  },
+  "updated_at": "2023-03-13T15:00:31Z",
+  "content_reports_enabled": false
+}
