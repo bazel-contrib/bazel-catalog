@@ -1,0 +1,44 @@
+[
+  {
+    "name": "0.3.2",
+    "date": "2022-10-27T12:57:48Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.3.1",
+    "date": "2022-10-27T10:48:52Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.3.0",
+    "date": "2022-10-27T10:27:19Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.2.0",
+    "date": "2022-09-22T13:59:57Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.1",
+    "date": "2021-03-12T10:08:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.0",
+    "date": "2020-10-09T17:11:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_rules_lint-0.1.0.tar.gz",
+        "count": 27811,
+        "size": 9356
+      }
+    ]
+  }
+]

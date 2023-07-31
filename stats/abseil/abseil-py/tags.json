@@ -1,0 +1,118 @@
+[
+  {
+    "name": "v1.4.0",
+    "sha": "127c98870edf5f03395ce9cf886266fa5f24455e"
+  },
+  {
+    "name": "v1.3.0",
+    "sha": "9ac99c1b5699c11e4759a9955b74f3d07bcf3a34"
+  },
+  {
+    "name": "v1.2.0",
+    "sha": "f0679ed8e79d1352f23b80965981b704bd48e1a4"
+  },
+  {
+    "name": "v1.1.0",
+    "sha": "58ead8c22230a2493006fa0ab9f76776b6e7280f"
+  },
+  {
+    "name": "v1.0.0",
+    "sha": "0f86230d77cd90ea1236f0cbee4df9a9b290ef66"
+  },
+  {
+    "name": "pypi-v0.15.0",
+    "sha": "b188d9080c8e5628bb52a93a04ad930abb1717eb"
+  },
+  {
+    "name": "pypi-v0.14.1",
+    "sha": "fb9c7cd15c7a3f716b0608855c1f85ff27fbadc2"
+  },
+  {
+    "name": "pypi-v0.14.0",
+    "sha": "cd53de736e73246d118848d2ac1e927f3c2cbe95"
+  },
+  {
+    "name": "pypi-v0.13.0",
+    "sha": "4d8ea27b446c943a10a3e9ec60c9a7a2980508ba"
+  },
+  {
+    "name": "pypi-v0.12.0",
+    "sha": "9954557f9df0b346a57ff82688438c55202d2188"
+  },
+  {
+    "name": "pypi-v0.11.0",
+    "sha": "ddbd7d46d01fa71b0584e948d68fcd1d47bea0c4"
+  },
+  {
+    "name": "pypi-v0.10.0",
+    "sha": "86d81c3f45c2bf9ffde932827271216b333c2216"
+  },
+  {
+    "name": "pypi-v0.9.0",
+    "sha": "06edd9c20592cec39178b94240b5e86f32e19768"
+  },
+  {
+    "name": "pypi-v0.8.1",
+    "sha": "bba2d3eb76ba1313948f5fa6b786cd34512c3ab6"
+  },
+  {
+    "name": "pypi-v0.8.0",
+    "sha": "313935f33c31cc2bee2ef1c0dd883f8444a20723"
+  },
+  {
+    "name": "pypi-v0.7.1",
+    "sha": "9d73fdaa23a6b6726aa5731390f388c0c6250ee5"
+  },
+  {
+    "name": "pypi-v0.7.0",
+    "sha": "e3ce504183c57fc4eca52fe84732c11cda99d131"
+  },
+  {
+    "name": "pypi-v0.6.1",
+    "sha": "991b0d1e8df097f74808d84a68789cd9f9b81df6"
+  },
+  {
+    "name": "pypi-v0.6.0",
+    "sha": "181c8b334b87057d5dd32861f9708fb8ee66189e"
+  },
+  {
+    "name": "pypi-v0.5.0",
+    "sha": "069e87ffbb6d77906985af0b6f068547e3eda433"
+  },
+  {
+    "name": "pypi-v0.4.1",
+    "sha": "db223c01fb4ade622a83fb4624ebbeaa8c96500f"
+  },
+  {
+    "name": "pypi-v0.4.0",
+    "sha": "b41389e7f3837deab1d622b0568cf2e6f0a05fec"
+  },
+  {
+    "name": "pypi-v0.3.0",
+    "sha": "19a8db4283a665077df79193a330d2b7c0f052c2"
+  },
+  {
+    "name": "pypi-v0.2.2",
+    "sha": "e69e200f680a20c50e0e2cd9e74e9850ff69b856"
+  },
+  {
+    "name": "pypi-v0.2.1",
+    "sha": "471586f790e60b47240a14eed50f1d364ca51375"
+  },
+  {
+    "name": "pypi-v0.2.0",
+    "sha": "e617b7045119819fa9e4b2a5813fd2585579fe15"
+  },
+  {
+    "name": "pypi-v0.1.13",
+    "sha": "0dbfcaed8089d2ab98033943efd7e1284a417022"
+  },
+  {
+    "name": "pypi-v0.1.12",
+    "sha": "cadaa1142b0669fb700a8c39859dc76eb1a6980d"
+  },
+  {
+    "name": "pypi-v0.1.11",
+    "sha": "c73b5e21d8c84a84f163970c860e2333dfbf356d"
+  }
+]

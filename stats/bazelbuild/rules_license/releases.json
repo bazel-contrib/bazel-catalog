@@ -1,0 +1,62 @@
+[
+  {
+    "name": "0.0.7",
+    "date": "2023-06-16T21:28:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_license-0.0.7.tar.gz",
+        "count": 14879,
+        "size": 31476
+      }
+    ]
+  },
+  {
+    "name": "0.0.6",
+    "date": "2023-06-16T15:36:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_license-0.0.6.tar.gz",
+        "count": 72,
+        "size": 31040
+      }
+    ]
+  },
+  {
+    "name": "0.0.4",
+    "date": "2022-11-02T14:49:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_license-0.0.4.tar.gz",
+        "count": 193592,
+        "size": 24025
+      }
+    ]
+  },
+  {
+    "name": "0.0.3",
+    "date": "2022-05-28T03:59:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_license-0.0.3.tar.gz",
+        "count": 222069,
+        "size": 18041
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2022-05-17T00:08:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_license-0.0.2.tar.gz",
+        "count": 1767,
+        "size": 17521
+      }
+    ]
+  }
+]

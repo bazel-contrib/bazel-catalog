@@ -1,0 +1,66 @@
+[
+  {
+    "name": "version_for_cocoapods_10.0",
+    "sha": "4d7ba4e4e57195fcebdabe01489534b446ad02cb"
+  },
+  {
+    "name": "version_for_cocoapods_9.0",
+    "sha": "be2ee342d3781ddb954f91f8a7e660c6f59e87e5"
+  },
+  {
+    "name": "version_for_cocoapods_8.0",
+    "sha": "78684e5b222645828ca302e56b40b9daff2b2d27"
+  },
+  {
+    "name": "version_for_cocoapods_7.0",
+    "sha": "4fec04b48406111cb88fdd8d196253adc54f7a31"
+  },
+  {
+    "name": "version_for_cocoapods_6.0",
+    "sha": "4ac2dc4c0d48ca45da4f66c40e60d6b425fa94a3"
+  },
+  {
+    "name": "version_for_cocoapods_5.0",
+    "sha": "8d343b44bbab829d1a28fdef650ca95f7db4412e"
+  },
+  {
+    "name": "version_for_cocoapods_4.0",
+    "sha": "153e4367ab9fe2c9006919b24de155fe92695d40"
+  },
+  {
+    "name": "version_for_cocoapods_3.0",
+    "sha": "6f621bd8f7a4fa348bc2dec62c3b5870d6708fa7"
+  },
+  {
+    "name": "version_for_cocoapods_2.0",
+    "sha": "232127d24572c8622ca0ceddb742e09cd683077d"
+  },
+  {
+    "name": "version_for_cocoapods_1.0",
+    "sha": "c4f25ce0c6e3822eb639b2a5649a51ea42b46490"
+  },
+  {
+    "name": "fips-android-20191020",
+    "sha": "7f02881e96e51f1873afcf384d02f782b48967ca"
+  },
+  {
+    "name": "fips-20220613",
+    "sha": "0c6f40132b828e92ba365c6b7680e32820c63fa7"
+  },
+  {
+    "name": "fips-20210429",
+    "sha": "853ca1ea1168dff08011e5d42d94609cc0ca2e27"
+  },
+  {
+    "name": "fips-20190808",
+    "sha": "ae223d6138807a13006342edfeef32e813246b39"
+  },
+  {
+    "name": "fips-20180730",
+    "sha": "66005f41fbc3529ffe8d007708756720529da20d"
+  },
+  {
+    "name": "fips-20170615",
+    "sha": "24e5886c0edfc409c8083d10f9f1120111efd6f5"
+  }
+]

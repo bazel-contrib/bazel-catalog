@@ -29,6 +29,10 @@ do
     ghapi "repos/$ghrepo" > "$DESTDIR/repo.json"
     ghapi "repos/$ghrepo/stats/participation" | jq .all > "$DESTDIR/participation.json"
     ghapi "repos/$ghrepo/community/profile" > "$DESTDIR/community_profile.json"
+    ghapi "repos/$ghrepo/tags" | jq 'map({name: .name, sha: .commit.sha})' > "$DESTDIR/tags.json"
+    ghapi "repos/$ghrepo/releases" | jq \
+        'map({name: .tag_name, date: .published_at, mentions: .mentions_count, downloads: (.assets | map({name: .name, count: .download_count, size: .size}))})' \
+        > "$DESTDIR/releases.json"
 done < <(
     jq --raw-output \
     --from-file "${SCRIPT_DIR}"/../filters/ghrepo.jq \

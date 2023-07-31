@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/google/googletest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/googletest/deployments",
   "created_at": "2015-07-28T15:07:53Z",
-  "updated_at": "2023-07-30T16:15:15Z",
+  "updated_at": "2023-07-31T15:41:01Z",
   "pushed_at": "2023-07-29T13:55:23Z",
   "git_url": "git://github.com/google/googletest.git",
   "ssh_url": "git@github.com:google/googletest.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/google/googletest",
   "homepage": "https://google.github.io/googletest/",
   "size": 13077,
-  "stargazers_count": 30353,
-  "watchers_count": 30353,
+  "stargazers_count": 30360,
+  "watchers_count": 30360,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 9708,
+  "forks_count": 9710,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 9708,
+  "forks": 9710,
   "open_issues": 310,
-  "watchers": 30353,
+  "watchers": 30360,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -131,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 9708,
+  "network_count": 9710,
   "subscribers_count": 1192
 }

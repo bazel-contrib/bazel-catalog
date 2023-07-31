@@ -1,0 +1,94 @@
+[
+  {
+    "name": "v1.2.0",
+    "sha": "15561fd545329593b30b530d63a0e69533da585f"
+  },
+  {
+    "name": "v1.1.0",
+    "sha": "d43a22e0beea06ec54e15c896fb9d0f3bc108075"
+  },
+  {
+    "name": "v1.0.0",
+    "sha": "e426977dcf6bba3017cdc6bb8b1aeca7bc35b1d5"
+  },
+  {
+    "name": "v1.0.0-rc1",
+    "sha": "89d6c13aedb6ee70ca9a54d7dbe701d9e1703190"
+  },
+  {
+    "name": "v1.0.0-rc0",
+    "sha": "4c810f2d849de4d9711b536991ae9b5fa7fd1602"
+  },
+  {
+    "name": "v0.6.2",
+    "sha": "38f819e3a51e5e2f2e05868a4fb8553ea6c5e761"
+  },
+  {
+    "name": "v0.6.1",
+    "sha": "0efc51212e1ce4ae6a15db3a62093384d71a9cb2"
+  },
+  {
+    "name": "v0.6.0",
+    "sha": "387a823c2549f5778bac91acd3cf1d581731f3c8"
+  },
+  {
+    "name": "v0.5.0",
+    "sha": "82d5b6ab077f689485d9631c4744b424be30b7d2"
+  },
+  {
+    "name": "v0.4.0",
+    "sha": "770bedd27413eb093dd4123f1118876b61cb63da"
+  },
+  {
+    "name": "v0.3.9",
+    "sha": "ffc06361f7963cf1a633a5aa9e976cf700d86da1"
+  },
+  {
+    "name": "v0.3.8",
+    "sha": "31a931c05281684abd980f6782804de664fc8613"
+  },
+  {
+    "name": "v0.3.7",
+    "sha": "b30fcaf937077086737a5f463aaa9bb93c37b0c0"
+  },
+  {
+    "name": "v0.3.6",
+    "sha": "f18ce53149a1a340d3deb444a57183c73fea9b18"
+  },
+  {
+    "name": "v0.3.5",
+    "sha": "bc00c6ea33ce5f2f429a4be29d0154c183ed846c"
+  },
+  {
+    "name": "v0.3.4",
+    "sha": "7524cb91801f59e641c48ff16662b88f7e721a57"
+  },
+  {
+    "name": "v0.3.3",
+    "sha": "6cd583d72abb778a26ba1f340ae0897d0737d76e"
+  },
+  {
+    "name": "v0.3.2",
+    "sha": "81a9b04cc03364f325df958a5dbdf6ac2732813f"
+  },
+  {
+    "name": "v0.3.1",
+    "sha": "982972a830655537dd1ff8f85f6815c52410e50b"
+  },
+  {
+    "name": "v0.3.0",
+    "sha": "0da3922b3f491932c9632a5136eacff72bcc48a5"
+  },
+  {
+    "name": "v0.2.1",
+    "sha": "b900a6322ae4e68b431f7d65ebfef604657bd030"
+  },
+  {
+    "name": "v0.2.0",
+    "sha": "202890ef22f604d0bfd10060da5f723cded324f1"
+  },
+  {
+    "name": "v0.1.0",
+    "sha": "b6be4153aa86908570ca8e6c2e0d5b9093024053"
+  }
+]

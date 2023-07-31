@@ -1,0 +1,128 @@
+[
+  {
+    "name": "0.3.5",
+    "date": "2021-09-16T01:17:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_webtesting.tar.gz",
+        "count": 667494,
+        "size": 43870789
+      }
+    ]
+  },
+  {
+    "name": "0.3.4",
+    "date": "2021-09-01T19:56:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.3.3",
+    "date": "2019-09-17T15:29:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_webtesting.tar.gz",
+        "count": 958184,
+        "size": 23409881
+      }
+    ]
+  },
+  {
+    "name": "0.3.2",
+    "date": "2019-08-24T05:38:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_webtesting.tar.gz",
+        "count": 126614,
+        "size": 23408291
+      }
+    ]
+  },
+  {
+    "name": "0.3.1",
+    "date": "2019-04-03T21:17:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_webtesting.tar.gz",
+        "count": 115918,
+        "size": 17914570
+      }
+    ]
+  },
+  {
+    "name": "0.3.0",
+    "date": "2019-01-09T19:45:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_webtesting.tar.gz",
+        "count": 259025,
+        "size": 17872255
+      }
+    ]
+  },
+  {
+    "name": "0.2.2",
+    "date": "2018-12-04T17:24:42Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.2.1",
+    "date": "2018-07-20T17:35:01Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2018-05-30T15:41:53Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.2",
+    "date": "2017-01-12T00:29:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.1",
+    "date": "2016-12-16T22:31:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.0",
+    "date": "2016-10-31T22:21:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.0.4",
+    "date": "2016-10-22T19:04:59Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.0.3",
+    "date": "2016-10-18T01:41:38Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.0.2",
+    "date": "2016-10-17T17:54:19Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2016-09-09T18:51:11Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

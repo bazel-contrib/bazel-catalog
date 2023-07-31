@@ -1,0 +1,236 @@
+[
+  {
+    "name": "0.9.1",
+    "date": "2023-05-02T16:17:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.9.1.tar.gz",
+        "count": 93493,
+        "size": 81011
+      }
+    ]
+  },
+  {
+    "name": "0.9.0",
+    "date": "2023-03-29T03:50:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.9.0.tar.gz",
+        "count": 30244,
+        "size": 81011
+      }
+    ]
+  },
+  {
+    "name": "0.8.1",
+    "date": "2023-02-07T22:34:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.8.1.tar.gz",
+        "count": 43320,
+        "size": 79490
+      }
+    ]
+  },
+  {
+    "name": "0.8.0",
+    "date": "2022-11-03T03:42:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.8.0.tar.gz",
+        "count": 367712,
+        "size": 79093
+      }
+    ]
+  },
+  {
+    "name": "0.7.1",
+    "date": "2022-09-08T19:01:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.7.1.tar.gz",
+        "count": 260588,
+        "size": 77334
+      }
+    ]
+  },
+  {
+    "name": "0.7.0",
+    "date": "2022-04-07T20:19:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.7.0.tar.gz",
+        "count": 1298198,
+        "size": 76580
+      }
+    ]
+  },
+  {
+    "name": "0.6.0",
+    "date": "2022-01-24T20:14:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.6.0.tar.gz",
+        "count": 833854,
+        "size": 84381
+      }
+    ]
+  },
+  {
+    "name": "0.5.1",
+    "date": "2021-08-18T15:54:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.5.1.tar.gz",
+        "count": 708167,
+        "size": 78435
+      }
+    ]
+  },
+  {
+    "name": "0.5.0",
+    "date": "2021-07-12T20:57:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.5.0.tar.gz",
+        "count": 27403,
+        "size": 73161
+      }
+    ]
+  },
+  {
+    "name": "0.4.0",
+    "date": "2021-03-03T14:59:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.4.0.tar.gz",
+        "count": 344986,
+        "size": 60603
+      }
+    ]
+  },
+  {
+    "name": "0.3.0",
+    "date": "2020-10-26T04:21:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.3.0.tar.gz",
+        "count": 440306,
+        "size": 51821
+      }
+    ]
+  },
+  {
+    "name": "0.2.6-1",
+    "date": "2020-04-29T17:46:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.6.tar.gz",
+        "count": 3765997,
+        "size": 43212
+      }
+    ]
+  },
+  {
+    "name": "0.2.6",
+    "date": "2020-04-29T17:10:07Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.2.5",
+    "date": "2020-03-13T03:18:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.5.tar.gz",
+        "count": 895726,
+        "size": 29857
+      }
+    ]
+  },
+  {
+    "name": "0.2.4",
+    "date": "2019-09-30T12:43:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.4.tar.gz",
+        "count": 1375347,
+        "size": 26645
+      }
+    ]
+  },
+  {
+    "name": "0.2.3",
+    "date": "2019-09-20T17:58:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.3.tar.gz",
+        "count": 2457,
+        "size": 27343
+      }
+    ]
+  },
+  {
+    "name": "0.2.2",
+    "date": "2019-08-16T20:50:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.2.tar.gz",
+        "count": 435928,
+        "size": 24737
+      }
+    ]
+  },
+  {
+    "name": "0.2.1",
+    "date": "2019-08-05T18:49:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.1.tar.gz",
+        "count": 3804,
+        "size": 25042
+      }
+    ]
+  },
+  {
+    "name": "0.2.0",
+    "date": "2019-07-09T20:19:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.2.0.tar.gz",
+        "count": 230669,
+        "size": 23294
+      }
+    ]
+  },
+  {
+    "name": "0.1.0",
+    "date": "2019-06-07T15:55:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.1.0.tar.gz",
+        "count": 18241,
+        "size": 22451
+      }
+    ]
+  }
+]

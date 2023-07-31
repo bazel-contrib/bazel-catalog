@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/protocolbuffers/upb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/protocolbuffers/upb/deployments",
   "created_at": "2009-05-09T02:38:42Z",
-  "updated_at": "2023-07-30T14:12:16Z",
-  "pushed_at": "2023-07-30T13:02:33Z",
+  "updated_at": "2023-07-31T13:15:16Z",
+  "pushed_at": "2023-07-31T20:00:05Z",
   "git_url": "git://github.com/protocolbuffers/upb.git",
   "ssh_url": "git@github.com:protocolbuffers/upb.git",
   "clone_url": "https://github.com/protocolbuffers/upb.git",
   "svn_url": "https://github.com/protocolbuffers/upb",
   "homepage": "",
-  "size": 11280,
-  "stargazers_count": 1441,
-  "watchers_count": 1441,
+  "size": 11367,
+  "stargazers_count": 1440,
+  "watchers_count": 1440,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 104,
+  "open_issues_count": 99,
   "license": {
     "key": "other",
     "name": "Other",
@@ -100,8 +100,8 @@
   "topics": [],
   "visibility": "public",
   "forks": 276,
-  "open_issues": 104,
-  "watchers": 1441,
+  "open_issues": 99,
+  "watchers": 1440,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -132,5 +132,5 @@
     "site_admin": false
   },
   "network_count": 276,
-  "subscribers_count": 98
+  "subscribers_count": 97
 }

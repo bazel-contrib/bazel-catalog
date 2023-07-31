@@ -1,0 +1,424 @@
+[
+  {
+    "name": "v1.8",
+    "date": "2023-05-24T01:46:09Z",
+    "mentions": 10,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 25164,
+        "size": 19269454
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 14,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.8-RC-12",
+    "date": "2023-05-07T19:44:07Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 5362,
+        "size": 245235329
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 5,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.8-RC-1",
+    "date": "2023-01-25T21:57:36Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 25384,
+        "size": 19228122
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 23,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.7.1",
+    "date": "2022-12-28T17:34:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 198444,
+        "size": 19148080
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 15,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0",
+    "date": "2022-12-22T17:08:03Z",
+    "mentions": 24,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 107937,
+        "size": 19082296
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 13,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0-RC-3",
+    "date": "2022-08-16T04:49:34Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 340345,
+        "size": 18926500
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 6,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0-RC-2",
+    "date": "2022-07-08T17:26:47Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 172854,
+        "size": 18923991
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 8,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0-RC-1",
+    "date": "2022-07-04T16:42:59Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 180950,
+        "size": 18923978
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 3,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.6.0",
+    "date": "2022-06-15T19:48:19Z",
+    "mentions": 15,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 239753,
+        "size": 18889321
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 23,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.6.0-RC-3",
+    "date": "2022-06-10T22:32:55Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 6641,
+        "size": 18889321
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 9,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.6.0-RC-2",
+    "date": "2022-05-26T19:33:47Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 13094,
+        "size": 18888873
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 17,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "1.6.0-RC-1",
+    "date": "2022-04-27T17:22:11Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 19846,
+        "size": 21967460
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 36,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0",
+    "date": "2022-02-02T18:50:45Z",
+    "mentions": 26,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 531367,
+        "size": 21569507
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 71,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0-beta-4",
+    "date": "2021-10-01T18:25:26Z",
+    "mentions": 19,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 793033,
+        "size": 23267774
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 94,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0-beta-3",
+    "date": "2021-07-28T02:30:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 217071,
+        "size": 23565791
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 46,
+        "size": 91
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0-beta-2",
+    "date": "2021-07-13T21:50:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 4818,
+        "size": 23559418
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 17,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0-alpha-3",
+    "date": "2021-01-06T17:21:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 93708,
+        "size": 18321552
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 120,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0-alpha-2",
+    "date": "2020-12-30T17:35:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 343764,
+        "size": 16603311
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 104,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0-alpha-1",
+    "date": "2020-12-04T00:53:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 2350,
+        "size": 6769139
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 45,
+        "size": 101
+      }
+    ]
+  },
+  {
+    "name": "legacy-1.4.0-rc4",
+    "date": "2020-11-16T09:03:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 241563,
+        "size": 6262598
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 151,
+        "size": 91
+      }
+    ]
+  },
+  {
+    "name": "legacy-1.4.0-rc3",
+    "date": "2020-05-09T16:08:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 341695,
+        "size": 6263689
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 128,
+        "size": 91
+      }
+    ]
+  },
+  {
+    "name": "legacy-1.4.0-rc2",
+    "date": "2020-05-07T20:58:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 145,
+        "size": 6233336
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 23,
+        "size": 115
+      }
+    ]
+  },
+  {
+    "name": "legacy-1.4.0-rc1",
+    "date": "2020-05-01T16:31:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 156,
+        "size": 6232680
+      }
+    ]
+  },
+  {
+    "name": "legacy-1.3.0",
+    "date": "2020-02-10T18:29:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "legacy-1.3.0-rc4",
+    "date": "2020-01-15T20:10:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "legacy-1.3.0-rc3",
+    "date": "2019-12-06T22:45:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "legacy-1.3.0-rc2",
+    "date": "2019-12-05T20:33:01Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "legacy-1.3.0-rc1",
+    "date": "2019-10-29T16:55:17Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "legacy-1.2.0",
+    "date": "2019-03-29T02:37:21Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

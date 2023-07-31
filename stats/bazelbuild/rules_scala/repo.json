@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 251,
+  "open_issues_count": 252,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": ["bazel", "bazel-rules", "scala", "scalatest"],
   "visibility": "public",
   "forks": 270,
-  "open_issues": 251,
+  "open_issues": 252,
   "watchers": 336,
   "default_branch": "master",
   "permissions": {

@@ -66,7 +66,7 @@
   "deployments_url": "https://api.github.com/repos/bazel-contrib/rules_bazel_integration_test/deployments",
   "created_at": "2021-11-11T15:52:31Z",
   "updated_at": "2023-06-29T14:49:57Z",
-  "pushed_at": "2023-07-28T22:04:17Z",
+  "pushed_at": "2023-07-31T19:46:49Z",
   "git_url": "git://github.com/bazel-contrib/rules_bazel_integration_test.git",
   "ssh_url": "git@github.com:bazel-contrib/rules_bazel_integration_test.git",
   "clone_url": "https://github.com/bazel-contrib/rules_bazel_integration_test.git",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 18,
+  "open_issues_count": 19,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": [],
   "visibility": "public",
   "forks": 5,
-  "open_issues": 18,
+  "open_issues": 19,
   "watchers": 26,
   "default_branch": "main",
   "permissions": {

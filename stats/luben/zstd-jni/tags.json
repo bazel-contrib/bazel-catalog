@@ -1,0 +1,122 @@
+[
+  {
+    "name": "v.1.5.5-5",
+    "sha": "e07f8970be0c72ce02dcdf1877daa034208915d0"
+  },
+  {
+    "name": "v1.5.5-3",
+    "sha": "709ffb54352a27e6e731d0adb11585c808552bfb"
+  },
+  {
+    "name": "v1.5.5-2",
+    "sha": "4793b0b957e8833ef9680c83f08d29be2f88b66f"
+  },
+  {
+    "name": "v1.5.5-1",
+    "sha": "67743d3a74b30afd8a049db60139b77069327cc1"
+  },
+  {
+    "name": "v1.5.4-2",
+    "sha": "46699bbb024a7e04a61e61d7dbe12fdb1ed9c5dd"
+  },
+  {
+    "name": "v1.5.4-1",
+    "sha": "a876ea9dfb02379672c772fbc6851e5a327d9160"
+  },
+  {
+    "name": "v1.5.2-3",
+    "sha": "c983ae3e086b63a40e1bb430cb2ebf95ecc52c71"
+  },
+  {
+    "name": "v1.5.2-2",
+    "sha": "3d5ab915167f2dfe244d2d2192b66a9feac7c543"
+  },
+  {
+    "name": "v1.5.2-1",
+    "sha": "16b841192635a02292a172c28fde57a425479eab"
+  },
+  {
+    "name": "v1.5.1-1",
+    "sha": "3c34b68763a00957f848c4ac249fc3e3b8fa5612"
+  },
+  {
+    "name": "v1.5.0-5",
+    "sha": "ca071b2d120d7e95868984d92e02109ef118775f"
+  },
+  {
+    "name": "v1.5.0-4",
+    "sha": "aca870e394becffbabb29ca90001523658327e19"
+  },
+  {
+    "name": "v1.5.0-3",
+    "sha": "583199ab60bd149d670f52373b82c5b69b333bbe"
+  },
+  {
+    "name": "v1.5.0-2",
+    "sha": "75ba61028e5364d3bfd857abc80897e01b741337"
+  },
+  {
+    "name": "v1.5.0-1",
+    "sha": "5774e3df4d16105d6c293a9cd5ab0c1b2c8d09a1"
+  },
+  {
+    "name": "v1.4.9-5",
+    "sha": "f2716d1366034887f5e1156aad8e33555bf51df3"
+  },
+  {
+    "name": "v1.4.9-4",
+    "sha": "859d926ad4fbd8d9c0cdffbaf6032faffd979b39"
+  },
+  {
+    "name": "v1.4.9-3",
+    "sha": "dcf35b36bc8a69b558404b6904386000964d660e"
+  },
+  {
+    "name": "v1.4.9-2",
+    "sha": "c8bca1844eb53c95265c70e92b4ccae472202880"
+  },
+  {
+    "name": "v1.4.9-1",
+    "sha": "9b7c1ccdc92364e0e6c17628085bc2d92658f419"
+  },
+  {
+    "name": "v1.4.8-7",
+    "sha": "1bf1ae6b50c9757b90b8fa2fd44430260c520efa"
+  },
+  {
+    "name": "v1.4.8-6",
+    "sha": "ece4942836952a8dbbd1a3afb5df0effa746afac"
+  },
+  {
+    "name": "v1.4.8-5",
+    "sha": "d5e09fbbef5fb1bc722bdafdc870f0e4510faa3e"
+  },
+  {
+    "name": "v1.4.8-4",
+    "sha": "84e41c02f4dcb79a2b502e4143f89437d640c1b7"
+  },
+  {
+    "name": "v1.4.8-3",
+    "sha": "f1b1b04c946e0b5ef7b496b219f27e92ba45a566"
+  },
+  {
+    "name": "v1.4.8-2",
+    "sha": "b62515f1aca29066a6a0a13deaa96193e5137b39"
+  },
+  {
+    "name": "v1.4.8-1",
+    "sha": "f3d6a8e8407fe690b8c78bb8d4c60f8056a285ff"
+  },
+  {
+    "name": "v1.4.7-3",
+    "sha": "cf78696ed8916415ed8e5fbc8df1464d1e2725b3"
+  },
+  {
+    "name": "v1.4.7-2",
+    "sha": "776d9617ba16bc2acc1e1adfbe7ccc94242ccce7"
+  },
+  {
+    "name": "v1.4.7-1",
+    "sha": "0157e132ae5b2d96a4f916b431034a4b21a238bd"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "v0.3.0",
+    "date": "2023-06-02T18:24:39Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_py-v0.3.0.tar.gz",
+        "count": 3499,
+        "size": 42918
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-02-21T20:23:55Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_py-v0.2.0.tar.gz",
+        "count": 31361,
+        "size": 41525
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-01-02T21:57:50Z",
+    "mentions": 5,
+    "downloads": []
+  }
+]

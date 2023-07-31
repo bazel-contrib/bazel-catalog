@@ -1,0 +1,306 @@
+[
+  {
+    "name": "v1.15.0",
+    "date": "2023-03-15T14:33:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 228,
+        "size": 14847792
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 14463,
+        "size": 15069690
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 2181,
+        "size": 14415842
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 1,
+        "size": 14507568
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 15,
+        "size": 15497181
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 1209,
+        "size": 15546880
+      }
+    ]
+  },
+  {
+    "name": "v1.14.0",
+    "date": "2022-11-22T13:51:00Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 274,
+        "size": 14795696
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 6781,
+        "size": 15018074
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 843,
+        "size": 14328098
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 12,
+        "size": 14491998
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 27,
+        "size": 15470299
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 1259,
+        "size": 15490560
+      }
+    ]
+  },
+  {
+    "name": "v1.13.0",
+    "date": "2022-11-03T13:56:06Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 18,
+        "size": 16467664
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 434,
+        "size": 16677900
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 145,
+        "size": 16161227
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 2,
+        "size": 16190158
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 2,
+        "size": 16855247
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 210,
+        "size": 17127424
+      }
+    ]
+  },
+  {
+    "name": "v1.11.0",
+    "date": "2021-11-09T18:30:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 95,
+        "size": 16266912
+      },
+      {
+        "name": "container-structure-test-darwin-amd64.sha256",
+        "count": 18,
+        "size": 104
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 8001,
+        "size": 16474078
+      },
+      {
+        "name": "container-structure-test-linux-amd64.sha256",
+        "count": 2095,
+        "size": 103
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 2006,
+        "size": 15981440
+      },
+      {
+        "name": "container-structure-test-linux-arm64.sha256",
+        "count": 708,
+        "size": 103
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 7,
+        "size": 16014893
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le.sha256",
+        "count": 4,
+        "size": 105
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 7,
+        "size": 16670726
+      },
+      {
+        "name": "container-structure-test-linux-s390x.sha256",
+        "count": 4,
+        "size": 103
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 2036,
+        "size": 16927744
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe.sha256",
+        "count": 9,
+        "size": 109
+      }
+    ]
+  },
+  {
+    "name": "v1.10.0",
+    "date": "2021-01-07T19:18:04Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.9.1",
+    "date": "2020-09-30T23:49:36Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.9.0",
+    "date": "2020-09-30T23:30:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.8.0",
+    "date": "2019-02-19T21:20:51Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.7.0",
+    "date": "2018-12-19T21:21:26Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.6.0",
+    "date": "2018-11-01T19:48:35Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.5.0",
+    "date": "2018-08-14T17:47:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.4.0",
+    "date": "2018-07-18T22:57:59Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.3.0",
+    "date": "2018-06-14T17:37:32Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.2.2",
+    "date": "2018-05-17T18:48:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.2.1",
+    "date": "2018-05-14T23:02:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.2.0",
+    "date": "2018-05-14T18:09:26Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2018-04-10T19:30:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2018-03-19T22:19:51Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2018-03-19T19:38:25Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2018-02-21T19:04:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2018-01-25T22:19:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.3",
+    "date": "2018-01-09T19:13:48Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.2",
+    "date": "2017-12-27T19:01:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2017-10-26T18:18:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2017-10-24T22:27:07Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

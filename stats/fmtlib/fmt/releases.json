@@ -1,0 +1,362 @@
+[
+  {
+    "name": "10.0.0",
+    "date": "2023-05-10T13:25:20Z",
+    "mentions": 46,
+    "downloads": [
+      {
+        "name": "fmt-10.0.0.zip",
+        "count": 35589,
+        "size": 1279571
+      }
+    ]
+  },
+  {
+    "name": "9.1.0",
+    "date": "2022-08-27T16:06:02Z",
+    "mentions": 14,
+    "downloads": [
+      {
+        "name": "fmt-9.1.0.zip",
+        "count": 422810,
+        "size": 1262685
+      }
+    ]
+  },
+  {
+    "name": "9.0.0",
+    "date": "2022-07-05T13:11:37Z",
+    "mentions": 37,
+    "downloads": [
+      {
+        "name": "fmt-9.0.0.zip",
+        "count": 44230,
+        "size": 1260051
+      }
+    ]
+  },
+  {
+    "name": "8.1.1",
+    "date": "2022-01-06T22:52:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-8.1.1.zip",
+        "count": 242032,
+        "size": 1248058
+      }
+    ]
+  },
+  {
+    "name": "8.1.0",
+    "date": "2022-01-02T17:17:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-8.1.0.zip",
+        "count": 3296,
+        "size": 1247844
+      }
+    ]
+  },
+  {
+    "name": "8.0.1",
+    "date": "2021-07-02T23:23:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-8.0.1.zip",
+        "count": 94129,
+        "size": 1223579
+      }
+    ]
+  },
+  {
+    "name": "8.0.0",
+    "date": "2021-06-21T13:16:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-8.0.0.zip",
+        "count": 17857,
+        "size": 1220651
+      }
+    ]
+  },
+  {
+    "name": "7.1.3",
+    "date": "2020-11-25T14:37:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.1.3.zip",
+        "count": 84322,
+        "size": 1192520
+      }
+    ]
+  },
+  {
+    "name": "7.1.2",
+    "date": "2020-11-04T15:39:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.1.2.zip",
+        "count": 11618,
+        "size": 1192292
+      }
+    ]
+  },
+  {
+    "name": "7.1.1",
+    "date": "2020-11-02T14:27:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.1.1.zip",
+        "count": 353,
+        "size": 1192233
+      }
+    ]
+  },
+  {
+    "name": "7.1.0",
+    "date": "2020-10-26T13:43:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.1.0.zip",
+        "count": 2106,
+        "size": 1191400
+      }
+    ]
+  },
+  {
+    "name": "7.0.3",
+    "date": "2020-08-07T13:39:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.0.3.zip",
+        "count": 424849,
+        "size": 1152094
+      }
+    ]
+  },
+  {
+    "name": "7.0.2",
+    "date": "2020-07-29T15:50:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.0.2.zip",
+        "count": 18417,
+        "size": 1151763
+      }
+    ]
+  },
+  {
+    "name": "7.0.1",
+    "date": "2020-07-07T15:33:08Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.0.1.zip",
+        "count": 4361,
+        "size": 1161525
+      }
+    ]
+  },
+  {
+    "name": "7.0.0",
+    "date": "2020-07-06T13:17:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-7.0.0.zip",
+        "count": 419,
+        "size": 1161512
+      }
+    ]
+  },
+  {
+    "name": "6.2.1",
+    "date": "2020-05-09T16:54:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-6.2.1.zip",
+        "count": 7341,
+        "size": 1152960
+      }
+    ]
+  },
+  {
+    "name": "6.2.0",
+    "date": "2020-04-06T13:13:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-6.2.0.zip",
+        "count": 4975,
+        "size": 1152608
+      }
+    ]
+  },
+  {
+    "name": "6.1.2",
+    "date": "2019-12-11T16:25:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-6.1.2.zip",
+        "count": 90141,
+        "size": 1139730
+      }
+    ]
+  },
+  {
+    "name": "6.1.1",
+    "date": "2019-12-05T15:15:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-6.1.1.zip",
+        "count": 490,
+        "size": 1138758
+      }
+    ]
+  },
+  {
+    "name": "6.1.0",
+    "date": "2019-12-02T14:15:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-6.1.0.zip",
+        "count": 9093,
+        "size": 1138645
+      }
+    ]
+  },
+  {
+    "name": "6.0.0",
+    "date": "2019-08-26T13:59:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-6.0.0.zip",
+        "count": 39759,
+        "size": 1121835
+      }
+    ]
+  },
+  {
+    "name": "5.3.0",
+    "date": "2018-12-28T20:36:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-5.3.0.zip",
+        "count": 346601,
+        "size": 1065784
+      }
+    ]
+  },
+  {
+    "name": "5.2.1",
+    "date": "2018-09-21T20:48:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-5.2.1.zip",
+        "count": 27701,
+        "size": 1048502
+      }
+    ]
+  },
+  {
+    "name": "5.2.0",
+    "date": "2018-09-13T14:35:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-5.2.0.zip",
+        "count": 759,
+        "size": 1047550
+      }
+    ]
+  },
+  {
+    "name": "5.1.0",
+    "date": "2018-07-05T13:25:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-5.1.0.zip",
+        "count": 913,
+        "size": 1033044
+      }
+    ]
+  },
+  {
+    "name": "5.0.0",
+    "date": "2018-05-22T13:08:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-5.0.0.zip",
+        "count": 1379,
+        "size": 1025077
+      }
+    ]
+  },
+  {
+    "name": "4.1.0",
+    "date": "2017-12-20T16:22:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-4.1.0.zip",
+        "count": 17744,
+        "size": 1032178
+      }
+    ]
+  },
+  {
+    "name": "4.0.0",
+    "date": "2017-06-27T17:06:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-4.0.0.zip",
+        "count": 69116,
+        "size": 1129583
+      }
+    ]
+  },
+  {
+    "name": "3.0.2",
+    "date": "2017-06-14T16:08:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-3.0.2.zip",
+        "count": 3355,
+        "size": 1104962
+      }
+    ]
+  },
+  {
+    "name": "3.0.1",
+    "date": "2016-11-01T08:47:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fmt-3.0.1.zip",
+        "count": 4202,
+        "size": 1105464
+      }
+    ]
+  }
+]

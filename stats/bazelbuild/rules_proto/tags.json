@@ -1,0 +1,30 @@
+[
+  {
+    "name": "5.3.0-21.7",
+    "sha": "3f1ab99b718e3e7dd86ebdc49c580aa6a126b1cd"
+  },
+  {
+    "name": "5.3.0-21.5",
+    "sha": "02cb6c29c5d677214c0b755890f7dd4472a51b3f"
+  },
+  {
+    "name": "4.0.0",
+    "sha": "fcad4680fee127dbd8344e6a961a28eef5820ef4"
+  },
+  {
+    "name": "4.0.0-3.20.0",
+    "sha": "3212323502e21b819ac4fbdd455cb227ad0f6394"
+  },
+  {
+    "name": "4.0.0-3.19.2",
+    "sha": "244e0b64fdc6a89df8b1750eada7b909b3cbc459"
+  },
+  {
+    "name": "4.0.0-3.19.2-2",
+    "sha": "b828a0ac3a073f4ea12156b913a4f8be8eff9870"
+  },
+  {
+    "name": "4.0.0-3.19.1",
+    "sha": "11bf7c25e666dd7ddacbcd4d4c4a9de7a25175f8"
+  }
+]

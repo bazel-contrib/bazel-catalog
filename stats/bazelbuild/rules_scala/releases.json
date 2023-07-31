@@ -1,0 +1,67 @@
+[
+  {
+    "name": "v6.0.0",
+    "date": "2023-07-26T10:24:12Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_scala-v6.0.0.tar.gz",
+        "count": 54,
+        "size": 672124
+      }
+    ]
+  },
+  {
+    "name": "v5.1.0",
+    "date": "2023-07-24T08:22:42Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "rules_scala-v5.1.0.tar.gz",
+        "count": 7570,
+        "size": 672108
+      }
+    ]
+  },
+  {
+    "name": "v5.0.0",
+    "date": "2023-01-25T11:48:46Z",
+    "mentions": 17,
+    "downloads": []
+  },
+  {
+    "name": "20220201",
+    "date": "2022-02-01T14:00:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_scala-20220201.tar.gz",
+        "count": 11,
+        "size": 640947
+      },
+      {
+        "name": "rules_scala-20220201.zip",
+        "count": 308252,
+        "size": 968214
+      }
+    ]
+  },
+  {
+    "name": "tut",
+    "date": "2021-05-05T06:48:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tut_rule.zip",
+        "count": 20,
+        "size": 2152
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2016-04-01T17:58:14Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

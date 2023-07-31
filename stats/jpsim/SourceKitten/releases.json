@@ -1,0 +1,471 @@
+[
+  {
+    "name": "0.34.1",
+    "date": "2023-02-20T18:21:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten-0.34.1.tar.gz",
+        "count": 18399,
+        "size": 473435
+      }
+    ]
+  },
+  {
+    "name": "0.34.0",
+    "date": "2023-01-17T15:18:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.33.1",
+    "date": "2022-11-21T14:00:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 28,
+        "size": 1141376
+      }
+    ]
+  },
+  {
+    "name": "0.33.0",
+    "date": "2022-08-11T20:08:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 45,
+        "size": 1150827
+      }
+    ]
+  },
+  {
+    "name": "0.32.0",
+    "date": "2022-03-15T19:55:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 112,
+        "size": 1144738
+      }
+    ]
+  },
+  {
+    "name": "0.31.1",
+    "date": "2021-10-05T21:11:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 40,
+        "size": 1172353
+      }
+    ]
+  },
+  {
+    "name": "0.31.0",
+    "date": "2020-12-11T17:11:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 68,
+        "size": 1109130
+      }
+    ]
+  },
+  {
+    "name": "0.30.1",
+    "date": "2020-09-23T15:04:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 25,
+        "size": 876078
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 112,
+        "size": 5706119
+      }
+    ]
+  },
+  {
+    "name": "0.30.0",
+    "date": "2020-08-24T17:45:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 7,
+        "size": 954024
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 13,
+        "size": 5817860
+      }
+    ]
+  },
+  {
+    "name": "0.29.0",
+    "date": "2020-01-16T22:35:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 78,
+        "size": 785467
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 358,
+        "size": 5801243
+      }
+    ]
+  },
+  {
+    "name": "0.28.0",
+    "date": "2020-01-03T23:28:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 12,
+        "size": 779422
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 124,
+        "size": 5757723
+      }
+    ]
+  },
+  {
+    "name": "0.27.0",
+    "date": "2019-11-07T17:57:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 29,
+        "size": 779801
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 88,
+        "size": 5754930
+      }
+    ]
+  },
+  {
+    "name": "0.26.0",
+    "date": "2019-09-26T23:56:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 31,
+        "size": 791172
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 46,
+        "size": 5750513
+      }
+    ]
+  },
+  {
+    "name": "0.25.0",
+    "date": "2019-09-06T21:19:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 12,
+        "size": 792077
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 16,
+        "size": 3855408
+      }
+    ]
+  },
+  {
+    "name": "0.24.0",
+    "date": "2019-07-22T05:01:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 25,
+        "size": 788610
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 64,
+        "size": 3837806
+      }
+    ]
+  },
+  {
+    "name": "0.23.2",
+    "date": "2019-05-12T21:17:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 36,
+        "size": 784488
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 118,
+        "size": 3818756
+      }
+    ]
+  },
+  {
+    "name": "0.23.1",
+    "date": "2019-04-29T17:50:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 18,
+        "size": 783189
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 35,
+        "size": 3813245
+      }
+    ]
+  },
+  {
+    "name": "0.23.0",
+    "date": "2019-04-08T04:42:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 25,
+        "size": 3887863
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 23,
+        "size": 4141661
+      }
+    ]
+  },
+  {
+    "name": "0.22.0",
+    "date": "2018-11-27T18:19:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 53,
+        "size": 3875583
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 340,
+        "size": 4053683
+      }
+    ]
+  },
+  {
+    "name": "0.21.3",
+    "date": "2018-11-19T02:09:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 17,
+        "size": 3871456
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 168,
+        "size": 4041816
+      }
+    ]
+  },
+  {
+    "name": "0.21.2",
+    "date": "2018-08-30T21:28:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 46,
+        "size": 3613409
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 158,
+        "size": 3999657
+      }
+    ]
+  },
+  {
+    "name": "0.21.1",
+    "date": "2018-06-24T18:48:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 73,
+        "size": 3605213
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 126,
+        "size": 3983802
+      }
+    ]
+  },
+  {
+    "name": "0.21.0",
+    "date": "2018-04-23T03:22:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 45,
+        "size": 3601115
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 67,
+        "size": 1293422
+      }
+    ]
+  },
+  {
+    "name": "0.20.0",
+    "date": "2018-04-08T01:24:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 28,
+        "size": 3601114
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 97,
+        "size": 1292839
+      }
+    ]
+  },
+  {
+    "name": "0.19.1",
+    "date": "2018-02-01T23:05:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 50,
+        "size": 3732188
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 93,
+        "size": 1228685
+      }
+    ]
+  },
+  {
+    "name": "0.19.0",
+    "date": "2018-02-01T18:20:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 10,
+        "size": 3732193
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 9,
+        "size": 1226472
+      }
+    ]
+  },
+  {
+    "name": "0.18.4",
+    "date": "2017-11-10T21:37:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 53,
+        "size": 3994334
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 123,
+        "size": 1103804
+      }
+    ]
+  },
+  {
+    "name": "0.18.3",
+    "date": "2017-11-09T17:57:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 11,
+        "size": 3994329
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 7,
+        "size": 1103027
+      }
+    ]
+  },
+  {
+    "name": "0.18.2",
+    "date": "2017-10-20T03:35:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 17,
+        "size": 3961570
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 19,
+        "size": 3343821
+      }
+    ]
+  },
+  {
+    "name": "0.18.1",
+    "date": "2017-08-21T18:28:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SourceKitten.pkg",
+        "count": 33,
+        "size": 3199723
+      },
+      {
+        "name": "SourceKittenFramework.framework.zip",
+        "count": 45,
+        "size": 3555067
+      }
+    ]
+  }
+]

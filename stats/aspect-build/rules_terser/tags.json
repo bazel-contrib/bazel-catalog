@@ -1,0 +1,94 @@
+[
+  {
+    "name": "v1.0.0",
+    "sha": "48d601256a2feb3e0ea3d359fcd871516e65dcc0"
+  },
+  {
+    "name": "v0.14.3",
+    "sha": "48d601256a2feb3e0ea3d359fcd871516e65dcc0"
+  },
+  {
+    "name": "v0.14.2",
+    "sha": "a0acb8d1e007c09a5f90dd0341108b74bb74b7e9"
+  },
+  {
+    "name": "v0.14.1",
+    "sha": "82b6f18955ed537e7f18180414d06098709e05dd"
+  },
+  {
+    "name": "v0.14.0",
+    "sha": "1192dba2e8b06214bd3ab2456dbd4455269c0328"
+  },
+  {
+    "name": "v0.13.0",
+    "sha": "aa18f316756a96a65560deca111cabf46dac9f3e"
+  },
+  {
+    "name": "v0.12.5",
+    "sha": "f6f91e69589bab5b6975afe5b8f0a5b582e2b66f"
+  },
+  {
+    "name": "v0.12.4",
+    "sha": "4292705645cbc68bad88dcab85a86fcd5eb4d424"
+  },
+  {
+    "name": "v0.12.3",
+    "sha": "197791424236eb8f858208951876c1b0a31a89f3"
+  },
+  {
+    "name": "v0.12.2",
+    "sha": "87cee6b7aa53edfd8d3da514202f75fa4807a949"
+  },
+  {
+    "name": "v0.12.1",
+    "sha": "575556703718211a441eb6cd18ef1480979fcd31"
+  },
+  {
+    "name": "v0.12.0",
+    "sha": "983bf987660aa37d6e30440983f8ce0010e80bfc"
+  },
+  {
+    "name": "v0.11.0",
+    "sha": "6ac31c25457afc012e5b3b7fa37fcb071dde1441"
+  },
+  {
+    "name": "v0.10.0",
+    "sha": "c0b8f262e87bd2229769a863886488e98077b4b6"
+  },
+  {
+    "name": "v0.9.0",
+    "sha": "b867455cc5106612260ceedb28319c143aa36bfd"
+  },
+  {
+    "name": "v0.8.0",
+    "sha": "cf7b2a685d4c8a68d3e74cabde66e463cc92aef8"
+  },
+  {
+    "name": "v0.7.0",
+    "sha": "c3a1e86a14ab0418286dc77e2cdae651ff554212"
+  },
+  {
+    "name": "v0.6.0",
+    "sha": "c25f07325c3c3c64d70c2fa13bf3293af425ef00"
+  },
+  {
+    "name": "v0.5.0",
+    "sha": "e88b590084c3a70641c042cda8363cf8292aee70"
+  },
+  {
+    "name": "v0.4.0",
+    "sha": "c80d336eb39b51cf099b6ccba7f7dae4e6ed1800"
+  },
+  {
+    "name": "v0.3.0",
+    "sha": "73ba39718ead59b2689df5de5e9750299d33c0ad"
+  },
+  {
+    "name": "v0.2.0",
+    "sha": "c9efc1a399b95db820d08f5719e528e6d9d88e18"
+  },
+  {
+    "name": "v0.1.0",
+    "sha": "141e9a61631db62f686c431a2e21321ed75400fa"
+  }
+]

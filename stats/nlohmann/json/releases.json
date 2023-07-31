@@ -1,0 +1,832 @@
+[
+  {
+    "name": "v3.11.2",
+    "date": "2022-08-12T13:06:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 202257,
+        "size": 293810
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 284,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 52514,
+        "size": 907858
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 344,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 273963,
+        "size": 109880
+      },
+      {
+        "name": "json.tar.xz.asc",
+        "count": 198,
+        "size": 833
+      },
+      {
+        "name": "json_fwd.hpp",
+        "count": 3244,
+        "size": 6268
+      },
+      {
+        "name": "json_fwd.hpp.asc",
+        "count": 165,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.11.1",
+    "date": "2022-08-01T21:32:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 9430,
+        "size": 291273
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 83,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 6270,
+        "size": 896664
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 92,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 10657,
+        "size": 108388
+      },
+      {
+        "name": "json.tar.xz.asc",
+        "count": 72,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.11.0",
+    "date": "2022-08-01T11:16:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 93,
+        "size": 291202
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 61,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 220,
+        "size": 896489
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 69,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 1434,
+        "size": 108392
+      },
+      {
+        "name": "json.tar.xz.asc",
+        "count": 70,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.10.5",
+    "date": "2022-01-03T05:41:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 601810,
+        "size": 260679
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 244,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 82390,
+        "size": 804124
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 330,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 196777,
+        "size": 99844
+      }
+    ]
+  },
+  {
+    "name": "v3.10.4",
+    "date": "2021-10-16T12:49:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 37391,
+        "size": 329946
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 127,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 86445,
+        "size": 982896
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 201,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 6305,
+        "size": 126344
+      }
+    ]
+  },
+  {
+    "name": "v3.10.3",
+    "date": "2021-10-08T12:40:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 1369,
+        "size": 329947
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 35,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 1181,
+        "size": 982475
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 43,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 30,
+        "size": 126264
+      }
+    ]
+  },
+  {
+    "name": "v3.10.2",
+    "date": "2021-08-26T07:09:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 170186,
+        "size": 327841
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 60,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 9669,
+        "size": 978532
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 79,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 33,
+        "size": 125540
+      }
+    ]
+  },
+  {
+    "name": "v3.10.1",
+    "date": "2021-08-24T19:09:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 39950,
+        "size": 327811
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 35,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 356,
+        "size": 978468
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 33,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 395,
+        "size": 125628
+      }
+    ]
+  },
+  {
+    "name": "v3.10.0",
+    "date": "2021-08-17T18:41:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 1263,
+        "size": 327093
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 49,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 1069,
+        "size": 977364
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 63,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 202,
+        "size": 125248
+      }
+    ]
+  },
+  {
+    "name": "v3.9.1",
+    "date": "2020-08-06T11:50:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 552127,
+        "size": 309315
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 361,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 186529,
+        "size": 926233
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 575,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.9.0",
+    "date": "2020-07-27T13:55:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 38226,
+        "size": 308887
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 60,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 1967,
+        "size": 923924
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 75,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.8.0",
+    "date": "2020-06-14T15:45:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 148565,
+        "size": 297766
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 82,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 6780,
+        "size": 876262
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 130,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.7.3",
+    "date": "2019-11-17T11:27:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 401884,
+        "size": 280969
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 466,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 212132,
+        "size": 809489
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 706,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.7.2",
+    "date": "2019-11-10T20:42:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 806,
+        "size": 280931
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 79,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 1453,
+        "size": 809533
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 92,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.7.1",
+    "date": "2019-11-06T19:34:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 40432,
+        "size": 280015
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 71,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 436,
+        "size": 807769
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 75,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.7.0",
+    "date": "2019-07-28T19:24:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 214398,
+        "size": 146059
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 114,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 10881,
+        "size": 801007
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 206,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.6.1",
+    "date": "2019-03-20T20:04:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 2517012,
+        "size": 139220
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 241,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 95127,
+        "size": 728351
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 322,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.6.0",
+    "date": "2019-03-19T23:39:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 309,
+        "size": 139171
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 64,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 807,
+        "size": 728212
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 70,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.5.0",
+    "date": "2018-12-21T23:03:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 115482,
+        "size": 136487
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 157,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 40644,
+        "size": 709997
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 207,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.4.0",
+    "date": "2018-10-30T21:22:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 11151,
+        "size": 135088
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 130,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 497299,
+        "size": 705920
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 173,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.3.0",
+    "date": "2018-10-05T11:00:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 3650,
+        "size": 126222
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 114,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 29776,
+        "size": 650667
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 137,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.2.0",
+    "date": "2018-08-20T17:51:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 20945,
+        "size": 126841
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 92,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 50209,
+        "size": 651058
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 140,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.1.2",
+    "date": "2018-03-14T20:50:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 61650,
+        "size": 117607
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 231,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 129095,
+        "size": 595822
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 333,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.1.1",
+    "date": "2018-02-13T18:38:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 2007,
+        "size": 116930
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 83,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 4203,
+        "size": 591107
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 108,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.1.0",
+    "date": "2018-02-01T23:08:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 6990,
+        "size": 116736
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 49,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 1896,
+        "size": 590384
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 138,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.0.1",
+    "date": "2017-12-29T19:26:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "json.hpp",
+        "count": 8910,
+        "size": 513969
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 165,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.0.0",
+    "date": "2017-12-17T10:08:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "json.hpp",
+        "count": 4630,
+        "size": 512899
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 213,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v2.1.1",
+    "date": "2017-02-25T16:07:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "json.hpp",
+        "count": 77791,
+        "size": 447926
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 854,
+        "size": 801
+      }
+    ]
+  },
+  {
+    "name": "v2.1.0",
+    "date": "2017-01-28T17:44:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "json.hpp",
+        "count": 6787,
+        "size": 436051
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 107,
+        "size": 801
+      }
+    ]
+  },
+  {
+    "name": "v2.0.10",
+    "date": "2017-01-02T15:39:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "json.hpp",
+        "count": 1152,
+        "size": 418409
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 39,
+        "size": 801
+      }
+    ]
+  }
+]

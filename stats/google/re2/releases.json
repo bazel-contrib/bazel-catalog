@@ -1,0 +1,215 @@
+[
+  {
+    "name": "2023-08-01",
+    "date": "2023-07-31T14:42:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "re2-2023-08-01.tar.gz",
+        "count": 5,
+        "size": 396553
+      },
+      {
+        "name": "re2-2023-08-01.zip",
+        "count": 11,
+        "size": 457326
+      }
+    ]
+  },
+  {
+    "name": "2023-07-01",
+    "date": "2023-06-30T17:59:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "re2-2023-07-01.tar.gz",
+        "count": 1682,
+        "size": 395948
+      },
+      {
+        "name": "re2-2023-07-01.zip",
+        "count": 55,
+        "size": 456561
+      }
+    ]
+  },
+  {
+    "name": "2023-06-02",
+    "date": "2023-06-01T14:08:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "re2-2023-06-02.tar.gz",
+        "count": 2961,
+        "size": 396296
+      },
+      {
+        "name": "re2-2023-06-02.zip",
+        "count": 140,
+        "size": 456904
+      }
+    ]
+  },
+  {
+    "name": "2023-06-01",
+    "date": "2023-05-31T15:26:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2023-03-01",
+    "date": "2023-03-01T07:36:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2023-02-01",
+    "date": "2023-02-01T07:45:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2022-12-01",
+    "date": "2022-11-30T16:30:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2022-06-01",
+    "date": "2022-05-31T14:15:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2022-04-01",
+    "date": "2022-03-31T15:32:44Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2022-02-01",
+    "date": "2022-01-31T13:06:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-11-01",
+    "date": "2021-11-01T04:07:43Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-09-01",
+    "date": "2021-09-01T09:26:55Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-08-01",
+    "date": "2021-08-01T08:58:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-06-01",
+    "date": "2021-06-01T11:04:36Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-04-01",
+    "date": "2021-04-01T00:25:16Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-02-02",
+    "date": "2021-02-02T00:31:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2021-02-01",
+    "date": "2021-01-31T14:23:06Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-11-01",
+    "date": "2020-11-01T09:05:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-10-01",
+    "date": "2020-10-01T02:46:58Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-08-01",
+    "date": "2020-08-01T02:26:51Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-07-06",
+    "date": "2020-07-06T05:35:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-07-01",
+    "date": "2020-07-01T12:30:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-06-01",
+    "date": "2020-06-01T08:24:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-05-01",
+    "date": "2020-05-01T07:18:14Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-04-01",
+    "date": "2020-04-01T03:23:09Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-03-03",
+    "date": "2020-03-03T05:01:02Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-03-02",
+    "date": "2020-03-02T02:57:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-03-01",
+    "date": "2020-03-01T04:40:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2020-01-01",
+    "date": "2019-12-31T22:40:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2019-12-01",
+    "date": "2019-12-01T07:33:11Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

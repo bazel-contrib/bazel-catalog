@@ -1,0 +1,44 @@
+[
+  {
+    "name": "0.8",
+    "date": "2022-12-19T18:54:19Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.7",
+    "date": "2022-03-08T08:56:47Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.6.3",
+    "date": "2021-10-14T15:25:40Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "0.6",
+    "date": "2021-09-23T09:52:43Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.5",
+    "date": "2020-02-27T08:12:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.4",
+    "date": "2019-02-19T01:03:35Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1",
+    "date": "2018-05-31T01:47:59Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

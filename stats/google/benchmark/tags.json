@@ -1,0 +1,94 @@
+[
+  {
+    "name": "v1.8.2",
+    "sha": "015d1a091af6937488242b70121858bce8fd40e9"
+  },
+  {
+    "name": "v1.8.1",
+    "sha": "daa12bcc5a78e2f244d29e87a4408ff72516a5d9"
+  },
+  {
+    "name": "v1.8.0",
+    "sha": "2dd015dfef425c866d9a43f2c67d8b52d709acb6"
+  },
+  {
+    "name": "v1.7.1",
+    "sha": "d572f4777349d43653b21d6c2fc63020ab326db2"
+  },
+  {
+    "name": "v1.7.0",
+    "sha": "361e8d1cfe0c6c36d30b39f1b61302ece5507320"
+  },
+  {
+    "name": "v1.6.2",
+    "sha": "d845b7b3a27d54ad96280a29d61fa8988d4fddcf"
+  },
+  {
+    "name": "v1.6.1",
+    "sha": "0d98dba29d66e93259db7daa53a9327df767a415"
+  },
+  {
+    "name": "v1.6.0",
+    "sha": "f91b6b42b1b9854772a90ae9501464a161707d1e"
+  },
+  {
+    "name": "v1.5.6",
+    "sha": "2d054b683f293dbee21f8fe8820d967360e6af83"
+  },
+  {
+    "name": "v1.5.5",
+    "sha": "e991355c02b93fe17713efe04cbc2e278e00fdbd"
+  },
+  {
+    "name": "v1.5.4",
+    "sha": "bc5651e54a7e178ca6b1e27e469a9be19cfa62c4"
+  },
+  {
+    "name": "v1.5.3",
+    "sha": "c05843a9f622db08ad59804c190f98879b76beba"
+  },
+  {
+    "name": "v1.5.2",
+    "sha": "73d4d5e8d6d449fc8663765a42aa8aeeee844489"
+  },
+  {
+    "name": "v1.5.1",
+    "sha": "8039b4030795b1c9b8cedb78e3a2a6fb89574b6e"
+  },
+  {
+    "name": "v1.5.0",
+    "sha": "090faecb454fbd6e6e17a75ef8146acb037118d4"
+  },
+  {
+    "name": "v1.4.1",
+    "sha": "e776aa0275e293707b6a0901e0e8d8a8a3679508"
+  },
+  {
+    "name": "v1.4.0",
+    "sha": "9913418d323e64a0111ca0da81388260c2bbe1e9"
+  },
+  {
+    "name": "v1.3.0",
+    "sha": "336bb8db986cc52cdf0cefa0a7378b9567d1afee"
+  },
+  {
+    "name": "v1.2.0",
+    "sha": "5b7683f49e1e9223cf9927b24f6fd3d6bd82e3f8"
+  },
+  {
+    "name": "v1.1.0",
+    "sha": "4f8bfeae470950ef005327973f15b0044eceaceb"
+  },
+  {
+    "name": "v1.0.0",
+    "sha": "cd525ae85d4a46ecb2e3bdbdd1df101e48c5195e"
+  },
+  {
+    "name": "v0.1.0",
+    "sha": "006d23ccca1375a973b7fae0cc351cedb41b812a"
+  },
+  {
+    "name": "v0.0.9",
+    "sha": "8b0b73f06c615f2712e69e0d4ea1a356b8b7a445"
+  }
+]
