@@ -27,9 +27,9 @@ do
     downloads_per_day=$((total_downloads / repo_age_days))
     health_percentage=$(jq --raw-output '.health_percentage' "$SCRIPT_DIR/../stats/$ghrepo/community_profile.json")
 
-    # # SCORING SECTION
-    # TODO
-    adoption_score=Unknown
+    adoption_score=$(
+        jq --null-input --raw-output --arg stars "$stargazers_count" --arg forks "$forks_count" --arg downloads "$downloads_per_day" --from-file "$SCRIPT_DIR/../filters/adoption_score.jq"
+    )
     maintenance_score=Unknown
     quality_score=Unknown
     stability_score=Unknown
