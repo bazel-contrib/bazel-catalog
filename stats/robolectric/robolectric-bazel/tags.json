@@ -1,0 +1,98 @@
+[
+  {
+    "name": "robolectric-bazel-4.0-alpha-3",
+    "sha": "ba7d2ff2c3dcade4bfcf29ff3311c82b1122f294"
+  },
+  {
+    "name": "robolectric-bazel-3.8",
+    "sha": "9d4a91a91f81022c34e304d6b1e5f9a5774b1a3f"
+  },
+  {
+    "name": "4.10.3",
+    "sha": "df665e531aa0bc53eb24e048beff9d36389faa3c"
+  },
+  {
+    "name": "4.10.2",
+    "sha": "431df503d97d18f836314a0441b3068e18350015"
+  },
+  {
+    "name": "4.10.1",
+    "sha": "9b9b3b5280bbe5f072a64195f7a9f607a02683e1"
+  },
+  {
+    "name": "4.10",
+    "sha": "0d58aa214ef4e4343a0d99659fb06ce52ef53e83"
+  },
+  {
+    "name": "4.9.2",
+    "sha": "99eb4066c7df9ddaa71120b25afba00c6f5bbc12"
+  },
+  {
+    "name": "4.9.1",
+    "sha": "2aae27e62bbd2a2d02cce940cbc429fa5edc19a2"
+  },
+  {
+    "name": "4.9",
+    "sha": "eee84fb42d0f9a3ffdd3ca3f5608dc270e785715"
+  },
+  {
+    "name": "4.8.2",
+    "sha": "6d18a0ea372991da97e46b6d541dff3dfacb61b7"
+  },
+  {
+    "name": "4.8.1",
+    "sha": "6d18a0ea372991da97e46b6d541dff3dfacb61b7"
+  },
+  {
+    "name": "4.8",
+    "sha": "37298776039aebd54188ea6ac2a5e90660d646dd"
+  },
+  {
+    "name": "4.7.3",
+    "sha": "dc4df5c5421359506a9b3c8b09f7aa61db8c3a9d"
+  },
+  {
+    "name": "4.7.2",
+    "sha": "2990780dba5dec147c30c312f0e54acf4f3e835d"
+  },
+  {
+    "name": "4.7.1",
+    "sha": "0a971ecad81458b0615ead930fc17f003f99a659"
+  },
+  {
+    "name": "4.7",
+    "sha": "526b77140d271b9660167a36280a25ef133974f0"
+  },
+  {
+    "name": "4.6.1",
+    "sha": "1db3f1b88087942199ed45f3d80ba13a3f220186"
+  },
+  {
+    "name": "4.6",
+    "sha": "02d581fd4fed407146f09fffc250b0a5503e87ad"
+  },
+  {
+    "name": "4.5.1",
+    "sha": "92150aa6ef3aa74388437661df507358a5cf3e7e"
+  },
+  {
+    "name": "4.5",
+    "sha": "92150aa6ef3aa74388437661df507358a5cf3e7e"
+  },
+  {
+    "name": "4.4",
+    "sha": "7c563200b1517a2799887bfb1db33dd3908f8289"
+  },
+  {
+    "name": "4.1",
+    "sha": "d62be77d19d805b062db093f24d4b276d4f2607f"
+  },
+  {
+    "name": "4.0.1",
+    "sha": "7020b9a7a4796d2dc5392d6385d83e384a01f9fd"
+  },
+  {
+    "name": "4.0-alpha-3",
+    "sha": "ba7d2ff2c3dcade4bfcf29ff3311c82b1122f294"
+  }
+]

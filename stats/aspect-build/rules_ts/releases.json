@@ -1,0 +1,260 @@
+[
+  {
+    "name": "v1.4.5",
+    "date": "2023-07-04T03:31:40Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.4.5.tar.gz",
+        "count": 38324,
+        "size": 126501
+      }
+    ]
+  },
+  {
+    "name": "v1.4.4",
+    "date": "2023-07-01T00:07:38Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.4.4.tar.gz",
+        "count": 423,
+        "size": 126515
+      }
+    ]
+  },
+  {
+    "name": "v1.4.3",
+    "date": "2023-06-30T01:13:07Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.4.3.tar.gz",
+        "count": 46130,
+        "size": 126342
+      }
+    ]
+  },
+  {
+    "name": "v1.4.2",
+    "date": "2023-06-08T07:15:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.4.2.tar.gz",
+        "count": 78720,
+        "size": 125977
+      }
+    ]
+  },
+  {
+    "name": "v1.4.1",
+    "date": "2023-06-08T06:55:49Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.4.1.tar.gz",
+        "count": 21,
+        "size": 125903
+      }
+    ]
+  },
+  {
+    "name": "v1.4.0",
+    "date": "2023-05-08T14:00:04Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.4.0.tar.gz",
+        "count": 205191,
+        "size": 125818
+      }
+    ]
+  },
+  {
+    "name": "v1.3.3",
+    "date": "2023-03-24T04:02:07Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.3.3.tar.gz",
+        "count": 156061,
+        "size": 121261
+      }
+    ]
+  },
+  {
+    "name": "v1.3.2",
+    "date": "2023-03-07T22:58:48Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.3.2.tar.gz",
+        "count": 67686,
+        "size": 120997
+      }
+    ]
+  },
+  {
+    "name": "v1.3.1",
+    "date": "2023-03-02T15:21:47Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.3.1.tar.gz",
+        "count": 30197,
+        "size": 121050
+      }
+    ]
+  },
+  {
+    "name": "v1.3.0",
+    "date": "2023-02-12T00:02:52Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.3.0.tar.gz",
+        "count": 81193,
+        "size": 118515
+      }
+    ]
+  },
+  {
+    "name": "v1.2.4",
+    "date": "2023-02-08T04:55:09Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.2.4.tar.gz",
+        "count": 17000,
+        "size": 114570
+      }
+    ]
+  },
+  {
+    "name": "v1.2.3",
+    "date": "2023-02-02T18:31:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.2.3.tar.gz",
+        "count": 9573,
+        "size": 113603
+      }
+    ]
+  },
+  {
+    "name": "v1.2.2",
+    "date": "2023-02-02T06:42:17Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ts-v1.2.2.tar.gz",
+        "count": 734,
+        "size": 113565
+      }
+    ]
+  },
+  {
+    "name": "v1.2.1",
+    "date": "2023-02-02T00:04:16Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.2.0",
+    "date": "2023-01-25T20:40:26Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2023-01-19T20:00:16Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.5",
+    "date": "2023-01-04T08:10:58Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.4",
+    "date": "2022-12-09T17:26:06Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.3",
+    "date": "2022-12-09T01:48:23Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.2",
+    "date": "2022-11-24T02:30:34Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2022-11-20T04:22:15Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2022-11-17T00:12:48Z",
+    "mentions": 9,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc8",
+    "date": "2022-11-17T00:04:44Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc7",
+    "date": "2022-11-12T17:30:58Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc6",
+    "date": "2022-11-07T20:03:38Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc5",
+    "date": "2022-11-01T18:56:07Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc4",
+    "date": "2022-10-14T01:47:12Z",
+    "mentions": 8,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc3",
+    "date": "2022-09-11T02:23:15Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc2",
+    "date": "2022-08-27T05:04:49Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0-rc1",
+    "date": "2022-08-08T19:58:21Z",
+    "mentions": 1,
+    "downloads": []
+  }
+]

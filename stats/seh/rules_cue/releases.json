@@ -1,0 +1,44 @@
+[
+  {
+    "name": "v0.4.1",
+    "date": "2023-07-19T12:26:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "vcs-archive-v0.4.1.tar.gz",
+        "count": 11,
+        "size": 134270
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2023-04-12T15:23:25Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "vcs-archive-v0.4.0.tar.gz",
+        "count": 106,
+        "size": 133786
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2023-03-06T18:23:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.2",
+    "date": "2023-02-17T14:54:59Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2023-02-16T15:27:52Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

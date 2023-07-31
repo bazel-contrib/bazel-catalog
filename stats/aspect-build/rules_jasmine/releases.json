@@ -1,0 +1,128 @@
+[
+  {
+    "name": "v1.1.1",
+    "date": "2023-07-04T03:43:58Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v1.1.1.tar.gz",
+        "count": 1090,
+        "size": 23314
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2023-04-17T19:01:08Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v1.0.0.tar.gz",
+        "count": 14181,
+        "size": 22455
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2023-04-12T20:54:59Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v0.6.0.tar.gz",
+        "count": 43,
+        "size": 21858
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2023-04-01T21:41:30Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v0.5.0.tar.gz",
+        "count": 210,
+        "size": 22765
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2023-03-21T03:04:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v0.4.0.tar.gz",
+        "count": 3928,
+        "size": 21241
+      }
+    ]
+  },
+  {
+    "name": "v0.3.1",
+    "date": "2023-03-01T00:21:02Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v0.3.1.tar.gz",
+        "count": 2570,
+        "size": 19749
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2023-02-02T06:05:54Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.5",
+    "date": "2023-01-19T13:52:43Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.4",
+    "date": "2023-01-04T08:06:04Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.3",
+    "date": "2022-11-24T02:08:22Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.2",
+    "date": "2022-11-20T04:21:15Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2022-11-03T17:02:21Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2022-11-03T00:33:46Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2022-08-27T04:59:50Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2022-08-05T16:04:20Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "name": "v2.2.2",
+    "date": "2018-11-11T21:30:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "gflags-2.2.2.tar.gz.asc",
+        "count": 1492,
+        "size": 496
+      },
+      {
+        "name": "gflags-2.2.2.zip.asc",
+        "count": 1622,
+        "size": 496
+      }
+    ]
+  },
+  {
+    "name": "v2.2.1",
+    "date": "2017-07-11T17:38:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "gflags-2.2.1.tar.gz.asc",
+        "count": 597,
+        "size": 522
+      },
+      {
+        "name": "gflags-2.2.1.zip.asc",
+        "count": 692,
+        "size": 522
+      }
+    ]
+  },
+  {
+    "name": "v2.2.0",
+    "date": "2016-11-25T19:00:08Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v2.1.2",
+    "date": "2015-03-24T16:31:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v2.1.1",
+    "date": "2014-03-30T14:45:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v2.1.0",
+    "date": "2014-03-20T20:45:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "gflags-2.1.0-1.amd64.rpm",
+        "count": 458,
+        "size": 131520
+      },
+      {
+        "name": "gflags-2.1.0-1.i386.rpm",
+        "count": 177,
+        "size": 132267
+      },
+      {
+        "name": "gflags-2.1.0.dmg",
+        "count": 287,
+        "size": 240458
+      },
+      {
+        "name": "gflags-devel-2.1.0-1.amd64.rpm",
+        "count": 349,
+        "size": 281301
+      },
+      {
+        "name": "gflags-devel-2.1.0-1.i386.rpm",
+        "count": 133,
+        "size": 272114
+      },
+      {
+        "name": "gflags-devel-2.1.0.dmg",
+        "count": 376,
+        "size": 266630
+      },
+      {
+        "name": "libgflags-dev_2.1.0-1_amd64.deb",
+        "count": 534,
+        "size": 271352
+      },
+      {
+        "name": "libgflags-dev_2.1.0-1_i386.deb",
+        "count": 137,
+        "size": 261030
+      },
+      {
+        "name": "libgflags0_2.1.0-1_amd64.deb",
+        "count": 300,
+        "size": 121470
+      },
+      {
+        "name": "libgflags0_2.1.0-1_i386.deb",
+        "count": 100,
+        "size": 122102
+      }
+    ]
+  }
+]

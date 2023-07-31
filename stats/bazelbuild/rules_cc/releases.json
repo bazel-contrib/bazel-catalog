@@ -1,0 +1,98 @@
+[
+  {
+    "name": "0.0.8",
+    "date": "2023-07-18T14:36:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.8.tar.gz",
+        "count": 24714,
+        "size": 117422
+      }
+    ]
+  },
+  {
+    "name": "0.0.7",
+    "date": "2023-07-17T14:45:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.7.tar.gz",
+        "count": 1793,
+        "size": 117380
+      }
+    ]
+  },
+  {
+    "name": "0.0.6",
+    "date": "2023-02-17T13:13:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.6.tar.gz",
+        "count": 735111,
+        "size": 116654
+      }
+    ]
+  },
+  {
+    "name": "0.0.5",
+    "date": "2023-02-06T08:59:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.5.tar.gz",
+        "count": 132011,
+        "size": 115826
+      }
+    ]
+  },
+  {
+    "name": "0.0.4",
+    "date": "2022-09-23T14:51:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.4.tar.gz",
+        "count": 120695,
+        "size": 126715
+      }
+    ]
+  },
+  {
+    "name": "0.0.3",
+    "date": "2022-09-22T07:13:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.3.tar.gz",
+        "count": 131,
+        "size": 126692
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2022-07-20T13:12:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.2.tar.gz",
+        "count": 1449388,
+        "size": 127138
+      }
+    ]
+  },
+  {
+    "name": "0.0.1",
+    "date": "2021-10-07T14:19:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cc-0.0.1.tar.gz",
+        "count": 1333080,
+        "size": 128326
+      }
+    ]
+  }
+]

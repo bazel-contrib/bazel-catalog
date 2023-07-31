@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/google/benchmark/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/benchmark/deployments",
   "created_at": "2013-12-12T00:10:48Z",
-  "updated_at": "2023-07-30T06:11:38Z",
-  "pushed_at": "2023-07-28T11:29:06Z",
+  "updated_at": "2023-07-31T02:08:04Z",
+  "pushed_at": "2023-07-31T17:00:59Z",
   "git_url": "git://github.com/google/benchmark.git",
   "ssh_url": "git@github.com:google/benchmark.git",
   "clone_url": "https://github.com/google/benchmark.git",
   "svn_url": "https://github.com/google/benchmark",
   "homepage": "",
-  "size": 2592,
+  "size": 2591,
   "stargazers_count": 7702,
   "watchers_count": 7702,
   "language": "C++",
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 148,
+  "open_issues_count": 145,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": ["benchmark"],
   "visibility": "public",
   "forks": 1505,
-  "open_issues": 148,
+  "open_issues": 145,
   "watchers": 7702,
   "default_branch": "main",
   "permissions": {
@@ -132,5 +132,5 @@
     "site_admin": false
   },
   "network_count": 1505,
-  "subscribers_count": 209
+  "subscribers_count": 210
 }

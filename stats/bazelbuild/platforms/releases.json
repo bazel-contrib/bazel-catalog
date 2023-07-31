@@ -1,0 +1,80 @@
+[
+  {
+    "name": "0.0.7",
+    "date": "2023-07-28T19:48:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.7.tar.gz",
+        "count": 261,
+        "size": 6384
+      }
+    ]
+  },
+  {
+    "name": "0.0.6",
+    "date": "2022-08-26T19:30:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.6.tar.gz",
+        "count": 706505,
+        "size": 5537
+      }
+    ]
+  },
+  {
+    "name": "0.0.5",
+    "date": "2022-02-09T02:01:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.5.tar.gz",
+        "count": 447373,
+        "size": 5399
+      }
+    ]
+  },
+  {
+    "name": "0.0.4",
+    "date": "2021-02-26T13:42:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.4.tar.gz",
+        "count": 254089,
+        "size": 5356
+      }
+    ]
+  },
+  {
+    "name": "0.0.3",
+    "date": "2021-01-27T18:34:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.3.tar.gz",
+        "count": 7812,
+        "size": 5299
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2020-12-04T04:27:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.2.tar.gz",
+        "count": 27956,
+        "size": 5278
+      }
+    ]
+  },
+  {
+    "name": "0.0.1",
+    "date": "2020-09-09T18:27:14Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

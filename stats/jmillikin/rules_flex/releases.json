@@ -1,0 +1,43 @@
+[
+  {
+    "name": "v0.2.1",
+    "date": "2023-05-17T02:09:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_flex-v0.2.1.tar.xz",
+        "count": 33484,
+        "size": 16644
+      },
+      {
+        "name": "rules_flex-v0.2.1.tar.zst",
+        "count": 0,
+        "size": 16999
+      }
+    ]
+  },
+  {
+    "name": "v0.2",
+    "date": "2019-09-28T10:09:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_flex-v0.2.tar.xz",
+        "count": 345247,
+        "size": 8856
+      }
+    ]
+  },
+  {
+    "name": "v0.1",
+    "date": "2019-03-03T18:49:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_flex-v0.1.tar.xz",
+        "count": 164311,
+        "size": 9548
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "v1.2.13",
+    "date": "2022-10-14T10:14:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zlib-1.2.13.tar.gz",
+        "count": 94837,
+        "size": 1497445
+      },
+      {
+        "name": "zlib-1.2.13.tar.gz.asc",
+        "count": 453,
+        "size": 235
+      },
+      {
+        "name": "zlib-1.2.13.tar.xz",
+        "count": 1199790,
+        "size": 1296496
+      },
+      {
+        "name": "zlib-1.2.13.tar.xz.asc",
+        "count": 154,
+        "size": 235
+      },
+      {
+        "name": "zlib1213.zip",
+        "count": 6377,
+        "size": 1631786
+      },
+      {
+        "name": "zlib1213.zip.asc",
+        "count": 159,
+        "size": 235
+      }
+    ]
+  }
+]

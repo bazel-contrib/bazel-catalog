@@ -1,0 +1,106 @@
+[
+  {
+    "name": "v0.15.0",
+    "sha": "b3a3661651f4713bec264ee86888986caf50b8e7"
+  },
+  {
+    "name": "v0.14.4",
+    "sha": "7b4f5779f7fecdd28b1485701eda3d884608fad1"
+  },
+  {
+    "name": "v0.14.3",
+    "sha": "eb3c688879e9d415e473d0b0ad7b0d8c9c559a6c"
+  },
+  {
+    "name": "v0.14.2",
+    "sha": "d4973a99976c4c6f5e48424eebbbf9351843a33e"
+  },
+  {
+    "name": "v0.14.1",
+    "sha": "175023fede7d2532dd35d89cb43b43cbe9e75678"
+  },
+  {
+    "name": "v0.14.0",
+    "sha": "b2f0a072498fc7493bf19c2203c400a808212833"
+  },
+  {
+    "name": "v0.13.6",
+    "sha": "5a4edd1ed5b39ee5b1ab74974d208b565c98cd0a"
+  },
+  {
+    "name": "v0.13.5",
+    "sha": "9dbe1454d699d30e2f50516d18580b7522c6ea6e"
+  },
+  {
+    "name": "v0.13.4",
+    "sha": "c4515b481de4c1746e5f2c20065c6ce523c4a1d2"
+  },
+  {
+    "name": "v0.13.3",
+    "sha": "ea48ca12f8aff0ae4459f82f445d0c32aedd11cf"
+  },
+  {
+    "name": "v0.13.2",
+    "sha": "e32000a6750d740b67340d8cc9d6aea573d681cc"
+  },
+  {
+    "name": "v0.13.1",
+    "sha": "6a01b69183a4ee74674b579524019f6e4b58e3e4"
+  },
+  {
+    "name": "v0.13.0",
+    "sha": "191b692783fad9ccc8ee93dfc1ee5b4ab351e42f"
+  },
+  {
+    "name": "v0.12.0",
+    "sha": "65d93acaa5f79d17e991b0db582b966ba2086532"
+  },
+  {
+    "name": "v0.11.1",
+    "sha": "616b6863b4f3f7616ccf4df3bdcc211c849b4e54"
+  },
+  {
+    "name": "v0.11.0",
+    "sha": "70ba86d619ac8da6aadde01e5ae3b5d8a15be34d"
+  },
+  {
+    "name": "v0.10.0",
+    "sha": "b7427e0e69af14b0b4b4db7df77dffec09ed71b5"
+  },
+  {
+    "name": "v0.9.0",
+    "sha": "3d078576a65da40b1eb1d1e4b9cb1e25d31e0e44"
+  },
+  {
+    "name": "v0.8.0",
+    "sha": "9b701d0ceb774708d2ef4cb7291eea46bd964e0f"
+  },
+  {
+    "name": "v0.7.0",
+    "sha": "712722eb13725df731517967dd798071a838a363"
+  },
+  {
+    "name": "v0.6.0",
+    "sha": "4c5c1f35d8b5a781e7577f45b6b0aa3535f60371"
+  },
+  {
+    "name": "v0.5.0",
+    "sha": "cd8d39352cdeef21b40bf15d8028eb17852bb8ea"
+  },
+  {
+    "name": "v0.4.0",
+    "sha": "ab66bf5f804c10603e3797f4aaaaeafc35d2fbba"
+  },
+  {
+    "name": "v0.3.0",
+    "sha": "a0456088acb829e39f32b1cd264219999a7c6024"
+  },
+  {
+    "name": "v0.2.0",
+    "sha": "70d1dc5b299a71fc88c62dd4957cdb92d6105735"
+  },
+  {
+    "name": "v0.1.0",
+    "sha": "89ab408962f88007cad8713d125a2aa03b13f67e"
+  }
+]

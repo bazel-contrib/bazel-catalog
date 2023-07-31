@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v20210201",
+    "sha": "df59dc67850646a2a26523dc134f7e854067cda4"
+  },
+  {
+    "name": "v6.0.0",
+    "sha": "ae90811a6bcefcf8c8b9d940066bddc0f5558f0a"
+  },
+  {
+    "name": "v5.1.0",
+    "sha": "30f8fbe042b835cc2173a474a6a2b360cd4d440f"
+  },
+  {
+    "name": "v5.0.0",
+    "sha": "cb950f52dc1cf14e337fea687fe6b8ea31e46bed"
+  },
+  {
+    "name": "tut",
+    "sha": "27aaff704f99633ae6a4ee2323e648f636e96828"
+  },
+  {
+    "name": "pre_phases",
+    "sha": "cfff088f0eef18a8ca4d8bb62143f079e9174772"
+  },
+  {
+    "name": "20220201",
+    "sha": "df59dc67850646a2a26523dc134f7e854067cda4"
+  },
+  {
+    "name": "0.0.2",
+    "sha": "470910a4a55e4d2d63e46f7ec1d3eb8bb2e6bfd1"
+  },
+  {
+    "name": "0.0.1",
+    "sha": "4d4238f885e364734f67f5ac7d097bb2b6a1eec9"
+  }
+]

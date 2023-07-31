@@ -1,0 +1,26 @@
+[
+  {
+    "name": "0.0.3",
+    "date": "2021-10-23T08:16:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cuda-v0.0.3.tar.gz",
+        "count": 5949,
+        "size": 19212
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2021-08-19T23:35:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_cuda-v0.0.2.tar.gz",
+        "count": 12,
+        "size": 11291
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "v0.19.5",
+    "date": "2023-07-12T17:59:44Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.19.5.tar.gz",
+        "count": 225,
+        "size": 172469
+      }
+    ]
+  },
+  {
+    "name": "v0.19.4",
+    "date": "2023-07-12T17:19:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.19.4.tar.gz",
+        "count": 9,
+        "size": 172131
+      }
+    ]
+  },
+  {
+    "name": "v0.19.3",
+    "date": "2023-07-04T03:29:36Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.19.3.tar.gz",
+        "count": 4968,
+        "size": 171418
+      }
+    ]
+  },
+  {
+    "name": "v0.19.2",
+    "date": "2023-05-25T01:03:27Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.19.2.tar.gz",
+        "count": 32282,
+        "size": 171073
+      }
+    ]
+  },
+  {
+    "name": "v0.19.1",
+    "date": "2023-05-25T00:15:35Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.19.1.tar.gz",
+        "count": 9,
+        "size": 171065
+      }
+    ]
+  },
+  {
+    "name": "v0.19.0",
+    "date": "2023-05-24T22:05:33Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.19.0.tar.gz",
+        "count": 10,
+        "size": 171008
+      }
+    ]
+  },
+  {
+    "name": "v0.18.4",
+    "date": "2023-04-24T17:34:34Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.18.4.tar.gz",
+        "count": 145450,
+        "size": 171335
+      }
+    ]
+  },
+  {
+    "name": "v0.18.3",
+    "date": "2023-04-24T15:38:54Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.18.3.tar.gz",
+        "count": 10,
+        "size": 171352
+      }
+    ]
+  },
+  {
+    "name": "v0.18.2",
+    "date": "2023-04-22T04:15:33Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.18.2.tar.gz",
+        "count": 762,
+        "size": 171348
+      }
+    ]
+  },
+  {
+    "name": "v0.18.1",
+    "date": "2023-04-12T23:12:37Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.18.1.tar.gz",
+        "count": 18110,
+        "size": 171152
+      }
+    ]
+  },
+  {
+    "name": "v0.18.0",
+    "date": "2023-04-12T19:06:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.18.0.tar.gz",
+        "count": 80,
+        "size": 171016
+      }
+    ]
+  },
+  {
+    "name": "v0.17.0",
+    "date": "2023-04-10T05:36:01Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.17.0.tar.gz",
+        "count": 710,
+        "size": 170826
+      }
+    ]
+  },
+  {
+    "name": "v0.16.2",
+    "date": "2023-04-05T23:38:42Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.16.2.tar.gz",
+        "count": 474,
+        "size": 493344
+      }
+    ]
+  },
+  {
+    "name": "v0.16.1",
+    "date": "2023-02-16T07:30:06Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.16.1.tar.gz",
+        "count": 83320,
+        "size": 491304
+      }
+    ]
+  },
+  {
+    "name": "v0.16.0",
+    "date": "2023-02-16T01:13:31Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jest-v0.16.0.tar.gz",
+        "count": 2,
+        "size": 491046
+      }
+    ]
+  },
+  {
+    "name": "v0.15.0",
+    "date": "2023-02-02T06:11:20Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v0.14.4",
+    "date": "2023-01-24T21:14:43Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.14.3",
+    "date": "2023-01-19T13:54:23Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.14.2",
+    "date": "2023-01-06T02:24:07Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.14.1",
+    "date": "2023-01-04T08:07:32Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.14.0",
+    "date": "2023-01-03T22:01:30Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.13.1",
+    "date": "2022-12-09T17:24:54Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.13.0",
+    "date": "2022-12-09T01:36:21Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.12.1",
+    "date": "2022-11-24T02:09:08Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.12.0",
+    "date": "2022-11-21T20:47:30Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.11.2",
+    "date": "2022-11-20T04:22:22Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.11.1",
+    "date": "2022-11-03T16:48:58Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2022-11-03T00:34:32Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2022-08-27T05:00:59Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2022-08-02T23:04:22Z",
+    "mentions": 1,
+    "downloads": []
+  }
+]

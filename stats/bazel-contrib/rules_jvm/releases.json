@@ -1,0 +1,158 @@
+[
+  {
+    "name": "v0.17.0",
+    "date": "2023-07-24T12:59:01Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.17.0.tar.gz",
+        "count": 42,
+        "size": 239863
+      }
+    ]
+  },
+  {
+    "name": "v0.16.0",
+    "date": "2023-07-19T12:50:20Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.16.0.tar.gz",
+        "count": 546,
+        "size": 235426
+      }
+    ]
+  },
+  {
+    "name": "v0.15.0",
+    "date": "2023-07-13T10:55:52Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.15.0.tar.gz",
+        "count": 30,
+        "size": 235339
+      }
+    ]
+  },
+  {
+    "name": "v0.14.0",
+    "date": "2023-06-30T12:25:03Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.14.0.tar.gz",
+        "count": 1083,
+        "size": 234840
+      }
+    ]
+  },
+  {
+    "name": "v0.13.0",
+    "date": "2023-04-14T14:04:49Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.13.0.tar.gz",
+        "count": 32564,
+        "size": 234033
+      }
+    ]
+  },
+  {
+    "name": "v0.12.0",
+    "date": "2023-03-17T15:52:03Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.12.0.tar.gz",
+        "count": 37589,
+        "size": 230456
+      }
+    ]
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2023-03-08T17:06:29Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.11.0.tar.gz",
+        "count": 7008,
+        "size": 226771
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2023-03-06T14:17:37Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.10.0.tar.gz",
+        "count": 11,
+        "size": 224698
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2022-10-27T11:16:43Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.8.0",
+    "date": "2022-10-21T15:47:32Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2022-10-05T12:36:25Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2022-10-05T11:02:31Z",
+    "mentions": 6,
+    "downloads": []
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2022-06-30T11:00:26Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2022-06-29T12:52:11Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2022-06-07T16:00:47Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2022-05-11T11:01:19Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2022-01-20T11:55:17Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2021-12-17T14:04:02Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

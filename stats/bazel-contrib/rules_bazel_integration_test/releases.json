@@ -1,0 +1,200 @@
+[
+  {
+    "name": "v0.15.0",
+    "date": "2023-07-25T21:44:52Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.15.0.tar.gz",
+        "count": 123,
+        "size": 34913
+      }
+    ]
+  },
+  {
+    "name": "v0.14.1",
+    "date": "2023-06-02T18:18:13Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.14.1.tar.gz",
+        "count": 2006,
+        "size": 22010
+      }
+    ]
+  },
+  {
+    "name": "v0.14.0",
+    "date": "2023-05-04T13:44:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.14.0.tar.gz",
+        "count": 614,
+        "size": 21914
+      }
+    ]
+  },
+  {
+    "name": "v0.13.0",
+    "date": "2023-04-17T13:36:15Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.13.0.tar.gz",
+        "count": 661,
+        "size": 21748
+      }
+    ]
+  },
+  {
+    "name": "v0.12.0",
+    "date": "2023-03-26T16:04:01Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.12.0.tar.gz",
+        "count": 819,
+        "size": 21310
+      }
+    ]
+  },
+  {
+    "name": "v0.11.1",
+    "date": "2023-03-16T17:11:50Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.11.1.tar.gz",
+        "count": 179,
+        "size": 20661
+      }
+    ]
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2023-03-16T14:52:18Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.11.0.tar.gz",
+        "count": 9,
+        "size": 13259
+      }
+    ]
+  },
+  {
+    "name": "v0.10.3",
+    "date": "2023-02-14T13:24:56Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.10.3.tar.gz",
+        "count": 137,
+        "size": 9934
+      }
+    ]
+  },
+  {
+    "name": "v0.10.2",
+    "date": "2023-02-13T23:47:23Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.10.2.tar.gz",
+        "count": 3,
+        "size": 9930
+      }
+    ]
+  },
+  {
+    "name": "v0.10.1",
+    "date": "2023-02-12T15:43:36Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2022-12-27T16:59:04Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2022-12-05T16:49:17Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v0.8.0",
+    "date": "2022-05-31T21:25:38Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2022-05-03T20:28:56Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.2",
+    "date": "2022-04-15T16:11:47Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.1",
+    "date": "2022-04-14T22:57:34Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.6.0",
+    "date": "2022-03-16T14:48:12Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2022-01-20T15:20:24Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2022-01-13T15:33:30Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.3.1",
+    "date": "2021-12-03T22:26:54Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2021-12-02T20:26:55Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2021-11-29T21:07:26Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2021-11-17T00:55:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2021-11-15T22:44:00Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

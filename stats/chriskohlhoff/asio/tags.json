@@ -1,0 +1,122 @@
+[
+  {
+    "name": "asio-1-28-1",
+    "sha": "1f8d154829b902dbc45a651587c6c6df948358e8"
+  },
+  {
+    "name": "asio-1-28-0",
+    "sha": "c465349fa5cd91a64bb369f5131ceacab2c0c1c3"
+  },
+  {
+    "name": "asio-1-27-0",
+    "sha": "f693a3eb7fe72a5f19b975289afc4f437d373d9c"
+  },
+  {
+    "name": "asio-1-26-0",
+    "sha": "bcbbb9d292fd7aa1fec44434500233a7b33524af"
+  },
+  {
+    "name": "asio-1-24-0",
+    "sha": "147f7225a96d45a2807a64e443177f621844e51c"
+  },
+  {
+    "name": "asio-1-23-0",
+    "sha": "4915cfd8a1653c157a1480162ae5601318553eb8"
+  },
+  {
+    "name": "asio-1-22-2",
+    "sha": "93e3c81d5cca59c17c27b3516e1fa00eab1e9a99"
+  },
+  {
+    "name": "asio-1-22-1",
+    "sha": "bba12d10501418fd3789ce01c9f86a77d37df7ed"
+  },
+  {
+    "name": "asio-1-22-0",
+    "sha": "0d4e89a14b7c371eb5b43e214f13d74771a55e8d"
+  },
+  {
+    "name": "asio-1-21-0",
+    "sha": "08a7029cb10c911b6fb66fb015217a431206e52c"
+  },
+  {
+    "name": "asio-1-20-0",
+    "sha": "6c054e98f3f53352d12b6cd46d63b6d404cc044b"
+  },
+  {
+    "name": "asio-1-19-2",
+    "sha": "dc67374fce1051b57ade8838c9aac6642e9bbf86"
+  },
+  {
+    "name": "asio-1-19-1",
+    "sha": "4c5a7cca62cb4354de08298e868bea54bfd6692b"
+  },
+  {
+    "name": "asio-1-19-0",
+    "sha": "607fd5d004859e31165d4d0badd9103821b01de4"
+  },
+  {
+    "name": "asio-1-18-2",
+    "sha": "a4d820dd69b37fb8daee275d20eb162054453414"
+  },
+  {
+    "name": "asio-1-18-1",
+    "sha": "b84e6c16b2ea907dbad94206b7510d85aafc0b42"
+  },
+  {
+    "name": "asio-1-18-0",
+    "sha": "be7badc31abcc395cf868de6a1e240c2350bdbf2"
+  },
+  {
+    "name": "asio-1-17-0",
+    "sha": "efff0de89920eb66afead00dfd8bb8cf588ccee4"
+  },
+  {
+    "name": "asio-1-16-1",
+    "sha": "a5c5077e44c451ddc8a50c3717e66dcccc92b074"
+  },
+  {
+    "name": "asio-1-16-0",
+    "sha": "a304654bc68a15df0bca038114a4ace020a39aed"
+  },
+  {
+    "name": "asio-1-14-1",
+    "sha": "62aea6b2073a104dbaaec80be7c04f4770acb615"
+  },
+  {
+    "name": "asio-1-14-0",
+    "sha": "8d4c8c3ce43c866f609d2eda9a43fe5b334620be"
+  },
+  {
+    "name": "asio-1-13-0",
+    "sha": "90f32660cd503494b3707840cfbd5434d8e9dabe"
+  },
+  {
+    "name": "asio-1-12-2",
+    "sha": "22afb86087a77037cd296d27134756c9b0d2cb75"
+  },
+  {
+    "name": "asio-1-12-1",
+    "sha": "b73dc1d2c0ecb9452a87c26544d7f71e24342df6"
+  },
+  {
+    "name": "asio-1-12-0",
+    "sha": "b3d2ab7255fabe46a49b24a584c9fd797c8248e5"
+  },
+  {
+    "name": "asio-1-11-0",
+    "sha": "66e76b9e4252ff4681227d0d8e34374ec1fa20e5"
+  },
+  {
+    "name": "asio-1-10-8",
+    "sha": "28d9b8d6df708024af5227c551673fdb2519f5bf"
+  },
+  {
+    "name": "asio-1-10-7",
+    "sha": "6c4268544ded99344206147a17c5fa87ed91e832"
+  },
+  {
+    "name": "asio-1-10-6",
+    "sha": "c466dc46d55755d38ee1831e95207d6b329c4976"
+  }
+]

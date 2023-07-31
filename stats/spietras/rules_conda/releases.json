@@ -1,0 +1,98 @@
+[
+  {
+    "name": "0.2.0",
+    "date": "2022-11-12T20:41:47Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_conda-0.2.0.zip",
+        "count": 53699,
+        "size": 7784
+      }
+    ]
+  },
+  {
+    "name": "0.1.0",
+    "date": "2021-12-02T21:09:35Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_conda-0.1.0.zip",
+        "count": 316194,
+        "size": 7798
+      }
+    ]
+  },
+  {
+    "name": "0.0.6",
+    "date": "2021-10-16T01:16:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_conda-0.0.6.zip",
+        "count": 320,
+        "size": 6876
+      }
+    ]
+  },
+  {
+    "name": "0.0.5",
+    "date": "2021-01-11T21:11:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_conda-0.0.5.zip",
+        "count": 1580,
+        "size": 6016
+      }
+    ]
+  },
+  {
+    "name": "0.0.4",
+    "date": "2020-11-27T22:15:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_conda-0.0.4.zip",
+        "count": 9,
+        "size": 5988
+      }
+    ]
+  },
+  {
+    "name": "0.0.3",
+    "date": "2020-10-22T20:03:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_conda-0.0.3.zip",
+        "count": 11,
+        "size": 5909
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2020-09-05T09:21:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_conda-0.0.2.zip",
+        "count": 7,
+        "size": 5829
+      }
+    ]
+  },
+  {
+    "name": "0.0.1",
+    "date": "2020-08-29T13:16:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_conda-0.0.1.zip",
+        "count": 13,
+        "size": 5754
+      }
+    ]
+  }
+]

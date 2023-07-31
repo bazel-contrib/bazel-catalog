@@ -1,0 +1,86 @@
+[
+  {
+    "name": "0.5.2",
+    "sha": "765d43e7e0f8f28e07a48609c79407e7c133a6f8"
+  },
+  {
+    "name": "0.5.1",
+    "sha": "d4df13e7ae94d2c4a1660791683363adc7ecaa8b"
+  },
+  {
+    "name": "0.5.0",
+    "sha": "2cd8ed39ef726645615ba94fcd265d54b0f0de33"
+  },
+  {
+    "name": "0.4.5",
+    "sha": "3796730d39e5ed1fe0d41887b9616e113852e597"
+  },
+  {
+    "name": "0.4.4",
+    "sha": "a5d4bd3270d460f3b9ebdd35a756b65f4e8046e2"
+  },
+  {
+    "name": "0.4.3",
+    "sha": "e492eb3998995e8930ed0fed4f2beeeab1fc1627"
+  },
+  {
+    "name": "0.4.2",
+    "sha": "20591c7ebc597faca2c441d60c025a8a6767349f"
+  },
+  {
+    "name": "0.4.1",
+    "sha": "842648bfece8af38a403ba47dd06180f13d767b8"
+  },
+  {
+    "name": "0.4.0",
+    "sha": "0ae6349c52700f060c9a87c5ed2b04b75f94a26f"
+  },
+  {
+    "name": "0.3.6",
+    "sha": "4251528230dc726af1fbd429d46f925599f5db07"
+  },
+  {
+    "name": "0.3.5",
+    "sha": "644d6937d8aa059476ed45085acd1fec17380074"
+  },
+  {
+    "name": "0.3.4",
+    "sha": "5fd82a9dd99b93535ebc40471bd638ac58b7c090"
+  },
+  {
+    "name": "0.3.3",
+    "sha": "25f9ad37b1321e6b2fa58197f77d248b0fc25d40"
+  },
+  {
+    "name": "0.3.2",
+    "sha": "6a29a5cfbf931711f56e58eeeb64eaf8648c2e94"
+  },
+  {
+    "name": "0.3.1",
+    "sha": "7bc80f9355b09466fffabce24d463d65e37fcc0f"
+  },
+  {
+    "name": "0.3.0",
+    "sha": "41e463d5b8e978e5d81cb159e60482a384ebaa2b"
+  },
+  {
+    "name": "0.2.3",
+    "sha": "c4cf16f3162c0a13bb8983b3716a979678ae6dc4"
+  },
+  {
+    "name": "0.2.2",
+    "sha": "63fc92ca7f3ce3e02ad14a61180f1309a29f91a1"
+  },
+  {
+    "name": "0.2.1",
+    "sha": "1d6bbff323e944601b84a78f64e58f5e8df81a9c"
+  },
+  {
+    "name": "0.2",
+    "sha": "f9febfc7091e2585bafb1a96599ff517e169c3c4"
+  },
+  {
+    "name": "0.1",
+    "sha": "c56fc3b11cee27a3e97ec3c1d01fff05c76d16a7"
+  }
+]

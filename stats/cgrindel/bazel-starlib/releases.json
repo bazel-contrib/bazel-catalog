@@ -1,0 +1,290 @@
+[
+  {
+    "name": "v0.16.2",
+    "date": "2023-07-24T21:45:11Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.16.2.tar.gz",
+        "count": 433,
+        "size": 81487
+      }
+    ]
+  },
+  {
+    "name": "v0.16.1",
+    "date": "2023-07-06T21:56:21Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.16.1.tar.gz",
+        "count": 3616,
+        "size": 66561
+      }
+    ]
+  },
+  {
+    "name": "v0.16.0",
+    "date": "2023-04-04T21:04:55Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.16.0.tar.gz",
+        "count": 23228,
+        "size": 66330
+      }
+    ]
+  },
+  {
+    "name": "v0.15.0",
+    "date": "2023-03-22T22:06:09Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.15.0.tar.gz",
+        "count": 9000,
+        "size": 66500
+      }
+    ]
+  },
+  {
+    "name": "v0.14.9",
+    "date": "2023-03-14T20:46:49Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.9.tar.gz",
+        "count": 1311,
+        "size": 63985
+      }
+    ]
+  },
+  {
+    "name": "v0.14.8",
+    "date": "2023-03-11T16:38:55Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.8.tar.gz",
+        "count": 445,
+        "size": 63490
+      }
+    ]
+  },
+  {
+    "name": "v0.14.7",
+    "date": "2023-03-10T23:43:39Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.7.tar.gz",
+        "count": 132,
+        "size": 63600
+      }
+    ]
+  },
+  {
+    "name": "v0.14.6",
+    "date": "2023-03-10T21:22:41Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.6.tar.gz",
+        "count": 17,
+        "size": 63530
+      }
+    ]
+  },
+  {
+    "name": "v0.14.5",
+    "date": "2023-03-10T20:31:35Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.5.tar.gz",
+        "count": 37,
+        "size": 63481
+      }
+    ]
+  },
+  {
+    "name": "v0.14.4",
+    "date": "2023-03-10T15:50:24Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.4.tar.gz",
+        "count": 42,
+        "size": 63516
+      }
+    ]
+  },
+  {
+    "name": "v0.14.3",
+    "date": "2023-03-10T01:13:00Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.3.tar.gz",
+        "count": 151,
+        "size": 63472
+      }
+    ]
+  },
+  {
+    "name": "v0.14.2",
+    "date": "2023-03-09T20:56:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.2.tar.gz",
+        "count": 20,
+        "size": 63387
+      }
+    ]
+  },
+  {
+    "name": "v0.14.1",
+    "date": "2023-03-09T20:13:28Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.1.tar.gz",
+        "count": 18,
+        "size": 63387
+      }
+    ]
+  },
+  {
+    "name": "v0.14.0",
+    "date": "2023-03-09T18:40:10Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.14.0.tar.gz",
+        "count": 36,
+        "size": 60612
+      }
+    ]
+  },
+  {
+    "name": "v0.13.1",
+    "date": "2023-03-06T19:22:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.13.1.tar.gz",
+        "count": 5440,
+        "size": 62386
+      }
+    ]
+  },
+  {
+    "name": "v0.13.0",
+    "date": "2023-03-05T17:17:21Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.13.0.tar.gz",
+        "count": 36,
+        "size": 61607
+      }
+    ]
+  },
+  {
+    "name": "v0.12.1",
+    "date": "2023-02-08T19:50:33Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.12.1.tar.gz",
+        "count": 6218,
+        "size": 61622
+      }
+    ]
+  },
+  {
+    "name": "v0.12.0",
+    "date": "2023-02-01T20:29:39Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-starlib.v0.12.0.tar.gz",
+        "count": 398,
+        "size": 62093
+      }
+    ]
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2023-01-05T21:05:21Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.10.3",
+    "date": "2022-12-15T16:35:02Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.10.2",
+    "date": "2022-12-09T22:48:04Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.10.1",
+    "date": "2022-12-09T17:47:39Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2022-12-07T20:16:37Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2022-11-25T15:17:10Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.8.1",
+    "date": "2022-11-15T23:34:58Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.8.0",
+    "date": "2022-11-09T23:28:34Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.7.1",
+    "date": "2022-05-05T13:43:14Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2022-05-03T19:13:29Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.1",
+    "date": "2022-02-27T18:28:41Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2022-02-25T21:58:55Z",
+    "mentions": 1,
+    "downloads": []
+  }
+]

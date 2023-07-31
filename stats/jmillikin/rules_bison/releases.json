@@ -1,0 +1,70 @@
+[
+  {
+    "name": "v0.2.2",
+    "date": "2023-05-18T06:29:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_bison-v0.2.2.tar.xz",
+        "count": 21749,
+        "size": 25580
+      },
+      {
+        "name": "rules_bison-v0.2.2.tar.zst",
+        "count": 3,
+        "size": 26407
+      }
+    ]
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2022-08-11T07:11:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_bison-v0.2.1.tar.xz",
+        "count": 127083,
+        "size": 19140
+      },
+      {
+        "name": "rules_bison-v0.2.1.tar.zst",
+        "count": 5,
+        "size": 19927
+      }
+    ]
+  },
+  {
+    "name": "v0.2",
+    "date": "2019-09-28T08:05:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_bison-v0.2.tar.xz",
+        "count": 267093,
+        "size": 18308
+      }
+    ]
+  },
+  {
+    "name": "v0.1",
+    "date": "2019-03-04T04:32:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bison-gnulib-788db09a9f88abbef73c97e8d7291c40455336d8.tar.xz",
+        "count": 310725,
+        "size": 610792
+      },
+      {
+        "name": "gnulib-788db09a9f88abbef73c97e8d7291c40455336d8.tar.xz",
+        "count": 88343,
+        "size": 610792
+      },
+      {
+        "name": "rules_bison-v0.1.tar.xz",
+        "count": 164365,
+        "size": 19396
+      }
+    ]
+  }
+]

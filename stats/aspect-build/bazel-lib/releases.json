@@ -1,0 +1,3532 @@
+[
+  {
+    "name": "v1.33.0",
+    "date": "2023-07-21T20:01:22Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.33.0.tar.gz",
+        "count": 21248,
+        "size": 207334
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 0,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 0,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 0,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 0,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 0,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 0,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 0,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 0,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 0,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 0,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 0,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 0,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 0,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 0,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 0,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 0,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 0,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 0,
+        "size": 100
+      },
+      {
+        "name": "expand_template-darwin_amd64",
+        "count": 0,
+        "size": 1938464
+      },
+      {
+        "name": "expand_template-darwin_amd64.sha256",
+        "count": 0,
+        "size": 93
+      },
+      {
+        "name": "expand_template-darwin_arm64",
+        "count": 0,
+        "size": 1964946
+      },
+      {
+        "name": "expand_template-darwin_arm64.sha256",
+        "count": 0,
+        "size": 93
+      },
+      {
+        "name": "expand_template-linux_amd64",
+        "count": 0,
+        "size": 1814528
+      },
+      {
+        "name": "expand_template-linux_amd64.sha256",
+        "count": 0,
+        "size": 92
+      },
+      {
+        "name": "expand_template-linux_arm64",
+        "count": 0,
+        "size": 1900544
+      },
+      {
+        "name": "expand_template-linux_arm64.sha256",
+        "count": 0,
+        "size": 92
+      },
+      {
+        "name": "expand_template-windows_amd64.exe",
+        "count": 0,
+        "size": 2818560
+      },
+      {
+        "name": "expand_template-windows_amd64.exe.sha256",
+        "count": 0,
+        "size": 98
+      }
+    ]
+  },
+  {
+    "name": "v1.32.1",
+    "date": "2023-05-18T17:46:16Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.32.1.tar.gz",
+        "count": 154937,
+        "size": 205635
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 1,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 1,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 1,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 1,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 100
+      },
+      {
+        "name": "expand_template-darwin_amd64",
+        "count": 2,
+        "size": 1938464
+      },
+      {
+        "name": "expand_template-darwin_amd64.sha256",
+        "count": 2,
+        "size": 93
+      },
+      {
+        "name": "expand_template-darwin_arm64",
+        "count": 1,
+        "size": 1964946
+      },
+      {
+        "name": "expand_template-darwin_arm64.sha256",
+        "count": 2,
+        "size": 93
+      },
+      {
+        "name": "expand_template-linux_amd64",
+        "count": 2,
+        "size": 1814528
+      },
+      {
+        "name": "expand_template-linux_amd64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "expand_template-linux_arm64",
+        "count": 1,
+        "size": 1900544
+      },
+      {
+        "name": "expand_template-linux_arm64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "expand_template-windows_amd64.exe",
+        "count": 1,
+        "size": 2818560
+      },
+      {
+        "name": "expand_template-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 98
+      }
+    ]
+  },
+  {
+    "name": "v1.32.0",
+    "date": "2023-05-16T23:55:03Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.32.0.tar.gz",
+        "count": 23108,
+        "size": 205639
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 1,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 1,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 1,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 1,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 1,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 1,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 1,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 1,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 100
+      },
+      {
+        "name": "expand_template-darwin_amd64",
+        "count": 1,
+        "size": 1938464
+      },
+      {
+        "name": "expand_template-darwin_amd64.sha256",
+        "count": 2,
+        "size": 93
+      },
+      {
+        "name": "expand_template-darwin_arm64",
+        "count": 1,
+        "size": 1964946
+      },
+      {
+        "name": "expand_template-darwin_arm64.sha256",
+        "count": 2,
+        "size": 93
+      },
+      {
+        "name": "expand_template-linux_amd64",
+        "count": 1,
+        "size": 1814528
+      },
+      {
+        "name": "expand_template-linux_amd64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "expand_template-linux_arm64",
+        "count": 1,
+        "size": 1900544
+      },
+      {
+        "name": "expand_template-linux_arm64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "expand_template-windows_amd64.exe",
+        "count": 1,
+        "size": 2818560
+      },
+      {
+        "name": "expand_template-windows_amd64.exe.sha256",
+        "count": 3,
+        "size": 98
+      }
+    ]
+  },
+  {
+    "name": "v1.31.3",
+    "date": "2023-05-16T22:19:47Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.31.3.tar.gz",
+        "count": 53,
+        "size": 202446
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 1,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 1,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 1,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 1,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 1,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 1,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 1,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 1,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 100
+      },
+      {
+        "name": "expand_template-darwin_amd64",
+        "count": 304,
+        "size": 1938464
+      },
+      {
+        "name": "expand_template-darwin_amd64.sha256",
+        "count": 4,
+        "size": 93
+      },
+      {
+        "name": "expand_template-darwin_arm64",
+        "count": 100,
+        "size": 1964946
+      },
+      {
+        "name": "expand_template-darwin_arm64.sha256",
+        "count": 4,
+        "size": 93
+      },
+      {
+        "name": "expand_template-linux_amd64",
+        "count": 27618,
+        "size": 1814528
+      },
+      {
+        "name": "expand_template-linux_amd64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "expand_template-linux_arm64",
+        "count": 59,
+        "size": 1900544
+      },
+      {
+        "name": "expand_template-linux_arm64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "expand_template-windows_amd64.exe",
+        "count": 245,
+        "size": 2818560
+      },
+      {
+        "name": "expand_template-windows_amd64.exe.sha256",
+        "count": 3,
+        "size": 98
+      }
+    ]
+  },
+  {
+    "name": "v1.31.2",
+    "date": "2023-05-11T21:28:37Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.31.2.tar.gz",
+        "count": 58274,
+        "size": 199666
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 1,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 1,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 2,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 1,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 1,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 2,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 2,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.31.1",
+    "date": "2023-05-05T20:13:45Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.31.1.tar.gz",
+        "count": 65958,
+        "size": 199229
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 1,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 1,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 1,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 3,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 1,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 3,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 3,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 1,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 3,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 1,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 3,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 3,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 1,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 3,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 1,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 3,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.31.0",
+    "date": "2023-05-05T20:33:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.31.0.tar.gz",
+        "count": 102925,
+        "size": 199046
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 1844,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 28452,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 3,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 109573,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 3,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 150,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 3,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 666,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 3,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 1059,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 3,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 27728,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 3,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 91213,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 125,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 1453,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 3,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.30.2",
+    "date": "2023-04-01T21:18:35Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.30.2.tar.gz",
+        "count": 264295,
+        "size": 188774
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 4,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 3,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 3,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 3,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.30.0",
+    "date": "2023-03-31T22:04:10Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.30.0.tar.gz",
+        "count": 358,
+        "size": 188775
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.30.1",
+    "date": "2023-03-31T22:59:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.30.1.tar.gz",
+        "count": 48,
+        "size": 188730
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 3,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 8,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.29.2",
+    "date": "2023-03-12T01:51:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.29.2.tar.gz",
+        "count": 192128,
+        "size": 188694
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 4,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 6,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 5,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 3,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 3,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 5,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 5,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 3,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.29.1",
+    "date": "2023-03-11T22:58:56Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.29.1.tar.gz",
+        "count": 2221,
+        "size": 188734
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.29.0",
+    "date": "2023-03-11T00:37:26Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.29.0.tar.gz",
+        "count": 713,
+        "size": 188417
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 92
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 91
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 95
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 4,
+        "size": 100
+      }
+    ]
+  },
+  {
+    "name": "v1.28.0",
+    "date": "2023-03-05T19:27:50Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.28.0.tar.gz",
+        "count": 148821,
+        "size": 189379
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 3,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 3,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 3,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 3,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 3,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 3,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 3,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 3,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.27.2",
+    "date": "2023-02-23T08:33:44Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.27.2.tar.gz",
+        "count": 201670,
+        "size": 188813
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.27.1",
+    "date": "2023-02-22T23:51:58Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.27.1.tar.gz",
+        "count": 92,
+        "size": 189181
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 3,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.27.0",
+    "date": "2023-02-21T18:59:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.27.0.tar.gz",
+        "count": 436,
+        "size": 196774
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 3,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.26.2",
+    "date": "2023-02-18T01:08:51Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.26.2.tar.gz",
+        "count": 477683,
+        "size": 196418
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 3,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.26.1",
+    "date": "2023-02-18T00:52:00Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.26.1.tar.gz",
+        "count": 21,
+        "size": 179021
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.26.0",
+    "date": "2023-02-18T00:23:11Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.26.0.tar.gz",
+        "count": 178,
+        "size": 178372
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.25.0",
+    "date": "2023-02-17T02:40:38Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.25.0.tar.gz",
+        "count": 679,
+        "size": 170018
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 4,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2215424
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 3,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2679808
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.24.2",
+    "date": "2023-02-02T03:55:50Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.24.2.tar.gz",
+        "count": 203141,
+        "size": 163552
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2213888
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2677760
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 5,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.24.1",
+    "date": "2023-02-02T00:03:34Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.24.1.tar.gz",
+        "count": 54,
+        "size": 163541
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 25874,
+        "size": 1478528
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 35250,
+        "size": 1508130
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 352268,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 8568,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 7407,
+        "size": 2213888
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 7,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 14317,
+        "size": 1833280
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 33658,
+        "size": 1878738
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 196884,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 7215,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 10888,
+        "size": 2677760
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.24.0",
+    "date": "2023-02-01T18:51:02Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-lib-v1.24.0.tar.gz",
+        "count": 1463,
+        "size": 163331
+      },
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1478384
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1507938
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 5,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2211328
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1833200
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 5,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878642
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 5,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2676224
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.23.3",
+    "date": "2023-01-17T06:18:18Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 3,
+        "size": 1478384
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 10,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 5,
+        "size": 1507938
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 4,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 3,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2211328
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 3,
+        "size": 1833200
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 4,
+        "size": 1878642
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 4,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 3,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2676224
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 7,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.23.2",
+    "date": "2023-01-17T05:59:49Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 1066,
+        "size": 1478384
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 696,
+        "size": 1507938
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 54357,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 471,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 65,
+        "size": 2211328
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 7,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 417,
+        "size": 1833200
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 313,
+        "size": 1878642
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 36393,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 155,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 83,
+        "size": 2676224
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.23.1",
+    "date": "2023-01-17T03:44:16Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 2,
+        "size": 1474592
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508274
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 2,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2213888
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 2,
+        "size": 1837504
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 2,
+        "size": 1878866
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 2,
+        "size": 1724416
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2684416
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.23.0",
+    "date": "2023-01-17T01:32:32Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 10,
+        "size": 1474592
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 6,
+        "size": 1508274
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 36,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 6,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 9,
+        "size": 2213888
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 143,
+        "size": 1837504
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 6,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 47,
+        "size": 1878866
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 11258,
+        "size": 1724416
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 6,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 40,
+        "size": 2684416
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.22.0",
+    "date": "2023-01-16T23:55:34Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 3,
+        "size": 1474592
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 2,
+        "size": 1508274
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 48,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 8,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2213888
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 7,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 3,
+        "size": 1837504
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 3,
+        "size": 1878866
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 8,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 72,
+        "size": 1724416
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 6,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 2,
+        "size": 2684416
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 7,
+        "size": 102
+      }
+    ]
+  },
+  {
+    "name": "v1.21.4",
+    "date": "2023-01-15T21:32:55Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "copy_directory-darwin_amd64",
+        "count": 4,
+        "size": 1474144
+      },
+      {
+        "name": "copy_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-darwin_arm64",
+        "count": 3,
+        "size": 1507778
+      },
+      {
+        "name": "copy_directory-darwin_arm64.sha256",
+        "count": 8,
+        "size": 94
+      },
+      {
+        "name": "copy_directory-linux_amd64",
+        "count": 34,
+        "size": 1388544
+      },
+      {
+        "name": "copy_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-linux_arm64",
+        "count": 2,
+        "size": 1441792
+      },
+      {
+        "name": "copy_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 93
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2210816
+      },
+      {
+        "name": "copy_directory-windows_amd64.exe.sha256",
+        "count": 6,
+        "size": 99
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64",
+        "count": 4,
+        "size": 1833056
+      },
+      {
+        "name": "copy_to_directory-darwin_amd64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64",
+        "count": 3,
+        "size": 1861954
+      },
+      {
+        "name": "copy_to_directory-darwin_arm64.sha256",
+        "count": 7,
+        "size": 97
+      },
+      {
+        "name": "copy_to_directory-linux_amd64",
+        "count": 36,
+        "size": 1720320
+      },
+      {
+        "name": "copy_to_directory-linux_amd64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-linux_arm64",
+        "count": 2,
+        "size": 1769472
+      },
+      {
+        "name": "copy_to_directory-linux_arm64.sha256",
+        "count": 7,
+        "size": 96
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe",
+        "count": 3,
+        "size": 2673664
+      },
+      {
+        "name": "copy_to_directory-windows_amd64.exe.sha256",
+        "count": 7,
+        "size": 102
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "v0.4.0",
+    "date": "2023-07-11T03:18:25Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.4.0.tar.gz",
+        "count": 1985,
+        "size": 85635
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2023-07-06T19:52:33Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.3.0.tar.gz",
+        "count": 25,
+        "size": 81930
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-06-17T17:57:43Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.2.0.tar.gz",
+        "count": 13,
+        "size": 79554
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-05-02T19:31:21Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.1.0.tar.gz",
+        "count": 17,
+        "size": 76332
+      }
+    ]
+  },
+  {
+    "name": "v0.0.5",
+    "date": "2023-04-27T17:32:58Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.0.5.tar.gz",
+        "count": 2822,
+        "size": 75161
+      }
+    ]
+  },
+  {
+    "name": "v0.0.4",
+    "date": "2023-03-10T08:10:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.0.4.tar.gz",
+        "count": 31488,
+        "size": 49938
+      }
+    ]
+  },
+  {
+    "name": "v0.0.3",
+    "date": "2023-02-16T20:25:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.0.3.tar.gz",
+        "count": 10,
+        "size": 48360
+      }
+    ]
+  },
+  {
+    "name": "v0.0.2",
+    "date": "2023-02-16T20:15:48Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.0.2.tar.gz",
+        "count": 8,
+        "size": 48365
+      }
+    ]
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2023-02-16T01:02:31Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.0.1.tar.gz",
+        "count": 1699,
+        "size": 48365
+      }
+    ]
+  }
+]

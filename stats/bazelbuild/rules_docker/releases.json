@@ -1,0 +1,362 @@
+[
+  {
+    "name": "v0.25.0",
+    "date": "2022-06-22T09:25:38Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.25.0.tar.gz",
+        "count": 2324729,
+        "size": 600728
+      }
+    ]
+  },
+  {
+    "name": "v0.24.0",
+    "date": "2022-04-25T18:08:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.24.0.tar.gz",
+        "count": 643400,
+        "size": 596538
+      }
+    ]
+  },
+  {
+    "name": "v0.23.0",
+    "date": "2022-01-25T18:55:51Z",
+    "mentions": 10,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.23.0.tar.gz",
+        "count": 588664,
+        "size": 595879
+      }
+    ]
+  },
+  {
+    "name": "v0.22.0",
+    "date": "2021-12-06T19:32:41Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.22.0.tar.gz",
+        "count": 1724870,
+        "size": 593782
+      }
+    ]
+  },
+  {
+    "name": "v0.21.0",
+    "date": "2021-11-18T15:58:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.21.0.tar.gz",
+        "count": 883505,
+        "size": 590833
+      }
+    ]
+  },
+  {
+    "name": "v0.20.0",
+    "date": "2021-10-12T02:09:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.20.0.tar.gz",
+        "count": 737361,
+        "size": 590202
+      }
+    ]
+  },
+  {
+    "name": "v0.19.0",
+    "date": "2021-08-30T20:50:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.19.0.tar.gz",
+        "count": 670750,
+        "size": 589214
+      }
+    ]
+  },
+  {
+    "name": "v0.18.0",
+    "date": "2021-08-16T19:33:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.18.0.tar.gz",
+        "count": 509709,
+        "size": 589099
+      }
+    ]
+  },
+  {
+    "name": "v0.17.0",
+    "date": "2021-04-26T21:05:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.17.0.tar.gz",
+        "count": 1832655,
+        "size": 581102
+      }
+    ]
+  },
+  {
+    "name": "v0.16.0",
+    "date": "2021-03-12T21:29:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.16.0.tar.gz",
+        "count": 745048,
+        "size": 580320
+      }
+    ]
+  },
+  {
+    "name": "v0.15.0",
+    "date": "2020-11-02T16:04:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.15.0.tar.gz",
+        "count": 954458,
+        "size": 576385
+      }
+    ]
+  },
+  {
+    "name": "v0.14.4",
+    "date": "2020-07-08T20:20:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.14.4.tar.gz",
+        "count": 1686065,
+        "size": 567093
+      }
+    ]
+  },
+  {
+    "name": "v0.14.3",
+    "date": "2020-06-04T19:52:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.14.3.tar.gz",
+        "count": 305278,
+        "size": 567014
+      }
+    ]
+  },
+  {
+    "name": "v0.14.2",
+    "date": "2020-05-27T13:02:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.14.2.tar.gz",
+        "count": 61584,
+        "size": 566129
+      }
+    ]
+  },
+  {
+    "name": "v0.14.1",
+    "date": "2020-01-16T17:05:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.14.1.tar.gz",
+        "count": 1075387,
+        "size": 557250
+      }
+    ]
+  },
+  {
+    "name": "v0.14.0",
+    "date": "2020-01-15T21:25:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.14.0.tar.gz",
+        "count": 4302,
+        "size": 557205
+      }
+    ]
+  },
+  {
+    "name": "v0.13.0",
+    "date": "2019-12-18T02:28:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.13.0.tar.gz",
+        "count": 557800,
+        "size": 556032
+      }
+    ]
+  },
+  {
+    "name": "v0.12.1",
+    "date": "2019-10-25T17:51:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.12.1.tar.gz",
+        "count": 640943,
+        "size": 551019
+      }
+    ]
+  },
+  {
+    "name": "v0.12.0",
+    "date": "2019-10-09T14:33:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.12.0.tar.gz",
+        "count": 1073210,
+        "size": 548884
+      }
+    ]
+  },
+  {
+    "name": "v0.11.1",
+    "date": "2019-10-08T01:18:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.11.1.tar.gz",
+        "count": 12691,
+        "size": 556352
+      }
+    ]
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2019-10-07T14:00:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.11.0.tar.gz",
+        "count": 38478,
+        "size": 555695
+      }
+    ]
+  },
+  {
+    "name": "v0.10.1",
+    "date": "2019-09-16T16:25:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.10.1.tar.gz",
+        "count": 353270,
+        "size": 554493
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2019-09-10T12:29:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.10.0.tar.gz",
+        "count": 40111,
+        "size": 549649
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2019-07-31T18:16:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.9.0.tar.gz",
+        "count": 188795,
+        "size": 541855
+      }
+    ]
+  },
+  {
+    "name": "v0.8.1",
+    "date": "2019-06-27T14:49:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.8.1.tar.gz",
+        "count": 76,
+        "size": 493208
+      }
+    ]
+  },
+  {
+    "name": "v0.8.0",
+    "date": "2019-06-24T20:25:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.8.0.tar.gz",
+        "count": 2114,
+        "size": 488742
+      }
+    ]
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2019-01-14T18:41:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.7.0.tar.gz",
+        "count": 9328,
+        "size": 459795
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2018-12-18T16:09:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.6.0.tar.gz",
+        "count": 57,
+        "size": 456083
+      }
+    ]
+  },
+  {
+    "name": "v0.5.1",
+    "date": "2018-08-22T23:51:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.5.1.tar.gz",
+        "count": 53,
+        "size": 439076
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2018-08-16T19:31:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_docker-v0.5.0.tar.gz",
+        "count": 53,
+        "size": 439087
+      }
+    ]
+  }
+]

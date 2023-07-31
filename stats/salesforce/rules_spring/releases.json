@@ -1,0 +1,344 @@
+[
+  {
+    "name": "2.2.5-M1",
+    "date": "2023-07-28T00:40:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.2.5-M1.zip",
+        "count": 4,
+        "size": 232530
+      }
+    ]
+  },
+  {
+    "name": "2.2.4",
+    "date": "2023-07-05T15:43:27Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules-spring-2.2.4.zip",
+        "count": 3504,
+        "size": 227113
+      }
+    ]
+  },
+  {
+    "name": "2.2.3",
+    "date": "2023-06-21T08:06:32Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules-spring-2.2.3.zip",
+        "count": 103,
+        "size": 126492
+      }
+    ]
+  },
+  {
+    "name": "2.2.2",
+    "date": "2023-01-28T06:07:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.2.2.zip",
+        "count": 29532,
+        "size": 126492
+      }
+    ]
+  },
+  {
+    "name": "2.2.1",
+    "date": "2022-04-23T05:51:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.2.1.zip",
+        "count": 232510,
+        "size": 390775
+      }
+    ]
+  },
+  {
+    "name": "2.2.0",
+    "date": "2021-11-19T01:32:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.2.0.zip",
+        "count": 1893,
+        "size": 206538
+      }
+    ]
+  },
+  {
+    "name": "2.1.4",
+    "date": "2021-08-15T07:08:44Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules-spring-2.1.4.zip",
+        "count": 605187,
+        "size": 114239
+      }
+    ]
+  },
+  {
+    "name": "2.1.3",
+    "date": "2021-06-08T21:28:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.1.3.zip",
+        "count": 22089,
+        "size": 1168601
+      }
+    ]
+  },
+  {
+    "name": "2.1.2",
+    "date": "2021-05-28T05:11:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.1.2.zip",
+        "count": 168,
+        "size": 595170
+      }
+    ]
+  },
+  {
+    "name": "2.1.1",
+    "date": "2021-05-14T20:56:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.1.1.zip",
+        "count": 2672,
+        "size": 308467
+      }
+    ]
+  },
+  {
+    "name": "2.1.0",
+    "date": "2021-04-23T02:48:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.1.0.zip",
+        "count": 26718,
+        "size": 110992
+      }
+    ]
+  },
+  {
+    "name": "2.0.0",
+    "date": "2021-03-13T07:29:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules-spring-2.0.0.zip",
+        "count": 75654,
+        "size": 125974
+      }
+    ]
+  },
+  {
+    "name": "1.1.2",
+    "date": "2021-01-26T17:02:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.1.2.zip",
+        "count": 535557,
+        "size": 119682
+      }
+    ]
+  },
+  {
+    "name": "1.1.1",
+    "date": "2021-01-22T18:06:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.1.1.zip",
+        "count": 179,
+        "size": 119679
+      }
+    ]
+  },
+  {
+    "name": "1.1.0",
+    "date": "2021-01-15T22:23:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.1.0.zip",
+        "count": 223,
+        "size": 119492
+      }
+    ]
+  },
+  {
+    "name": "1.1.0-rc1",
+    "date": "2021-01-05T00:50:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.1.0-rc1.zip",
+        "count": 17,
+        "size": 74550
+      }
+    ]
+  },
+  {
+    "name": "1.0.9",
+    "date": "2020-12-17T17:54:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.9.zip",
+        "count": 8,
+        "size": 72863
+      }
+    ]
+  },
+  {
+    "name": "1.0.8",
+    "date": "2020-12-16T00:22:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.8.zip",
+        "count": 22,
+        "size": 70892
+      }
+    ]
+  },
+  {
+    "name": "1.0.7",
+    "date": "2020-12-11T01:35:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.6",
+    "date": "2020-11-25T15:40:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.6.zip",
+        "count": 121,
+        "size": 63903
+      }
+    ]
+  },
+  {
+    "name": "1.0.5",
+    "date": "2020-11-10T14:35:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.5.zip",
+        "count": 21,
+        "size": 64109
+      }
+    ]
+  },
+  {
+    "name": "1.0.4",
+    "date": "2020-10-30T17:28:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.4.zip",
+        "count": 11,
+        "size": 64045
+      }
+    ]
+  },
+  {
+    "name": "1.0.3",
+    "date": "2020-10-28T17:45:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.3.zip",
+        "count": 634,
+        "size": 68514
+      }
+    ]
+  },
+  {
+    "name": "1.0.2",
+    "date": "2020-09-23T22:51:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.2.zip",
+        "count": 18656,
+        "size": 51110
+      }
+    ]
+  },
+  {
+    "name": "1.0.1",
+    "date": "2020-09-21T21:41:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.1.zip",
+        "count": 11,
+        "size": 62814
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2020-09-21T19:50:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-1.0.0.zip",
+        "count": 19,
+        "size": 45817
+      }
+    ]
+  },
+  {
+    "name": "0.8.2",
+    "date": "2020-09-21T18:37:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-0.8.2.zip",
+        "count": 10,
+        "size": 50428
+      }
+    ]
+  },
+  {
+    "name": "0.8.1",
+    "date": "2020-04-29T21:37:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-0.8.1.zip",
+        "count": 35005,
+        "size": 42964
+      }
+    ]
+  },
+  {
+    "name": "0.8.0",
+    "date": "2020-04-13T23:34:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-springboot-rule-0.8.0.zip",
+        "count": 12,
+        "size": 42928
+      }
+    ]
+  }
+]

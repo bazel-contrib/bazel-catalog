@@ -1,0 +1,332 @@
+[
+  {
+    "name": "1.4.1",
+    "date": "2023-07-06T21:44:03Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 87,
+        "size": 5623808
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 10,
+        "size": 1463680
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 301,
+        "size": 1086464
+      }
+    ]
+  },
+  {
+    "name": "1.4.0",
+    "date": "2023-06-08T20:24:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 197,
+        "size": 5631528
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 12,
+        "size": 1464336
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 330,
+        "size": 1091072
+      }
+    ]
+  },
+  {
+    "name": "1.3.3",
+    "date": "2022-11-26T05:44:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 892,
+        "size": 5316936
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 115,
+        "size": 1430432
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 830,
+        "size": 1088000
+      }
+    ]
+  },
+  {
+    "name": "1.3.2",
+    "date": "2022-11-20T23:47:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 27,
+        "size": 5317824
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 3,
+        "size": 1429456
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 69,
+        "size": 1088512
+      }
+    ]
+  },
+  {
+    "name": "1.3.1",
+    "date": "2022-02-14T00:50:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 1989,
+        "size": 4921560
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 79,
+        "size": 1393360
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 1447,
+        "size": 1062912
+      }
+    ]
+  },
+  {
+    "name": "1.3.0",
+    "date": "2022-01-08T05:24:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 174,
+        "size": 4817176
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 31,
+        "size": 1394152
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 320,
+        "size": 1046016
+      }
+    ]
+  },
+  {
+    "name": "1.2.0",
+    "date": "2021-11-05T19:00:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 245,
+        "size": 4812528
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 34,
+        "size": 1367552
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 292,
+        "size": 957952
+      }
+    ]
+  },
+  {
+    "name": "1.1.0",
+    "date": "2021-10-21T21:42:19Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 1660,
+        "size": 4811232
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 13,
+        "size": 1366912
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 96,
+        "size": 957952
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2021-07-25T17:17:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 928,
+        "size": 4840120
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 75,
+        "size": 1357976
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 570,
+        "size": 959488
+      }
+    ]
+  },
+  {
+    "name": "0.3.8",
+    "date": "2021-05-25T16:22:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 165,
+        "size": 4922800
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 36,
+        "size": 1353264
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 375,
+        "size": 958464
+      }
+    ]
+  },
+  {
+    "name": "0.3.7",
+    "date": "2020-10-01T14:25:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 388,
+        "size": 4389720
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 81,
+        "size": 1226372
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 843,
+        "size": 1007616
+      }
+    ]
+  },
+  {
+    "name": "0.3.6",
+    "date": "2020-07-29T23:27:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 95,
+        "size": 4183040
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 33,
+        "size": 1207764
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 350,
+        "size": 974848
+      }
+    ]
+  },
+  {
+    "name": "0.3.5",
+    "date": "2020-07-10T16:35:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 36,
+        "size": 4214936
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 24,
+        "size": 1217948
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 146,
+        "size": 994304
+      }
+    ]
+  },
+  {
+    "name": "0.3.4",
+    "date": "2020-05-23T18:52:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 77,
+        "size": 4058920
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 35,
+        "size": 1184296
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 118,
+        "size": 973312
+      }
+    ]
+  },
+  {
+    "name": "0.3.3",
+    "date": "2020-04-28T15:33:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "b3sum_linux_x64_bin",
+        "count": 67,
+        "size": 4016824
+      },
+      {
+        "name": "b3sum_macos_x64_bin",
+        "count": 31,
+        "size": 1166192
+      },
+      {
+        "name": "b3sum_windows_x64_bin.exe",
+        "count": 131,
+        "size": 914432
+      }
+    ]
+  }
+]

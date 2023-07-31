@@ -1,0 +1,80 @@
+[
+  {
+    "name": "v0.7",
+    "date": "2022-06-17T19:01:46Z",
+    "mentions": 16,
+    "downloads": []
+  },
+  {
+    "name": "v0.6",
+    "date": "2020-09-10T23:56:01Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.5",
+    "date": "2020-08-17T21:57:58Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.4",
+    "date": "2020-01-23T18:44:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_k8s-v0.4.tar.gz",
+        "count": 360030,
+        "size": 70430
+      }
+    ]
+  },
+  {
+    "name": "v0.3.1",
+    "date": "2019-11-04T18:36:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_k8s-v0.3.1.tar.gz",
+        "count": 202716,
+        "size": 64448
+      }
+    ]
+  },
+  {
+    "name": "v0.3",
+    "date": "2019-10-29T16:52:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_k8s-v0.3.tar.gz",
+        "count": 46319,
+        "size": 64240
+      }
+    ]
+  },
+  {
+    "name": "v0.2",
+    "date": "2019-10-11T17:21:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_k8s-v0.2.tar.gz",
+        "count": 16567,
+        "size": 63882
+      }
+    ]
+  },
+  {
+    "name": "v0.1",
+    "date": "2018-12-20T15:35:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_k8s-v0.1.tar.gz",
+        "count": 2243,
+        "size": 52917
+      }
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "name": "1.8.0",
+    "date": "2023-07-14T00:55:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.8.0.tar.gz",
+        "count": 2573,
+        "size": 67953
+      }
+    ]
+  },
+  {
+    "name": "1.7.1",
+    "date": "2023-07-07T19:56:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.7.1.tar.gz",
+        "count": 15908,
+        "size": 66419
+      }
+    ]
+  },
+  {
+    "name": "1.7.0",
+    "date": "2023-06-30T21:25:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.7.0.tar.gz",
+        "count": 3125,
+        "size": 66407
+      }
+    ]
+  },
+  {
+    "name": "1.6.0",
+    "date": "2023-05-08T15:45:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.6.0.tar.gz",
+        "count": 133849,
+        "size": 66375
+      }
+    ]
+  },
+  {
+    "name": "1.5.0",
+    "date": "2023-03-24T14:08:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.5.0.tar.gz",
+        "count": 145501,
+        "size": 66855
+      }
+    ]
+  },
+  {
+    "name": "1.4.1",
+    "date": "2023-02-16T21:13:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.4.1.tar.gz",
+        "count": 281629,
+        "size": 64313
+      }
+    ]
+  },
+  {
+    "name": "1.4.0",
+    "date": "2023-02-15T19:28:25Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "apple_support.1.4.0.tar.gz",
+        "count": 533,
+        "size": 64485
+      }
+    ]
+  },
+  {
+    "name": "1.3.2",
+    "date": "2022-10-31T17:22:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.3.2.tar.gz",
+        "count": 289276,
+        "size": 27935
+      }
+    ]
+  },
+  {
+    "name": "1.3.1",
+    "date": "2022-09-16T13:00:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.3.1.tar.gz",
+        "count": 990257,
+        "size": 29268
+      }
+    ]
+  },
+  {
+    "name": "1.3.0",
+    "date": "2022-08-19T20:03:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.3.0.tar.gz",
+        "count": 289610,
+        "size": 29322
+      }
+    ]
+  },
+  {
+    "name": "1.2.0",
+    "date": "2022-08-05T16:06:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.2.0.tar.gz",
+        "count": 498,
+        "size": 28006
+      }
+    ]
+  },
+  {
+    "name": "1.1.0",
+    "date": "2022-07-08T16:11:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.1.0.tar.gz",
+        "count": 96383,
+        "size": 27105
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2022-06-17T22:30:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.1.0.0.tar.gz",
+        "count": 405699,
+        "size": 24563
+      }
+    ]
+  },
+  {
+    "name": "0.13.0",
+    "date": "2022-02-03T20:07:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.13.0.tar.gz",
+        "count": 660243,
+        "size": 26725
+      }
+    ]
+  },
+  {
+    "name": "0.12.1",
+    "date": "2022-01-22T01:26:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.12.1.tar.gz",
+        "count": 124908,
+        "size": 26708
+      }
+    ]
+  },
+  {
+    "name": "0.12.0",
+    "date": "2022-01-22T01:21:15Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "apple_support.0.12.0.tar.gz",
+        "count": 14,
+        "size": 26702
+      }
+    ]
+  },
+  {
+    "name": "0.11.0",
+    "date": "2021-06-11T18:48:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.11.0.tar.gz",
+        "count": 572084,
+        "size": 21098
+      }
+    ]
+  },
+  {
+    "name": "0.10.0",
+    "date": "2021-04-07T00:06:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.10.0.tar.gz",
+        "count": 416946,
+        "size": 20367
+      }
+    ]
+  },
+  {
+    "name": "0.9.2",
+    "date": "2021-03-12T18:08:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.9.2.tar.gz",
+        "count": 115121,
+        "size": 20952
+      }
+    ]
+  },
+  {
+    "name": "0.9.1",
+    "date": "2020-11-04T20:36:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.9.1.tar.gz",
+        "count": 143264,
+        "size": 21479
+      }
+    ]
+  },
+  {
+    "name": "0.9.0",
+    "date": "2020-09-28T20:52:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.9.0.tar.gz",
+        "count": 13571,
+        "size": 21732
+      }
+    ]
+  },
+  {
+    "name": "0.8.0",
+    "date": "2020-08-07T22:20:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.8.0.tar.gz",
+        "count": 37102,
+        "size": 20495
+      }
+    ]
+  },
+  {
+    "name": "0.7.2",
+    "date": "2019-10-09T18:49:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.7.2.tar.gz",
+        "count": 497753,
+        "size": 20069
+      }
+    ]
+  },
+  {
+    "name": "0.7.1",
+    "date": "2019-08-09T18:28:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.7.1.tar.gz",
+        "count": 2176353,
+        "size": 20070
+      }
+    ]
+  },
+  {
+    "name": "0.7.0",
+    "date": "2019-08-05T16:05:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.7.0.tar.gz",
+        "count": 3170,
+        "size": 20052
+      }
+    ]
+  },
+  {
+    "name": "0.6.0",
+    "date": "2019-04-01T19:19:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "apple_support.0.6.0.tar.gz",
+        "count": 351416,
+        "size": 18978
+      }
+    ]
+  },
+  {
+    "name": "0.5.0",
+    "date": "2019-02-26T18:37:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.4.0",
+    "date": "2019-01-18T18:02:13Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.3.0",
+    "date": "2018-12-19T22:17:06Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.2.0",
+    "date": "2018-12-19T15:56:28Z",
+    "mentions": null,
+    "downloads": []
+  }
+]
