@@ -15,6 +15,7 @@ do
     DESTDIR="$OUTPUT_ROOT/$ghrepo"
     mkdir -p "$DESTDIR"
 
+    # Read data into bash variables, pretty awkward yup
     IFS=$',' read -r subscribers_count stargazers_count forks_count open_issues_count repo_age_days < <(
         jq --raw-output --from-file "$SCRIPT_DIR/../filters/repo_data.jq" "$SCRIPT_DIR/../stats/$ghrepo/repo.json"
     )
@@ -24,16 +25,24 @@ do
     IFS=$',' read -r total_downloads last_release_age_days < <(
         jq --raw-output --from-file "$SCRIPT_DIR/../filters/release_data.jq" < "$SCRIPT_DIR/../stats/$ghrepo/releases.json"
     )
+
+    # Calculate some derivative metrics
     downloads_per_day=$((total_downloads / repo_age_days))
     health_percentage=$(jq --raw-output '.health_percentage' "$SCRIPT_DIR/../stats/$ghrepo/community_profile.json")
 
+    # Run our scoring algorithms
     adoption_score=$(
         jq --null-input --raw-output --arg stars "$stargazers_count" --arg forks "$forks_count" --arg downloads "$downloads_per_day" --from-file "$SCRIPT_DIR/../filters/adoption_score.jq"
     )
-    maintenance_score=Unknown
+    maintenance_score=$(
+        jq --null-input --raw-output --arg last_release_age_days "$last_release_age_days" --from-file "$SCRIPT_DIR/../filters/maintenance_score.jq"
+    )
     quality_score=Unknown
-    stability_score=Unknown
+    stability_score=$(
+        jq --null-input --raw-output --arg pre_1_0 "$pre_1_0" --from-file "$SCRIPT_DIR/../filters/stability_score.jq"
+    )
 
+    # Render the output
     cat > "$DESTDIR"/index.md <<EOF
 # $ghrepo
 
@@ -59,7 +68,7 @@ Score: ${adoption_score}
 ![GitHub contributors](https://img.shields.io/github/contributors/$ghrepo)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/$ghrepo)
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/$ghrepo)
-![GitHub issues](https://img.shields.io/github/issues-pr/$ghrepo)
+![GitHub issues](https://img.shields.io/github/issues/$ghrepo)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/$ghrepo)
 
 - Community Health: ${health_percentage}%
@@ -90,7 +99,7 @@ Score: ${stability_score}
 
 EOF
 
-    # TODO: replace these numbers with "green/Likely", "yellow/unsure", "red/Unlikely"
+    # Finally record our result in the table on the homepage.
     echo "| [${ghrepo}](./${ghrepo}) | $adoption_score | $maintenance_score | $quality_score | $stability_score |" >> "$OUTPUT_ROOT"/index.md
 done < <(
     jq --raw-output \
