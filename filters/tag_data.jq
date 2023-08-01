@@ -2,5 +2,5 @@
 # See scripts/collect_github_stats.sh where tags.json is written
 [
     # Zero-th index because we assume GitHub returns the data most-recent-first
-    .[0].name,
+    .[0].name
 ] | @csv
