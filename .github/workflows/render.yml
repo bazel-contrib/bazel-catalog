@@ -19,7 +19,7 @@ jobs:
       - name: Generate
         run: ./scripts/generate_ghpages.sh
         env:
-          - OUTPUT_ROOT: ./public
+          OUTPUT_ROOT: ./public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
