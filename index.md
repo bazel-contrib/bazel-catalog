@@ -3,11 +3,7 @@ This site under construction. See <https://github.com/bazel-contrib/SIG-rules-au
 We attempt to list many Bazel rulesets, and provide guidance about which ones are best to depend on.
 Modules listed on <https://registry.bazel.build> are periodically mirrored here.
 
-Other future datasources may include:
-
-- oss-compass, e.g. [report for rules_docker](https://oss-compass.org/analyze/snbnfub0)
-
-Definitions:
+General guidance we want to provide for Bazel users includes:
 
 - **Adopted**: does the repository have an observable userbase?
   - [ ] Number of downloads of release artifacts per week
@@ -32,6 +28,10 @@ In addition we should gather:
 - [ ] Supported Operating systems, in particular is it known to work on Windows?
 - [ ] Supported Bazel versions? (though maybe only BCR can document this)
 - [ ] Does it appear on the Bazel Central Registry?
+
+Other future datasources may include:
+
+- oss-compass, e.g. [report for rules_docker](https://oss-compass.org/analyze/snbnfub0)
 
 <!-- content for this table is filled in by ./scripts/generate_ghpages.sh -->
 
