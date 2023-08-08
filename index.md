@@ -33,7 +33,7 @@ Other future datasources may include:
 
 - oss-compass, e.g. [report for rules_docker](https://oss-compass.org/analyze/snbnfub0)
 
-<!-- content for this table is filled in by ./scripts/generate_ghpages.sh -->
+<!-- content for this table is filled in by ./scripts/render_ghpages.sh -->
 
 | Repository | Adopted | Maintained | Stable |
 | ---------- | ------- | ---------- | ------ |

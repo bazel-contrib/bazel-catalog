@@ -16,11 +16,13 @@ To work in this repository, it helps to understand the structure and dataflows.
 
 2. git data produced by `collect_gitstats.sh` is slow to collect and has a giant output, which
    goes into the `gitstats` folder in the `gh-pages` branch to avoid bloating the `main` branch.
-3. Run `scripts/generate_ghpages.sh` to produce the rest of the content in the `gh-pages` branch.
 
+GitHub Actions will then take over automatically, running the render.yml workflow which:
+
+1. Runs `scripts/render_ghpages.sh` to produce the rest of the content in the `gh-pages` branch.
    - This script runs `filters/*_data.jq` to get some datapoints which we render in markdown
-
-4. Push the `gh-pages` branch and watch GH Actions to know when the site is live.
+2. Pushes the `gh-pages` branch
+3. A separate GHA workflow updates the live GitHub pages site after the gh-pages branch changes.
 
 Still needed:
 

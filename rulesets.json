@@ -2,7 +2,8 @@
   "$schema": "./rulesets.schema.json",
   "rulesets": [
     {
-      "repository": "github:BLAKE3-team/BLAKE3"
+      "repository": "github:BLAKE3-team/BLAKE3",
+      "maintainers": []
     },
     {
       "repository": "github:BalderOdinson/rules_cuda"
@@ -11,105 +12,338 @@
       "repository": "github:DataDog/rules_oci_bootstrap"
     },
     {
-      "repository": "github:GZGavinZhao/gzgz_rules_sass"
+      "repository": "github:GZGavinZhao/gzgz_rules_sass",
+      "maintainers": [
+        {
+          "email": "me@gzgz.dev",
+          "github": "GZGavinZhao",
+          "name": "Gavin Zhao"
+        }
+      ]
     },
     {
-      "repository": "github:GoogleContainerTools/container-structure-test"
+      "repository": "github:GoogleContainerTools/container-structure-test",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        },
+        {
+          "email": "sahin@aspect.dev",
+          "github": "thesayyn",
+          "name": "Şahin Yort"
+        }
+      ]
     },
     {
-      "repository": "github:LMDB/lmdb"
+      "repository": "github:LMDB/lmdb",
+      "maintainers": [
+        {
+          "email": "git@gzgz.dev",
+          "github": "GZGavinZhao",
+          "name": "Gavin Zhao"
+        }
+      ]
     },
     {
-      "repository": "github:MobileNativeFoundation/rules_xcodeproj"
+      "repository": "github:MobileNativeFoundation/rules_xcodeproj",
+      "maintainers": [
+        {
+          "email": "github@brentleyjones.com",
+          "github": "brentleyjones",
+          "name": "Brentley Jones"
+        },
+        {
+          "email": "me@patrickbalestra.com",
+          "github": "BalestraPatrick",
+          "name": "Patrick Balestra"
+        }
+      ]
     },
     {
-      "repository": "github:Tencent/rapidjson"
+      "repository": "github:Tencent/rapidjson",
+      "maintainers": []
     },
     {
-      "repository": "github:Tessil/robin-map"
+      "repository": "github:Tessil/robin-map",
+      "maintainers": []
     },
     {
-      "repository": "github:abseil/abseil-cpp"
+      "repository": "github:abseil/abseil-cpp",
+      "maintainers": []
     },
     {
-      "repository": "github:abseil/abseil-py"
+      "repository": "github:abseil/abseil-py",
+      "maintainers": []
     },
     {
       "repository": "github:acqio/rules_microsoft_azure"
     },
     {
-      "repository": "github:apple/apple_rules_lint"
+      "repository": "github:apple/apple_rules_lint",
+      "maintainers": [
+        {
+          "email": "simon.m.stewart@gmail.com",
+          "github": "@shs96c",
+          "name": "Simon Stewart"
+        }
+      ]
     },
     {
-      "repository": "github:apple/swift-argument-parser"
+      "repository": "github:apple/swift-argument-parser",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        },
+        {
+          "email": "jp@jpsim.com",
+          "github": "jpsim",
+          "name": "JP Simard"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/bazel-lib"
+      "repository": "github:aspect-build/bazel-lib",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_esbuild"
+      "repository": "github:aspect-build/rules_esbuild",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_jasmine"
+      "repository": "github:aspect-build/rules_jasmine",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_jest"
+      "repository": "github:aspect-build/rules_jest",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_js"
+      "repository": "github:aspect-build/rules_js",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_py"
+      "repository": "github:aspect-build/rules_py",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_rollup"
+      "repository": "github:aspect-build/rules_rollup",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_swc"
+      "repository": "github:aspect-build/rules_swc",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_terser"
+      "repository": "github:aspect-build/rules_terser",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:aspect-build/rules_ts"
+      "repository": "github:aspect-build/rules_ts",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ]
     },
     {
-      "repository": "github:bazel-contrib/bazel_features"
+      "repository": "github:bazel-contrib/bazel_features",
+      "maintainers": [
+        {
+          "email": "wyverald@gmail.com",
+          "github": "Wyverald",
+          "name": "Xudong Yang"
+        },
+        {
+          "github": "meteorcloudy",
+          "name": "Yun Peng"
+        },
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ]
     },
     {
-      "repository": "github:bazel-contrib/rules_bazel_integration_test"
+      "repository": "github:bazel-contrib/rules_bazel_integration_test",
+      "maintainers": [
+        {
+          "email": "chuck.grindel@gmail.com",
+          "github": "cgrindel",
+          "name": "Chuck Grindel"
+        }
+      ]
     },
     {
-      "repository": "github:bazel-contrib/rules_jvm"
+      "repository": "github:bazel-contrib/rules_jvm",
+      "maintainers": [
+        {
+          "email": "simon.m.stewart@gmail.com",
+          "github": "shs96c",
+          "name": "Simon Stewart"
+        },
+        {
+          "email": "dawagner@gmail.com",
+          "github": "illicitonion",
+          "name": "Daniel Wagner-Hall"
+        }
+      ]
     },
     {
-      "repository": "github:bazel-contrib/rules_oci"
+      "repository": "github:bazel-contrib/rules_oci",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        },
+        {
+          "email": "sahin@aspect.dev",
+          "github": "thesayyn",
+          "name": "Şahin Yort"
+        }
+      ]
     },
     {
-      "repository": "github:bazelbuild/apple_support"
+      "repository": "github:bazelbuild/apple_support",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        },
+        {
+          "email": "me@patrickbalestra.com",
+          "github": "BalestraPatrick",
+          "name": "Patrick Balestra"
+        }
+      ]
     },
     {
-      "repository": "github:bazelbuild/bazel-gazelle"
+      "repository": "github:bazelbuild/bazel-gazelle",
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ]
     },
     {
       "repository": "github:bazelbuild/bazel-skylib",
+      "maintainers": [
+        {
+          "email": "bazel-dev@googlegroups.com",
+          "name": "The Bazel Team"
+        }
+      ],
       "bazel-recommended": true
     },
     {
-      "repository": "github:bazelbuild/platforms"
+      "repository": "github:bazelbuild/platforms",
+      "maintainers": [
+        {
+          "email": "bazel-dev@googlegroups.com",
+          "name": "The Bazel Team"
+        }
+      ]
     },
     {
-      "repository": "github:bazelbuild/rules_android"
+      "repository": "github:bazelbuild/rules_android",
+      "maintainers": []
     },
     {
       "repository": "github:bazelbuild/rules_appengine"
     },
     {
       "repository": "github:bazelbuild/rules_apple",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        },
+        {
+          "email": "me@patrickbalestra.com",
+          "github": "BalestraPatrick",
+          "name": "Patrick Balestra"
+        },
+        {
+          "email": "github@brentleyjones.com",
+          "github": "brentleyjones",
+          "name": "Jones Brentley"
+        },
+        {
+          "email": "t@thi.im",
+          "github": "thii",
+          "name": "Thi Doãn"
+        }
+      ],
       "bazel-recommended": true
     },
     {
-      "repository": "github:bazelbuild/rules_cc"
+      "repository": "github:bazelbuild/rules_cc",
+      "maintainers": []
     },
     {
       "repository": "github:bazelbuild/rules_closure"
@@ -126,13 +360,26 @@
       "shortname": ".NET"
     },
     {
-      "repository": "github:bazelbuild/rules_foreign_cc"
+      "repository": "github:bazelbuild/rules_foreign_cc",
+      "maintainers": [
+        {
+          "github": "jsharpe",
+          "name": "James Sharpe"
+        }
+      ]
     },
     {
       "repository": "github:bazelbuild/rules_fuzzing"
     },
     {
       "repository": "github:bazelbuild/rules_go",
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ],
       "bazel-recommended": true
     },
     {
@@ -142,13 +389,31 @@
       "repository": "github:bazelbuild/rules_gwt"
     },
     {
-      "repository": "github:bazelbuild/rules_java"
+      "repository": "github:bazelbuild/rules_java",
+      "maintainers": []
     },
     {
       "repository": "github:bazelbuild/rules_jsonnet"
     },
     {
       "repository": "github:bazelbuild/rules_jvm_external",
+      "maintainers": [
+        {
+          "email": "",
+          "github": "@jin",
+          "name": "Jingwen Chen"
+        },
+        {
+          "email": "simon.m.stewart@gmail.com",
+          "github": "@shs96c",
+          "name": "Simon Stewart"
+        },
+        {
+          "email": "",
+          "github": "@cheister",
+          "name": "Chris Heisterkamp"
+        }
+      ],
       "bazel-recommended": true
     },
     {
@@ -159,10 +424,24 @@
       "repository": "github:bazelbuild/rules_kotlin"
     },
     {
-      "repository": "github:bazelbuild/rules_license"
+      "repository": "github:bazelbuild/rules_license",
+      "maintainers": [
+        {
+          "email": "aiuto@google.com",
+          "github": "aiuto",
+          "name": "Tony Aiuto"
+        }
+      ]
     },
     {
       "repository": "github:bazelbuild/rules_nodejs",
+      "maintainers": [
+        {
+          "email": "hello@aspect.dev",
+          "github": "aspect-build",
+          "name": "Aspect team"
+        }
+      ],
       "bazel-recommended": true
     },
     {
@@ -170,6 +449,7 @@
     },
     {
       "repository": "github:bazelbuild/rules_pkg",
+      "maintainers": [],
       "shortname": "Packaging",
       "bazel-recommended": true
     },
@@ -178,11 +458,24 @@
     },
     {
       "repository": "github:bazelbuild/rules_proto",
+      "maintainers": [],
       "shortname": "Protocol Buffers",
       "bazel-recommended": true
     },
     {
       "repository": "github:bazelbuild/rules_python",
+      "maintainers": [
+        {
+          "name": "Richard Levasseur",
+          "email": "rlevasseur@google.com",
+          "github": "rickeylev"
+        },
+        {
+          "name": "Thulio Ferraz Assis",
+          "email": "thulio@aspect.dev",
+          "github": "f0rmiga"
+        }
+      ],
       "bazel-recommended": true
     },
     {
@@ -196,17 +489,47 @@
       "bazel-recommended": true
     },
     {
-      "repository": "github:bazelbuild/rules_swift"
+      "repository": "github:bazelbuild/rules_swift",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        },
+        {
+          "email": "me@patrickbalestra.com",
+          "github": "BalestraPatrick",
+          "name": "Patrick Balestra"
+        },
+        {
+          "email": "github@brentleyjones.com",
+          "github": "brentleyjones",
+          "name": "Jones Brentley"
+        },
+        {
+          "email": "t@thi.im",
+          "github": "thii",
+          "name": "Thi Doãn"
+        }
+      ]
     },
     {
-      "repository": "github:bazelbuild/rules_testing"
+      "repository": "github:bazelbuild/rules_testing",
+      "maintainers": [
+        {
+          "email": "rlevasseur@google.com",
+          "github": "rickeylev",
+          "name": "Richard Levasseur"
+        }
+      ]
     },
     {
       "repository": "github:bazelbuild/rules_webtesting",
       "bazel-recommended": true
     },
     {
-      "repository": "github:bazelbuild/stardoc"
+      "repository": "github:bazelbuild/stardoc",
+      "maintainers": []
     },
     {
       "repository": "github:bazelruby/rules_ruby"
@@ -215,61 +538,125 @@
       "repository": "github:buildfoundation/bazel_rules_detekt"
     },
     {
-      "repository": "github:c-ares/c-ares"
+      "repository": "github:c-ares/c-ares",
+      "maintainers": []
     },
     {
-      "repository": "github:catchorg/Catch2"
+      "repository": "github:catchorg/Catch2",
+      "maintainers": [
+        {
+          "email": "cccuroky@gmail.com",
+          "github": "curoky",
+          "name": "curoky"
+        }
+      ]
     },
     {
-      "repository": "github:cgrindel/bazel-starlib"
+      "repository": "github:cgrindel/bazel-starlib",
+      "maintainers": [
+        {
+          "email": "chuck.grindel@gmail.com",
+          "github": "cgrindel",
+          "name": "Chuck Grindel"
+        }
+      ]
     },
     {
-      "repository": "github:cgrindel/rules_swift_package_manager"
+      "repository": "github:cgrindel/rules_swift_package_manager",
+      "maintainers": [
+        {
+          "email": "chuck.grindel@gmail.com",
+          "github": "cgrindel",
+          "name": "Chuck Grindel"
+        }
+      ]
     },
     {
-      "repository": "github:chriskohlhoff/asio"
+      "repository": "github:chriskohlhoff/asio",
+      "maintainers": [
+        {
+          "email": "tekieli.lukasz@gmail.com",
+          "github": "ltekieli",
+          "name": "Lukasz Tekieli"
+        }
+      ]
     },
     {
       "repository": "github:coinbase/rules_ruby"
     },
     {
-      "repository": "github:drmohundro/SWXMLHash"
+      "repository": "github:drmohundro/SWXMLHash",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        },
+        {
+          "email": "jp@jpsim.com",
+          "github": "jpsim",
+          "name": "JP Simard"
+        }
+      ]
     },
     {
       "repository": "github:dropbox/dbx_build_tools"
     },
     {
-      "repository": "github:fmtlib/fmt"
+      "repository": "github:fmtlib/fmt",
+      "maintainers": []
     },
     {
-      "repository": "github:gabime/spdlog"
+      "repository": "github:gabime/spdlog",
+      "maintainers": []
     },
     {
-      "repository": "github:gflags/gflags"
+      "repository": "github:gflags/gflags",
+      "maintainers": []
     },
     {
-      "repository": "github:google/benchmark"
+      "repository": "github:google/benchmark",
+      "maintainers": []
     },
     {
-      "repository": "github:google/boringssl"
+      "repository": "github:google/boringssl",
+      "maintainers": []
     },
     {
-      "repository": "github:google/glog"
+      "repository": "github:google/glog",
+      "maintainers": []
     },
     {
-      "repository": "github:google/go-jsonnet"
+      "repository": "github:google/go-jsonnet",
+      "maintainers": []
     },
     {
-      "repository": "github:google/googletest"
+      "repository": "github:google/googletest",
+      "maintainers": []
     },
     {
-      "repository": "github:google/jsonnet"
+      "repository": "github:google/jsonnet",
+      "maintainers": []
     },
     {
-      "repository": "github:google/re2"
+      "repository": "github:google/re2",
+      "maintainers": [
+        {
+          "email": "junyer@google.com",
+          "github": "junyer",
+          "name": "Paul Wankadia"
+        }
+      ]
     },
     {
-      "repository": "github:google/zopfli"
+      "repository": "github:google/zopfli",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        }
+      ]
     },
     {
       "repository": "github:grailbio/bazel-compilation-database"
@@ -281,86 +668,220 @@
       "repository": "github:grailbio/rules_r"
     },
     {
-      "repository": "github:grpc/grpc"
+      "repository": "github:grpc/grpc",
+      "maintainers": []
     },
     {
       "repository": "github:hdl/bazel_rules_hdl"
     },
     {
-      "repository": "github:jmillikin/rules_bison"
+      "repository": "github:jmillikin/rules_bison",
+      "maintainers": [
+        {
+          "email": "john@john-millikin.com",
+          "github": "jmillikin",
+          "name": "John Millikin"
+        }
+      ]
     },
     {
-      "repository": "github:jmillikin/rules_flex"
+      "repository": "github:jmillikin/rules_flex",
+      "maintainers": [
+        {
+          "email": "john@john-millikin.com",
+          "github": "jmillikin",
+          "name": "John Millikin"
+        }
+      ]
     },
     {
-      "repository": "github:jmillikin/rules_m4"
+      "repository": "github:jmillikin/rules_m4",
+      "maintainers": [
+        {
+          "email": "john@john-millikin.com",
+          "github": "jmillikin",
+          "name": "John Millikin"
+        }
+      ]
     },
     {
       "repository": "github:jmillikin/rules_ragel"
     },
     {
-      "repository": "github:jpsim/SourceKitten"
+      "repository": "github:jpsim/SourceKitten",
+      "maintainers": [
+        {
+          "email": "jp@jpsim.com",
+          "github": "jpsim",
+          "name": "JP Simard"
+        },
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
     },
     {
-      "repository": "github:jpsim/Yams"
+      "repository": "github:jpsim/Yams",
+      "maintainers": [
+        {
+          "email": "jp@jpsim.com",
+          "github": "jpsim",
+          "name": "JP Simard"
+        }
+      ]
     },
     {
-      "repository": "github:keith/buildifier-prebuilt"
+      "repository": "github:keith/buildifier-prebuilt",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
     },
     {
-      "repository": "github:keith/rules_apple_linker"
+      "repository": "github:keith/rules_apple_linker",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
     },
     {
-      "repository": "github:keith/rules_multirun"
+      "repository": "github:keith/rules_multirun",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
     },
     {
       "repository": "github:kkiningh/rules_verilator"
     },
     {
-      "repository": "github:luben/zstd-jni"
+      "repository": "github:luben/zstd-jni",
+      "maintainers": []
     },
     {
-      "repository": "github:madler/zlib"
+      "repository": "github:madler/zlib",
+      "maintainers": [
+        {
+          "email": "bazel-dev@googlegroups.com",
+          "name": "The Bazel Team"
+        }
+      ]
     },
     {
       "repository": "github:nelhage/rules_boost",
       "bazel-recommended": true
     },
     {
-      "repository": "github:nlohmann/json"
+      "repository": "github:nlohmann/json",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
     },
     {
-      "repository": "github:oxidase/rules_poetry"
+      "repository": "github:oxidase/rules_poetry",
+      "maintainers": [
+        {
+          "email": "michael.krasnyk@gmail.com",
+          "github": "oxidase",
+          "name": "Michael Krasnyk"
+        }
+      ]
     },
     {
-      "repository": "github:protocolbuffers/protobuf"
+      "repository": "github:protocolbuffers/protobuf",
+      "maintainers": []
     },
     {
-      "repository": "github:protocolbuffers/upb"
+      "repository": "github:protocolbuffers/upb",
+      "maintainers": []
     },
     {
-      "repository": "github:rabbitmq/looking_glass"
+      "repository": "github:rabbitmq/looking_glass",
+      "maintainers": [
+        {
+          "email": "kuryloskip@vmware.com",
+          "github": "pjk25",
+          "name": "Rin Kuryloski"
+        }
+      ]
     },
     {
-      "repository": "github:rabbitmq/lz4-erlang"
+      "repository": "github:rabbitmq/lz4-erlang",
+      "maintainers": [
+        {
+          "email": "kuryloskip@vmware.com",
+          "github": "pjk25",
+          "name": "Rin Kuryloski"
+        }
+      ]
     },
     {
-      "repository": "github:rabbitmq/rules_erlang"
+      "repository": "github:rabbitmq/rules_erlang",
+      "maintainers": [
+        {
+          "email": "kuryloskip@vmware.com",
+          "github": "pjk25",
+          "name": "Rin Kuryloski"
+        }
+      ]
     },
     {
-      "repository": "github:realm/SwiftLint"
+      "repository": "github:realm/SwiftLint",
+      "maintainers": [
+        {
+          "email": "jp@jpsim.com",
+          "github": "jpsim",
+          "name": "JP Simard"
+        }
+      ]
     },
     {
-      "repository": "github:robolectric/robolectric-bazel"
+      "repository": "github:robolectric/robolectric-bazel",
+      "maintainers": [
+        {
+          "email": "ben@ben.cm",
+          "github": "Bencodes",
+          "name": "Ben Lee"
+        }
+      ]
     },
     {
       "repository": "github:salesforce/rules_spring"
     },
     {
-      "repository": "github:seh/rules_cue"
+      "repository": "github:seh/rules_cue",
+      "maintainers": [
+        {
+          "email": "seh@panix.com",
+          "github": "seh",
+          "name": "Steven E. Harris"
+        }
+      ]
     },
     {
-      "repository": "github:seh/rules_kustomize"
+      "repository": "github:seh/rules_kustomize",
+      "maintainers": [
+        {
+          "email": "seh@panix.com",
+          "github": "seh",
+          "name": "Steven E. Harris"
+        }
+      ]
     },
     {
       "repository": "github:simuons/rules_clojure"
@@ -382,7 +903,19 @@
       "repository": "github:tweag/rules_nixpkgs"
     },
     {
-      "repository": "github:tweag/rules_sh"
+      "repository": "github:tweag/rules_sh",
+      "maintainers": [
+        {
+          "email": "andreas.herrmann@tweag.io",
+          "github": "aherrmann",
+          "name": "Andreas Herrmann"
+        },
+        {
+          "email": "claudio.bley@tweag.io",
+          "github": "avdv",
+          "name": "Claudio Bley"
+        }
+      ]
     },
     {
       "repository": "github:ubiquitoustech/rules_vite"
@@ -391,7 +924,8 @@
       "repository": "github:vmware/rules_oss_audit"
     },
     {
-      "repository": "github:wjakob/nanobind"
+      "repository": "github:wjakob/nanobind",
+      "maintainers": []
     }
   ]
 }

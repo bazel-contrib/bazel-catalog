@@ -11,19 +11,22 @@
         "properties": {
           "maintainers": {
             "description": "same as the maintainers object on bazel-central-registry metadata.json files",
-            "type": "object",
-            "properties": {
-              "github": {
-                "type": "string",
-                "description": "maintainer's github username"
-              },
-              "email": {
-                "type": "string",
-                "description": "maintainer's email address"
-              },
-              "name": {
-                "type": "string",
-                "description": "maintainer's name"
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "github": {
+                  "type": "string",
+                  "description": "maintainer's github username"
+                },
+                "email": {
+                  "type": "string",
+                  "description": "maintainer's email address"
+                },
+                "name": {
+                  "type": "string",
+                  "description": "maintainer's name"
+                }
               }
             }
           },

@@ -7,12 +7,13 @@
 # and formats each as an object that matches the structure of the first document.
 | (
     .[1]
-    | map(.metadata.repository // "")
-    | flatten
-    | map(select(length > 0))
+    | map(select(.metadata.repository | length > 0))
+    #| map(.metadata.repository // "")
+    #| flatten
+    #| map(select(length > 0))
     | map({
-        "repository": .,
-        # TODO: include more fields here like "maintainers"
+        "repository": .metadata.repository[0],
+        "maintainers": .metadata.maintainers,
     })
 ) as $bcr
 

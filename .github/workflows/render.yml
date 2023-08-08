@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate
-        run: ./scripts/generate_ghpages.sh
+        run: ./scripts/render_ghpages.sh
         env:
           OUTPUT_ROOT: ./public
 
