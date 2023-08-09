@@ -15,7 +15,7 @@
 
 - Community Health: 50%
 - Open issues: 180
-- Age of last release: 76 days
+- Age of last release: 77 days
 
 > Note, a large number of issues may indicate that maintainers don't correct defects, but might also
 > just be an indicator of lots of users.
