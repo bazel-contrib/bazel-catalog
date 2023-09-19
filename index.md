@@ -35,5 +35,5 @@ Other future datasources may include:
 
 <!-- content for this table is filled in by ./scripts/render_ghpages.sh -->
 
-| Repository | Adopted | Maintained | Stable |
-| ---------- | ------- | ---------- | ------ |
+| Repository | Adopted | Maintained | Stable | Maintainers |
+| ---------- | ------- | ---------- | ------ | ----------- |
