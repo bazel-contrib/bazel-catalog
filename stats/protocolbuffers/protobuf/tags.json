@@ -1,5 +1,25 @@
 [
   {
+    "name": "v24.3",
+    "sha": "ee1355459c9ce7ffe264bc40cfdc7b7623d37e99"
+  },
+  {
+    "name": "v24.2",
+    "sha": "54a2e5caa9d1a0a714fb2aa99753a1444414292a"
+  },
+  {
+    "name": "v24.1",
+    "sha": "b256412ba0c37c54247731aec9daa9592627ad5c"
+  },
+  {
+    "name": "v24.0",
+    "sha": "093e258a71caacc053cf5ce86977ba3131361a9a"
+  },
+  {
+    "name": "v24.0-rc3",
+    "sha": "3487ae0c01af9130d2ee6436de142cfff9311aba"
+  },
+  {
     "name": "v24.0-rc2",
     "sha": "034ec9d9f69f29c184c8387a78ef37299b97725e"
   },
@@ -98,25 +118,5 @@
   {
     "name": "v21.7",
     "sha": "54489e95e01882407f356f83c9074415e561db00"
-  },
-  {
-    "name": "v21.6",
-    "sha": "24487dd1045c7f3d64a21f38a3f0c06cc4cf2edb"
-  },
-  {
-    "name": "v21.5",
-    "sha": "ab840345966d0fa8e7100d771c92a73bfbadd25c"
-  },
-  {
-    "name": "v21.4",
-    "sha": "c9869dc7803eb0a21d7e589c40ff4f9288cd34ae"
-  },
-  {
-    "name": "v21.3",
-    "sha": "b1eb1260fce7308081822413a0cba77365e7a6ab"
-  },
-  {
-    "name": "v21.2",
-    "sha": "839b18b1ba42639fedecfd751102afcc5736b5d4"
   }
 ]

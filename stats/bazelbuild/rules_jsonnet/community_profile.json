@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Jsonnet rules for Bazel",
   "documentation": "https://bazelbuild.github.io/rules_jsonnet/",
   "files": {

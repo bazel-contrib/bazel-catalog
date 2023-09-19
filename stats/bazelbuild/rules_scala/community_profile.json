@@ -1,5 +1,5 @@
 {
-  "health_percentage": 62,
+  "health_percentage": 75,
   "description": "Scala rules for Bazel",
   "documentation": "https://github.com/bazelbuild/rules_scala/tree/master/docs",
   "files": {

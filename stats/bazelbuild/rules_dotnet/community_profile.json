@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": ".NET rules for Bazel",
   "documentation": "https://github.com/bazelbuild/rules_dotnet/tree/master/docs",
   "files": {

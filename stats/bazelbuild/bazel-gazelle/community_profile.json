@@ -1,5 +1,5 @@
 {
-  "health_percentage": 62,
+  "health_percentage": 75,
   "description": "Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.",
   "documentation": "https://bazelbuild.github.io/bazel-gazelle/",
   "files": {

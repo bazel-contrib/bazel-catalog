@@ -6,7 +6,7 @@
     "downloads": [
       {
         "name": "rules_m4-v0.2.3.tar.xz",
-        "count": 23894,
+        "count": 45463,
         "size": 23508
       },
       {
@@ -23,7 +23,7 @@
     "downloads": [
       {
         "name": "rules_m4-v0.2.2.tar.xz",
-        "count": 139713,
+        "count": 170528,
         "size": 18040
       },
       {
@@ -40,7 +40,7 @@
     "downloads": [
       {
         "name": "rules_m4-v0.2.1.tar.xz",
-        "count": 6043,
+        "count": 7264,
         "size": 17752
       }
     ]
@@ -52,7 +52,7 @@
     "downloads": [
       {
         "name": "rules_m4-v0.2.tar.xz",
-        "count": 262638,
+        "count": 265294,
         "size": 16888
       }
     ]
@@ -64,17 +64,17 @@
     "downloads": [
       {
         "name": "gnulib-788db09a9f88abbef73c97e8d7291c40455336d8.tar.xz",
-        "count": 89250,
+        "count": 89251,
         "size": 642048
       },
       {
         "name": "m4-gnulib-788db09a9f88abbef73c97e8d7291c40455336d8.tar.xz",
-        "count": 322299,
+        "count": 378451,
         "size": 642048
       },
       {
         "name": "rules_m4-v0.1.tar.xz",
-        "count": 164473,
+        "count": 164487,
         "size": 16860
       }
     ]

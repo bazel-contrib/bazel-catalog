@@ -1,12 +1,24 @@
 [
   {
+    "name": "v0.33.0",
+    "date": "2023-09-06T14:52:29Z",
+    "mentions": 17,
+    "downloads": [
+      {
+        "name": "bazel-gazelle-v0.33.0.tar.gz",
+        "count": 4302,
+        "size": 1755992
+      }
+    ]
+  },
+  {
     "name": "v0.32.0",
     "date": "2023-07-11T15:56:05Z",
     "mentions": 3,
     "downloads": [
       {
         "name": "bazel-gazelle-v0.32.0.tar.gz",
-        "count": 7480,
+        "count": 108974,
         "size": 1742345
       }
     ]
@@ -18,7 +30,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.31.1.tar.gz",
-        "count": 73505,
+        "count": 125784,
         "size": 1865950
       }
     ]
@@ -30,7 +42,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.31.0.tar.gz",
-        "count": 29149,
+        "count": 33183,
         "size": 1861042
       }
     ]
@@ -42,7 +54,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.30.0.tar.gz",
-        "count": 82603,
+        "count": 94765,
         "size": 1903227
       }
     ]
@@ -54,7 +66,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.29.0.tar.gz",
-        "count": 264460,
+        "count": 344867,
         "size": 1888705
       }
     ]
@@ -66,7 +78,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.28.0.tar.gz",
-        "count": 84496,
+        "count": 144709,
         "size": 1849935
       }
     ]
@@ -78,7 +90,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.27.0.tar.gz",
-        "count": 181791,
+        "count": 197547,
         "size": 1562251
       }
     ]
@@ -90,7 +102,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.26.0.tar.gz",
-        "count": 684324,
+        "count": 822458,
         "size": 1498713
       }
     ]
@@ -102,7 +114,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.25.0.tar.gz",
-        "count": 71243,
+        "count": 76973,
         "size": 1481107
       }
     ]
@@ -114,7 +126,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.24.0.tar.gz",
-        "count": 947758,
+        "count": 1019996,
         "size": 1405406
       }
     ]
@@ -126,7 +138,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.23.0.tar.gz",
-        "count": 185708,
+        "count": 197038,
         "size": 1658027
       }
     ]
@@ -138,7 +150,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.22.3.tar.gz",
-        "count": 99871,
+        "count": 99929,
         "size": 1596252
       }
     ]
@@ -150,7 +162,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.22.2.tar.gz",
-        "count": 315238,
+        "count": 318302,
         "size": 1595270
       }
     ]
@@ -186,7 +198,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.21.1.tar.gz",
-        "count": 3375794,
+        "count": 3619829,
         "size": 1541328
       }
     ]
@@ -198,7 +210,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.21.0.tar.gz",
-        "count": 236483,
+        "count": 257187,
         "size": 1540234
       }
     ]
@@ -210,7 +222,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.20.0.tar.gz",
-        "count": 279085,
+        "count": 279087,
         "size": 1510641
       },
       {
@@ -227,7 +239,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.19.1.tar.gz",
-        "count": 953348,
+        "count": 956379,
         "size": 1507341
       },
       {
@@ -244,7 +256,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-v0.19.0.tar.gz",
-        "count": 292805,
+        "count": 293451,
         "size": 1507301
       },
       {
@@ -261,7 +273,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.18.2.tar.gz",
-        "count": 1680199,
+        "count": 1692422,
         "size": 1494738
       },
       {
@@ -278,7 +290,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.18.1.tar.gz",
-        "count": 1280978,
+        "count": 1281163,
         "size": 1490249
       },
       {
@@ -312,7 +324,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.17.0.tar.gz",
-        "count": 1541984,
+        "count": 1543384,
         "size": 1448141
       },
       {
@@ -329,7 +341,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.16.0.tar.gz",
-        "count": 863890,
+        "count": 863904,
         "size": 1270533
       },
       {
@@ -346,7 +358,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.15.0.tar.gz",
-        "count": 222480,
+        "count": 222486,
         "size": 1261599
       },
       {
@@ -363,7 +375,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.14.0.tar.gz",
-        "count": 239150,
+        "count": 239151,
         "size": 281485
       },
       {
@@ -380,7 +392,7 @@
     "downloads": [
       {
         "name": "bazel-gazelle-0.13.0.tar.gz",
-        "count": 72279,
+        "count": 72306,
         "size": 281649
       },
       {
@@ -403,23 +415,6 @@
       {
         "name": "bazel-gazelle-0.12.0.tar.gz.sha256",
         "count": 58,
-        "size": 94
-      }
-    ]
-  },
-  {
-    "name": "0.11.0",
-    "date": "2018-04-17T14:45:02Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "bazel-gazelle-0.11.0.tar.gz",
-        "count": 27540,
-        "size": 236243
-      },
-      {
-        "name": "bazel-gazelle-0.11.0.tar.gz.sha256",
-        "count": 26,
         "size": 94
       }
     ]

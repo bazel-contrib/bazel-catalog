@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 15,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -100,7 +100,7 @@
   "topics": ["bazel", "bazel-rules", "dlang", "dub"],
   "visibility": "public",
   "forks": 29,
-  "open_issues": 13,
+  "open_issues": 15,
   "watchers": 25,
   "default_branch": "master",
   "permissions": {
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,

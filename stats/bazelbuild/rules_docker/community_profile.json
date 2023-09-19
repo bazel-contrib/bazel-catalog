@@ -1,5 +1,5 @@
 {
-  "health_percentage": 75,
+  "health_percentage": 87,
   "description": "Rules for building and handling Docker images with Bazel",
   "documentation": "https://github.com/bazelbuild/rules_docker/tree/master/docs",
   "files": {
@@ -27,6 +27,6 @@
       "html_url": "https://github.com/bazelbuild/rules_docker/blob/master/README.md"
     }
   },
-  "updated_at": "2023-07-25T02:49:04Z",
+  "updated_at": "2023-09-03T02:17:57Z",
   "content_reports_enabled": true
 }

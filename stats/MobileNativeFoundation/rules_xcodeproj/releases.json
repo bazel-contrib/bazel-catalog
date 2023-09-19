@@ -1,17 +1,85 @@
 [
   {
+    "name": "1.10.1",
+    "date": "2023-09-06T18:17:31Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 4405,
+        "size": 4181502
+      },
+      {
+        "name": "release.tar.gz.sha256",
+        "count": 0,
+        "size": 125
+      }
+    ]
+  },
+  {
+    "name": "1.10.0",
+    "date": "2023-08-31T17:28:33Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 3115,
+        "size": 4214845
+      },
+      {
+        "name": "release.tar.gz.sha256",
+        "count": 2,
+        "size": 125
+      }
+    ]
+  },
+  {
+    "name": "1.9.1",
+    "date": "2023-08-14T18:09:17Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 2203,
+        "size": 4246520
+      },
+      {
+        "name": "release.tar.gz.sha256",
+        "count": 1,
+        "size": 125
+      }
+    ]
+  },
+  {
+    "name": "1.9.0",
+    "date": "2023-08-04T18:32:36Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 6299,
+        "size": 4239673
+      },
+      {
+        "name": "release.tar.gz.sha256",
+        "count": 7,
+        "size": 125
+      }
+    ]
+  },
+  {
     "name": "1.8.1",
     "date": "2023-07-14T16:04:42Z",
     "mentions": 2,
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 3581,
+        "count": 12134,
         "size": 4099784
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 1,
+        "count": 4,
         "size": 125
       }
     ]
@@ -23,12 +91,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 429,
+        "count": 442,
         "size": 4099001
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 1,
+        "count": 4,
         "size": 125
       }
     ]
@@ -40,7 +108,7 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 52341,
+        "count": 132629,
         "size": 4082277
       },
       {
@@ -57,7 +125,7 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 1625,
+        "count": 2357,
         "size": 4081193
       },
       {
@@ -74,12 +142,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 12179,
+        "count": 12660,
         "size": 5146496
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 7,
+        "count": 9,
         "size": 125
       }
     ]
@@ -91,12 +159,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 14301,
+        "count": 14868,
         "size": 3430351
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 11,
+        "count": 13,
         "size": 125
       }
     ]
@@ -108,12 +176,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 1002,
+        "count": 1007,
         "size": 3410558
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 9,
+        "count": 11,
         "size": 125
       }
     ]
@@ -125,12 +193,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 64475,
+        "count": 64535,
         "size": 3341763
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 9,
+        "count": 11,
         "size": 125
       }
     ]
@@ -142,12 +210,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 5435,
+        "count": 6203,
         "size": 3357581
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 19,
+        "count": 21,
         "size": 125
       }
     ]
@@ -159,12 +227,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 5508,
+        "count": 6336,
         "size": 3351714
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 13,
+        "count": 15,
         "size": 125
       }
     ]
@@ -176,12 +244,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 6256,
+        "count": 6270,
         "size": 3351664
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 13,
+        "count": 15,
         "size": 125
       }
     ]
@@ -193,12 +261,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 14540,
+        "count": 15745,
         "size": 3351815
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 14,
+        "count": 16,
         "size": 125
       }
     ]
@@ -210,12 +278,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 90118,
+        "count": 113032,
         "size": 3298875
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 15,
+        "count": 17,
         "size": 125
       }
     ]
@@ -227,12 +295,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 16648,
+        "count": 16673,
         "size": 3289298
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 16,
+        "count": 18,
         "size": 125
       }
     ]
@@ -244,12 +312,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 2531,
+        "count": 2536,
         "size": 3289296
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 13,
+        "count": 15,
         "size": 125
       }
     ]
@@ -261,12 +329,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 190,
+        "count": 195,
         "size": 3289316
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 13,
+        "count": 15,
         "size": 125
       }
     ]
@@ -278,12 +346,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 252,
+        "count": 258,
         "size": 3283471
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 15,
+        "count": 17,
         "size": 125
       }
     ]
@@ -295,12 +363,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 1994,
+        "count": 2000,
         "size": 3281794
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 14,
+        "count": 16,
         "size": 125
       }
     ]
@@ -312,12 +380,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 533,
+        "count": 539,
         "size": 174439
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 13,
+        "count": 15,
         "size": 118
       }
     ]
@@ -329,12 +397,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 37215,
+        "count": 37221,
         "size": 177706
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 14,
+        "count": 16,
         "size": 118
       }
     ]
@@ -346,12 +414,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 3144,
+        "count": 3149,
         "size": 177241
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 14,
+        "count": 16,
         "size": 118
       }
     ]
@@ -363,12 +431,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 16157,
+        "count": 16170,
         "size": 171972
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 15,
+        "count": 17,
         "size": 118
       }
     ]
@@ -380,12 +448,12 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 116558,
+        "count": 125491,
         "size": 173818
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 16,
+        "count": 18,
         "size": 118
       }
     ]
@@ -402,7 +470,7 @@
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 16,
+        "count": 18,
         "size": 118
       }
     ]
@@ -419,7 +487,7 @@
       },
       {
         "name": "release.tar.gz.sha256",
-        "count": 15,
+        "count": 17,
         "size": 118
       }
     ]
@@ -431,81 +499,13 @@
     "downloads": [
       {
         "name": "release.tar.gz",
-        "count": 170265,
+        "count": 170266,
         "size": 167418
       },
       {
         "name": "release.tar.gz.sha256",
         "count": 7,
         "size": 118
-      }
-    ]
-  },
-  {
-    "name": "0.8.0",
-    "date": "2022-09-15T20:18:16Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "release.tar.gz",
-        "count": 2326,
-        "size": 158129
-      },
-      {
-        "name": "release.tar.gz.sha256",
-        "count": 17,
-        "size": 118
-      }
-    ]
-  },
-  {
-    "name": "0.7.1",
-    "date": "2022-08-25T16:53:58Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "release.tar.gz",
-        "count": 707,
-        "size": 139945
-      },
-      {
-        "name": "release.tar.gz.sha256",
-        "count": 8,
-        "size": 118
-      }
-    ]
-  },
-  {
-    "name": "0.7.0",
-    "date": "2022-08-05T14:59:32Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "release.tar.gz",
-        "count": 6141,
-        "size": 133175
-      },
-      {
-        "name": "release.tar.gz.sha256",
-        "count": 9,
-        "size": 108
-      }
-    ]
-  },
-  {
-    "name": "0.6.0",
-    "date": "2022-07-13T15:31:53Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "release.tar.gz",
-        "count": 168,
-        "size": 109479
-      },
-      {
-        "name": "release.tar.gz.sha256",
-        "count": 13,
-        "size": 108
       }
     ]
   }

@@ -1,12 +1,72 @@
 [
   {
+    "name": "v2.0.0-rc1",
+    "date": "2023-09-05T17:51:07Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ts-v2.0.0-rc1.tar.gz",
+        "count": 480,
+        "size": 115753
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0",
+    "date": "2023-09-07T22:14:42Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_ts-v2.0.0.tar.gz",
+        "count": 13659,
+        "size": 115751
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc0",
+    "date": "2023-08-31T15:25:42Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ts-v2.0.0-rc0.tar.gz",
+        "count": 1529,
+        "size": 157128
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-beta1",
+    "date": "2023-08-28T18:30:20Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ts-v2.0.0-beta1.tar.gz",
+        "count": 886,
+        "size": 157315
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-beta0",
+    "date": "2023-08-10T23:27:37Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_ts-v2.0.0-beta0.tar.gz",
+        "count": 2171,
+        "size": 127186
+      }
+    ]
+  },
+  {
     "name": "v1.4.5",
     "date": "2023-07-04T03:31:40Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_ts-v1.4.5.tar.gz",
-        "count": 38324,
+        "count": 165721,
         "size": 126501
       }
     ]
@@ -18,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.4.4.tar.gz",
-        "count": 423,
+        "count": 551,
         "size": 126515
       }
     ]
@@ -30,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.4.3.tar.gz",
-        "count": 46130,
+        "count": 105481,
         "size": 126342
       }
     ]
@@ -42,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.4.2.tar.gz",
-        "count": 78720,
+        "count": 116314,
         "size": 125977
       }
     ]
@@ -54,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.4.1.tar.gz",
-        "count": 21,
+        "count": 26,
         "size": 125903
       }
     ]
@@ -66,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.4.0.tar.gz",
-        "count": 205191,
+        "count": 284440,
         "size": 125818
       }
     ]
@@ -78,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.3.3.tar.gz",
-        "count": 156061,
+        "count": 188182,
         "size": 121261
       }
     ]
@@ -90,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.3.2.tar.gz",
-        "count": 67686,
+        "count": 83109,
         "size": 120997
       }
     ]
@@ -102,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.3.1.tar.gz",
-        "count": 30197,
+        "count": 30250,
         "size": 121050
       }
     ]
@@ -114,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.3.0.tar.gz",
-        "count": 81193,
+        "count": 83953,
         "size": 118515
       }
     ]
@@ -126,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.2.4.tar.gz",
-        "count": 17000,
+        "count": 18030,
         "size": 114570
       }
     ]
@@ -138,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.2.3.tar.gz",
-        "count": 9573,
+        "count": 14568,
         "size": 113603
       }
     ]
@@ -150,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_ts-v1.2.2.tar.gz",
-        "count": 734,
+        "count": 1049,
         "size": 113565
       }
     ]
@@ -225,36 +285,6 @@
     "name": "v1.0.0-rc6",
     "date": "2022-11-07T20:03:38Z",
     "mentions": 3,
-    "downloads": []
-  },
-  {
-    "name": "v1.0.0-rc5",
-    "date": "2022-11-01T18:56:07Z",
-    "mentions": 4,
-    "downloads": []
-  },
-  {
-    "name": "v1.0.0-rc4",
-    "date": "2022-10-14T01:47:12Z",
-    "mentions": 8,
-    "downloads": []
-  },
-  {
-    "name": "v1.0.0-rc3",
-    "date": "2022-09-11T02:23:15Z",
-    "mentions": 4,
-    "downloads": []
-  },
-  {
-    "name": "v1.0.0-rc2",
-    "date": "2022-08-27T05:04:49Z",
-    "mentions": 2,
-    "downloads": []
-  },
-  {
-    "name": "v1.0.0-rc1",
-    "date": "2022-08-08T19:58:21Z",
-    "mentions": 1,
     "downloads": []
   }
 ]

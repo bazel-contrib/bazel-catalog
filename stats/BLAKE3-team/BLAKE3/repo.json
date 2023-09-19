@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/BLAKE3-team/BLAKE3/releases{/id}",
   "deployments_url": "https://api.github.com/repos/BLAKE3-team/BLAKE3/deployments",
   "created_at": "2019-11-10T11:15:44Z",
-  "updated_at": "2023-07-31T14:55:28Z",
-  "pushed_at": "2023-07-29T20:55:50Z",
+  "updated_at": "2023-09-19T16:49:38Z",
+  "pushed_at": "2023-09-19T19:48:35Z",
   "git_url": "git://github.com/BLAKE3-team/BLAKE3.git",
   "ssh_url": "git@github.com:BLAKE3-team/BLAKE3.git",
   "clone_url": "https://github.com/BLAKE3-team/BLAKE3.git",
   "svn_url": "https://github.com/BLAKE3-team/BLAKE3",
   "homepage": "",
-  "size": 1685,
-  "stargazers_count": 4038,
-  "watchers_count": 4038,
+  "size": 1746,
+  "stargazers_count": 4146,
+  "watchers_count": 4146,
   "language": "Assembly",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 270,
+  "forks_count": 283,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 108,
+  "open_issues_count": 124,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 270,
-  "open_issues": 108,
-  "watchers": 4038,
+  "forks": 283,
+  "open_issues": 124,
+  "watchers": 4146,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "BLAKE3-team",
     "id": 57586839,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 270,
-  "subscribers_count": 70
+  "network_count": 283,
+  "subscribers_count": 71
 }

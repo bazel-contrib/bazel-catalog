@@ -3,13 +3,16 @@
   "rulesets": [
     {
       "repository": "github:BLAKE3-team/BLAKE3",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 4146
     },
     {
-      "repository": "github:BalderOdinson/rules_cuda"
+      "repository": "github:BalderOdinson/rules_cuda",
+      "stargazers_count": 7
     },
     {
-      "repository": "github:DataDog/rules_oci_bootstrap"
+      "repository": "github:DataDog/rules_oci_bootstrap",
+      "stargazers_count": 5
     },
     {
       "repository": "github:GZGavinZhao/gzgz_rules_sass",
@@ -19,7 +22,8 @@
           "github": "GZGavinZhao",
           "name": "Gavin Zhao"
         }
-      ]
+      ],
+      "stargazers_count": 0
     },
     {
       "repository": "github:GoogleContainerTools/container-structure-test",
@@ -34,7 +38,8 @@
           "github": "thesayyn",
           "name": "Şahin Yort"
         }
-      ]
+      ],
+      "stargazers_count": 2105
     },
     {
       "repository": "github:LMDB/lmdb",
@@ -44,7 +49,8 @@
           "github": "GZGavinZhao",
           "name": "Gavin Zhao"
         }
-      ]
+      ],
+      "stargazers_count": 2294
     },
     {
       "repository": "github:MobileNativeFoundation/rules_xcodeproj",
@@ -59,26 +65,32 @@
           "github": "BalestraPatrick",
           "name": "Patrick Balestra"
         }
-      ]
+      ],
+      "stargazers_count": 381
     },
     {
       "repository": "github:Tencent/rapidjson",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 13373
     },
     {
       "repository": "github:Tessil/robin-map",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 1049
     },
     {
       "repository": "github:abseil/abseil-cpp",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 12740
     },
     {
       "repository": "github:abseil/abseil-py",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 2136
     },
     {
-      "repository": "github:acqio/rules_microsoft_azure"
+      "repository": "github:acqio/rules_microsoft_azure",
+      "stargazers_count": 5
     },
     {
       "repository": "github:apple/apple_rules_lint",
@@ -88,7 +100,8 @@
           "github": "@shs96c",
           "name": "Simon Stewart"
         }
-      ]
+      ],
+      "stargazers_count": 131
     },
     {
       "repository": "github:apple/swift-argument-parser",
@@ -103,7 +116,8 @@
           "github": "jpsim",
           "name": "JP Simard"
         }
-      ]
+      ],
+      "stargazers_count": 3047
     },
     {
       "repository": "github:aspect-build/bazel-lib",
@@ -113,7 +127,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 90
     },
     {
       "repository": "github:aspect-build/rules_esbuild",
@@ -123,7 +138,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 21
     },
     {
       "repository": "github:aspect-build/rules_jasmine",
@@ -133,7 +149,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 3
     },
     {
       "repository": "github:aspect-build/rules_jest",
@@ -143,7 +160,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 11
     },
     {
       "repository": "github:aspect-build/rules_js",
@@ -153,7 +171,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 224
     },
     {
       "repository": "github:aspect-build/rules_py",
@@ -163,7 +182,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 38
     },
     {
       "repository": "github:aspect-build/rules_rollup",
@@ -173,7 +193,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 4
     },
     {
       "repository": "github:aspect-build/rules_swc",
@@ -183,7 +204,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 34
     },
     {
       "repository": "github:aspect-build/rules_terser",
@@ -193,7 +215,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 5
     },
     {
       "repository": "github:aspect-build/rules_ts",
@@ -203,7 +226,8 @@
           "github": "aspect-build",
           "name": "Aspect team"
         }
-      ]
+      ],
+      "stargazers_count": 68
     },
     {
       "repository": "github:bazel-contrib/bazel_features",
@@ -222,7 +246,8 @@
           "github": "fmeum",
           "name": "Fabian Meumertzheim"
         }
-      ]
+      ],
+      "stargazers_count": 7
     },
     {
       "repository": "github:bazel-contrib/rules_bazel_integration_test",
@@ -232,7 +257,8 @@
           "github": "cgrindel",
           "name": "Chuck Grindel"
         }
-      ]
+      ],
+      "stargazers_count": 28
     },
     {
       "repository": "github:bazel-contrib/rules_jvm",
@@ -247,7 +273,8 @@
           "github": "illicitonion",
           "name": "Daniel Wagner-Hall"
         }
-      ]
+      ],
+      "stargazers_count": 34
     },
     {
       "repository": "github:bazel-contrib/rules_oci",
@@ -262,7 +289,8 @@
           "github": "thesayyn",
           "name": "Şahin Yort"
         }
-      ]
+      ],
+      "stargazers_count": 148
     },
     {
       "repository": "github:bazelbuild/apple_support",
@@ -277,7 +305,8 @@
           "github": "BalestraPatrick",
           "name": "Patrick Balestra"
         }
-      ]
+      ],
+      "stargazers_count": 65
     },
     {
       "repository": "github:bazelbuild/bazel-gazelle",
@@ -287,7 +316,8 @@
           "github": "fmeum",
           "name": "Fabian Meumertzheim"
         }
-      ]
+      ],
+      "stargazers_count": 1050
     },
     {
       "repository": "github:bazelbuild/bazel-skylib",
@@ -297,7 +327,8 @@
           "name": "The Bazel Team"
         }
       ],
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 324
     },
     {
       "repository": "github:bazelbuild/platforms",
@@ -306,14 +337,17 @@
           "email": "bazel-dev@googlegroups.com",
           "name": "The Bazel Team"
         }
-      ]
+      ],
+      "stargazers_count": 87
     },
     {
       "repository": "github:bazelbuild/rules_android",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 161
     },
     {
-      "repository": "github:bazelbuild/rules_appengine"
+      "repository": "github:bazelbuild/rules_appengine",
+      "stargazers_count": 29
     },
     {
       "repository": "github:bazelbuild/rules_apple",
@@ -339,25 +373,31 @@
           "name": "Thi Doãn"
         }
       ],
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 442
     },
     {
       "repository": "github:bazelbuild/rules_cc",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 144
     },
     {
-      "repository": "github:bazelbuild/rules_closure"
+      "repository": "github:bazelbuild/rules_closure",
+      "stargazers_count": 146
     },
     {
-      "repository": "github:bazelbuild/rules_d"
+      "repository": "github:bazelbuild/rules_d",
+      "stargazers_count": 25
     },
     {
       "repository": "github:bazelbuild/rules_docker",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 1056
     },
     {
       "repository": "github:bazelbuild/rules_dotnet",
-      "shortname": ".NET"
+      "shortname": ".NET",
+      "stargazers_count": 164
     },
     {
       "repository": "github:bazelbuild/rules_foreign_cc",
@@ -366,10 +406,12 @@
           "github": "jsharpe",
           "name": "James Sharpe"
         }
-      ]
+      ],
+      "stargazers_count": 612
     },
     {
-      "repository": "github:bazelbuild/rules_fuzzing"
+      "repository": "github:bazelbuild/rules_fuzzing",
+      "stargazers_count": 70
     },
     {
       "repository": "github:bazelbuild/rules_go",
@@ -380,20 +422,25 @@
           "name": "Fabian Meumertzheim"
         }
       ],
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 1280
     },
     {
-      "repository": "github:bazelbuild/rules_groovy"
+      "repository": "github:bazelbuild/rules_groovy",
+      "stargazers_count": 10
     },
     {
-      "repository": "github:bazelbuild/rules_gwt"
+      "repository": "github:bazelbuild/rules_gwt",
+      "stargazers_count": 19
     },
     {
       "repository": "github:bazelbuild/rules_java",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 55
     },
     {
-      "repository": "github:bazelbuild/rules_jsonnet"
+      "repository": "github:bazelbuild/rules_jsonnet",
+      "stargazers_count": 60
     },
     {
       "repository": "github:bazelbuild/rules_jvm_external",
@@ -414,14 +461,17 @@
           "name": "Chris Heisterkamp"
         }
       ],
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 286
     },
     {
       "repository": "github:bazelbuild/rules_k8s",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 287
     },
     {
-      "repository": "github:bazelbuild/rules_kotlin"
+      "repository": "github:bazelbuild/rules_kotlin",
+      "stargazers_count": 311
     },
     {
       "repository": "github:bazelbuild/rules_license",
@@ -431,7 +481,8 @@
           "github": "aiuto",
           "name": "Tony Aiuto"
         }
-      ]
+      ],
+      "stargazers_count": 58
     },
     {
       "repository": "github:bazelbuild/rules_nodejs",
@@ -442,25 +493,30 @@
           "name": "Aspect team"
         }
       ],
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 707
     },
     {
-      "repository": "github:bazelbuild/rules_perl"
+      "repository": "github:bazelbuild/rules_perl",
+      "stargazers_count": 22
     },
     {
       "repository": "github:bazelbuild/rules_pkg",
       "maintainers": [],
       "shortname": "Packaging",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 180
     },
     {
-      "repository": "github:bazelbuild/rules_postcss"
+      "repository": "github:bazelbuild/rules_postcss",
+      "stargazers_count": 10
     },
     {
       "repository": "github:bazelbuild/rules_proto",
       "maintainers": [],
       "shortname": "Protocol Buffers",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 146
     },
     {
       "repository": "github:bazelbuild/rules_python",
@@ -476,17 +532,21 @@
           "github": "f0rmiga"
         }
       ],
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 462
     },
     {
-      "repository": "github:bazelbuild/rules_rust"
+      "repository": "github:bazelbuild/rules_rust",
+      "stargazers_count": 543
     },
     {
-      "repository": "github:bazelbuild/rules_sass"
+      "repository": "github:bazelbuild/rules_sass",
+      "stargazers_count": 48
     },
     {
       "repository": "github:bazelbuild/rules_scala",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 339
     },
     {
       "repository": "github:bazelbuild/rules_swift",
@@ -511,7 +571,8 @@
           "github": "thii",
           "name": "Thi Doãn"
         }
-      ]
+      ],
+      "stargazers_count": 280
     },
     {
       "repository": "github:bazelbuild/rules_testing",
@@ -521,25 +582,31 @@
           "github": "rickeylev",
           "name": "Richard Levasseur"
         }
-      ]
+      ],
+      "stargazers_count": 15
     },
     {
       "repository": "github:bazelbuild/rules_webtesting",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 89
     },
     {
       "repository": "github:bazelbuild/stardoc",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 88
     },
     {
-      "repository": "github:bazelruby/rules_ruby"
+      "repository": "github:bazelruby/rules_ruby",
+      "stargazers_count": 92
     },
     {
-      "repository": "github:buildfoundation/bazel_rules_detekt"
+      "repository": "github:buildfoundation/bazel_rules_detekt",
+      "stargazers_count": 28
     },
     {
       "repository": "github:c-ares/c-ares",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 1657
     },
     {
       "repository": "github:catchorg/Catch2",
@@ -549,7 +616,8 @@
           "github": "curoky",
           "name": "curoky"
         }
-      ]
+      ],
+      "stargazers_count": 17059
     },
     {
       "repository": "github:cgrindel/bazel-starlib",
@@ -559,7 +627,8 @@
           "github": "cgrindel",
           "name": "Chuck Grindel"
         }
-      ]
+      ],
+      "stargazers_count": 15
     },
     {
       "repository": "github:cgrindel/rules_swift_package_manager",
@@ -569,7 +638,8 @@
           "github": "cgrindel",
           "name": "Chuck Grindel"
         }
-      ]
+      ],
+      "stargazers_count": 46
     },
     {
       "repository": "github:chriskohlhoff/asio",
@@ -579,10 +649,12 @@
           "github": "ltekieli",
           "name": "Lukasz Tekieli"
         }
-      ]
+      ],
+      "stargazers_count": 4237
     },
     {
-      "repository": "github:coinbase/rules_ruby"
+      "repository": "github:coinbase/rules_ruby",
+      "stargazers_count": 23
     },
     {
       "repository": "github:drmohundro/SWXMLHash",
@@ -597,46 +669,57 @@
           "github": "jpsim",
           "name": "JP Simard"
         }
-      ]
+      ],
+      "stargazers_count": 1340
     },
     {
-      "repository": "github:dropbox/dbx_build_tools"
+      "repository": "github:dropbox/dbx_build_tools",
+      "stargazers_count": 194
     },
     {
       "repository": "github:fmtlib/fmt",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 17743
     },
     {
       "repository": "github:gabime/spdlog",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 19989
     },
     {
       "repository": "github:gflags/gflags",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 2672
     },
     {
       "repository": "github:google/benchmark",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 7828
     },
     {
       "repository": "github:google/boringssl",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 1561
     },
     {
       "repository": "github:google/glog",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 6340
     },
     {
       "repository": "github:google/go-jsonnet",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 1445
     },
     {
       "repository": "github:google/googletest",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 30845
     },
     {
       "repository": "github:google/jsonnet",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 6424
     },
     {
       "repository": "github:google/re2",
@@ -646,7 +729,8 @@
           "github": "junyer",
           "name": "Paul Wankadia"
         }
-      ]
+      ],
+      "stargazers_count": 8183
     },
     {
       "repository": "github:google/zopfli",
@@ -656,23 +740,29 @@
           "github": "alexeagle",
           "name": "Alex Eagle"
         }
-      ]
+      ],
+      "stargazers_count": 3291
     },
     {
-      "repository": "github:grailbio/bazel-compilation-database"
+      "repository": "github:grailbio/bazel-compilation-database",
+      "stargazers_count": 426
     },
     {
-      "repository": "github:grailbio/bazel-toolchain"
+      "repository": "github:grailbio/bazel-toolchain",
+      "stargazers_count": 223
     },
     {
-      "repository": "github:grailbio/rules_r"
+      "repository": "github:grailbio/rules_r",
+      "stargazers_count": 39
     },
     {
       "repository": "github:grpc/grpc",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 39037
     },
     {
-      "repository": "github:hdl/bazel_rules_hdl"
+      "repository": "github:hdl/bazel_rules_hdl",
+      "stargazers_count": 79
     },
     {
       "repository": "github:jmillikin/rules_bison",
@@ -682,7 +772,8 @@
           "github": "jmillikin",
           "name": "John Millikin"
         }
-      ]
+      ],
+      "stargazers_count": 13
     },
     {
       "repository": "github:jmillikin/rules_flex",
@@ -692,7 +783,8 @@
           "github": "jmillikin",
           "name": "John Millikin"
         }
-      ]
+      ],
+      "stargazers_count": 13
     },
     {
       "repository": "github:jmillikin/rules_m4",
@@ -702,10 +794,12 @@
           "github": "jmillikin",
           "name": "John Millikin"
         }
-      ]
+      ],
+      "stargazers_count": 13
     },
     {
-      "repository": "github:jmillikin/rules_ragel"
+      "repository": "github:jmillikin/rules_ragel",
+      "stargazers_count": 8
     },
     {
       "repository": "github:jpsim/SourceKitten",
@@ -720,7 +814,8 @@
           "github": "keith",
           "name": "Keith Smiley"
         }
-      ]
+      ],
+      "stargazers_count": 2224
     },
     {
       "repository": "github:jpsim/Yams",
@@ -730,7 +825,8 @@
           "github": "jpsim",
           "name": "JP Simard"
         }
-      ]
+      ],
+      "stargazers_count": 1013
     },
     {
       "repository": "github:keith/buildifier-prebuilt",
@@ -740,7 +836,8 @@
           "github": "keith",
           "name": "Keith Smiley"
         }
-      ]
+      ],
+      "stargazers_count": 25
     },
     {
       "repository": "github:keith/rules_apple_linker",
@@ -750,7 +847,8 @@
           "github": "keith",
           "name": "Keith Smiley"
         }
-      ]
+      ],
+      "stargazers_count": 52
     },
     {
       "repository": "github:keith/rules_multirun",
@@ -760,14 +858,17 @@
           "github": "keith",
           "name": "Keith Smiley"
         }
-      ]
+      ],
+      "stargazers_count": 37
     },
     {
-      "repository": "github:kkiningh/rules_verilator"
+      "repository": "github:kkiningh/rules_verilator",
+      "stargazers_count": 18
     },
     {
       "repository": "github:luben/zstd-jni",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 717
     },
     {
       "repository": "github:madler/zlib",
@@ -776,11 +877,13 @@
           "email": "bazel-dev@googlegroups.com",
           "name": "The Bazel Team"
         }
-      ]
+      ],
+      "stargazers_count": 4663
     },
     {
       "repository": "github:nelhage/rules_boost",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 257
     },
     {
       "repository": "github:nlohmann/json",
@@ -790,7 +893,8 @@
           "github": "keith",
           "name": "Keith Smiley"
         }
-      ]
+      ],
+      "stargazers_count": 36642
     },
     {
       "repository": "github:oxidase/rules_poetry",
@@ -800,15 +904,18 @@
           "github": "oxidase",
           "name": "Michael Krasnyk"
         }
-      ]
+      ],
+      "stargazers_count": 4
     },
     {
       "repository": "github:protocolbuffers/protobuf",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 60814
     },
     {
       "repository": "github:protocolbuffers/upb",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 1470
     },
     {
       "repository": "github:rabbitmq/looking_glass",
@@ -818,7 +925,8 @@
           "github": "pjk25",
           "name": "Rin Kuryloski"
         }
-      ]
+      ],
+      "stargazers_count": 137
     },
     {
       "repository": "github:rabbitmq/lz4-erlang",
@@ -828,7 +936,8 @@
           "github": "pjk25",
           "name": "Rin Kuryloski"
         }
-      ]
+      ],
+      "stargazers_count": 17
     },
     {
       "repository": "github:rabbitmq/rules_erlang",
@@ -838,7 +947,8 @@
           "github": "pjk25",
           "name": "Rin Kuryloski"
         }
-      ]
+      ],
+      "stargazers_count": 30
     },
     {
       "repository": "github:realm/SwiftLint",
@@ -848,7 +958,8 @@
           "github": "jpsim",
           "name": "JP Simard"
         }
-      ]
+      ],
+      "stargazers_count": 17756
     },
     {
       "repository": "github:robolectric/robolectric-bazel",
@@ -858,10 +969,12 @@
           "github": "Bencodes",
           "name": "Ben Lee"
         }
-      ]
+      ],
+      "stargazers_count": 13
     },
     {
-      "repository": "github:salesforce/rules_spring"
+      "repository": "github:salesforce/rules_spring",
+      "stargazers_count": 188
     },
     {
       "repository": "github:seh/rules_cue",
@@ -871,7 +984,8 @@
           "github": "seh",
           "name": "Steven E. Harris"
         }
-      ]
+      ],
+      "stargazers_count": 13
     },
     {
       "repository": "github:seh/rules_kustomize",
@@ -881,26 +995,33 @@
           "github": "seh",
           "name": "Steven E. Harris"
         }
-      ]
+      ],
+      "stargazers_count": 0
     },
     {
-      "repository": "github:simuons/rules_clojure"
+      "repository": "github:simuons/rules_clojure",
+      "stargazers_count": 31
     },
     {
-      "repository": "github:slamdev/rules_helm"
+      "repository": "github:slamdev/rules_helm",
+      "stargazers_count": 0
     },
     {
-      "repository": "github:spietras/rules_conda"
+      "repository": "github:spietras/rules_conda",
+      "stargazers_count": 24
     },
     {
-      "repository": "github:tweag/gazelle_cabal"
+      "repository": "github:tweag/gazelle_cabal",
+      "stargazers_count": 11
     },
     {
       "repository": "github:tweag/rules_haskell",
-      "bazel-recommended": true
+      "bazel-recommended": true,
+      "stargazers_count": 254
     },
     {
-      "repository": "github:tweag/rules_nixpkgs"
+      "repository": "github:tweag/rules_nixpkgs",
+      "stargazers_count": 225
     },
     {
       "repository": "github:tweag/rules_sh",
@@ -915,17 +1036,21 @@
           "github": "avdv",
           "name": "Claudio Bley"
         }
-      ]
+      ],
+      "stargazers_count": 31
     },
     {
-      "repository": "github:ubiquitoustech/rules_vite"
+      "repository": "github:ubiquitoustech/rules_vite",
+      "stargazers_count": 11
     },
     {
-      "repository": "github:vmware/rules_oss_audit"
+      "repository": "github:vmware/rules_oss_audit",
+      "stargazers_count": 26
     },
     {
       "repository": "github:wjakob/nanobind",
-      "maintainers": []
+      "maintainers": [],
+      "stargazers_count": 1621
     }
   ]
 }

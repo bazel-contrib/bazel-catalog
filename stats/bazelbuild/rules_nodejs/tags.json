@@ -1,5 +1,9 @@
 [
   {
+    "name": "v6.0.1",
+    "sha": "78e0bf92f40e94eb49b2cade860d2ff2bc2d5094"
+  },
+  {
     "name": "v6.0.0",
     "sha": "0f6e0606721ab9845f530d93087c21df6f730a58"
   },
@@ -114,9 +118,5 @@
   {
     "name": "rules_typescript/0.15.2",
     "sha": "754f8a2bd882c779d8cddebd32c138b9c475e576"
-  },
-  {
-    "name": "rules_typescript/0.15.1",
-    "sha": "ffd55a33a3f682cc53cb789d82b7c49414844bf5"
   }
 ]

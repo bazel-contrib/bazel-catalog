@@ -118,7 +118,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "acqio",
     "id": 7242912,

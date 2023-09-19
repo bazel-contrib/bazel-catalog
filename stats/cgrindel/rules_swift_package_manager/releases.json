@@ -1,12 +1,60 @@
 [
   {
+    "name": "v0.11.0",
+    "date": "2023-09-13T19:43:59Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.11.0.tar.gz",
+        "count": 20,
+        "size": 151098
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2023-09-06T21:35:28Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.10.0.tar.gz",
+        "count": 47,
+        "size": 148364
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2023-09-05T18:47:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.9.0.tar.gz",
+        "count": 3430,
+        "size": 147479
+      }
+    ]
+  },
+  {
+    "name": "v0.8.0",
+    "date": "2023-08-29T20:32:32Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.8.0.tar.gz",
+        "count": 742,
+        "size": 147923
+      }
+    ]
+  },
+  {
     "name": "v0.7.1",
     "date": "2023-07-14T21:47:33Z",
     "mentions": 2,
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.7.1.tar.gz",
-        "count": 128,
+        "count": 7161,
         "size": 145473
       }
     ]
@@ -18,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.7.0.tar.gz",
-        "count": 2522,
+        "count": 9552,
         "size": 145456
       }
     ]
@@ -30,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.6.0.tar.gz",
-        "count": 1279,
+        "count": 1292,
         "size": 145243
       }
     ]
@@ -42,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.5.0.tar.gz",
-        "count": 100,
+        "count": 105,
         "size": 143136
       }
     ]
@@ -54,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.4.4.tar.gz",
-        "count": 26,
+        "count": 30,
         "size": 141603
       }
     ]
@@ -66,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.4.3.tar.gz",
-        "count": 16149,
+        "count": 16196,
         "size": 141386
       }
     ]
@@ -78,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.4.2.tar.gz",
-        "count": 3821,
+        "count": 3826,
         "size": 139786
       }
     ]
@@ -90,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_swift_package_manager.v0.4.1.tar.gz",
-        "count": 2723,
+        "count": 2724,
         "size": 139786
       }
     ]

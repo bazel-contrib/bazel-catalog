@@ -6,12 +6,12 @@
     "downloads": [
       {
         "name": "c-ares-1.19.1.tar.gz",
-        "count": 46134,
+        "count": 91272,
         "size": 1579100
       },
       {
         "name": "c-ares-1.19.1.tar.gz.asc",
-        "count": 82,
+        "count": 119,
         "size": 488
       }
     ]
@@ -23,12 +23,12 @@
     "downloads": [
       {
         "name": "c-ares-1.19.0.tar.gz",
-        "count": 94422,
+        "count": 98912,
         "size": 1572210
       },
       {
         "name": "c-ares-1.19.0.tar.gz.asc",
-        "count": 183,
+        "count": 205,
         "size": 488
       }
     ]
@@ -40,12 +40,12 @@
     "downloads": [
       {
         "name": "c-ares-1.18.1.tar.gz",
-        "count": 380919,
+        "count": 390427,
         "size": 1560165
       },
       {
         "name": "c-ares-1.18.1.tar.gz.asc",
-        "count": 673,
+        "count": 814,
         "size": 488
       }
     ]
@@ -74,7 +74,7 @@
     "downloads": [
       {
         "name": "c-ares-1.17.2.tar.gz",
-        "count": 117662,
+        "count": 119721,
         "size": 1538276
       },
       {
@@ -91,12 +91,12 @@
     "downloads": [
       {
         "name": "c-ares-1.17.1.tar.gz",
-        "count": 153414,
+        "count": 153902,
         "size": 1518701
       },
       {
         "name": "c-ares-1.17.1.tar.gz.asc",
-        "count": 158,
+        "count": 159,
         "size": 488
       }
     ]
@@ -108,7 +108,7 @@
     "downloads": [
       {
         "name": "c-ares-1.17.0.tar.gz",
-        "count": 77,
+        "count": 79,
         "size": 1396682
       },
       {
@@ -125,7 +125,7 @@
     "downloads": [
       {
         "name": "c-ares-1.16.1.tar.gz",
-        "count": 90413,
+        "count": 90619,
         "size": 1374637
       },
       {
@@ -142,7 +142,7 @@
     "downloads": [
       {
         "name": "c-ares-1.16.0.tar.gz",
-        "count": 1873,
+        "count": 1877,
         "size": 1374180
       },
       {
@@ -159,7 +159,7 @@
     "downloads": [
       {
         "name": "c-ares-1.15.0.tar.gz",
-        "count": 291582,
+        "count": 333408,
         "size": 1347687
       },
       {

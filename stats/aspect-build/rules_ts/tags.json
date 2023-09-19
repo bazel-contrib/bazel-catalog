@@ -1,5 +1,25 @@
 [
   {
+    "name": "v2.0.0",
+    "sha": "4e7dd1be7a18618dfa9521c82fa896f5ae8b96bd"
+  },
+  {
+    "name": "v2.0.0-rc1",
+    "sha": "4e7dd1be7a18618dfa9521c82fa896f5ae8b96bd"
+  },
+  {
+    "name": "v2.0.0-rc0",
+    "sha": "0e7ac00799db65d49e28e60d4c835b4e97754c4d"
+  },
+  {
+    "name": "v2.0.0-beta1",
+    "sha": "4e1ba86ec2aea5266565b34c68c57f74d728c40b"
+  },
+  {
+    "name": "v2.0.0-beta0",
+    "sha": "e318d875f00b883ddff2880d7cc5478ff751a5c1"
+  },
+  {
     "name": "v1.4.5",
     "sha": "dc5f4549cffae844166620e81bbff9acf7e66428"
   },
@@ -98,25 +118,5 @@
   {
     "name": "v1.0.0-rc6",
     "sha": "1d8658dab08c2e966fe29ae41b7c3c4bc4df8dd9"
-  },
-  {
-    "name": "v1.0.0-rc5",
-    "sha": "1eb401bdf47debf2ed001a53b21822bffb1f79de"
-  },
-  {
-    "name": "v1.0.0-rc4",
-    "sha": "ab68b6bf873c3de66bf323be6c8ba3791b180d6e"
-  },
-  {
-    "name": "v1.0.0-rc3",
-    "sha": "9f54ec944c1238ab63d0618bff2af1184f3f5a1d"
-  },
-  {
-    "name": "v1.0.0-rc2",
-    "sha": "e94bef705f2712b1ec1d42adb0b56d9eef03a6b7"
-  },
-  {
-    "name": "v1.0.0-rc1",
-    "sha": "9deae722a7db8b1957fe0acf45fcee38c5687d15"
   }
 ]

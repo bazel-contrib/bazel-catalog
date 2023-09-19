@@ -1,5 +1,8 @@
+# Sort by stars, descending
+.rulesets | sort_by(.stargazers_count) | reverse
+
 # Grab all the repository fields
-[.rulesets[].repository]
+| map(.repository)
 
 # Keep only the ones that start with "github:" and trim that prefix
 | map(select(startswith("github:"))) 

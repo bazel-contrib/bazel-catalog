@@ -1,12 +1,48 @@
 [
   {
+    "name": "6.3.1",
+    "date": "2023-09-14T14:30:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_java-6.3.1.tar.gz",
+        "count": 6180,
+        "size": 22752
+      }
+    ]
+  },
+  {
+    "name": "6.5.1",
+    "date": "2023-08-22T11:06:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_java-6.5.1.tar.gz",
+        "count": 4362,
+        "size": 23742
+      }
+    ]
+  },
+  {
+    "name": "6.5.0",
+    "date": "2023-08-08T13:19:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_java-6.5.0.tar.gz",
+        "count": 51085,
+        "size": 23673
+      }
+    ]
+  },
+  {
     "name": "6.4.0",
     "date": "2023-07-31T16:00:57Z",
     "mentions": null,
     "downloads": [
       {
         "name": "rules_java-6.4.0.tar.gz",
-        "count": 22,
+        "count": 78101,
         "size": 22805
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_java-6.3.0.tar.gz",
-        "count": 8979,
+        "count": 109765,
         "size": 22751
       }
     ]
@@ -30,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_java-6.2.2.tar.gz",
-        "count": 21931,
+        "count": 59142,
         "size": 22759
       }
     ]
@@ -42,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_java-6.2.1.tar.gz",
-        "count": 570,
+        "count": 2046,
         "size": 22759
       }
     ]
@@ -54,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_java-6.1.1.tar.gz",
-        "count": 100476,
+        "count": 183358,
         "size": 22499
       }
     ]
@@ -66,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_java-6.1.0.tar.gz",
-        "count": 45164,
+        "count": 54939,
         "size": 22411
       }
     ]
@@ -78,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_java-6.0.0.tar.gz",
-        "count": 32432,
+        "count": 100966,
         "size": 22365
       }
     ]
@@ -90,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_java-5.5.0.tar.gz",
-        "count": 361854,
+        "count": 466664,
         "size": 21245
       }
     ]
@@ -102,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_java-5.4.1.tar.gz",
-        "count": 409622,
+        "count": 441701,
         "size": 21556
       }
     ]
@@ -114,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_java-5.4.0.tar.gz",
-        "count": 490434,
+        "count": 493091,
         "size": 21529
       }
     ]
@@ -126,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_java-5.3.5.tar.gz",
-        "count": 276723,
+        "count": 319393,
         "size": 21353
       }
     ]
@@ -138,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_java-5.3.4.tar.gz",
-        "count": 179,
+        "count": 181,
         "size": 21349
       }
     ]
@@ -162,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_java-5.3.2.tar.gz",
-        "count": 55321,
+        "count": 59336,
         "size": 20996
       }
     ]
@@ -174,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_java-5.1.0.tar.gz",
-        "count": 1030947,
+        "count": 1213243,
         "size": 20467
       }
     ]
@@ -186,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_java-5.0.0.1.tar.gz",
-        "count": 2131,
+        "count": 2147,
         "size": 20363
       }
     ]
@@ -198,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_java-4.0.0.tar.gz",
-        "count": 1274140,
+        "count": 1296752,
         "size": 8572
       }
     ]
@@ -210,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_java-3.7.2.tar.gz",
-        "count": 865452,
+        "count": 959355,
         "size": 9104
       }
     ]
@@ -222,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_java-0.1.1.tar.gz",
-        "count": 2031150,
+        "count": 2048679,
         "size": 7901
       }
     ]
@@ -234,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_java-0.1.0.tar.gz",
-        "count": 68444,
+        "count": 72620,
         "size": 7492
       }
     ]

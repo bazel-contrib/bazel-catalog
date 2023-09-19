@@ -1,5 +1,21 @@
 [
   {
+    "name": "v1.58.1",
+    "sha": "0f8cb206ef897f9cff2206e06a1a5303dbd4aeef"
+  },
+  {
+    "name": "v1.58.0",
+    "sha": "0417b882aa7abc1512f534e56f9cd97c557bb68f"
+  },
+  {
+    "name": "v1.58.0-pre1",
+    "sha": "e097a3220b694ae0c9d25634297b95b3a3eae69f"
+  },
+  {
+    "name": "v1.57.0",
+    "sha": "a61640173d00b63e0b55ad61915a9b1708e12d27"
+  },
+  {
     "name": "v1.57.0-pre1",
     "sha": "c1285fe4829f6843be1db738aabb07ce838e7b7e"
   },
@@ -32,6 +48,10 @@
     "sha": "b39e015f34a5f95f231b7b3006d3e518dcfce40a"
   },
   {
+    "name": "v1.55.3",
+    "sha": "49dcbce9aba5f5f0959871354df90e38f0c5ed00"
+  },
+  {
     "name": "v1.55.1",
     "sha": "12161ee3aa7c216741cd7c406573abc0df1d0926"
   },
@@ -46,6 +66,10 @@
   {
     "name": "v1.55.0-pre1",
     "sha": "8c2a45c7dc2cce73c68eddf117b0c69f2503348f"
+  },
+  {
+    "name": "v1.54.3",
+    "sha": "868412b573a0663c8db41558498caf44098f4390"
   },
   {
     "name": "v1.54.2",
@@ -66,6 +90,10 @@
   {
     "name": "v1.54.0-pre1",
     "sha": "9bd3e28b520f2beeb3cbc5f88c7884e84af24ff9"
+  },
+  {
+    "name": "v1.53.2",
+    "sha": "afb307fb89ed83f358d82b5d359034a039a95e66"
   },
   {
     "name": "v1.53.1",
@@ -90,33 +118,5 @@
   {
     "name": "v1.52.1",
     "sha": "c2682c64a5f8599b5690a79b50f1c9c3ef5e2433"
-  },
-  {
-    "name": "v1.52.0",
-    "sha": "a3f10052090539cd3e19aa8e04f3bf8eceae2964"
-  },
-  {
-    "name": "v1.52.0-pre2",
-    "sha": "76481879f9e2688dcdf00707c4947d28f38298f0"
-  },
-  {
-    "name": "v1.52.0-pre1",
-    "sha": "d7903b10ba0ca182939e9159e704098b1a2bb257"
-  },
-  {
-    "name": "v1.51.3",
-    "sha": "0879d3e2e96b5e51dac3c44ed05ddae7b172cd0f"
-  },
-  {
-    "name": "v1.51.2",
-    "sha": "2ee3216df88f21c3d108caa5fdad309585e95354"
-  },
-  {
-    "name": "v1.51.1",
-    "sha": "0a82c02a9b817a53574994374dcff53f2e961df2"
-  },
-  {
-    "name": "v1.51.0",
-    "sha": "fb01bb12456d015d9e4b7b8ebf2e8a7c803e96ad"
   }
 ]

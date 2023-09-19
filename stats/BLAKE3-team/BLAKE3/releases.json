@@ -6,17 +6,17 @@
     "downloads": [
       {
         "name": "b3sum_linux_x64_bin",
-        "count": 87,
+        "count": 278,
         "size": 5623808
       },
       {
         "name": "b3sum_macos_x64_bin",
-        "count": 10,
+        "count": 22,
         "size": 1463680
       },
       {
         "name": "b3sum_windows_x64_bin.exe",
-        "count": 301,
+        "count": 487,
         "size": 1086464
       }
     ]
@@ -28,7 +28,7 @@
     "downloads": [
       {
         "name": "b3sum_linux_x64_bin",
-        "count": 197,
+        "count": 216,
         "size": 5631528
       },
       {
@@ -38,7 +38,7 @@
       },
       {
         "name": "b3sum_windows_x64_bin.exe",
-        "count": 330,
+        "count": 331,
         "size": 1091072
       }
     ]
@@ -50,17 +50,17 @@
     "downloads": [
       {
         "name": "b3sum_linux_x64_bin",
-        "count": 892,
+        "count": 937,
         "size": 5316936
       },
       {
         "name": "b3sum_macos_x64_bin",
-        "count": 115,
+        "count": 132,
         "size": 1430432
       },
       {
         "name": "b3sum_windows_x64_bin.exe",
-        "count": 830,
+        "count": 831,
         "size": 1088000
       }
     ]
@@ -72,7 +72,7 @@
     "downloads": [
       {
         "name": "b3sum_linux_x64_bin",
-        "count": 27,
+        "count": 28,
         "size": 5317824
       },
       {
@@ -94,7 +94,7 @@
     "downloads": [
       {
         "name": "b3sum_linux_x64_bin",
-        "count": 1989,
+        "count": 2067,
         "size": 4921560
       },
       {
@@ -192,7 +192,7 @@
       },
       {
         "name": "b3sum_windows_x64_bin.exe",
-        "count": 570,
+        "count": 571,
         "size": 959488
       }
     ]
@@ -319,7 +319,7 @@
       },
       {
         "name": "b3sum_macos_x64_bin",
-        "count": 31,
+        "count": 32,
         "size": 1166192
       },
       {

@@ -14,11 +14,11 @@
       "spdx_id": "NOASSERTION",
       "url": null,
       "node_id": "MDc6TGljZW5zZTA=",
-      "html_url": "https://github.com/madler/zlib/blob/master/LICENSE"
+      "html_url": "https://github.com/madler/zlib/blob/develop/LICENSE"
     },
     "readme": {
       "url": "https://api.github.com/repos/madler/zlib/contents/README",
-      "html_url": "https://github.com/madler/zlib/blob/master/README"
+      "html_url": "https://github.com/madler/zlib/blob/develop/README"
     }
   },
   "updated_at": "2018-05-22T10:33:00Z"

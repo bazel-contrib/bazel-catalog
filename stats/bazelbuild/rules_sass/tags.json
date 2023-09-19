@@ -1,5 +1,29 @@
 [
   {
+    "name": "1.67.0",
+    "sha": "63d77ffdf3039aae1f0bb54e05ff47b7c50f1553"
+  },
+  {
+    "name": "1.66.1",
+    "sha": "d7128a3b4b2deb8e339391877001c64d4ae911c7"
+  },
+  {
+    "name": "1.66.0",
+    "sha": "9f5a69842c77b1fa0aef3d6354f49f61d1fbc587"
+  },
+  {
+    "name": "1.65.1",
+    "sha": "253da3f44dad0ebe69bd4b59f7f0eb845f72387e"
+  },
+  {
+    "name": "1.65.0",
+    "sha": "382c1e84a30ecfa0b55e46196b11cdd2496c7b09"
+  },
+  {
+    "name": "1.64.2",
+    "sha": "b0f0036ebb7a230d88b1d7e4a3900e5c9b691a23"
+  },
+  {
     "name": "1.64.1",
     "sha": "ded821e3fc30ec3ceecdc28618b8b5df440a26be"
   },
@@ -94,29 +118,5 @@
   {
     "name": "1.56.2",
     "sha": "8657b221a7d79b61197bbb6764e59b04249cf3c1"
-  },
-  {
-    "name": "1.56.1",
-    "sha": "a2fce75bcf103750f7accbf7f966ad48bcbca2d4"
-  },
-  {
-    "name": "1.56.0",
-    "sha": "0c08b0002535e4c0a4bbbb7dcb0be901200d45b4"
-  },
-  {
-    "name": "1.55.0",
-    "sha": "f6ceac7f5e11424880ae41f9c1a5cfd02968376c"
-  },
-  {
-    "name": "1.54.9",
-    "sha": "987e9338f6d28d36f385d027e5bca1d3f032c6b9"
-  },
-  {
-    "name": "1.54.8",
-    "sha": "f3874ae3ddbdab73a0a0e7bc14909d498c464ad9"
-  },
-  {
-    "name": "1.54.7",
-    "sha": "7057e1258e2763b5ca5fb459f650965ccc33b199"
   }
 ]

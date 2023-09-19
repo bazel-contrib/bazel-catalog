@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "network_count": 6,
-  "subscribers_count": 3
+  "subscribers_count": 4
 }

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/c-ares/c-ares/releases{/id}",
   "deployments_url": "https://api.github.com/repos/c-ares/c-ares/deployments",
   "created_at": "2010-03-20T19:30:23Z",
-  "updated_at": "2023-07-31T03:38:15Z",
-  "pushed_at": "2023-07-17T09:20:55Z",
+  "updated_at": "2023-09-19T07:31:45Z",
+  "pushed_at": "2023-09-14T09:56:45Z",
   "git_url": "git://github.com/c-ares/c-ares.git",
   "ssh_url": "git@github.com:c-ares/c-ares.git",
   "clone_url": "https://github.com/c-ares/c-ares.git",
   "svn_url": "https://github.com/c-ares/c-ares",
   "homepage": "https://c-ares.org/",
-  "size": 6830,
-  "stargazers_count": 1634,
-  "watchers_count": 1634,
+  "size": 6841,
+  "stargazers_count": 1657,
+  "watchers_count": 1657,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 565,
+  "forks_count": 597,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["async", "c", "dns", "dns-queries", "library", "resolver"],
   "visibility": "public",
-  "forks": 565,
+  "forks": 597,
   "open_issues": 32,
-  "watchers": 1634,
+  "watchers": 1657,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "c-ares",
     "id": 16745161,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 565,
-  "subscribers_count": 81
+  "network_count": 597,
+  "subscribers_count": 82
 }

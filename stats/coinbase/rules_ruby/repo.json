@@ -65,14 +65,14 @@
   "releases_url": "https://api.github.com/repos/coinbase/rules_ruby/releases{/id}",
   "deployments_url": "https://api.github.com/repos/coinbase/rules_ruby/deployments",
   "created_at": "2020-01-07T23:25:39Z",
-  "updated_at": "2023-06-01T14:38:44Z",
-  "pushed_at": "2023-04-12T05:36:58Z",
+  "updated_at": "2023-08-19T05:30:16Z",
+  "pushed_at": "2023-08-19T00:43:06Z",
   "git_url": "git://github.com/coinbase/rules_ruby.git",
   "ssh_url": "git@github.com:coinbase/rules_ruby.git",
   "clone_url": "https://github.com/coinbase/rules_ruby.git",
   "svn_url": "https://github.com/coinbase/rules_ruby",
   "homepage": "",
-  "size": 505,
+  "size": 509,
   "stargazers_count": 23,
   "watchers_count": 23,
   "language": "Starlark",
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "coinbase",
     "id": 1885080,
@@ -132,5 +131,5 @@
     "site_admin": false
   },
   "network_count": 15,
-  "subscribers_count": 19
+  "subscribers_count": 20
 }

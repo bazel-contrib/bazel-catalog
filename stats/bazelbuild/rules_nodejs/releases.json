@@ -1,12 +1,41 @@
 [
   {
+    "name": "v6.0.1",
+    "date": "2023-08-12T14:58:31Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_nodejs-v6.0.1.tar.gz",
+        "count": 23100,
+        "size": 239037
+      }
+    ]
+  },
+  {
+    "name": "5.8.4",
+    "date": "2023-08-01T02:43:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_nodejs-5.8.4.tar.gz",
+        "count": 48645,
+        "size": 1031891
+      },
+      {
+        "name": "rules_nodejs-core-5.8.4.tar.gz",
+        "count": 51097,
+        "size": 150278
+      }
+    ]
+  },
+  {
     "name": "v6.0.0",
     "date": "2023-07-14T22:16:26Z",
     "mentions": 5,
     "downloads": [
       {
         "name": "rules_nodejs-v6.0.0.tar.gz",
-        "count": 3495,
+        "count": 9686,
         "size": 236082
       }
     ]
@@ -18,7 +47,7 @@
     "downloads": [
       {
         "name": "rules_nodejs-v6.0.0-rc0.tar.gz",
-        "count": 177,
+        "count": 206,
         "size": 236104
       }
     ]
@@ -30,12 +59,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.8.3.tar.gz",
-        "count": 152999,
+        "count": 324488,
         "size": 1031891
       },
       {
         "name": "rules_nodejs-core-5.8.3.tar.gz",
-        "count": 158831,
+        "count": 336974,
         "size": 148566
       }
     ]
@@ -47,7 +76,7 @@
     "downloads": [
       {
         "name": "rules_nodejs-v6.0.0-beta1.tar.gz",
-        "count": 24280,
+        "count": 36402,
         "size": 227646
       }
     ]
@@ -71,12 +100,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.8.2.tar.gz",
-        "count": 357815,
+        "count": 513337,
         "size": 1031886
       },
       {
         "name": "rules_nodejs-core-5.8.2.tar.gz",
-        "count": 763475,
+        "count": 1125760,
         "size": 146034
       }
     ]
@@ -88,12 +117,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.8.1.tar.gz",
-        "count": 117,
+        "count": 133,
         "size": 1031887
       },
       {
         "name": "rules_nodejs-core-5.8.1.tar.gz",
-        "count": 94,
+        "count": 106,
         "size": 145864
       }
     ]
@@ -105,12 +134,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.8.0.tar.gz",
-        "count": 877691,
+        "count": 1066459,
         "size": 1031887
       },
       {
         "name": "rules_nodejs-core-5.8.0.tar.gz",
-        "count": 1205298,
+        "count": 1518025,
         "size": 145482
       }
     ]
@@ -122,12 +151,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.7.3.tar.gz",
-        "count": 135384,
+        "count": 142824,
         "size": 1031926
       },
       {
         "name": "rules_nodejs-core-5.7.3.tar.gz",
-        "count": 143361,
+        "count": 150850,
         "size": 144757
       }
     ]
@@ -139,12 +168,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.7.2.tar.gz",
-        "count": 135404,
+        "count": 147637,
         "size": 1031816
       },
       {
         "name": "rules_nodejs-core-5.7.2.tar.gz",
-        "count": 135595,
+        "count": 146245,
         "size": 144756
       }
     ]
@@ -156,12 +185,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.7.1.tar.gz",
-        "count": 344143,
+        "count": 358266,
         "size": 1031791
       },
       {
         "name": "rules_nodejs-core-5.7.1.tar.gz",
-        "count": 508927,
+        "count": 555155,
         "size": 143183
       }
     ]
@@ -173,12 +202,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.7.0.tar.gz",
-        "count": 204190,
+        "count": 219179,
         "size": 1031623
       },
       {
         "name": "rules_nodejs-core-5.7.0.tar.gz",
-        "count": 235840,
+        "count": 257080,
         "size": 142368
       }
     ]
@@ -190,12 +219,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.6.0.tar.gz",
-        "count": 116026,
+        "count": 123355,
         "size": 1031490
       },
       {
         "name": "rules_nodejs-core-5.6.0.tar.gz",
-        "count": 177335,
+        "count": 184761,
         "size": 141897
       }
     ]
@@ -207,12 +236,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.5.4.tar.gz",
-        "count": 139953,
+        "count": 140061,
         "size": 1031367
       },
       {
         "name": "rules_nodejs-core-5.5.4.tar.gz",
-        "count": 146928,
+        "count": 147551,
         "size": 140781
       }
     ]
@@ -224,12 +253,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.5.3.tar.gz",
-        "count": 380997,
+        "count": 399934,
         "size": 1031087
       },
       {
         "name": "rules_nodejs-core-5.5.3.tar.gz",
-        "count": 814389,
+        "count": 858191,
         "size": 139741
       }
     ]
@@ -241,12 +270,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.5.2.tar.gz",
-        "count": 216300,
+        "count": 227330,
         "size": 1030896
       },
       {
         "name": "rules_nodejs-core-5.5.2.tar.gz",
-        "count": 574510,
+        "count": 601974,
         "size": 139146
       }
     ]
@@ -258,12 +287,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.5.1.tar.gz",
-        "count": 91011,
+        "count": 98653,
         "size": 1031349
       },
       {
         "name": "rules_nodejs-core-5.5.1.tar.gz",
-        "count": 79367,
+        "count": 82025,
         "size": 137903
       }
     ]
@@ -275,12 +304,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.5.0.tar.gz",
-        "count": 359535,
+        "count": 364357,
         "size": 1031220
       },
       {
         "name": "rules_nodejs-core-5.5.0.tar.gz",
-        "count": 475267,
+        "count": 490197,
         "size": 136174
       }
     ]
@@ -292,12 +321,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.4.2.tar.gz",
-        "count": 212967,
+        "count": 222945,
         "size": 1031205
       },
       {
         "name": "rules_nodejs-core-5.4.2.tar.gz",
-        "count": 213389,
+        "count": 222991,
         "size": 135546
       }
     ]
@@ -309,12 +338,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.4.1.tar.gz",
-        "count": 39011,
+        "count": 41438,
         "size": 1031207
       },
       {
         "name": "rules_nodejs-core-5.4.1.tar.gz",
-        "count": 123311,
+        "count": 125752,
         "size": 134778
       }
     ]
@@ -326,12 +355,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-4.7.1.tar.gz",
-        "count": 304894,
+        "count": 344891,
         "size": 1141741
       },
       {
         "name": "rules_nodejs-core-4.7.1.tar.gz",
-        "count": 24120,
+        "count": 42192,
         "size": 123958
       }
     ]
@@ -343,12 +372,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.4.0.tar.gz",
-        "count": 214185,
+        "count": 215974,
         "size": 1030333
       },
       {
         "name": "rules_nodejs-core-5.4.0.tar.gz",
-        "count": 228123,
+        "count": 229952,
         "size": 132851
       }
     ]
@@ -360,12 +389,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.3.1.tar.gz",
-        "count": 6935,
+        "count": 6970,
         "size": 1030120
       },
       {
         "name": "rules_nodejs-core-5.3.1.tar.gz",
-        "count": 8166,
+        "count": 8201,
         "size": 121721
       }
     ]
@@ -377,12 +406,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.3.0.tar.gz",
-        "count": 27666,
+        "count": 32047,
         "size": 1029986
       },
       {
         "name": "rules_nodejs-core-5.3.0.tar.gz",
-        "count": 32256,
+        "count": 36850,
         "size": 121337
       }
     ]
@@ -394,12 +423,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-5.2.0.tar.gz",
-        "count": 1032562,
+        "count": 1141203,
         "size": 1028982
       },
       {
         "name": "rules_nodejs-core-5.2.0.tar.gz",
-        "count": 756012,
+        "count": 870319,
         "size": 119092
       }
     ]
@@ -411,12 +440,12 @@
     "downloads": [
       {
         "name": "rules_nodejs-4.7.0.tar.gz",
-        "count": 518727,
+        "count": 559423,
         "size": 1141162
       },
       {
         "name": "rules_nodejs-core-4.7.0.tar.gz",
-        "count": 35,
+        "count": 36,
         "size": 123958
       }
     ]
@@ -428,7 +457,7 @@
     "downloads": [
       {
         "name": "rules_nodejs-4.6.3.tar.gz",
-        "count": 63170,
+        "count": 63181,
         "size": 1141073
       },
       {
@@ -445,47 +474,13 @@
     "downloads": [
       {
         "name": "rules_nodejs-4.6.2.tar.gz",
-        "count": 95159,
+        "count": 95206,
         "size": 1140958
       },
       {
         "name": "rules_nodejs-core-4.6.2.tar.gz",
-        "count": 100,
+        "count": 101,
         "size": 123925
-      }
-    ]
-  },
-  {
-    "name": "5.1.0",
-    "date": "2022-02-02T20:31:52Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "rules_nodejs-5.1.0.tar.gz",
-        "count": 195295,
-        "size": 1028732
-      },
-      {
-        "name": "rules_nodejs-core-5.1.0.tar.gz",
-        "count": 196752,
-        "size": 118065
-      }
-    ]
-  },
-  {
-    "name": "5.0.2",
-    "date": "2022-01-27T23:30:51Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "rules_nodejs-5.0.2.tar.gz",
-        "count": 278228,
-        "size": 1028642
-      },
-      {
-        "name": "rules_nodejs-core-5.0.2.tar.gz",
-        "count": 268251,
-        "size": 117411
       }
     ]
   }

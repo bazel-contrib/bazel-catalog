@@ -1,12 +1,36 @@
 [
   {
+    "name": "10.1.1",
+    "date": "2023-08-28T13:35:02Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "fmt-10.1.1.zip",
+        "count": 5685,
+        "size": 1278116
+      }
+    ]
+  },
+  {
+    "name": "10.1.0",
+    "date": "2023-08-12T15:00:46Z",
+    "mentions": 28,
+    "downloads": [
+      {
+        "name": "fmt-10.1.0.zip",
+        "count": 8294,
+        "size": 1277279
+      }
+    ]
+  },
+  {
     "name": "10.0.0",
     "date": "2023-05-10T13:25:20Z",
     "mentions": 46,
     "downloads": [
       {
         "name": "fmt-10.0.0.zip",
-        "count": 35589,
+        "count": 66234,
         "size": 1279571
       }
     ]
@@ -18,7 +42,7 @@
     "downloads": [
       {
         "name": "fmt-9.1.0.zip",
-        "count": 422810,
+        "count": 492215,
         "size": 1262685
       }
     ]
@@ -30,7 +54,7 @@
     "downloads": [
       {
         "name": "fmt-9.0.0.zip",
-        "count": 44230,
+        "count": 49885,
         "size": 1260051
       }
     ]
@@ -42,7 +66,7 @@
     "downloads": [
       {
         "name": "fmt-8.1.1.zip",
-        "count": 242032,
+        "count": 261972,
         "size": 1248058
       }
     ]
@@ -54,7 +78,7 @@
     "downloads": [
       {
         "name": "fmt-8.1.0.zip",
-        "count": 3296,
+        "count": 3372,
         "size": 1247844
       }
     ]
@@ -66,7 +90,7 @@
     "downloads": [
       {
         "name": "fmt-8.0.1.zip",
-        "count": 94129,
+        "count": 115464,
         "size": 1223579
       }
     ]
@@ -78,7 +102,7 @@
     "downloads": [
       {
         "name": "fmt-8.0.0.zip",
-        "count": 17857,
+        "count": 18108,
         "size": 1220651
       }
     ]
@@ -90,7 +114,7 @@
     "downloads": [
       {
         "name": "fmt-7.1.3.zip",
-        "count": 84322,
+        "count": 94691,
         "size": 1192520
       }
     ]
@@ -102,7 +126,7 @@
     "downloads": [
       {
         "name": "fmt-7.1.2.zip",
-        "count": 11618,
+        "count": 11695,
         "size": 1192292
       }
     ]
@@ -114,7 +138,7 @@
     "downloads": [
       {
         "name": "fmt-7.1.1.zip",
-        "count": 353,
+        "count": 359,
         "size": 1192233
       }
     ]
@@ -126,7 +150,7 @@
     "downloads": [
       {
         "name": "fmt-7.1.0.zip",
-        "count": 2106,
+        "count": 2114,
         "size": 1191400
       }
     ]
@@ -138,7 +162,7 @@
     "downloads": [
       {
         "name": "fmt-7.0.3.zip",
-        "count": 424849,
+        "count": 427654,
         "size": 1152094
       }
     ]
@@ -150,7 +174,7 @@
     "downloads": [
       {
         "name": "fmt-7.0.2.zip",
-        "count": 18417,
+        "count": 18626,
         "size": 1151763
       }
     ]
@@ -162,7 +186,7 @@
     "downloads": [
       {
         "name": "fmt-7.0.1.zip",
-        "count": 4361,
+        "count": 4509,
         "size": 1161525
       }
     ]
@@ -174,7 +198,7 @@
     "downloads": [
       {
         "name": "fmt-7.0.0.zip",
-        "count": 419,
+        "count": 426,
         "size": 1161512
       }
     ]
@@ -186,7 +210,7 @@
     "downloads": [
       {
         "name": "fmt-6.2.1.zip",
-        "count": 7341,
+        "count": 8054,
         "size": 1152960
       }
     ]
@@ -198,7 +222,7 @@
     "downloads": [
       {
         "name": "fmt-6.2.0.zip",
-        "count": 4975,
+        "count": 4986,
         "size": 1152608
       }
     ]
@@ -210,7 +234,7 @@
     "downloads": [
       {
         "name": "fmt-6.1.2.zip",
-        "count": 90141,
+        "count": 91122,
         "size": 1139730
       }
     ]
@@ -222,7 +246,7 @@
     "downloads": [
       {
         "name": "fmt-6.1.1.zip",
-        "count": 490,
+        "count": 491,
         "size": 1138758
       }
     ]
@@ -234,7 +258,7 @@
     "downloads": [
       {
         "name": "fmt-6.1.0.zip",
-        "count": 9093,
+        "count": 9095,
         "size": 1138645
       }
     ]
@@ -246,7 +270,7 @@
     "downloads": [
       {
         "name": "fmt-6.0.0.zip",
-        "count": 39759,
+        "count": 41259,
         "size": 1121835
       }
     ]
@@ -258,7 +282,7 @@
     "downloads": [
       {
         "name": "fmt-5.3.0.zip",
-        "count": 346601,
+        "count": 347155,
         "size": 1065784
       }
     ]
@@ -270,7 +294,7 @@
     "downloads": [
       {
         "name": "fmt-5.2.1.zip",
-        "count": 27701,
+        "count": 27709,
         "size": 1048502
       }
     ]
@@ -282,7 +306,7 @@
     "downloads": [
       {
         "name": "fmt-5.2.0.zip",
-        "count": 759,
+        "count": 760,
         "size": 1047550
       }
     ]
@@ -294,7 +318,7 @@
     "downloads": [
       {
         "name": "fmt-5.1.0.zip",
-        "count": 913,
+        "count": 920,
         "size": 1033044
       }
     ]
@@ -306,7 +330,7 @@
     "downloads": [
       {
         "name": "fmt-5.0.0.zip",
-        "count": 1379,
+        "count": 1386,
         "size": 1025077
       }
     ]
@@ -318,7 +342,7 @@
     "downloads": [
       {
         "name": "fmt-4.1.0.zip",
-        "count": 17744,
+        "count": 17775,
         "size": 1032178
       }
     ]
@@ -330,32 +354,8 @@
     "downloads": [
       {
         "name": "fmt-4.0.0.zip",
-        "count": 69116,
+        "count": 69139,
         "size": 1129583
-      }
-    ]
-  },
-  {
-    "name": "3.0.2",
-    "date": "2017-06-14T16:08:47Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "fmt-3.0.2.zip",
-        "count": 3355,
-        "size": 1104962
-      }
-    ]
-  },
-  {
-    "name": "3.0.1",
-    "date": "2016-11-01T08:47:10Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "fmt-3.0.1.zip",
-        "count": 4202,
-        "size": 1105464
       }
     ]
   }

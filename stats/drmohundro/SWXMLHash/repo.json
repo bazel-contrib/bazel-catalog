@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/drmohundro/SWXMLHash/releases{/id}",
   "deployments_url": "https://api.github.com/repos/drmohundro/SWXMLHash/deployments",
   "created_at": "2014-07-09T02:53:38Z",
-  "updated_at": "2023-07-25T23:24:11Z",
+  "updated_at": "2023-09-12T16:23:18Z",
   "pushed_at": "2023-05-10T02:37:36Z",
   "git_url": "git://github.com/drmohundro/SWXMLHash.git",
   "ssh_url": "git@github.com:drmohundro/SWXMLHash.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/drmohundro/SWXMLHash",
   "homepage": null,
   "size": 993,
-  "stargazers_count": 1336,
-  "watchers_count": 1336,
+  "stargazers_count": 1340,
+  "watchers_count": 1340,
   "language": "Swift",
   "has_issues": true,
   "has_projects": true,
@@ -86,7 +86,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 3,
+  "open_issues_count": 4,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -100,8 +100,8 @@
   "topics": ["swift", "swxmlhash", "xml-parsing"],
   "visibility": "public",
   "forks": 195,
-  "open_issues": 3,
-  "watchers": 1336,
+  "open_issues": 4,
+  "watchers": 1340,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "network_count": 195,
   "subscribers_count": 34
 }

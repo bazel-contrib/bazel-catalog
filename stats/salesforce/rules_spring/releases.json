@@ -6,7 +6,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.2.5-M1.zip",
-        "count": 4,
+        "count": 13,
         "size": 232530
       }
     ]
@@ -18,7 +18,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.2.4.zip",
-        "count": 3504,
+        "count": 7539,
         "size": 227113
       }
     ]
@@ -30,7 +30,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.2.3.zip",
-        "count": 103,
+        "count": 104,
         "size": 126492
       }
     ]
@@ -42,7 +42,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.2.2.zip",
-        "count": 29532,
+        "count": 35566,
         "size": 126492
       }
     ]
@@ -54,7 +54,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.2.1.zip",
-        "count": 232510,
+        "count": 244826,
         "size": 390775
       }
     ]
@@ -66,7 +66,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.2.0.zip",
-        "count": 1893,
+        "count": 1895,
         "size": 206538
       }
     ]
@@ -78,7 +78,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.1.4.zip",
-        "count": 605187,
+        "count": 615682,
         "size": 114239
       }
     ]
@@ -90,7 +90,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.1.3.zip",
-        "count": 22089,
+        "count": 22337,
         "size": 1168601
       }
     ]
@@ -126,7 +126,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.1.0.zip",
-        "count": 26718,
+        "count": 27935,
         "size": 110992
       }
     ]
@@ -138,7 +138,7 @@
     "downloads": [
       {
         "name": "rules-spring-2.0.0.zip",
-        "count": 75654,
+        "count": 78321,
         "size": 125974
       }
     ]
@@ -150,7 +150,7 @@
     "downloads": [
       {
         "name": "bazel-springboot-rule-1.1.2.zip",
-        "count": 535557,
+        "count": 535566,
         "size": 119682
       }
     ]
@@ -264,7 +264,7 @@
     "downloads": [
       {
         "name": "bazel-springboot-rule-1.0.3.zip",
-        "count": 634,
+        "count": 647,
         "size": 68514
       }
     ]
@@ -276,7 +276,7 @@
     "downloads": [
       {
         "name": "bazel-springboot-rule-1.0.2.zip",
-        "count": 18656,
+        "count": 19179,
         "size": 51110
       }
     ]

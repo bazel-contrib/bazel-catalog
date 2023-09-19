@@ -1,12 +1,36 @@
 [
   {
+    "name": "3.12.0",
+    "date": "2023-09-13T09:56:07Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_erlang-3.12.0.tar.gz",
+        "count": 241,
+        "size": 499899
+      }
+    ]
+  },
+  {
+    "name": "3.11.4",
+    "date": "2023-08-14T14:17:05Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_erlang-3.11.4.tar.gz",
+        "count": 2420,
+        "size": 498279
+      }
+    ]
+  },
+  {
     "name": "3.11.3",
     "date": "2023-07-18T14:01:42Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_erlang-3.11.3.tar.gz",
-        "count": 724,
+        "count": 1750,
         "size": 498240
       }
     ]
@@ -18,7 +42,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.11.2.tar.gz",
-        "count": 381,
+        "count": 488,
         "size": 498243
       }
     ]
@@ -30,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.11.1.tar.gz",
-        "count": 1269,
+        "count": 1403,
         "size": 498187
       }
     ]
@@ -42,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.11.0.tar.gz",
-        "count": 21,
+        "count": 26,
         "size": 497805
       }
     ]
@@ -54,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.7.tar.gz",
-        "count": 93,
+        "count": 98,
         "size": 497238
       }
     ]
@@ -66,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.6.tar.gz",
-        "count": 126,
+        "count": 131,
         "size": 497207
       }
     ]
@@ -78,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.5.tar.gz",
-        "count": 3411,
+        "count": 3503,
         "size": 497175
       }
     ]
@@ -90,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.4.tar.gz",
-        "count": 16,
+        "count": 21,
         "size": 497145
       }
     ]
@@ -102,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.3.tar.gz",
-        "count": 40,
+        "count": 45,
         "size": 496818
       }
     ]
@@ -114,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.2.tar.gz",
-        "count": 72,
+        "count": 81,
         "size": 496855
       }
     ]
@@ -126,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.1.tar.gz",
-        "count": 885,
+        "count": 890,
         "size": 494199
       }
     ]
@@ -138,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_erlang-3.10.0.tar.gz",
-        "count": 369,
+        "count": 374,
         "size": 494198
       }
     ]
@@ -237,18 +261,6 @@
     "name": "3.8.5",
     "date": "2022-12-19T10:13:26Z",
     "mentions": 2,
-    "downloads": []
-  },
-  {
-    "name": "3.8.4",
-    "date": "2022-12-02T11:28:13Z",
-    "mentions": 2,
-    "downloads": []
-  },
-  {
-    "name": "3.8.3",
-    "date": "2022-10-18T15:00:17Z",
-    "mentions": 1,
     "downloads": []
   }
 ]

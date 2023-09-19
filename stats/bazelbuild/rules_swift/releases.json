@@ -1,12 +1,48 @@
 [
   {
+    "name": "1.11.0",
+    "date": "2023-09-07T17:04:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.1.11.0.tar.gz",
+        "count": 2229,
+        "size": 220024
+      }
+    ]
+  },
+  {
+    "name": "1.10.1",
+    "date": "2023-09-05T19:06:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift.1.10.1.tar.gz",
+        "count": 1140,
+        "size": 211148
+      }
+    ]
+  },
+  {
+    "name": "1.10.0",
+    "date": "2023-08-12T00:53:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.1.10.0.tar.gz",
+        "count": 17558,
+        "size": 210587
+      }
+    ]
+  },
+  {
     "name": "1.9.1",
     "date": "2023-07-07T21:26:13Z",
     "mentions": null,
     "downloads": [
       {
         "name": "rules_swift.1.9.1.tar.gz",
-        "count": 16230,
+        "count": 48679,
         "size": 206848
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.9.0.tar.gz",
-        "count": 2670,
+        "count": 3858,
         "size": 206514
       }
     ]
@@ -30,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.8.0.tar.gz",
-        "count": 34084,
+        "count": 47627,
         "size": 204915
       }
     ]
@@ -42,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.7.1.tar.gz",
-        "count": 116360,
+        "count": 148051,
         "size": 204087
       }
     ]
@@ -54,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.7.0.tar.gz",
-        "count": 52,
+        "count": 59,
         "size": 204004
       }
     ]
@@ -66,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.6.0.tar.gz",
-        "count": 139484,
+        "count": 150553,
         "size": 204549
       }
     ]
@@ -78,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.5.1.tar.gz",
-        "count": 17094,
+        "count": 17198,
         "size": 206296
       }
     ]
@@ -90,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.5.0.tar.gz",
-        "count": 79948,
+        "count": 85310,
         "size": 206209
       }
     ]
@@ -102,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.4.0.tar.gz",
-        "count": 22152,
+        "count": 24208,
         "size": 204621
       }
     ]
@@ -126,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.2.0.tar.gz",
-        "count": 931342,
+        "count": 1041741,
         "size": 208764
       }
     ]
@@ -138,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.1.1.tar.gz",
-        "count": 40518,
+        "count": 40750,
         "size": 206631
       }
     ]
@@ -150,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.1.0.tar.gz",
-        "count": 11092,
+        "count": 12556,
         "size": 203405
       }
     ]
@@ -162,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.0.0.tar.gz",
-        "count": 446683,
+        "count": 450465,
         "size": 199181
       }
     ]
@@ -174,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.27.0.tar.gz",
-        "count": 240104,
+        "count": 246387,
         "size": 188544
       }
     ]
@@ -186,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.26.0.tar.gz",
-        "count": 33672,
+        "count": 34058,
         "size": 188033
       }
     ]
@@ -198,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.25.0.tar.gz",
-        "count": 138830,
+        "count": 145379,
         "size": 184783
       }
     ]
@@ -210,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.24.0.tar.gz",
-        "count": 811837,
+        "count": 886452,
         "size": 177020
       }
     ]
@@ -222,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.23.0.tar.gz",
-        "count": 129494,
+        "count": 130233,
         "size": 172144
       }
     ]
@@ -234,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.22.0.tar.gz",
-        "count": 84157,
+        "count": 84179,
         "size": 165152
       }
     ]
@@ -246,7 +282,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.21.0.tar.gz",
-        "count": 1383118,
+        "count": 1515864,
         "size": 170336
       }
     ]
@@ -258,7 +294,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.20.0.tar.gz",
-        "count": 3116,
+        "count": 3117,
         "size": 157258
       }
     ]
@@ -270,7 +306,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.19.0.tar.gz",
-        "count": 7483,
+        "count": 7484,
         "size": 161584
       }
     ]
@@ -282,7 +318,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.18.0.tar.gz",
-        "count": 25203,
+        "count": 25352,
         "size": 158042
       }
     ]
@@ -294,7 +330,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.17.0.tar.gz",
-        "count": 109458,
+        "count": 109617,
         "size": 157243
       }
     ]
@@ -306,7 +342,7 @@
     "downloads": [
       {
         "name": "rules_swift.0.16.1.tar.gz",
-        "count": 21435,
+        "count": 21465,
         "size": 158023
       }
     ]
@@ -320,42 +356,6 @@
         "name": "rules_swift.0.16.0.tar.gz",
         "count": 295,
         "size": 157745
-      }
-    ]
-  },
-  {
-    "name": "0.15.0",
-    "date": "2020-09-21T21:31:52Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.15.0.tar.gz",
-        "count": 845,
-        "size": 155257
-      }
-    ]
-  },
-  {
-    "name": "0.14.0",
-    "date": "2020-08-10T21:14:57Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.14.0.tar.gz",
-        "count": 43067,
-        "size": 151528
-      }
-    ]
-  },
-  {
-    "name": "0.13.0",
-    "date": "2019-10-09T19:36:22Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.13.0.tar.gz",
-        "count": 428919,
-        "size": 116599
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Bazel rules to build Swift on Apple and Linux platforms",
   "documentation": null,
   "files": {

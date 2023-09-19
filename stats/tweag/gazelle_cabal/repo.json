@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tweag/gazelle_cabal/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tweag/gazelle_cabal/deployments",
   "created_at": "2021-07-06T17:11:33Z",
-  "updated_at": "2023-05-05T06:38:17Z",
-  "pushed_at": "2023-07-11T11:30:56Z",
+  "updated_at": "2023-08-07T22:39:46Z",
+  "pushed_at": "2023-09-04T16:25:35Z",
   "git_url": "git://github.com/tweag/gazelle_cabal.git",
   "ssh_url": "git@github.com:tweag/gazelle_cabal.git",
   "clone_url": "https://github.com/tweag/gazelle_cabal.git",
   "svn_url": "https://github.com/tweag/gazelle_cabal",
   "homepage": null,
-  "size": 201,
-  "stargazers_count": 10,
-  "watchers_count": 10,
+  "size": 210,
+  "stargazers_count": 11,
+  "watchers_count": 11,
   "language": "Haskell",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 5,
+  "forks_count": 4,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 5,
+  "forks": 4,
   "open_issues": 7,
-  "watchers": 10,
+  "watchers": 11,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "tweag",
     "id": 6057932,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 5,
-  "subscribers_count": 28
+  "network_count": 4,
+  "subscribers_count": 25
 }

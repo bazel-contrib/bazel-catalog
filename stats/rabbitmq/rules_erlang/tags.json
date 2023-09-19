@@ -1,5 +1,13 @@
 [
   {
+    "name": "3.12.0",
+    "sha": "6f5b78cd3cf6417bb2ac7d3ca7eb8eb343803811"
+  },
+  {
+    "name": "3.11.4",
+    "sha": "06c5a814428b60a59df1feb714a9c1f7418e5eea"
+  },
+  {
     "name": "3.11.3",
     "sha": "7e1ddc6cb5b81d153f07e62532bb7bdbf0a716bf"
   },
@@ -110,13 +118,5 @@
   {
     "name": "3.8.5",
     "sha": "46fe77d39c2fa5af0d6aa530b53b49831f4a4359"
-  },
-  {
-    "name": "3.8.4",
-    "sha": "8cf90a2c7062287cd17f3455c8dbbdb7f80479da"
-  },
-  {
-    "name": "3.8.3",
-    "sha": "058dbf9dcec041e9f416774dfeaeea7185e921fc"
   }
 ]

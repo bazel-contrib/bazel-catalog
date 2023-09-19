@@ -20,6 +20,7 @@ function ghapi() {
         "https://api.github.com/$1"
 }
 
+tmp=$(mktemp)
 while IFS= read -r ghrepo;
 do
     DESTDIR="$OUTPUT_ROOT/$ghrepo"
@@ -33,6 +34,11 @@ do
     ghapi "repos/$ghrepo/releases" | jq \
         'map({name: .tag_name, date: .published_at, mentions: .mentions_count, downloads: (.assets | map({name: .name, count: .download_count, size: .size}))})' \
         > "$DESTDIR/releases.json"
+    
+    # Copy some data back to the rulesets database for easier rendering later.
+    stars=$(jq '.stargazers_count' < "$DESTDIR/repo.json")
+    jq ".rulesets |= map( if (.repository == \"github:$ghrepo\") then (.stargazers_count = $stars) else . end)" "$SCRIPT_DIR/../rulesets.json" > "$tmp"
+    cp "$tmp" "${SCRIPT_DIR}"/../rulesets.json
 done < <(
     jq --raw-output \
     --from-file "${SCRIPT_DIR}"/../filters/ghrepo.jq \

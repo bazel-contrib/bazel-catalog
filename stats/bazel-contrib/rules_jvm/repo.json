@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazel-contrib/rules_jvm/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazel-contrib/rules_jvm/deployments",
   "created_at": "2021-12-01T18:59:56Z",
-  "updated_at": "2023-07-21T12:48:12Z",
-  "pushed_at": "2023-07-26T09:23:05Z",
+  "updated_at": "2023-09-03T05:50:40Z",
+  "pushed_at": "2023-09-18T11:15:08Z",
   "git_url": "git://github.com/bazel-contrib/rules_jvm.git",
   "ssh_url": "git@github.com:bazel-contrib/rules_jvm.git",
   "clone_url": "https://github.com/bazel-contrib/rules_jvm.git",
   "svn_url": "https://github.com/bazel-contrib/rules_jvm",
   "homepage": null,
-  "size": 1068,
-  "stargazers_count": 33,
-  "watchers_count": 33,
+  "size": 859,
+  "stargazers_count": 34,
+  "watchers_count": 34,
   "language": "Java",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 32,
+  "forks_count": 35,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 32,
+  "forks": 35,
   "open_issues": 13,
-  "watchers": 33,
+  "watchers": 34,
   "default_branch": "main",
   "permissions": {
     "admin": true,
@@ -110,7 +110,6 @@
     "triage": true,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazel-contrib",
     "id": 91752542,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 32,
+  "network_count": 35,
   "subscribers_count": 10
 }

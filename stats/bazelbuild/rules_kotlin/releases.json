@@ -1,17 +1,34 @@
 [
   {
+    "name": "v1.8.1",
+    "date": "2023-09-07T15:09:24Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_kotlin_release.tgz",
+        "count": 4537,
+        "size": 19270748
+      },
+      {
+        "name": "rules_kotlin_release.tgz.sha256",
+        "count": 1,
+        "size": 101
+      }
+    ]
+  },
+  {
     "name": "v1.8",
     "date": "2023-05-24T01:46:09Z",
     "mentions": 10,
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 25164,
+        "count": 93011,
         "size": 19269454
       },
       {
         "name": "rules_kotlin_release.tgz.sha256",
-        "count": 14,
+        "count": 21,
         "size": 101
       }
     ]
@@ -23,12 +40,12 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 5362,
+        "count": 9078,
         "size": 245235329
       },
       {
         "name": "rules_kotlin_release.tgz.sha256",
-        "count": 5,
+        "count": 7,
         "size": 101
       }
     ]
@@ -40,12 +57,12 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 25384,
+        "count": 32437,
         "size": 19228122
       },
       {
         "name": "rules_kotlin_release.tgz.sha256",
-        "count": 23,
+        "count": 25,
         "size": 101
       }
     ]
@@ -57,12 +74,12 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 198444,
+        "count": 253934,
         "size": 19148080
       },
       {
         "name": "rules_kotlin_release.tgz.sha256",
-        "count": 15,
+        "count": 17,
         "size": 101
       }
     ]
@@ -74,12 +91,12 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 107937,
+        "count": 151676,
         "size": 19082296
       },
       {
         "name": "rules_kotlin_release.tgz.sha256",
-        "count": 13,
+        "count": 15,
         "size": 101
       }
     ]
@@ -91,7 +108,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 340345,
+        "count": 367838,
         "size": 18926500
       },
       {
@@ -108,7 +125,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 172854,
+        "count": 176097,
         "size": 18923991
       },
       {
@@ -125,7 +142,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 180950,
+        "count": 203061,
         "size": 18923978
       },
       {
@@ -142,7 +159,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 239753,
+        "count": 241386,
         "size": 18889321
       },
       {
@@ -176,7 +193,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 13094,
+        "count": 14554,
         "size": 18888873
       },
       {
@@ -193,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 19846,
+        "count": 20417,
         "size": 21967460
       },
       {
@@ -210,7 +227,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 531367,
+        "count": 531911,
         "size": 21569507
       },
       {
@@ -227,7 +244,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 793033,
+        "count": 805905,
         "size": 23267774
       },
       {
@@ -244,7 +261,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 217071,
+        "count": 217180,
         "size": 23565791
       },
       {
@@ -278,7 +295,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 93708,
+        "count": 93753,
         "size": 18321552
       },
       {
@@ -295,7 +312,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 343764,
+        "count": 346124,
         "size": 16603311
       },
       {
@@ -329,7 +346,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 241563,
+        "count": 241567,
         "size": 6262598
       },
       {
@@ -346,7 +363,7 @@
     "downloads": [
       {
         "name": "rules_kotlin_release.tgz",
-        "count": 341695,
+        "count": 341697,
         "size": 6263689
       },
       {

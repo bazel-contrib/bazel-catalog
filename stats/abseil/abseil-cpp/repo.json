@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/abseil/abseil-cpp/releases{/id}",
   "deployments_url": "https://api.github.com/repos/abseil/abseil-cpp/deployments",
   "created_at": "2017-09-20T15:10:30Z",
-  "updated_at": "2023-07-31T13:16:27Z",
-  "pushed_at": "2023-07-31T19:48:28Z",
+  "updated_at": "2023-09-19T15:03:58Z",
+  "pushed_at": "2023-09-19T17:36:38Z",
   "git_url": "git://github.com/abseil/abseil-cpp.git",
   "ssh_url": "git@github.com:abseil/abseil-cpp.git",
   "clone_url": "https://github.com/abseil/abseil-cpp.git",
   "svn_url": "https://github.com/abseil/abseil-cpp",
   "homepage": "https://abseil.io",
-  "size": 13914,
-  "stargazers_count": 12535,
-  "watchers_count": 12535,
+  "size": 13248,
+  "stargazers_count": 12740,
+  "watchers_count": 12740,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 2347,
+  "forks_count": 2409,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 149,
+  "open_issues_count": 151,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 2347,
-  "open_issues": 149,
-  "watchers": 12535,
+  "forks": 2409,
+  "open_issues": 151,
+  "watchers": 12740,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "abseil",
     "id": 26718316,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 2347,
-  "subscribers_count": 586
+  "network_count": 2409,
+  "subscribers_count": 579
 }
