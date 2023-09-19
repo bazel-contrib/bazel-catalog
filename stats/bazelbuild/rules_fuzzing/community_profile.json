@@ -1,5 +1,5 @@
 {
-  "health_percentage": 62,
+  "health_percentage": 75,
   "description": "Bazel Starlark extensions for defining fuzz tests in Bazel projects",
   "documentation": "https://github.com/bazelbuild/rules_fuzzing/tree/master/docs",
   "files": {

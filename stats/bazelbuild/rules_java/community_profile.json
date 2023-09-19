@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Java rules for Bazel",
   "documentation": null,
   "files": {

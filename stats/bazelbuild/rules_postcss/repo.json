@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,

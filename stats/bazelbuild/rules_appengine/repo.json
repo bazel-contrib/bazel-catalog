@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 47,
+  "forks_count": 50,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": ["appengine-sdk", "bazel", "bazel-rules"],
   "visibility": "public",
-  "forks": 47,
+  "forks": 50,
   "open_issues": 26,
   "watchers": 29,
   "default_branch": "master",
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 47,
+  "network_count": 50,
   "subscribers_count": 32
 }

@@ -1,12 +1,72 @@
 [
   {
+    "name": "v1.3.4",
+    "date": "2023-09-14T22:17:20Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "rules_oci-v1.3.4.tar.gz",
+        "count": 3878,
+        "size": 91241
+      }
+    ]
+  },
+  {
+    "name": "v1.3.3",
+    "date": "2023-09-14T22:06:53Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "rules_oci-v1.3.3.tar.gz",
+        "count": 697,
+        "size": 91246
+      }
+    ]
+  },
+  {
+    "name": "v1.3.2",
+    "date": "2023-08-30T22:05:51Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_oci-v1.3.2.tar.gz",
+        "count": 35367,
+        "size": 88980
+      }
+    ]
+  },
+  {
+    "name": "v1.3.1",
+    "date": "2023-08-17T17:37:42Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_oci-v1.3.1.tar.gz",
+        "count": 25248,
+        "size": 86874
+      }
+    ]
+  },
+  {
+    "name": "v1.3.0",
+    "date": "2023-08-16T15:19:56Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_oci-v1.3.0.tar.gz",
+        "count": 1235,
+        "size": 86420
+      }
+    ]
+  },
+  {
     "name": "v1.2.0",
     "date": "2023-07-12T20:55:35Z",
     "mentions": 12,
     "downloads": [
       {
         "name": "rules_oci-v1.2.0.tar.gz",
-        "count": 26492,
+        "count": 106982,
         "size": 84025
       }
     ]
@@ -18,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_oci-v1.1.0.tar.gz",
-        "count": 99,
+        "count": 147,
         "size": 83757
       }
     ]
@@ -30,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_oci-v1.0.0.tar.gz",
-        "count": 75416,
+        "count": 147013,
         "size": 81162
       }
     ]
@@ -42,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_oci-v1.0.0-rc1.tar.gz",
-        "count": 3117,
+        "count": 3191,
         "size": 80376
       }
     ]
@@ -54,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_oci-v1.0.0-rc0.tar.gz",
-        "count": 16346,
+        "count": 24599,
         "size": 79144
       }
     ]
@@ -66,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.6.2.tar.gz",
-        "count": 766,
+        "count": 786,
         "size": 79168
       }
     ]
@@ -90,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.6.0.tar.gz",
-        "count": 34,
+        "count": 36,
         "size": 78949
       }
     ]
@@ -102,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.5.0.tar.gz",
-        "count": 717,
+        "count": 720,
         "size": 78677
       }
     ]
@@ -114,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.4.0.tar.gz",
-        "count": 436,
+        "count": 507,
         "size": 78306
       }
     ]
@@ -126,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.3.9.tar.gz",
-        "count": 138696,
+        "count": 207774,
         "size": 65112
       }
     ]
@@ -138,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.3.8.tar.gz",
-        "count": 11412,
+        "count": 11792,
         "size": 64385
       }
     ]
@@ -150,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.3.7.tar.gz",
-        "count": 410,
+        "count": 411,
         "size": 61921
       }
     ]
@@ -162,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.3.6.tar.gz",
-        "count": 905,
+        "count": 907,
         "size": 61166
       }
     ]
@@ -174,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.3.5.tar.gz",
-        "count": 29,
+        "count": 32,
         "size": 61124
       }
     ]
@@ -210,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_oci-v0.3.2.tar.gz",
-        "count": 535,
+        "count": 836,
         "size": 56701
       }
     ]

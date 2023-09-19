@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/LMDB/lmdb/releases{/id}",
   "deployments_url": "https://api.github.com/repos/LMDB/lmdb/deployments",
   "created_at": "2015-04-22T18:04:18Z",
-  "updated_at": "2023-07-29T16:44:36Z",
-  "pushed_at": "2023-07-11T20:19:25Z",
+  "updated_at": "2023-09-19T05:36:27Z",
+  "pushed_at": "2023-08-27T14:51:27Z",
   "git_url": "git://github.com/LMDB/lmdb.git",
   "ssh_url": "git@github.com:LMDB/lmdb.git",
   "clone_url": "https://github.com/LMDB/lmdb.git",
   "svn_url": "https://github.com/LMDB/lmdb",
   "homepage": "http://www.openldap.org/software/repo.html",
-  "size": 2731,
-  "stargazers_count": 2272,
-  "watchers_count": 2272,
+  "size": 2774,
+  "stargazers_count": 2294,
+  "watchers_count": 2294,
   "language": "C",
   "has_issues": false,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 551,
+  "forks_count": 552,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -93,9 +93,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 551,
+  "forks": 552,
   "open_issues": 0,
-  "watchers": 2272,
+  "watchers": 2294,
   "default_branch": "mdb.master",
   "permissions": {
     "admin": false,
@@ -104,7 +104,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "LMDB",
     "id": 12072501,
@@ -125,6 +124,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 551,
+  "network_count": 552,
   "subscribers_count": 161
 }

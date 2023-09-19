@@ -1,5 +1,9 @@
 [
   {
+    "name": "v1.8.1",
+    "sha": "afff5acb1d8518f5ddc31c68c4420ca5927fc4a4"
+  },
+  {
     "name": "v1.8",
     "sha": "acc284029a0c4e2da86ced48f8e307bf195373ff"
   },
@@ -114,9 +118,5 @@
   {
     "name": "legacy-1.2.0",
     "sha": "4c71740a1b63b785fc90afd8d4d4d5bfda527107"
-  },
-  {
-    "name": "1.6.0-RC-1",
-    "sha": "063b1981836b4c0374e0804e3401c929938464c9"
   }
 ]

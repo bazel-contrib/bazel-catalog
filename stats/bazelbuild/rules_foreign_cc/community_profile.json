@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
   "documentation": "https://bazelbuild.github.io/rules_foreign_cc",
   "files": {

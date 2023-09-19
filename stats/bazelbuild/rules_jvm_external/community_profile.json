@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Bazel rules to resolve, fetch and export Maven artifacts",
   "documentation": "https://github.com/bazelbuild/rules_jvm_external/tree/master/docs",
   "files": {

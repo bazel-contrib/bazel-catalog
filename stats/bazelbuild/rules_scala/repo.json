@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/rules_scala/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_scala/deployments",
   "created_at": "2016-02-17T14:57:24Z",
-  "updated_at": "2023-07-25T09:32:30Z",
-  "pushed_at": "2023-07-26T10:23:59Z",
+  "updated_at": "2023-09-06T10:09:41Z",
+  "pushed_at": "2023-09-14T00:09:38Z",
   "git_url": "git://github.com/bazelbuild/rules_scala.git",
   "ssh_url": "git@github.com:bazelbuild/rules_scala.git",
   "clone_url": "https://github.com/bazelbuild/rules_scala.git",
   "svn_url": "https://github.com/bazelbuild/rules_scala",
   "homepage": null,
-  "size": 3445,
-  "stargazers_count": 336,
-  "watchers_count": 336,
+  "size": 3449,
+  "stargazers_count": 339,
+  "watchers_count": 339,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 270,
+  "forks_count": 269,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 252,
+  "open_issues_count": 254,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "bazel-rules", "scala", "scalatest"],
   "visibility": "public",
-  "forks": 270,
-  "open_issues": 252,
-  "watchers": 336,
+  "forks": 269,
+  "open_issues": 254,
+  "watchers": 339,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 270,
-  "subscribers_count": 41
+  "network_count": 269,
+  "subscribers_count": 42
 }

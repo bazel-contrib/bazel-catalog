@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)",
   "documentation": "https://bazelbuild.github.io/rules_pkg/",
   "files": {

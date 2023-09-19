@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Apple support for Bazel rules",
   "documentation": null,
   "files": {

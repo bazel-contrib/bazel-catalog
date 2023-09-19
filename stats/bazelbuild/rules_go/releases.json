@@ -6,7 +6,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.41.0.zip",
-        "count": 14245,
+        "count": 126940,
         "size": 1813797
       }
     ]
@@ -18,7 +18,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.40.1.zip",
-        "count": 30644,
+        "count": 59303,
         "size": 2105366
       }
     ]
@@ -30,7 +30,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.40.0.zip",
-        "count": 7394,
+        "count": 8461,
         "size": 2105117
       }
     ]
@@ -42,7 +42,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.39.1.zip",
-        "count": 229304,
+        "count": 380802,
         "size": 2090781
       }
     ]
@@ -54,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.39.0.zip",
-        "count": 65342,
+        "count": 84592,
         "size": 2088828
       }
     ]
@@ -66,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.38.1.zip",
-        "count": 226238,
+        "count": 246567,
         "size": 2045396
       }
     ]
@@ -78,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.38.0.zip",
-        "count": 21319,
+        "count": 24576,
         "size": 2049040
       }
     ]
@@ -90,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.37.0.zip",
-        "count": 321936,
+        "count": 379514,
         "size": 1275072
       }
     ]
@@ -102,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.36.0.zip",
-        "count": 87847,
+        "count": 93232,
         "size": 1254060
       }
     ]
@@ -114,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.35.0.zip",
-        "count": 186348,
+        "count": 197736,
         "size": 1236226
       }
     ]
@@ -126,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.34.0.zip",
-        "count": 623806,
+        "count": 642194,
         "size": 1210403
       }
     ]
@@ -138,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.33.0.zip",
-        "count": 121090,
+        "count": 128505,
         "size": 1155459
       }
     ]
@@ -150,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.32.0.zip",
-        "count": 183964,
+        "count": 184080,
         "size": 1146122
       }
     ]
@@ -162,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.31.0.zip",
-        "count": 119848,
+        "count": 122102,
         "size": 1057103
       }
     ]
@@ -174,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.30.0.zip",
-        "count": 128110,
+        "count": 146394,
         "size": 1048681
       }
     ]
@@ -186,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.29.0.zip",
-        "count": 279105,
+        "count": 281232,
         "size": 975014
       }
     ]
@@ -198,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.28.0.zip",
-        "count": 79006,
+        "count": 79670,
         "size": 946145
       }
     ]
@@ -210,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.27.0.tar.gz",
-        "count": 282369,
+        "count": 285989,
         "size": 633704
       }
     ]
@@ -222,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.24.14.tar.gz",
-        "count": 28650,
+        "count": 28673,
         "size": 524840
       }
     ]
@@ -234,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.26.0.tar.gz",
-        "count": 39076,
+        "count": 39080,
         "size": 607393
       }
     ]
@@ -246,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.24.13.tar.gz",
-        "count": 73806,
+        "count": 73820,
         "size": 523067
       }
     ]
@@ -270,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.24.11.tar.gz",
-        "count": 25497,
+        "count": 25532,
         "size": 521593
       }
     ]
@@ -282,7 +282,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.25.1.tar.gz",
-        "count": 7158,
+        "count": 7324,
         "size": 565923
       }
     ]
@@ -318,7 +318,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.25.0.tar.gz",
-        "count": 111740,
+        "count": 112113,
         "size": 564714
       }
     ]
@@ -330,7 +330,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.24.8.tar.gz",
-        "count": 31,
+        "count": 33,
         "size": 518710
       }
     ]
@@ -342,7 +342,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.24.7.tar.gz",
-        "count": 3210,
+        "count": 3215,
         "size": 517804
       }
     ]

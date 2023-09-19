@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/DataDog/rules_oci_bootstrap/deployments",
   "created_at": "2022-02-02T16:47:28Z",
   "updated_at": "2022-09-22T07:50:56Z",
-  "pushed_at": "2023-04-06T14:52:24Z",
+  "pushed_at": "2023-09-06T20:14:16Z",
   "git_url": "git://github.com/DataDog/rules_oci_bootstrap.git",
   "ssh_url": "git@github.com:DataDog/rules_oci_bootstrap.git",
   "clone_url": "https://github.com/DataDog/rules_oci_bootstrap.git",
   "svn_url": "https://github.com/DataDog/rules_oci_bootstrap",
   "homepage": "",
-  "size": 32,
+  "size": 40,
   "stargazers_count": 5,
   "watchers_count": 5,
   "language": "Starlark",
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "DataDog",
     "id": 365230,

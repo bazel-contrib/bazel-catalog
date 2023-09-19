@@ -1,5 +1,9 @@
 [
   {
+    "name": "2023-09-01",
+    "sha": "930e6b21f89d2d8a1bfb69f81557abdf5eb213cc"
+  },
+  {
     "name": "2023-08-01",
     "sha": "960c861764ff54c9a12ff683ba55ccaad1a8f73b"
   },
@@ -114,9 +118,5 @@
   {
     "name": "2020-01-01",
     "sha": "f71aaa0be84a7b401bc6494488880f3b17b5bca9"
-  },
-  {
-    "name": "2019-12-01",
-    "sha": "bb8e777557ddbdeabdedea4f23613c5021ffd7b1"
   }
 ]

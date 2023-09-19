@@ -1,5 +1,5 @@
 {
-  "health_percentage": 62,
+  "health_percentage": 75,
   "description": "Go rules for Bazel",
   "documentation": "https://github.com/bazelbuild/rules_go/tree/master/docs",
   "files": {

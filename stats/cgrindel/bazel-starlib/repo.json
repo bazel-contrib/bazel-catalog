@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/cgrindel/bazel-starlib/deployments",
   "created_at": "2021-10-30T19:59:58Z",
   "updated_at": "2023-07-26T04:15:43Z",
-  "pushed_at": "2023-07-27T23:26:44Z",
+  "pushed_at": "2023-09-10T00:07:38Z",
   "git_url": "git://github.com/cgrindel/bazel-starlib.git",
   "ssh_url": "git@github.com:cgrindel/bazel-starlib.git",
   "clone_url": "https://github.com/cgrindel/bazel-starlib.git",
   "svn_url": "https://github.com/cgrindel/bazel-starlib",
   "homepage": "",
-  "size": 754,
+  "size": 796,
   "stargazers_count": 15,
   "watchers_count": 15,
   "language": "Starlark",
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "network_count": 1,
   "subscribers_count": 2
 }

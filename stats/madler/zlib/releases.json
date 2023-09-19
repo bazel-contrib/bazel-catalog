@@ -1,37 +1,74 @@
 [
   {
+    "name": "v1.3",
+    "date": "2023-08-18T09:59:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zlib-1.3.tar.gz",
+        "count": 19370,
+        "size": 1495873
+      },
+      {
+        "name": "zlib-1.3.tar.gz.asc",
+        "count": 97,
+        "size": 235
+      },
+      {
+        "name": "zlib-1.3.tar.xz",
+        "count": 1591,
+        "size": 1295740
+      },
+      {
+        "name": "zlib-1.3.tar.xz.asc",
+        "count": 100,
+        "size": 235
+      },
+      {
+        "name": "zlib13.zip",
+        "count": 787,
+        "size": 1628983
+      },
+      {
+        "name": "zlib13.zip.asc",
+        "count": 21,
+        "size": 235
+      }
+    ]
+  },
+  {
     "name": "v1.2.13",
     "date": "2022-10-14T10:14:20Z",
     "mentions": null,
     "downloads": [
       {
         "name": "zlib-1.2.13.tar.gz",
-        "count": 94837,
+        "count": 141991,
         "size": 1497445
       },
       {
         "name": "zlib-1.2.13.tar.gz.asc",
-        "count": 453,
+        "count": 601,
         "size": 235
       },
       {
         "name": "zlib-1.2.13.tar.xz",
-        "count": 1199790,
+        "count": 1512663,
         "size": 1296496
       },
       {
         "name": "zlib-1.2.13.tar.xz.asc",
-        "count": 154,
+        "count": 172,
         "size": 235
       },
       {
         "name": "zlib1213.zip",
-        "count": 6377,
+        "count": 7116,
         "size": 1631786
       },
       {
         "name": "zlib1213.zip.asc",
-        "count": 159,
+        "count": 170,
         "size": 235
       }
     ]

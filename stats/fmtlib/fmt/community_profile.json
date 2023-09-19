@@ -23,13 +23,13 @@
       "spdx_id": "NOASSERTION",
       "url": null,
       "node_id": "MDc6TGljZW5zZTA=",
-      "html_url": "https://github.com/fmtlib/fmt/blob/master/LICENSE.rst"
+      "html_url": "https://github.com/fmtlib/fmt/blob/master/LICENSE"
     },
     "readme": {
       "url": "https://api.github.com/repos/fmtlib/fmt/contents/README.rst",
       "html_url": "https://github.com/fmtlib/fmt/blob/master/README.rst"
     }
   },
-  "updated_at": "2023-07-22T14:19:18Z",
+  "updated_at": "2023-09-18T23:44:27Z",
   "content_reports_enabled": false
 }

@@ -1,5 +1,5 @@
 {
-  "health_percentage": 87,
+  "health_percentage": 100,
   "description": "NodeJS toolchain for Bazel.",
   "documentation": "https://bazelbuild.github.io/rules_nodejs/",
   "files": {

@@ -1,12 +1,120 @@
 [
   {
+    "name": "v0.10.8",
+    "date": "2023-09-15T14:43:12Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.8.tar.gz",
+        "count": 32,
+        "size": 250885
+      }
+    ]
+  },
+  {
+    "name": "v0.10.7",
+    "date": "2023-09-11T16:26:35Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.7.tar.gz",
+        "count": 29,
+        "size": 250436
+      }
+    ]
+  },
+  {
+    "name": "v0.10.5",
+    "date": "2023-09-07T21:28:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.5.tar.gz",
+        "count": 2,
+        "size": 246883
+      }
+    ]
+  },
+  {
+    "name": "v0.10.4",
+    "date": "2023-09-06T15:16:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.4.tar.gz",
+        "count": 624,
+        "size": 221589
+      }
+    ]
+  },
+  {
+    "name": "v0.10.3",
+    "date": "2023-09-06T14:31:49Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.3.tar.gz",
+        "count": 14,
+        "size": 221569
+      }
+    ]
+  },
+  {
+    "name": "v0.10.2",
+    "date": "2023-09-06T11:29:06Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.2.tar.gz",
+        "count": 4,
+        "size": 221438
+      }
+    ]
+  },
+  {
+    "name": "v0.10.1",
+    "date": "2023-08-28T15:20:49Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.1.tar.gz",
+        "count": 56,
+        "size": 220810
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2023-08-24T20:35:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.10.0.tar.gz",
+        "count": 41,
+        "size": 219769
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2023-08-15T08:22:32Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_dotnet-v0.9.0.tar.gz",
+        "count": 419,
+        "size": 208685
+      }
+    ]
+  },
+  {
     "name": "v0.8.12",
     "date": "2023-05-16T08:32:59Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_dotnet-v0.8.12.tar.gz",
-        "count": 1411,
+        "count": 2717,
         "size": 208244
       }
     ]
@@ -42,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_dotnet-v0.8.9.tar.gz",
-        "count": 6067,
+        "count": 9065,
         "size": 205441
       }
     ]
@@ -66,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_dotnet-v0.8.7.tar.gz",
-        "count": 3817,
+        "count": 3831,
         "size": 203207
       }
     ]
@@ -98,7 +206,7 @@
   {
     "name": "v0.8.0",
     "date": "2023-01-05T12:30:38Z",
-    "mentions": 10,
+    "mentions": 9,
     "downloads": []
   }
 ]

@@ -1,7 +1,19 @@
 [
   {
+    "name": "6.5.1",
+    "sha": "d7e1fbaecb9f6c7dbead02091b7a1f9337660fdf"
+  },
+  {
+    "name": "6.5.0",
+    "sha": "c3d5cfa40a40e8753b42af8c5bc49b898e00ccb2"
+  },
+  {
     "name": "6.4.0",
     "sha": "b004601c03a772f01f1fb278c40156c11ab09fb2"
+  },
+  {
+    "name": "6.3.1",
+    "sha": "a03fb36b0fa8a4e9643d73df66916ac3d672f12a"
   },
   {
     "name": "6.3.0",

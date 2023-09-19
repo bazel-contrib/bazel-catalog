@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/apple/apple_rules_lint/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/apple_rules_lint/deployments",
   "created_at": "2020-09-10T16:49:37Z",
-  "updated_at": "2023-05-03T21:04:42Z",
+  "updated_at": "2023-09-19T15:02:32Z",
   "pushed_at": "2022-10-27T12:57:48Z",
   "git_url": "git://github.com/apple/apple_rules_lint.git",
   "ssh_url": "git@github.com:apple/apple_rules_lint.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/apple/apple_rules_lint",
   "homepage": "",
   "size": 34,
-  "stargazers_count": 130,
-  "watchers_count": 130,
+  "stargazers_count": 131,
+  "watchers_count": 131,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": false,
@@ -101,7 +101,7 @@
   "visibility": "public",
   "forks": 19,
   "open_issues": 2,
-  "watchers": 130,
+  "watchers": 131,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "apple",
     "id": 10639145,

@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_jsonnet/deployments",
   "created_at": "2016-03-15T18:56:06Z",
   "updated_at": "2023-05-30T13:54:24Z",
-  "pushed_at": "2023-07-12T08:39:57Z",
+  "pushed_at": "2023-09-12T07:45:25Z",
   "git_url": "git://github.com/bazelbuild/rules_jsonnet.git",
   "ssh_url": "git@github.com:bazelbuild/rules_jsonnet.git",
   "clone_url": "https://github.com/bazelbuild/rules_jsonnet.git",
   "svn_url": "https://github.com/bazelbuild/rules_jsonnet",
   "homepage": "https://bazelbuild.github.io/rules_jsonnet/",
-  "size": 152,
+  "size": 161,
   "stargazers_count": 60,
   "watchers_count": 60,
   "language": "Starlark",
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 73,
+  "forks_count": 74,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 39,
+  "open_issues_count": 41,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,8 +99,8 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "bazel-rules", "jsonnet", "jsonnet-rules"],
   "visibility": "public",
-  "forks": 73,
-  "open_issues": 39,
+  "forks": 74,
+  "open_issues": 41,
   "watchers": 60,
   "default_branch": "master",
   "permissions": {
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 73,
+  "network_count": 74,
   "subscribers_count": 29
 }

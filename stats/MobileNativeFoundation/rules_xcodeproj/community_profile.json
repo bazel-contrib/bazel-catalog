@@ -1,10 +1,18 @@
 {
-  "health_percentage": 62,
+  "health_percentage": 75,
   "description": "Bazel rules for generating Xcode projects.",
   "documentation": "https://github.com/MobileNativeFoundation/rules_xcodeproj/tree/master/docs",
   "files": {
-    "code_of_conduct": null,
-    "code_of_conduct_file": null,
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/MobileNativeFoundation/rules_xcodeproj/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/MobileNativeFoundation/rules_xcodeproj/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/MobileNativeFoundation/rules_xcodeproj/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/MobileNativeFoundation/rules_xcodeproj/blob/main/CODE_OF_CONDUCT.md"
+    },
     "contributing": {
       "url": "https://api.github.com/repos/MobileNativeFoundation/rules_xcodeproj/contents/CONTRIBUTING.md",
       "html_url": "https://github.com/MobileNativeFoundation/rules_xcodeproj/blob/main/CONTRIBUTING.md"

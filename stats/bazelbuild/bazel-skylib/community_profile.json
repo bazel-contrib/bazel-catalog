@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Common useful functions and rules for Bazel",
   "documentation": "https://bazel.build/",
   "files": {

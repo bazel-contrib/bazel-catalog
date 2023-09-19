@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazel-contrib/bazel_features/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazel-contrib/bazel_features/deployments",
   "created_at": "2023-04-21T21:34:37Z",
-  "updated_at": "2023-06-16T08:06:21Z",
-  "pushed_at": "2023-07-31T20:17:09Z",
+  "updated_at": "2023-08-22T14:25:10Z",
+  "pushed_at": "2023-09-19T11:11:43Z",
   "git_url": "git://github.com/bazel-contrib/bazel_features.git",
   "ssh_url": "git@github.com:bazel-contrib/bazel_features.git",
   "clone_url": "https://github.com/bazel-contrib/bazel_features.git",
   "svn_url": "https://github.com/bazel-contrib/bazel_features",
   "homepage": "https://docs.google.com/document/d/1HJf3gMYIrzmTRqbD4nWXH2eJRHXjLrOU0mmIeZplUzY/edit#heading=h.5mcn15i0e1ch",
-  "size": 29,
-  "stargazers_count": 3,
-  "watchers_count": 3,
+  "size": 38,
+  "stargazers_count": 7,
+  "watchers_count": 7,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2,
+  "forks_count": 3,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 2,
+  "open_issues_count": 1,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel"],
   "visibility": "public",
-  "forks": 2,
-  "open_issues": 2,
-  "watchers": 3,
+  "forks": 3,
+  "open_issues": 1,
+  "watchers": 7,
   "default_branch": "main",
   "permissions": {
     "admin": true,
@@ -110,7 +110,6 @@
     "triage": true,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazel-contrib",
     "id": 91752542,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 2,
-  "subscribers_count": 6
+  "network_count": 3,
+  "subscribers_count": 7
 }

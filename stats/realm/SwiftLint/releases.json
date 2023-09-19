@@ -6,32 +6,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 2267,
+        "count": 2721,
         "size": 432267
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 9,
+        "count": 21,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 30327,
+        "count": 121865,
         "size": 9400964
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 758,
+        "count": 2036,
         "size": 9400847
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 24684,
+        "count": 120874,
         "size": 9402198
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 66,
+        "count": 503,
         "size": 35395396
       }
     ]
@@ -43,32 +43,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 2423,
+        "count": 2430,
         "size": 439669
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 3,
+        "count": 6,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 25128,
+        "count": 35146,
         "size": 9207413
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 323,
+        "count": 329,
         "size": 9215311
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 20230,
+        "count": 29820,
         "size": 9208647
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 1604,
+        "count": 3901,
         "size": 35163013
       }
     ]
@@ -80,32 +80,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 13637,
+        "count": 26899,
         "size": 421626
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 6,
+        "count": 7,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 85330,
+        "count": 117403,
         "size": 9015182
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 1514,
+        "count": 1832,
         "size": 9018442
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 128480,
+        "count": 188433,
         "size": 9016416
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 1093,
+        "count": 1317,
         "size": 34804195
       }
     ]
@@ -117,32 +117,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 161,
+        "count": 216,
         "size": 420706
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 6,
+        "count": 9,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 3508,
+        "count": 4061,
         "size": 9008320
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 79,
+        "count": 82,
         "size": 9014852
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 3162,
+        "count": 3241,
         "size": 9009554
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 4,
+        "count": 5,
         "size": 34792961
       }
     ]
@@ -154,32 +154,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 12,
+        "count": 13,
         "size": 419001
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 5,
+        "count": 8,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 3026,
+        "count": 3622,
         "size": 9006722
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 48,
+        "count": 50,
         "size": 9013656
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 9484,
+        "count": 11872,
         "size": 9007955
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 4,
+        "count": 5,
         "size": 34792508
       }
     ]
@@ -191,32 +191,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 2562,
+        "count": 2577,
         "size": 409897
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 15,
+        "count": 17,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 225013,
+        "count": 313349,
         "size": 9061101
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 852,
+        "count": 888,
         "size": 9070000
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 140764,
+        "count": 185170,
         "size": 9062333
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 850,
+        "count": 857,
         "size": 35147029
       }
     ]
@@ -228,7 +228,7 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 3666,
+        "count": 3669,
         "size": 407019
       },
       {
@@ -238,17 +238,17 @@
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 27,
+        "count": 29,
         "size": 8996244
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 69,
+        "count": 70,
         "size": 9006265
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 17406,
+        "count": 22073,
         "size": 8997512
       },
       {
@@ -280,12 +280,12 @@
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 2,
+        "count": 4,
         "size": 9006268
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 15,
+        "count": 16,
         "size": 8997504
       },
       {
@@ -302,32 +302,32 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 92889,
+        "count": 92907,
         "size": 402026
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 21,
+        "count": 24,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 380932,
+        "count": 438866,
         "size": 9050807
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 2448,
+        "count": 2685,
         "size": 9059448
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 269142,
+        "count": 313017,
         "size": 9052042
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 3374,
+        "count": 4045,
         "size": 35340645
       }
     ]
@@ -344,22 +344,22 @@
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 14,
+        "count": 16,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 115050,
+        "count": 131726,
         "size": 9061859
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 657,
+        "count": 675,
         "size": 9075292
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 34892,
+        "count": 36821,
         "size": 9063093
       },
       {
@@ -381,27 +381,27 @@
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 12,
+        "count": 14,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 216856,
+        "count": 240714,
         "size": 9085589
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 170,
+        "count": 172,
         "size": 9101357
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 6025,
+        "count": 6033,
         "size": 9086821
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 629,
+        "count": 646,
         "size": 35291835
       }
     ]
@@ -418,7 +418,7 @@
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 11,
+        "count": 13,
         "size": 116
       },
       {
@@ -455,7 +455,7 @@
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 10,
+        "count": 12,
         "size": 116
       },
       {
@@ -492,7 +492,7 @@
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 11,
+        "count": 13,
         "size": 116
       },
       {
@@ -507,7 +507,7 @@
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 206,
+        "count": 209,
         "size": 11884447
       },
       {
@@ -529,7 +529,7 @@
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 11,
+        "count": 13,
         "size": 116
       },
       {
@@ -561,27 +561,27 @@
     "downloads": [
       {
         "name": "bazel.tar.gz",
-        "count": 57218,
+        "count": 57222,
         "size": 392381
       },
       {
         "name": "bazel.tar.gz.sha256",
-        "count": 18,
+        "count": 20,
         "size": 116
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 332683,
+        "count": 367919,
         "size": 21884043
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 37681,
+        "count": 41604,
         "size": 21885040
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 66441,
+        "count": 78413,
         "size": 21885277
       },
       {
@@ -608,22 +608,22 @@
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 30615,
+        "count": 31627,
         "size": 21842678
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 196,
+        "count": 200,
         "size": 21851860
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 1118,
+        "count": 1139,
         "size": 21843910
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 34,
+        "count": 35,
         "size": 31966045
       }
     ]
@@ -645,7 +645,7 @@
       },
       {
         "name": "portable_swiftlint.zip",
-        "count": 33,
+        "count": 34,
         "size": 21813585
       },
       {
@@ -697,7 +697,7 @@
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 11,
+        "count": 12,
         "size": 31882655
       }
     ]
@@ -709,17 +709,17 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 229395,
+        "count": 251646,
         "size": 21692949
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 17746,
+        "count": 17769,
         "size": 21695712
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 99724,
+        "count": 116582,
         "size": 21694180
       },
       {
@@ -729,7 +729,7 @@
       },
       {
         "name": "swiftlint_linux_swift_5_5.zip",
-        "count": 1066,
+        "count": 1255,
         "size": 30449982
       }
     ]
@@ -741,27 +741,27 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 494573,
+        "count": 523433,
         "size": 21628187
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 6135,
+        "count": 6161,
         "size": 21632471
       },
       {
         "name": "SwiftLintBinary-macos.artifactbundle.zip",
-        "count": 178317,
+        "count": 208969,
         "size": 21629421
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 13788,
+        "count": 13796,
         "size": 31127779
       },
       {
         "name": "swiftlint_linux_swift_5_5.zip",
-        "count": 9998,
+        "count": 9999,
         "size": 30353521
       }
     ]
@@ -773,17 +773,17 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 297866,
+        "count": 308623,
         "size": 21544180
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 1290,
+        "count": 1312,
         "size": 21548839
       },
       {
         "name": "swiftlint_linux.zip",
-        "count": 2930,
+        "count": 3274,
         "size": 30991092
       },
       {
@@ -893,12 +893,12 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 207141,
+        "count": 219657,
         "size": 7192476
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 4001,
+        "count": 4004,
         "size": 14368172
       },
       {
@@ -915,7 +915,7 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 9163,
+        "count": 9636,
         "size": 7188347
       },
       {
@@ -937,12 +937,12 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 71015,
+        "count": 71993,
         "size": 7200300
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 311,
+        "count": 312,
         "size": 7192163
       },
       {
@@ -959,12 +959,12 @@
     "downloads": [
       {
         "name": "portable_swiftlint.zip",
-        "count": 652440,
+        "count": 697850,
         "size": 7199969
       },
       {
         "name": "SwiftLint.pkg",
-        "count": 785,
+        "count": 787,
         "size": 7191874
       },
       {

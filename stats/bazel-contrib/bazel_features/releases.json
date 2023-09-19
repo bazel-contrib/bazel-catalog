@@ -1,12 +1,36 @@
 [
   {
+    "name": "v1.1.0",
+    "date": "2023-09-19T11:12:03Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel_features-v1.1.0.tar.gz",
+        "count": 18,
+        "size": 11340
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2023-08-21T16:48:21Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel_features-v1.0.0.tar.gz",
+        "count": 9681,
+        "size": 11261
+      }
+    ]
+  },
+  {
     "name": "v0.2.0",
     "date": "2023-07-31T18:43:06Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "bazel_features-v0.2.0.tar.gz",
-        "count": 8,
+        "count": 331,
         "size": 11150
       }
     ]
@@ -18,7 +42,7 @@
     "downloads": [
       {
         "name": "bazel_features-v0.1.0.tar.gz",
-        "count": 303,
+        "count": 151966,
         "size": 11079
       }
     ]
@@ -30,7 +54,7 @@
     "downloads": [
       {
         "name": "bazel_features-v0.0.1.tar.gz",
-        "count": 94,
+        "count": 97,
         "size": 10600
       }
     ]

@@ -1,17 +1,34 @@
 [
   {
+    "name": "2023-09-01",
+    "date": "2023-08-31T14:44:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "re2-2023-09-01.tar.gz",
+        "count": 1650,
+        "size": 396555
+      },
+      {
+        "name": "re2-2023-09-01.zip",
+        "count": 140,
+        "size": 457995
+      }
+    ]
+  },
+  {
     "name": "2023-08-01",
     "date": "2023-07-31T14:42:03Z",
     "mentions": null,
     "downloads": [
       {
         "name": "re2-2023-08-01.tar.gz",
-        "count": 5,
+        "count": 771,
         "size": 396553
       },
       {
         "name": "re2-2023-08-01.zip",
-        "count": 11,
+        "count": 131,
         "size": 457326
       }
     ]
@@ -23,12 +40,12 @@
     "downloads": [
       {
         "name": "re2-2023-07-01.tar.gz",
-        "count": 1682,
+        "count": 2450,
         "size": 395948
       },
       {
         "name": "re2-2023-07-01.zip",
-        "count": 55,
+        "count": 65,
         "size": 456561
       }
     ]
@@ -40,12 +57,12 @@
     "downloads": [
       {
         "name": "re2-2023-06-02.tar.gz",
-        "count": 2961,
+        "count": 3303,
         "size": 396296
       },
       {
         "name": "re2-2023-06-02.zip",
-        "count": 140,
+        "count": 156,
         "size": 456904
       }
     ]
@@ -203,12 +220,6 @@
   {
     "name": "2020-01-01",
     "date": "2019-12-31T22:40:18Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "2019-12-01",
-    "date": "2019-12-01T07:33:11Z",
     "mentions": null,
     "downloads": []
   }

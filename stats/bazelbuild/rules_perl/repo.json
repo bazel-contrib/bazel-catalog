@@ -66,13 +66,13 @@
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_perl/deployments",
   "created_at": "2016-08-15T21:09:34Z",
   "updated_at": "2023-04-13T02:21:45Z",
-  "pushed_at": "2023-07-30T02:36:10Z",
+  "pushed_at": "2023-09-17T23:56:37Z",
   "git_url": "git://github.com/bazelbuild/rules_perl.git",
   "ssh_url": "git@github.com:bazelbuild/rules_perl.git",
   "clone_url": "https://github.com/bazelbuild/rules_perl.git",
   "svn_url": "https://github.com/bazelbuild/rules_perl",
   "homepage": null,
-  "size": 84,
+  "size": 86,
   "stargazers_count": 22,
   "watchers_count": 22,
   "language": "Starlark",
@@ -82,7 +82,7 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 38,
+  "forks_count": 39,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,7 +99,7 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "bazel-rules", "perl"],
   "visibility": "public",
-  "forks": 38,
+  "forks": 39,
   "open_issues": 9,
   "watchers": 22,
   "default_branch": "main",
@@ -110,7 +110,6 @@
     "triage": false,
     "pull": true
   },
-  "temp_clone_token": "",
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -131,6 +130,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 38,
-  "subscribers_count": 8
+  "network_count": 39,
+  "subscribers_count": 9
 }

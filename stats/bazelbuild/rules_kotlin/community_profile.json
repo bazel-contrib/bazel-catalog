@@ -1,5 +1,5 @@
 {
-  "health_percentage": 50,
+  "health_percentage": 62,
   "description": "Bazel rules for Kotlin",
   "documentation": "https://bazelbuild.github.io/rules_kotlin/",
   "files": {

@@ -1,5 +1,11 @@
 [
   {
+    "name": "1.2.3",
+    "date": "2023-08-15T19:04:53Z",
+    "mentions": 5,
+    "downloads": []
+  },
+  {
     "name": "1.2.2",
     "date": "2023-02-09T17:27:47Z",
     "mentions": null,
@@ -170,12 +176,6 @@
   {
     "name": "0.0.3",
     "date": "2020-03-23T00:04:54Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "0.0.2",
-    "date": "2020-03-06T23:42:20Z",
     "mentions": null,
     "downloads": []
   }

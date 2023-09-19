@@ -1,12 +1,36 @@
 [
   {
+    "name": "v0.19.0",
+    "date": "2023-09-18T11:26:21Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.19.0.tar.gz",
+        "count": 104,
+        "size": 243658
+      }
+    ]
+  },
+  {
+    "name": "v0.18.0",
+    "date": "2023-08-16T15:03:30Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_jvm-v0.18.0.tar.gz",
+        "count": 4537,
+        "size": 240973
+      }
+    ]
+  },
+  {
     "name": "v0.17.0",
     "date": "2023-07-24T12:59:01Z",
     "mentions": 2,
     "downloads": [
       {
         "name": "rules_jvm-v0.17.0.tar.gz",
-        "count": 42,
+        "count": 5344,
         "size": 239863
       }
     ]
@@ -18,7 +42,7 @@
     "downloads": [
       {
         "name": "rules_jvm-v0.16.0.tar.gz",
-        "count": 546,
+        "count": 3167,
         "size": 235426
       }
     ]
@@ -30,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_jvm-v0.15.0.tar.gz",
-        "count": 30,
+        "count": 161,
         "size": 235339
       }
     ]
@@ -42,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_jvm-v0.14.0.tar.gz",
-        "count": 1083,
+        "count": 6662,
         "size": 234840
       }
     ]
@@ -54,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_jvm-v0.13.0.tar.gz",
-        "count": 32564,
+        "count": 63943,
         "size": 234033
       }
     ]
@@ -66,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_jvm-v0.12.0.tar.gz",
-        "count": 37589,
+        "count": 60442,
         "size": 230456
       }
     ]
@@ -78,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_jvm-v0.11.0.tar.gz",
-        "count": 7008,
+        "count": 8947,
         "size": 226771
       }
     ]

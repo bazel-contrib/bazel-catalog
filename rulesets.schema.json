@@ -42,6 +42,10 @@
             "description": "human-readable shorter name for navigation, like rules_pkg is Packaging. Defaults to just title case of the repo name.",
             "type": "string"
           },
+          "stargazers_count": {
+            "description": "How many stars the repository has, useful for sorting the data",
+            "type": "number"
+          },
           "load-repository": {
             "type": "string",
             "description": "what name this ruleset documents that users should load() its symbols from"

@@ -1,12 +1,24 @@
 [
   {
+    "name": "v6.1.0",
+    "date": "2023-08-31T09:09:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_scala-v6.1.0.tar.gz",
+        "count": 1053,
+        "size": 672148
+      }
+    ]
+  },
+  {
     "name": "v6.0.0",
     "date": "2023-07-26T10:24:12Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_scala-v6.0.0.tar.gz",
-        "count": 54,
+        "count": 360,
         "size": 672124
       }
     ]
@@ -18,7 +30,7 @@
     "downloads": [
       {
         "name": "rules_scala-v5.1.0.tar.gz",
-        "count": 7570,
+        "count": 56790,
         "size": 672108
       }
     ]
@@ -41,7 +53,7 @@
       },
       {
         "name": "rules_scala-20220201.zip",
-        "count": 308252,
+        "count": 364166,
         "size": 968214
       }
     ]
