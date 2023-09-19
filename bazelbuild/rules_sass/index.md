@@ -13,8 +13,8 @@
 
 ## Maintenance
 
-- Community Health: 50%
-- Open issues: 30
+- Community Health: 62%
+- Open issues: 28
 - Age of last release: 1932 days
 
 > Note, a large number of issues may indicate that maintainers don't correct defects, but might also
@@ -22,7 +22,7 @@
 
 ## Stability
 
-Most recent tag: "1.64.1"
+Most recent tag: "1.67.0"
 
 ## More Data
 

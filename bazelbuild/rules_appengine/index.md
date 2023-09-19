@@ -4,7 +4,7 @@
 
 - Subscribers: 32
 - Stargazers: 29
-- Forks: 47
+- Forks: 50
 - Total downloads (sum over all releases and artifacts): 0
 - Age of repository (just to put absolute downloads into relative terms): 2744 days
 - Downloads/day: 0
@@ -13,7 +13,7 @@
 
 ## Maintenance
 
-- Community Health: 50%
+- Community Health: 62%
 - Open issues: 26
 - Age of last release: 1917 days
 

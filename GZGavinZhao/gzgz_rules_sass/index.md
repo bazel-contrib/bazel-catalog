@@ -5,7 +5,7 @@
 - Subscribers: 2
 - Stargazers: 0
 - Forks: 0
-- Total downloads (sum over all releases and artifacts): 12
+- Total downloads (sum over all releases and artifacts): 23
 - Age of repository (just to put absolute downloads into relative terms): 74 days
 - Downloads/day: 0
 

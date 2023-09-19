@@ -13,7 +13,7 @@
 
 ## Maintenance
 
-- Community Health: 50%
+- Community Health: 62%
 - Open issues: 18
 - Age of last release: 1155 days
 

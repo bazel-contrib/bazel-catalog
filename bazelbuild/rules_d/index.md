@@ -13,8 +13,8 @@
 
 ## Maintenance
 
-- Community Health: 50%
-- Open issues: 13
+- Community Health: 62%
+- Open issues: 15
 - Age of last release: "<No Releases>" days
 
 > Note, a large number of issues may indicate that maintainers don't correct defects, but might also

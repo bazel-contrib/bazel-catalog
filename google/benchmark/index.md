@@ -2,9 +2,9 @@
 
 ## Adoption
 
-- Subscribers: 210
-- Stargazers: 7702
-- Forks: 1505
+- Subscribers: 209
+- Stargazers: 7828
+- Forks: 1518
 - Total downloads (sum over all releases and artifacts): 0
 - Age of repository (just to put absolute downloads into relative terms): 3568 days
 - Downloads/day: 0
@@ -14,15 +14,15 @@
 ## Maintenance
 
 - Community Health: 100%
-- Open issues: 145
-- Age of last release: 75 days
+- Open issues: 154
+- Age of last release: 19 days
 
 > Note, a large number of issues may indicate that maintainers don't correct defects, but might also
 > just be an indicator of lots of users.
 
 ## Stability
 
-Most recent tag: "v1.8.2"
+Most recent tag: "v1.8.3"
 
 ## More Data
 

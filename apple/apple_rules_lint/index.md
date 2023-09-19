@@ -3,7 +3,7 @@
 ## Adoption
 
 - Subscribers: 16
-- Stargazers: 130
+- Stargazers: 131
 - Forks: 19
 - Total downloads (sum over all releases and artifacts): 27811
 - Age of repository (just to put absolute downloads into relative terms): 1104 days

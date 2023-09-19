@@ -2,7 +2,7 @@
 
 ## Adoption
 
-- Subscribers: 19
+- Subscribers: 20
 - Stargazers: 23
 - Forks: 15
 - Total downloads (sum over all releases and artifacts): 0
