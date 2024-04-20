@@ -6,7 +6,7 @@
 - Stargazers: 286
 - Forks: 202
 - Total downloads (sum over all releases and artifacts): 726721
-- Age of repository (just to put absolute downloads into relative terms): 2347 days
+- Age of repository (just to put absolute downloads into relative terms): 2348 days
 - Downloads/day: 309
 
 > Note, no downloads likely means this is distributed using source tarballs instead.
@@ -15,7 +15,7 @@
 
 - Community Health: 62%
 - Open issues: 193
-- Age of last release: 301 days
+- Age of last release: 302 days
 
 > Note, a large number of issues may indicate that maintainers don't correct defects, but might also
 > just be an indicator of lots of users.
