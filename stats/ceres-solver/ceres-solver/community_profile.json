@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "A large scale non-linear optimization library",
+  "documentation": "http://ceres-solver.org/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/ceres-solver/ceres-solver/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/ceres-solver/ceres-solver/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/ceres-solver/ceres-solver/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/ceres-solver/ceres-solver/contents/README.md",
+      "html_url": "https://github.com/ceres-solver/ceres-solver/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-03-03T18:54:09Z",
+  "content_reports_enabled": false
+}

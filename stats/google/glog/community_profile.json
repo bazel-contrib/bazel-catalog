@@ -1,7 +1,7 @@
 {
   "health_percentage": 75,
   "description": "C++ implementation of the Google logging module",
-  "documentation": null,
+  "documentation": "http://google.github.io/glog/",
   "files": {
     "code_of_conduct": {
       "key": "other",
@@ -20,12 +20,12 @@
     "issue_template": null,
     "pull_request_template": null,
     "license": {
-      "key": "other",
-      "name": "Other",
-      "spdx_id": "NOASSERTION",
-      "url": null,
-      "node_id": "MDc6TGljZW5zZTA=",
-      "html_url": "https://github.com/google/glog/blob/master/COPYING"
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU=",
+      "html_url": "https://github.com/google/glog/blob/master/LICENSE.md"
     },
     "readme": {
       "url": "https://api.github.com/repos/google/glog/contents/README.rst",

@@ -25,7 +25,7 @@
     "site_admin": false
   },
   "html_url": "https://github.com/bazelruby/rules_ruby",
-  "description": "Ruby Rules for Bazel. It is, perhaps, production-ready. This project builds atop the work of Yugui, whose original rules can be found at https://github.com/yugui/rules_ruby. Please be aware there is an active fork of this project maintained by Coinbase at https://github.com/coinbase/rules_ruby.",
+  "description": "Formerly canonical rules for ruby, that are about 2-3 years behind current Bazel. If they work for you great, but if not — please try the new rules ruby by Alex Radionov: https://github.com/bazel-contrib/rules_ruby",
   "fork": false,
   "url": "https://api.github.com/repos/bazelruby/rules_ruby",
   "forks_url": "https://api.github.com/repos/bazelruby/rules_ruby/forks",
@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelruby/rules_ruby/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelruby/rules_ruby/deployments",
   "created_at": "2019-11-09T01:03:04Z",
-  "updated_at": "2023-08-08T13:56:02Z",
-  "pushed_at": "2023-08-24T02:19:02Z",
+  "updated_at": "2024-05-17T16:49:39Z",
+  "pushed_at": "2024-03-04T18:06:45Z",
   "git_url": "git://github.com/bazelruby/rules_ruby.git",
   "ssh_url": "git@github.com:bazelruby/rules_ruby.git",
   "clone_url": "https://github.com/bazelruby/rules_ruby.git",
   "svn_url": "https://github.com/bazelruby/rules_ruby",
   "homepage": "",
-  "size": 4206,
-  "stargazers_count": 92,
-  "watchers_count": 92,
+  "size": 4229,
+  "stargazers_count": 99,
+  "watchers_count": 99,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 34,
+  "forks_count": 37,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 27,
+  "open_issues_count": 26,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "rules-ruby"
   ],
   "visibility": "public",
-  "forks": 34,
-  "open_issues": 27,
-  "watchers": 92,
+  "forks": 37,
+  "open_issues": 26,
+  "watchers": 99,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,6 +119,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelruby",
     "id": 57414752,
@@ -139,6 +140,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 34,
+  "network_count": 37,
   "subscribers_count": 4
 }

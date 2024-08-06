@@ -1,0 +1,110 @@
+[
+  {
+    "name": "v0.3.1",
+    "date": "2024-06-12T01:23:03Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.3.1.tar.gz",
+        "count": 66419,
+        "size": 31146
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2024-05-24T20:04:41Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.3.0.tar.gz",
+        "count": 12699,
+        "size": 29768
+      }
+    ]
+  },
+  {
+    "name": "v0.2.4",
+    "date": "2024-04-28T16:29:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.2.4.tar.gz",
+        "count": 12503,
+        "size": 27636
+      }
+    ]
+  },
+  {
+    "name": "v0.2.3",
+    "date": "2024-04-28T15:40:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.2.3.tar.gz",
+        "count": 146,
+        "size": 27532
+      }
+    ]
+  },
+  {
+    "name": "v0.2.2",
+    "date": "2024-04-28T15:27:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.2.2.tar.gz",
+        "count": 1,
+        "size": 27541
+      }
+    ]
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2024-03-19T03:36:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.2.1.tar.gz",
+        "count": 57707,
+        "size": 25372
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2024-03-19T00:54:40Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.2.0.tar.gz",
+        "count": 199,
+        "size": 25142
+      }
+    ]
+  },
+  {
+    "name": "v0.1.3",
+    "date": "2024-03-09T01:06:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_protoc-v0.1.3.tar.gz",
+        "count": 16,
+        "size": 22505
+      }
+    ]
+  },
+  {
+    "name": "v0.1.2",
+    "date": "2024-03-09T01:03:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_protoc-v0.1.2.tar.gz",
+        "count": 0,
+        "size": 22492
+      }
+    ]
+  }
+]

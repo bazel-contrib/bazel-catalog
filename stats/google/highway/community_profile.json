@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+  "documentation": "https://google.github.io/highway/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/highway/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/highway/contents/CONTRIBUTING",
+      "html_url": "https://github.com/google/highway/blob/master/CONTRIBUTING"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/google/highway/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/highway/contents/README.md",
+      "html_url": "https://github.com/google/highway/blob/master/README.md"
+    }
+  },
+  "updated_at": "2024-04-09T10:39:36Z",
+  "content_reports_enabled": true
+}

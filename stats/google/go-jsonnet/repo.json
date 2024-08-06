@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/go-jsonnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/go-jsonnet/deployments",
   "created_at": "2016-02-19T01:07:55Z",
-  "updated_at": "2023-09-16T13:52:54Z",
-  "pushed_at": "2023-08-13T11:57:22Z",
+  "updated_at": "2024-08-03T17:53:46Z",
+  "pushed_at": "2024-07-29T07:10:22Z",
   "git_url": "git://github.com/google/go-jsonnet.git",
   "ssh_url": "git@github.com:google/go-jsonnet.git",
   "clone_url": "https://github.com/google/go-jsonnet.git",
   "svn_url": "https://github.com/google/go-jsonnet",
   "homepage": null,
-  "size": 13074,
-  "stargazers_count": 1445,
-  "watchers_count": 1445,
+  "size": 13285,
+  "stargazers_count": 1581,
+  "watchers_count": 1581,
   "language": "Go",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 244,
+  "forks_count": 227,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 144,
+  "open_issues_count": 150,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 244,
-  "open_issues": 144,
-  "watchers": 1445,
+  "forks": 227,
+  "open_issues": 150,
+  "watchers": 1581,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "google",
     "id": 1342004,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 244,
-  "subscribers_count": 27
+  "network_count": 227,
+  "subscribers_count": 26
 }

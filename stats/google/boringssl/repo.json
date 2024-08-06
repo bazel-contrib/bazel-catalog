@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/boringssl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/boringssl/deployments",
   "created_at": "2016-03-05T00:45:11Z",
-  "updated_at": "2023-09-19T13:17:42Z",
-  "pushed_at": "2023-09-18T23:05:14Z",
+  "updated_at": "2024-08-05T23:51:30Z",
+  "pushed_at": "2024-08-06T00:54:21Z",
   "git_url": "git://github.com/google/boringssl.git",
   "ssh_url": "git@github.com:google/boringssl.git",
   "clone_url": "https://github.com/google/boringssl.git",
   "svn_url": "https://github.com/google/boringssl",
   "homepage": "https://boringssl.googlesource.com/boringssl",
-  "size": 279927,
-  "stargazers_count": 1561,
-  "watchers_count": 1561,
+  "size": 307530,
+  "stargazers_count": 1778,
+  "watchers_count": 1778,
   "language": "C",
   "has_issues": false,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 688,
+  "forks_count": 749,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 688,
+  "forks": 749,
   "open_issues": 0,
-  "watchers": 1561,
+  "watchers": 1778,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "google",
     "id": 1342004,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 688,
-  "subscribers_count": 93
+  "network_count": 749,
+  "subscribers_count": 97
 }

@@ -1,12 +1,156 @@
 [
   {
+    "name": "2.1.1",
+    "date": "2024-07-10T13:35:35Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift.2.1.1.tar.gz",
+        "count": 11787,
+        "size": 271370
+      }
+    ]
+  },
+  {
+    "name": "2.1.0",
+    "date": "2024-07-09T18:03:05Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift.2.1.0.tar.gz",
+        "count": 298,
+        "size": 271100
+      }
+    ]
+  },
+  {
+    "name": "2.0.0",
+    "date": "2024-07-09T13:30:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.2.0.0.tar.gz",
+        "count": 158,
+        "size": 270975
+      }
+    ]
+  },
+  {
+    "name": "2.0.0-rc1",
+    "date": "2024-06-25T12:29:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.2.0.0-rc1.tar.gz",
+        "count": 1150,
+        "size": 269509
+      }
+    ]
+  },
+  {
+    "name": "1.18.0",
+    "date": "2024-04-05T15:08:21Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_swift.1.18.0.tar.gz",
+        "count": 213804,
+        "size": 255839
+      }
+    ]
+  },
+  {
+    "name": "1.17.0",
+    "date": "2024-03-22T15:49:29Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_swift.1.17.0.tar.gz",
+        "count": 14129,
+        "size": 249644
+      }
+    ]
+  },
+  {
+    "name": "1.16.0",
+    "date": "2024-02-06T14:15:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.1.16.0.tar.gz",
+        "count": 114368,
+        "size": 231258
+      }
+    ]
+  },
+  {
+    "name": "1.15.1",
+    "date": "2024-01-18T23:32:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.1.15.1.tar.gz",
+        "count": 103888,
+        "size": 225609
+      }
+    ]
+  },
+  {
+    "name": "1.15.0",
+    "date": "2024-01-18T19:46:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.1.15.0.tar.gz",
+        "count": 345,
+        "size": 225623
+      }
+    ]
+  },
+  {
+    "name": "1.14.0",
+    "date": "2024-01-09T17:16:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift.1.14.0.tar.gz",
+        "count": 5936,
+        "size": 224950
+      }
+    ]
+  },
+  {
+    "name": "1.13.0",
+    "date": "2023-10-19T19:38:01Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_swift.1.13.0.tar.gz",
+        "count": 977747,
+        "size": 221814
+      }
+    ]
+  },
+  {
+    "name": "1.12.0",
+    "date": "2023-09-20T15:58:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_swift.1.12.0.tar.gz",
+        "count": 80299,
+        "size": 222810
+      }
+    ]
+  },
+  {
     "name": "1.11.0",
     "date": "2023-09-07T17:04:55Z",
     "mentions": null,
     "downloads": [
       {
         "name": "rules_swift.1.11.0.tar.gz",
-        "count": 2229,
+        "count": 4753,
         "size": 220024
       }
     ]
@@ -18,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.10.1.tar.gz",
-        "count": 1140,
+        "count": 1613,
         "size": 211148
       }
     ]
@@ -30,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.10.0.tar.gz",
-        "count": 17558,
+        "count": 81508,
         "size": 210587
       }
     ]
@@ -42,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.9.1.tar.gz",
-        "count": 48679,
+        "count": 185548,
         "size": 206848
       }
     ]
@@ -54,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.9.0.tar.gz",
-        "count": 3858,
+        "count": 6141,
         "size": 206514
       }
     ]
@@ -66,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.8.0.tar.gz",
-        "count": 47627,
+        "count": 51361,
         "size": 204915
       }
     ]
@@ -78,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.7.1.tar.gz",
-        "count": 148051,
+        "count": 337656,
         "size": 204087
       }
     ]
@@ -90,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.7.0.tar.gz",
-        "count": 59,
+        "count": 471,
         "size": 204004
       }
     ]
@@ -102,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.6.0.tar.gz",
-        "count": 150553,
+        "count": 211332,
         "size": 204549
       }
     ]
@@ -114,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.5.1.tar.gz",
-        "count": 17198,
+        "count": 18020,
         "size": 206296
       }
     ]
@@ -126,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.5.0.tar.gz",
-        "count": 85310,
+        "count": 109170,
         "size": 206209
       }
     ]
@@ -138,7 +282,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.4.0.tar.gz",
-        "count": 24208,
+        "count": 27495,
         "size": 204621
       }
     ]
@@ -150,7 +294,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.3.0.tar.gz",
-        "count": 225,
+        "count": 231,
         "size": 204184
       }
     ]
@@ -162,7 +306,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.2.0.tar.gz",
-        "count": 1041741,
+        "count": 1990867,
         "size": 208764
       }
     ]
@@ -174,7 +318,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.1.1.tar.gz",
-        "count": 40750,
+        "count": 58166,
         "size": 206631
       }
     ]
@@ -186,7 +330,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.1.0.tar.gz",
-        "count": 12556,
+        "count": 12811,
         "size": 203405
       }
     ]
@@ -198,7 +342,7 @@
     "downloads": [
       {
         "name": "rules_swift.1.0.0.tar.gz",
-        "count": 450465,
+        "count": 464152,
         "size": 199181
       }
     ]
@@ -210,152 +354,8 @@
     "downloads": [
       {
         "name": "rules_swift.0.27.0.tar.gz",
-        "count": 246387,
+        "count": 337204,
         "size": 188544
-      }
-    ]
-  },
-  {
-    "name": "0.26.0",
-    "date": "2022-02-02T03:34:55Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_swift.0.26.0.tar.gz",
-        "count": 34058,
-        "size": 188033
-      }
-    ]
-  },
-  {
-    "name": "0.25.0",
-    "date": "2022-01-22T01:59:27Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "rules_swift.0.25.0.tar.gz",
-        "count": 145379,
-        "size": 184783
-      }
-    ]
-  },
-  {
-    "name": "0.24.0",
-    "date": "2021-10-04T21:15:11Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_swift.0.24.0.tar.gz",
-        "count": 886452,
-        "size": 177020
-      }
-    ]
-  },
-  {
-    "name": "0.23.0",
-    "date": "2021-06-11T18:58:44Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.23.0.tar.gz",
-        "count": 130233,
-        "size": 172144
-      }
-    ]
-  },
-  {
-    "name": "0.22.0",
-    "date": "2021-05-27T21:46:49Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.22.0.tar.gz",
-        "count": 84179,
-        "size": 165152
-      }
-    ]
-  },
-  {
-    "name": "0.21.0",
-    "date": "2021-05-04T02:04:16Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.21.0.tar.gz",
-        "count": 1515864,
-        "size": 170336
-      }
-    ]
-  },
-  {
-    "name": "0.20.0",
-    "date": "2021-04-07T00:27:55Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.20.0.tar.gz",
-        "count": 3117,
-        "size": 157258
-      }
-    ]
-  },
-  {
-    "name": "0.19.0",
-    "date": "2021-03-12T18:16:19Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.19.0.tar.gz",
-        "count": 7484,
-        "size": 161584
-      }
-    ]
-  },
-  {
-    "name": "0.18.0",
-    "date": "2021-01-07T00:33:09Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.18.0.tar.gz",
-        "count": 25352,
-        "size": 158042
-      }
-    ]
-  },
-  {
-    "name": "0.17.0",
-    "date": "2020-12-02T01:03:36Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.17.0.tar.gz",
-        "count": 109617,
-        "size": 157243
-      }
-    ]
-  },
-  {
-    "name": "0.16.1",
-    "date": "2020-11-10T00:53:00Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.16.1.tar.gz",
-        "count": 21465,
-        "size": 158023
-      }
-    ]
-  },
-  {
-    "name": "0.16.0",
-    "date": "2020-11-04T20:46:20Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_swift.0.16.0.tar.gz",
-        "count": 295,
-        "size": 157745
       }
     ]
   }

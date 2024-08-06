@@ -1,0 +1,38 @@
+[
+  {
+    "name": "rules-1.0.0",
+    "sha": "e23e1b90a3d8ce560835e7a5217241b0bbbf9b63"
+  },
+  {
+    "name": "agent-0.2.2",
+    "sha": "e9719d71e68f55bfca7e40ab38030379a3bb0535"
+  },
+  {
+    "name": "agent-0.2.1",
+    "sha": "b36c391bc8447b82667e0abe0493aaf71f149d32"
+  },
+  {
+    "name": "agent-0.2.0",
+    "sha": "a5506ae4ecbb49630d0d6dc95927062ae06b0502"
+  },
+  {
+    "name": "agent-0.1.4",
+    "sha": "a303df5faa39a9a7e4e026a1d224ca5b1c71eaa3"
+  },
+  {
+    "name": "agent-0.1.3",
+    "sha": "cd57321e96faefa3754433e3bfe32317d835bb71"
+  },
+  {
+    "name": "agent-0.1.2",
+    "sha": "300806b0611c623574785424cd336a58d81004d1"
+  },
+  {
+    "name": "agent-0.1.1",
+    "sha": "8492cd1f272e462679cf6b5afa11c6745e1cf871"
+  },
+  {
+    "name": "agent-0.1.0",
+    "sha": "30ae362dac9ea28cf1431aa06391b82cd7d47094"
+  }
+]

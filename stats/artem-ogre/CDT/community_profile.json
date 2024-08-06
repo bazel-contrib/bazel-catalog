@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Constrained Delaunay Triangulation (C++)",
+  "documentation": "https://artem-ogre.github.io/CDT/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0",
+      "html_url": "https://github.com/artem-ogre/CDT/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/artem-ogre/CDT/contents/docs/README.md",
+      "html_url": "https://github.com/artem-ogre/CDT/blob/master/docs/README.md"
+    }
+  },
+  "updated_at": "2024-05-11T19:41:40Z"
+}

@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "Language Independent Interface Types For OpenCensus",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/census-instrumentation/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/census-instrumentation/opencensus-proto/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/census-instrumentation/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/census-instrumentation/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/census-instrumentation/opencensus-proto/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/census-instrumentation/opencensus-proto/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/census-instrumentation/opencensus-proto/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/census-instrumentation/opencensus-proto/contents/README.md",
+      "html_url": "https://github.com/census-instrumentation/opencensus-proto/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-03-13T03:26:35Z",
+  "content_reports_enabled": false
+}

@@ -1,5 +1,83 @@
 [
   {
+    "name": "4.13",
+    "date": "2024-07-09T21:46:44Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "robolectric-bazel-4.13.tar.gz",
+        "count": 191,
+        "size": 9737
+      }
+    ]
+  },
+  {
+    "name": "4.12.2",
+    "date": "2024-05-18T15:38:37Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "robolectric-bazel-4.12.2.tar.gz",
+        "count": 85,
+        "size": 9670
+      }
+    ]
+  },
+  {
+    "name": "4.12.1",
+    "date": "2024-04-04T02:44:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "robolectric-bazel-4.12.1.tar.gz",
+        "count": 135417,
+        "size": 9664
+      }
+    ]
+  },
+  {
+    "name": "4.12",
+    "date": "2024-03-31T05:19:44Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "robolectric-bazel-4.12.tar.gz",
+        "count": 188,
+        "size": 9663
+      }
+    ]
+  },
+  {
+    "name": "4.11.1-1.0.0",
+    "date": "2024-03-08T06:02:09Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "robolectric-bazel-4.11.1-1.0.0.tar.gz",
+        "count": 16,
+        "size": 9690
+      }
+    ]
+  },
+  {
+    "name": "4.11.1",
+    "date": "2023-11-02T22:10:59Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "robolectric-bazel-4.11.1.tar.gz",
+        "count": 285731,
+        "size": 9679
+      }
+    ]
+  },
+  {
+    "name": "4.11",
+    "date": "2023-11-02T00:05:55Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
     "name": "4.10.3",
     "date": "2023-05-19T02:53:42Z",
     "mentions": 1,

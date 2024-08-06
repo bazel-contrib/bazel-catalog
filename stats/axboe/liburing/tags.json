@@ -1,0 +1,58 @@
+[
+  {
+    "name": "liburing-2.6",
+    "sha": "f7dcc1ea60819475dffd3a45059e16f04381bee7"
+  },
+  {
+    "name": "liburing-2.5",
+    "sha": "f4e42a515cd78c8c9cac2be14222834be5f8df2b"
+  },
+  {
+    "name": "liburing-2.4",
+    "sha": "298c083d75ecde5a8833366167b3b6abff0c8d39"
+  },
+  {
+    "name": "liburing-2.3",
+    "sha": "4915f2af869876d892a1f591ee2c21be21c6fc5c"
+  },
+  {
+    "name": "liburing-2.2",
+    "sha": "dda4848a9911120a903bef6284fb88286f4464c9"
+  },
+  {
+    "name": "liburing-2.1",
+    "sha": "41a61c97c2e3df4475c93fdf5026d575ce3f1377"
+  },
+  {
+    "name": "liburing-2.0",
+    "sha": "b013dfd5a5f65116373d5e0f0bdfb73db9d8816e"
+  },
+  {
+    "name": "liburing-0.7",
+    "sha": "45f0735219a615ae848033c47c7e2d85d101d43e"
+  },
+  {
+    "name": "liburing-0.6",
+    "sha": "f0c5c54945ae92a00cdbb43bdf3abaeab6bd3a23"
+  },
+  {
+    "name": "liburing-0.5",
+    "sha": "3be13f40c02f245ac03a8b3500736e657f04920a"
+  },
+  {
+    "name": "liburing-0.4",
+    "sha": "948cb50eedeb6a07b51d87c740e154e477517f52"
+  },
+  {
+    "name": "liburing-0.3",
+    "sha": "9fcc639c6a45879d0a4ffbc73ce466ab38762a3f"
+  },
+  {
+    "name": "liburing-0.2",
+    "sha": "6494e84d4c3485279521cf75ef8d38f899d9bd89"
+  },
+  {
+    "name": "liburing-0.1",
+    "sha": "6ef590b899a33a5818408101b63a89d899d64c6a"
+  }
+]

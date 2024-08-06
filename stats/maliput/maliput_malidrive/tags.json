@@ -1,0 +1,50 @@
+[
+  {
+    "name": "upstream/0.1.0",
+    "sha": "4aeaaa77eb6a537ab7af6fb82b99d56bdf327259"
+  },
+  {
+    "name": "release/foxy/maliput_malidrive/0.1.0-1",
+    "sha": "0e6bcf150416842246f59f7ef445605a9a1a8109"
+  },
+  {
+    "name": "debian/ros-foxy-maliput-malidrive_0.1.0-1_focal",
+    "sha": "89efdecbd382f41c94209f001d83e1f08c707bab"
+  },
+  {
+    "name": "0.3.0",
+    "sha": "2d3b5f3ae0b8fc45886701a8ff0e208d7f8af749"
+  },
+  {
+    "name": "0.2.1",
+    "sha": "2f06fa9be4fde63e3519a3ade3bced8609734c3b"
+  },
+  {
+    "name": "0.2.0",
+    "sha": "d376e59c78dfe6985b1bed811f626c91ebeb4dc1"
+  },
+  {
+    "name": "0.1.4",
+    "sha": "6bdc024e0dfa8547107f902b9a6825f7217c7326"
+  },
+  {
+    "name": "0.1.4-1",
+    "sha": "5077a2306ebb841d5b8b7a38b514bf8f7960fe9b"
+  },
+  {
+    "name": "0.1.3",
+    "sha": "814882a828feded7949e51d7eeef6414a2b701f5"
+  },
+  {
+    "name": "0.1.2",
+    "sha": "fa9bdd17a3e72852cd724beed91c435112ac2096"
+  },
+  {
+    "name": "0.1.1",
+    "sha": "e2941083ba4463097c29cbfff983f8d2299d591f"
+  },
+  {
+    "name": "0.1.0",
+    "sha": "b4e628350e3ea60521347ad1b6f4596360c31bcd"
+  }
+]

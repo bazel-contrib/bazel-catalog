@@ -6,137 +6,137 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 561,
+        "count": 1056,
         "size": 2681
       },
       {
         "name": "go-jsonnet_0.20.0_Darwin_arm64.tar.gz",
-        "count": 1803,
+        "count": 13921,
         "size": 5630765
       },
       {
         "name": "go-jsonnet_0.20.0_Darwin_x86_64.tar.gz",
-        "count": 4145,
+        "count": 26708,
         "size": 5582536
       },
       {
         "name": "go-jsonnet_0.20.0_Linux_arm64.tar.gz",
-        "count": 2420,
+        "count": 15538,
         "size": 4958766
       },
       {
         "name": "go-jsonnet_0.20.0_Linux_armv6.tar.gz",
-        "count": 152,
+        "count": 217,
         "size": 5105545
       },
       {
         "name": "go-jsonnet_0.20.0_Linux_i386.tar.gz",
-        "count": 158,
+        "count": 225,
         "size": 5145222
       },
       {
         "name": "go-jsonnet_0.20.0_Linux_x86_64.tar.gz",
-        "count": 53887,
+        "count": 546265,
         "size": 5370780
       },
       {
         "name": "go-jsonnet_0.20.0_Windows_arm64.tar.gz",
-        "count": 119,
+        "count": 365,
         "size": 5299777
       },
       {
         "name": "go-jsonnet_0.20.0_Windows_armv6.tar.gz",
-        "count": 169,
+        "count": 257,
         "size": 5543737
       },
       {
         "name": "go-jsonnet_0.20.0_Windows_i386.tar.gz",
-        "count": 299,
+        "count": 581,
         "size": 5632595
       },
       {
         "name": "go-jsonnet_0.20.0_Windows_x86_64.tar.gz",
-        "count": 721,
+        "count": 6229,
         "size": 5736918
       },
       {
         "name": "jsonnet-deps-go_0.20.0_linux_386.deb",
-        "count": 1,
+        "count": 12,
         "size": 1243242
       },
       {
         "name": "jsonnet-deps-go_0.20.0_linux_amd64.deb",
-        "count": 7,
+        "count": 31,
         "size": 1300164
       },
       {
         "name": "jsonnet-deps-go_0.20.0_linux_arm.deb",
-        "count": 1,
+        "count": 12,
         "size": 1230864
       },
       {
         "name": "jsonnet-deps-go_0.20.0_linux_arm64.deb",
-        "count": 1,
+        "count": 19,
         "size": 1192738
       },
       {
         "name": "jsonnet-go_0.20.0_linux_386.deb",
-        "count": 1,
+        "count": 11,
         "size": 1452700
       },
       {
         "name": "jsonnet-go_0.20.0_linux_amd64.deb",
-        "count": 151,
+        "count": 5479,
         "size": 1528542
       },
       {
         "name": "jsonnet-go_0.20.0_linux_arm.deb",
-        "count": 1,
+        "count": 11,
         "size": 1438740
       },
       {
         "name": "jsonnet-go_0.20.0_linux_arm64.deb",
-        "count": 33,
+        "count": 156,
         "size": 1421216
       },
       {
         "name": "jsonnet-lint-go_0.20.0_linux_386.deb",
-        "count": 1,
+        "count": 11,
         "size": 1290394
       },
       {
         "name": "jsonnet-lint-go_0.20.0_linux_amd64.deb",
-        "count": 11,
+        "count": 5121,
         "size": 1353392
       },
       {
         "name": "jsonnet-lint-go_0.20.0_linux_arm.deb",
-        "count": 1,
+        "count": 11,
         "size": 1285540
       },
       {
         "name": "jsonnet-lint-go_0.20.0_linux_arm64.deb",
-        "count": 2,
+        "count": 13,
         "size": 1237162
       },
       {
         "name": "jsonnetfmt-go_0.20.0_linux_386.deb",
-        "count": 1,
+        "count": 11,
         "size": 1302754
       },
       {
         "name": "jsonnetfmt-go_0.20.0_linux_amd64.deb",
-        "count": 67,
+        "count": 5232,
         "size": 1359250
       },
       {
         "name": "jsonnetfmt-go_0.20.0_linux_arm.deb",
-        "count": 1,
+        "count": 11,
         "size": 1286722
       },
       {
         "name": "jsonnetfmt-go_0.20.0_linux_arm64.deb",
-        "count": 2,
+        "count": 19,
         "size": 1244748
       }
     ]
@@ -148,137 +148,137 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 2,
+        "count": 4,
         "size": 2811
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Darwin_arm64.tar.gz",
-        "count": 23,
+        "count": 26,
         "size": 5620173
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Darwin_x86_64.tar.gz",
-        "count": 12,
+        "count": 14,
         "size": 5576972
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Linux_arm64.tar.gz",
-        "count": 6,
+        "count": 8,
         "size": 4950110
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Linux_armv6.tar.gz",
-        "count": 0,
+        "count": 2,
         "size": 5097299
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Linux_i386.tar.gz",
-        "count": 1,
+        "count": 3,
         "size": 5136674
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Linux_x86_64.tar.gz",
-        "count": 90,
+        "count": 93,
         "size": 5358643
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Windows_arm64.tar.gz",
-        "count": 9,
+        "count": 11,
         "size": 5293169
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Windows_armv6.tar.gz",
-        "count": 1,
+        "count": 3,
         "size": 5536305
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Windows_i386.tar.gz",
-        "count": 1,
+        "count": 3,
         "size": 5622799
       },
       {
         "name": "go-jsonnet_0.19.2-pre2_Windows_x86_64.tar.gz",
-        "count": 27,
+        "count": 36,
         "size": 5723368
       },
       {
         "name": "jsonnet-deps-go_0.19.2-pre2_linux_386.deb",
-        "count": 0,
+        "count": 2,
         "size": 1241756
       },
       {
         "name": "jsonnet-deps-go_0.19.2-pre2_linux_amd64.deb",
-        "count": 0,
+        "count": 2,
         "size": 1297120
       },
       {
         "name": "jsonnet-deps-go_0.19.2-pre2_linux_arm.deb",
-        "count": 0,
+        "count": 3,
         "size": 1227946
       },
       {
         "name": "jsonnet-deps-go_0.19.2-pre2_linux_arm64.deb",
-        "count": 0,
+        "count": 2,
         "size": 1189400
       },
       {
         "name": "jsonnet-go_0.19.2-pre2_linux_386.deb",
-        "count": 0,
+        "count": 2,
         "size": 1449592
       },
       {
         "name": "jsonnet-go_0.19.2-pre2_linux_amd64.deb",
-        "count": 1,
+        "count": 3,
         "size": 1525616
       },
       {
         "name": "jsonnet-go_0.19.2-pre2_linux_arm.deb",
-        "count": 0,
+        "count": 2,
         "size": 1436502
       },
       {
         "name": "jsonnet-go_0.19.2-pre2_linux_arm64.deb",
-        "count": 0,
+        "count": 2,
         "size": 1417362
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre2_linux_386.deb",
-        "count": 0,
+        "count": 2,
         "size": 1289288
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre2_linux_amd64.deb",
-        "count": 1,
+        "count": 3,
         "size": 1348802
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre2_linux_arm.deb",
-        "count": 0,
+        "count": 2,
         "size": 1283480
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre2_linux_arm64.deb",
-        "count": 0,
+        "count": 2,
         "size": 1235534
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre2_linux_386.deb",
-        "count": 0,
+        "count": 2,
         "size": 1301182
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre2_linux_amd64.deb",
-        "count": 0,
+        "count": 2,
         "size": 1356814
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre2_linux_arm.deb",
-        "count": 0,
+        "count": 2,
         "size": 1289472
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre2_linux_arm64.deb",
-        "count": 0,
+        "count": 2,
         "size": 1242596
       }
     ]
@@ -290,117 +290,117 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 3,
+        "count": 5,
         "size": 2371
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Darwin_arm64.tar.gz",
-        "count": 2,
+        "count": 4,
         "size": 4335558
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Darwin_x86_64.tar.gz",
-        "count": 17,
+        "count": 37,
         "size": 4267396
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Linux_arm64.tar.gz",
-        "count": 2,
+        "count": 5,
         "size": 3790136
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Linux_armv6.tar.gz",
-        "count": 3,
+        "count": 6,
         "size": 3898198
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Linux_i386.tar.gz",
-        "count": 2,
+        "count": 4,
         "size": 3928312
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Linux_x86_64.tar.gz",
-        "count": 168,
+        "count": 438,
         "size": 4101152
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Windows_arm64.tar.gz",
-        "count": 2,
+        "count": 6,
         "size": 4049159
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Windows_armv6.tar.gz",
-        "count": 2,
+        "count": 7,
         "size": 4233218
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Windows_i386.tar.gz",
-        "count": 2,
+        "count": 4,
         "size": 4298530
       },
       {
         "name": "go-jsonnet_0.19.2-pre1_Windows_x86_64.tar.gz",
-        "count": 11,
+        "count": 13,
         "size": 4375521
       },
       {
         "name": "jsonnet-go_0.19.2-pre1_linux_386.deb",
-        "count": 2,
+        "count": 4,
         "size": 1449612
       },
       {
         "name": "jsonnet-go_0.19.2-pre1_linux_amd64.deb",
-        "count": 2,
+        "count": 5,
         "size": 1524460
       },
       {
         "name": "jsonnet-go_0.19.2-pre1_linux_arm.deb",
-        "count": 2,
+        "count": 4,
         "size": 1433656
       },
       {
         "name": "jsonnet-go_0.19.2-pre1_linux_arm64.deb",
-        "count": 2,
+        "count": 4,
         "size": 1416262
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre1_linux_386.deb",
-        "count": 2,
+        "count": 4,
         "size": 1289592
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre1_linux_amd64.deb",
-        "count": 2,
+        "count": 4,
         "size": 1348942
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre1_linux_arm.deb",
-        "count": 2,
+        "count": 4,
         "size": 1283576
       },
       {
         "name": "jsonnet-lint-go_0.19.2-pre1_linux_arm64.deb",
-        "count": 2,
+        "count": 4,
         "size": 1235618
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre1_linux_386.deb",
-        "count": 3,
+        "count": 5,
         "size": 1301216
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre1_linux_amd64.deb",
-        "count": 2,
+        "count": 4,
         "size": 1356874
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre1_linux_arm.deb",
-        "count": 2,
+        "count": 4,
         "size": 1289718
       },
       {
         "name": "jsonnetfmt-go_0.19.2-pre1_linux_arm64.deb",
-        "count": 2,
+        "count": 4,
         "size": 1242854
       }
     ]
@@ -412,97 +412,97 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 79,
+        "count": 81,
         "size": 1845
       },
       {
         "name": "go-jsonnet_0.19.1_Darwin_arm64.tar.gz",
-        "count": 35020,
+        "count": 35824,
         "size": 3004958
       },
       {
         "name": "go-jsonnet_0.19.1_Darwin_x86_64.tar.gz",
-        "count": 42723,
+        "count": 43572,
         "size": 2906310
       },
       {
         "name": "go-jsonnet_0.19.1_Linux_arm64.tar.gz",
-        "count": 36435,
+        "count": 40774,
         "size": 2584446
       },
       {
         "name": "go-jsonnet_0.19.1_Linux_armv6.tar.gz",
-        "count": 7,
+        "count": 9,
         "size": 2651792
       },
       {
         "name": "go-jsonnet_0.19.1_Linux_i386.tar.gz",
-        "count": 15,
+        "count": 17,
         "size": 2674609
       },
       {
         "name": "go-jsonnet_0.19.1_Linux_x86_64.tar.gz",
-        "count": 246768,
+        "count": 327661,
         "size": 2790084
       },
       {
         "name": "go-jsonnet_0.19.1_Windows_arm64.tar.gz",
-        "count": 156,
+        "count": 160,
         "size": 2761616
       },
       {
         "name": "go-jsonnet_0.19.1_Windows_armv6.tar.gz",
-        "count": 24,
+        "count": 26,
         "size": 2884539
       },
       {
         "name": "go-jsonnet_0.19.1_Windows_i386.tar.gz",
-        "count": 167,
+        "count": 169,
         "size": 2928101
       },
       {
         "name": "go-jsonnet_0.19.1_Windows_x86_64.tar.gz",
-        "count": 5642,
+        "count": 5702,
         "size": 2979237
       },
       {
         "name": "jsonnet-go_0.19.1_linux_386.deb",
-        "count": 8,
+        "count": 10,
         "size": 1449966
       },
       {
         "name": "jsonnet-go_0.19.1_linux_amd64.deb",
-        "count": 2970,
+        "count": 5885,
         "size": 1524438
       },
       {
         "name": "jsonnet-go_0.19.1_linux_arm.deb",
-        "count": 5,
+        "count": 7,
         "size": 1433816
       },
       {
         "name": "jsonnet-go_0.19.1_linux_arm64.deb",
-        "count": 279,
+        "count": 359,
         "size": 1416266
       },
       {
         "name": "jsonnetfmt-go_0.19.1_linux_386.deb",
-        "count": 6,
+        "count": 8,
         "size": 1301560
       },
       {
         "name": "jsonnetfmt-go_0.19.1_linux_amd64.deb",
-        "count": 71,
+        "count": 74,
         "size": 1356880
       },
       {
         "name": "jsonnetfmt-go_0.19.1_linux_arm.deb",
-        "count": 5,
+        "count": 7,
         "size": 1284612
       },
       {
         "name": "jsonnetfmt-go_0.19.1_linux_arm64.deb",
-        "count": 17,
+        "count": 19,
         "size": 1242872
       }
     ]
@@ -514,97 +514,97 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 34,
+        "count": 37,
         "size": 1845
       },
       {
         "name": "go-jsonnet_0.19.0_Darwin_arm64.tar.gz",
-        "count": 19,
+        "count": 22,
         "size": 3004948
       },
       {
         "name": "go-jsonnet_0.19.0_Darwin_x86_64.tar.gz",
-        "count": 14,
+        "count": 18,
         "size": 2906310
       },
       {
         "name": "go-jsonnet_0.19.0_Linux_arm64.tar.gz",
-        "count": 9,
+        "count": 13,
         "size": 2584444
       },
       {
         "name": "go-jsonnet_0.19.0_Linux_armv6.tar.gz",
-        "count": 6,
+        "count": 7,
         "size": 2651774
       },
       {
         "name": "go-jsonnet_0.19.0_Linux_i386.tar.gz",
-        "count": 6,
+        "count": 7,
         "size": 2674629
       },
       {
         "name": "go-jsonnet_0.19.0_Linux_x86_64.tar.gz",
-        "count": 220,
+        "count": 223,
         "size": 2790093
       },
       {
         "name": "go-jsonnet_0.19.0_Windows_arm64.tar.gz",
-        "count": 6,
+        "count": 7,
         "size": 2761609
       },
       {
         "name": "go-jsonnet_0.19.0_Windows_armv6.tar.gz",
-        "count": 6,
+        "count": 7,
         "size": 2884539
       },
       {
         "name": "go-jsonnet_0.19.0_Windows_i386.tar.gz",
-        "count": 7,
+        "count": 8,
         "size": 2928099
       },
       {
         "name": "go-jsonnet_0.19.0_Windows_x86_64.tar.gz",
-        "count": 27,
+        "count": 29,
         "size": 2979235
       },
       {
         "name": "jsonnet-go_0.19.0_linux_386.deb",
-        "count": 3,
+        "count": 4,
         "size": 1449974
       },
       {
         "name": "jsonnet-go_0.19.0_linux_amd64.deb",
-        "count": 4,
+        "count": 5,
         "size": 1524440
       },
       {
         "name": "jsonnet-go_0.19.0_linux_arm.deb",
-        "count": 3,
+        "count": 4,
         "size": 1433818
       },
       {
         "name": "jsonnet-go_0.19.0_linux_arm64.deb",
-        "count": 3,
+        "count": 7,
         "size": 1416266
       },
       {
         "name": "jsonnetfmt-go_0.19.0_linux_386.deb",
-        "count": 3,
+        "count": 4,
         "size": 1301558
       },
       {
         "name": "jsonnetfmt-go_0.19.0_linux_amd64.deb",
-        "count": 6,
+        "count": 7,
         "size": 1356884
       },
       {
         "name": "jsonnetfmt-go_0.19.0_linux_arm.deb",
-        "count": 4,
+        "count": 5,
         "size": 1284610
       },
       {
         "name": "jsonnetfmt-go_0.19.0_linux_arm64.deb",
-        "count": 3,
+        "count": 4,
         "size": 1242874
       }
     ]
@@ -616,87 +616,87 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 249,
+        "count": 255,
         "size": 1636
       },
       {
         "name": "go-jsonnet_0.18.0_Darwin_x86_64.tar.gz",
-        "count": 35896,
+        "count": 35948,
         "size": 3285800
       },
       {
         "name": "go-jsonnet_0.18.0_Linux_arm64.tar.gz",
-        "count": 26559,
+        "count": 26932,
         "size": 2933862
       },
       {
         "name": "go-jsonnet_0.18.0_Linux_armv6.tar.gz",
-        "count": 455,
+        "count": 456,
         "size": 2980515
       },
       {
         "name": "go-jsonnet_0.18.0_Linux_i386.tar.gz",
-        "count": 533,
+        "count": 534,
         "size": 3052779
       },
       {
         "name": "go-jsonnet_0.18.0_Linux_x86_64.tar.gz",
-        "count": 267640,
+        "count": 399959,
         "size": 3144953
       },
       {
         "name": "go-jsonnet_0.18.0_Windows_armv6.tar.gz",
-        "count": 466,
+        "count": 467,
         "size": 3221564
       },
       {
         "name": "go-jsonnet_0.18.0_Windows_i386.tar.gz",
-        "count": 473,
+        "count": 474,
         "size": 3154059
       },
       {
         "name": "go-jsonnet_0.18.0_Windows_x86_64.tar.gz",
-        "count": 11335,
+        "count": 11377,
         "size": 3260389
       },
       {
         "name": "jsonnet-go_0.18.0_linux_386.deb",
-        "count": 19,
+        "count": 20,
         "size": 1592670
       },
       {
         "name": "jsonnet-go_0.18.0_linux_amd64.deb",
-        "count": 7563,
+        "count": 9375,
         "size": 1649428
       },
       {
         "name": "jsonnet-go_0.18.0_linux_arm.deb",
-        "count": 12,
+        "count": 14,
         "size": 1557112
       },
       {
         "name": "jsonnet-go_0.18.0_linux_arm64.deb",
-        "count": 217,
+        "count": 220,
         "size": 1545630
       },
       {
         "name": "jsonnetfmt-go_0.18.0_linux_386.deb",
-        "count": 10,
+        "count": 12,
         "size": 1460658
       },
       {
         "name": "jsonnetfmt-go_0.18.0_linux_amd64.deb",
-        "count": 304,
+        "count": 341,
         "size": 1504102
       },
       {
         "name": "jsonnetfmt-go_0.18.0_linux_arm.deb",
-        "count": 11,
+        "count": 12,
         "size": 1422772
       },
       {
         "name": "jsonnetfmt-go_0.18.0_linux_arm64.deb",
-        "count": 32,
+        "count": 33,
         "size": 1395648
       }
     ]
@@ -708,57 +708,57 @@
     "downloads": [
       {
         "name": "checksums.txt",
-        "count": 231,
+        "count": 235,
         "size": 1021
       },
       {
         "name": "go-jsonnet_0.17.0_Linux_arm64.tar.gz",
-        "count": 397,
+        "count": 409,
         "size": 2443420
       },
       {
         "name": "go-jsonnet_0.17.0_Linux_armv6.tar.gz",
-        "count": 20,
+        "count": 22,
         "size": 2486199
       },
       {
         "name": "go-jsonnet_0.17.0_Linux_x86_64.tar.gz",
-        "count": 225728,
+        "count": 250906,
         "size": 2616668
       },
       {
         "name": "go-jsonnet_0.17.0_Windows_x86_64.tar.gz",
-        "count": 229,
+        "count": 237,
         "size": 2730048
       },
       {
         "name": "jsonnet-go_0.17.0_linux_amd64.deb",
-        "count": 6701,
+        "count": 7133,
         "size": 1369776
       },
       {
         "name": "jsonnet-go_0.17.0_linux_arm.deb",
-        "count": 9,
+        "count": 11,
         "size": 1298260
       },
       {
         "name": "jsonnet-go_0.17.0_linux_arm64.deb",
-        "count": 40,
+        "count": 45,
         "size": 1285868
       },
       {
         "name": "jsonnetfmt-go_0.17.0_linux_amd64.deb",
-        "count": 196,
+        "count": 200,
         "size": 1252844
       },
       {
         "name": "jsonnetfmt-go_0.17.0_linux_arm.deb",
-        "count": 7,
+        "count": 10,
         "size": 1187582
       },
       {
         "name": "jsonnetfmt-go_0.17.0_linux_arm64.deb",
-        "count": 15,
+        "count": 16,
         "size": 1163254
       }
     ]

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/bazel-skylib/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/bazel-skylib/deployments",
   "created_at": "2017-10-10T14:57:57Z",
-  "updated_at": "2023-09-14T01:33:13Z",
-  "pushed_at": "2023-09-18T18:25:50Z",
+  "updated_at": "2024-08-05T23:25:10Z",
+  "pushed_at": "2024-07-15T18:05:47Z",
   "git_url": "git://github.com/bazelbuild/bazel-skylib.git",
   "ssh_url": "git@github.com:bazelbuild/bazel-skylib.git",
   "clone_url": "https://github.com/bazelbuild/bazel-skylib.git",
   "svn_url": "https://github.com/bazelbuild/bazel-skylib",
   "homepage": "https://bazel.build/",
-  "size": 568,
-  "stargazers_count": 324,
-  "watchers_count": 324,
+  "size": 662,
+  "stargazers_count": 379,
+  "watchers_count": 379,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 171,
+  "forks_count": 179,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 91,
+  "open_issues_count": 96,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "bazel-rules", "starlark"],
   "visibility": "public",
-  "forks": 171,
-  "open_issues": 91,
-  "watchers": 324,
+  "forks": 179,
+  "open_issues": 96,
+  "watchers": 379,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 171,
-  "subscribers_count": 36
+  "network_count": 179,
+  "subscribers_count": 33
 }

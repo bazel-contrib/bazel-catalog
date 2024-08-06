@@ -1,0 +1,50 @@
+[
+  {
+    "name": "squashfs-tools-4.6.1",
+    "sha": "d8cb82d9840330f9344ec37b992595b5d7b44184"
+  },
+  {
+    "name": "squashfs-tools-4.6",
+    "sha": "8c7c87ea85546dd51651ce0ce898a4a2a54311d0"
+  },
+  {
+    "name": "CVE-2021-41072",
+    "sha": "afdd63fc386919b4aa40d573b0a6069414d14317"
+  },
+  {
+    "name": "4.6.1",
+    "sha": "d8cb82d9840330f9344ec37b992595b5d7b44184"
+  },
+  {
+    "name": "4.6",
+    "sha": "8c7c87ea85546dd51651ce0ce898a4a2a54311d0"
+  },
+  {
+    "name": "4.5.1",
+    "sha": "afdd63fc386919b4aa40d573b0a6069414d14317"
+  },
+  {
+    "name": "4.5",
+    "sha": "0496d7c3de3e09da37ba492081c86159806ebb07"
+  },
+  {
+    "name": "4.4",
+    "sha": "52eb4c279cd283ed9802dd1ceb686560b22ffb67"
+  },
+  {
+    "name": "4.4-git.1",
+    "sha": "ddfb69d50971710502c9818a1fd1be42497e9808"
+  },
+  {
+    "name": "3.2",
+    "sha": "26c9d659049def8288455ad8e4766337b721388b"
+  },
+  {
+    "name": "3.2-r2",
+    "sha": "366a1dd6b897a48d7711cd4976337280bdbff467"
+  },
+  {
+    "name": "3.1",
+    "sha": "7de32736e61a5f2e0923f020adea8d748f16ebed"
+  }
+]

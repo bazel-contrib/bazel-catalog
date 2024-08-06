@@ -1,0 +1,29 @@
+{
+  "health_percentage": 62,
+  "description": "Bazel rules for building iOS applications and frameworks",
+  "documentation": "https://github.com/bazel-ios/rules_ios/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazel-ios/rules_ios/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazel-ios/rules_ios/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bazel-ios/rules_ios/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazel-ios/rules_ios/contents/README.md",
+      "html_url": "https://github.com/bazel-ios/rules_ios/blob/master/README.md"
+    }
+  },
+  "updated_at": "2022-04-01T17:54:52Z",
+  "content_reports_enabled": true
+}

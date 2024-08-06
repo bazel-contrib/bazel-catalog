@@ -1,0 +1,80 @@
+[
+  {
+    "name": "v1.3.0",
+    "date": "2024-05-12T15:30:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pact-1.3.0.tar.gz",
+        "count": 4,
+        "size": 32095
+      }
+    ]
+  },
+  {
+    "name": "v1.1.9",
+    "date": "2023-11-07T11:14:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pact-v1.1.9.tar.gz",
+        "count": 387,
+        "size": 59229
+      }
+    ]
+  },
+  {
+    "name": "v1.1.8",
+    "date": "2023-11-07T11:08:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.6",
+    "date": "2023-11-07T09:52:51Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.4",
+    "date": "2023-11-02T21:29:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pact-v1.1.4.tar.gz",
+        "count": 1,
+        "size": 10326
+      }
+    ]
+  },
+  {
+    "name": "v1.1.3",
+    "date": "2023-11-02T19:52:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.2",
+    "date": "2023-11-02T19:43:17Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.1",
+    "date": "2023-11-02T19:39:31Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2023-11-02T19:30:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2023-10-27T19:40:21Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

@@ -1,17 +1,357 @@
 [
   {
+    "name": "v1.33.0",
+    "date": "2024-08-02T12:50:57Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "c-ares-1.33.0.tar.gz",
+        "count": 2243,
+        "size": 1040626
+      },
+      {
+        "name": "c-ares-1.33.0.tar.gz.asc",
+        "count": 23,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "v1.32.3",
+    "date": "2024-07-24T09:42:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.32.3.tar.gz",
+        "count": 7926,
+        "size": 1029702
+      },
+      {
+        "name": "c-ares-1.32.3.tar.gz.asc",
+        "count": 40,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "v1.32.2",
+    "date": "2024-07-15T13:03:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.32.2.tar.gz",
+        "count": 8139,
+        "size": 1026293
+      },
+      {
+        "name": "c-ares-1.32.2.tar.gz.asc",
+        "count": 75,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "v1.32.1",
+    "date": "2024-07-07T14:48:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.32.1.tar.gz",
+        "count": 6733,
+        "size": 1022052
+      },
+      {
+        "name": "c-ares-1.32.1.tar.gz.asc",
+        "count": 75,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "v1.32.0",
+    "date": "2024-07-04T11:05:46Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "c-ares-1.32.0.tar.gz",
+        "count": 1556,
+        "size": 1021855
+      },
+      {
+        "name": "c-ares-1.32.0.tar.gz.asc",
+        "count": 52,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "v1.31.0",
+    "date": "2024-06-18T09:54:27Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "c-ares-1.31.0.tar.gz",
+        "count": 32691,
+        "size": 1012373
+      },
+      {
+        "name": "c-ares-1.31.0.tar.gz.asc",
+        "count": 120,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "v1.30.0",
+    "date": "2024-06-07T10:54:58Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "c-ares-1.30.0.tar.gz",
+        "count": 13468,
+        "size": 1009440
+      },
+      {
+        "name": "c-ares-1.30.0.tar.gz.asc",
+        "count": 87,
+        "size": 228
+      }
+    ]
+  },
+  {
+    "name": "cares-1_29_0",
+    "date": "2024-05-24T06:54:18Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "c-ares-1.29.0.tar.gz",
+        "count": 11871,
+        "size": 1329299
+      },
+      {
+        "name": "c-ares-1.29.0.tar.gz.asc",
+        "count": 1491,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_28_1",
+    "date": "2024-03-30T15:19:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.28.1.tar.gz",
+        "count": 9166,
+        "size": 1312102
+      },
+      {
+        "name": "c-ares-1.28.1.tar.gz.asc",
+        "count": 73,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_28_0",
+    "date": "2024-03-29T11:43:49Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "c-ares-1.28.0.tar.gz",
+        "count": 126,
+        "size": 1311900
+      },
+      {
+        "name": "c-ares-1.28.0.tar.gz.asc",
+        "count": 13,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_27_0",
+    "date": "2024-02-23T07:28:53Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "c-ares-1.27.0.tar.gz",
+        "count": 12232,
+        "size": 1301440
+      },
+      {
+        "name": "c-ares-1.27.0.tar.gz.asc",
+        "count": 439,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_26_0",
+    "date": "2024-01-26T16:22:23Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "c-ares-1.26.0.tar.gz",
+        "count": 4896,
+        "size": 1298394
+      },
+      {
+        "name": "c-ares-1.26.0.tar.gz.asc",
+        "count": 32,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_25_0",
+    "date": "2024-01-04T20:05:28Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "c-ares-1.25.0.tar.gz",
+        "count": 10040,
+        "size": 1264129
+      },
+      {
+        "name": "c-ares-1.25.0.tar.gz.asc",
+        "count": 37,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_24_0",
+    "date": "2023-12-17T10:07:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.24.0.tar.gz",
+        "count": 6213,
+        "size": 1368749
+      },
+      {
+        "name": "c-ares-1.24.0.tar.gz.asc",
+        "count": 98,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_23_0",
+    "date": "2023-11-30T12:58:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.23.0.tar.gz",
+        "count": 3389,
+        "size": 1681336
+      },
+      {
+        "name": "c-ares-1.23.0.tar.gz.asc",
+        "count": 68,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_22_1",
+    "date": "2023-11-19T15:21:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.22.1.tar.gz",
+        "count": 9393,
+        "size": 1665059
+      },
+      {
+        "name": "c-ares-1.22.1.tar.gz.asc",
+        "count": 57,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_22_0",
+    "date": "2023-11-14T15:31:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.22.0.tar.gz",
+        "count": 8198,
+        "size": 1662808
+      },
+      {
+        "name": "c-ares-1.22.0.tar.gz.asc",
+        "count": 51,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_21_0",
+    "date": "2023-10-27T06:55:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.21.0.tar.gz",
+        "count": 9370,
+        "size": 1623742
+      },
+      {
+        "name": "c-ares-1.21.0.tar.gz.asc",
+        "count": 59,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_20_1",
+    "date": "2023-10-08T21:29:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.20.1.tar.gz",
+        "count": 59869,
+        "size": 1599175
+      },
+      {
+        "name": "c-ares-1.20.1.tar.gz.asc",
+        "count": 60,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "cares-1_20_0",
+    "date": "2023-10-07T17:24:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "c-ares-1.20.0.tar.gz",
+        "count": 5809,
+        "size": 1599257
+      },
+      {
+        "name": "c-ares-1.20.0.tar.gz.asc",
+        "count": 35,
+        "size": 488
+      }
+    ]
+  },
+  {
     "name": "cares-1_19_1",
     "date": "2023-05-22T12:29:12Z",
     "mentions": 9,
     "downloads": [
       {
         "name": "c-ares-1.19.1.tar.gz",
-        "count": 91272,
+        "count": 397409,
         "size": 1579100
       },
       {
         "name": "c-ares-1.19.1.tar.gz.asc",
-        "count": 119,
+        "count": 167,
         "size": 488
       }
     ]
@@ -23,12 +363,12 @@
     "downloads": [
       {
         "name": "c-ares-1.19.0.tar.gz",
-        "count": 98912,
+        "count": 111184,
         "size": 1572210
       },
       {
         "name": "c-ares-1.19.0.tar.gz.asc",
-        "count": 205,
+        "count": 233,
         "size": 488
       }
     ]
@@ -40,12 +380,12 @@
     "downloads": [
       {
         "name": "c-ares-1.18.1.tar.gz",
-        "count": 390427,
+        "count": 437698,
         "size": 1560165
       },
       {
         "name": "c-ares-1.18.1.tar.gz.asc",
-        "count": 814,
+        "count": 1084,
         "size": 488
       }
     ]
@@ -57,12 +397,12 @@
     "downloads": [
       {
         "name": "c-ares-1.18.0.tar.gz",
-        "count": 127,
+        "count": 144,
         "size": 1559936
       },
       {
         "name": "c-ares-1.18.0.tar.gz.asc",
-        "count": 29,
+        "count": 36,
         "size": 488
       }
     ]
@@ -74,12 +414,12 @@
     "downloads": [
       {
         "name": "c-ares-1.17.2.tar.gz",
-        "count": 119721,
+        "count": 130833,
         "size": 1538276
       },
       {
         "name": "c-ares-1.17.2.tar.gz.asc",
-        "count": 135,
+        "count": 147,
         "size": 488
       }
     ]
@@ -91,12 +431,12 @@
     "downloads": [
       {
         "name": "c-ares-1.17.1.tar.gz",
-        "count": 153902,
+        "count": 158113,
         "size": 1518701
       },
       {
         "name": "c-ares-1.17.1.tar.gz.asc",
-        "count": 159,
+        "count": 166,
         "size": 488
       }
     ]
@@ -108,12 +448,12 @@
     "downloads": [
       {
         "name": "c-ares-1.17.0.tar.gz",
-        "count": 79,
+        "count": 102,
         "size": 1396682
       },
       {
         "name": "c-ares-1.17.0.tar.gz.asc",
-        "count": 16,
+        "count": 24,
         "size": 488
       }
     ]
@@ -125,12 +465,12 @@
     "downloads": [
       {
         "name": "c-ares-1.16.1.tar.gz",
-        "count": 90619,
+        "count": 100122,
         "size": 1374637
       },
       {
         "name": "c-ares-1.16.1.tar.gz.asc",
-        "count": 38,
+        "count": 49,
         "size": 488
       }
     ]
@@ -142,12 +482,12 @@
     "downloads": [
       {
         "name": "c-ares-1.16.0.tar.gz",
-        "count": 1877,
+        "count": 2197,
         "size": 1374180
       },
       {
         "name": "c-ares-1.16.0.tar.gz.asc",
-        "count": 31,
+        "count": 39,
         "size": 488
       }
     ]
@@ -159,20 +499,14 @@
     "downloads": [
       {
         "name": "c-ares-1.15.0.tar.gz",
-        "count": 333408,
+        "count": 631935,
         "size": 1347687
       },
       {
         "name": "c-ares-1.15.0.tar.gz.asc",
-        "count": 72,
+        "count": 83,
         "size": 488
       }
     ]
-  },
-  {
-    "name": "cares-1_14_0",
-    "date": "2018-02-16T14:09:52Z",
-    "mentions": null,
-    "downloads": []
   }
 ]

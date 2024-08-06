@@ -1,12 +1,120 @@
 [
   {
+    "name": "v0.24.1",
+    "date": "2024-07-03T13:17:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.24.1.tar.gz",
+        "count": 2160,
+        "size": 35407
+      }
+    ]
+  },
+  {
+    "name": "v0.24.0",
+    "date": "2024-07-03T13:09:43Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.24.0.tar.gz",
+        "count": 4,
+        "size": 35403
+      }
+    ]
+  },
+  {
+    "name": "v0.23.0",
+    "date": "2024-01-22T13:42:13Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.23.0.tar.gz",
+        "count": 20677,
+        "size": 42992
+      }
+    ]
+  },
+  {
+    "name": "v0.22.0",
+    "date": "2024-01-16T17:54:34Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.22.0.tar.gz",
+        "count": 570,
+        "size": 42872
+      }
+    ]
+  },
+  {
+    "name": "v0.21.0",
+    "date": "2024-01-08T14:45:59Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.21.0.tar.gz",
+        "count": 466,
+        "size": 42520
+      }
+    ]
+  },
+  {
+    "name": "v0.20.0",
+    "date": "2023-11-03T16:05:11Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.20.0.tar.gz",
+        "count": 38831,
+        "size": 42539
+      }
+    ]
+  },
+  {
+    "name": "v0.19.1",
+    "date": "2023-10-30T16:13:01Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.19.1.tar.gz",
+        "count": 461,
+        "size": 41973
+      }
+    ]
+  },
+  {
+    "name": "v0.19.0",
+    "date": "2023-10-30T13:09:40Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.19.0.tar.gz",
+        "count": 398,
+        "size": 41558
+      }
+    ]
+  },
+  {
+    "name": "v0.18.0",
+    "date": "2023-09-27T17:34:39Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_bazel_integration_test.v0.18.0.tar.gz",
+        "count": 483208,
+        "size": 23266
+      }
+    ]
+  },
+  {
     "name": "v0.17.0",
     "date": "2023-09-12T15:11:03Z",
     "mentions": 2,
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.17.0.tar.gz",
-        "count": 6408,
+        "count": 65456,
         "size": 23305
       }
     ]
@@ -18,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.16.1.tar.gz",
-        "count": 38,
+        "count": 447,
         "size": 23247
       }
     ]
@@ -30,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.16.0.tar.gz",
-        "count": 609,
+        "count": 1034,
         "size": 23235
       }
     ]
@@ -42,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.15.1.tar.gz",
-        "count": 1114,
+        "count": 1529,
         "size": 22895
       }
     ]
@@ -54,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.15.0.tar.gz",
-        "count": 825,
+        "count": 1235,
         "size": 34913
       }
     ]
@@ -66,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.14.1.tar.gz",
-        "count": 3466,
+        "count": 55565,
         "size": 22010
       }
     ]
@@ -78,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.14.0.tar.gz",
-        "count": 617,
+        "count": 1024,
         "size": 21914
       }
     ]
@@ -90,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.13.0.tar.gz",
-        "count": 720,
+        "count": 1136,
         "size": 21748
       }
     ]
@@ -102,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.12.0.tar.gz",
-        "count": 1108,
+        "count": 2496,
         "size": 21310
       }
     ]
@@ -114,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.11.1.tar.gz",
-        "count": 187,
+        "count": 632,
         "size": 20661
       }
     ]
@@ -126,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.11.0.tar.gz",
-        "count": 9,
+        "count": 11,
         "size": 13259
       }
     ]
@@ -138,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.10.3.tar.gz",
-        "count": 137,
+        "count": 149,
         "size": 9934
       }
     ]
@@ -150,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_bazel_integration_test.v0.10.2.tar.gz",
-        "count": 3,
+        "count": 4,
         "size": 9930
       }
     ]
@@ -201,48 +309,6 @@
     "name": "0.6.0",
     "date": "2022-03-16T14:48:12Z",
     "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.5.0",
-    "date": "2022-01-20T15:20:24Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.4.0",
-    "date": "2022-01-13T15:33:30Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.3.1",
-    "date": "2021-12-03T22:26:54Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.3.0",
-    "date": "2021-12-02T20:26:55Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.2.0",
-    "date": "2021-11-29T21:07:26Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.1.1",
-    "date": "2021-11-17T00:55:00Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.1.0",
-    "date": "2021-11-15T22:44:00Z",
-    "mentions": null,
     "downloads": []
   }
 ]

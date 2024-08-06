@@ -1,0 +1,56 @@
+[
+  {
+    "name": "v0.2.1",
+    "date": "2023-10-08T14:54:26Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_cuda-v0.2.1.tar.gz",
+        "count": 161112,
+        "size": 60854
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-09-07T02:17:11Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_cuda-v0.2.0.tar.gz",
+        "count": 134,
+        "size": 59618
+      }
+    ]
+  },
+  {
+    "name": "v0.1.2",
+    "date": "2023-01-07T11:18:50Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_cuda-v0.1.2.tar.gz",
+        "count": 690965,
+        "size": 48672
+      }
+    ]
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2023-01-02T15:12:19Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_cuda-v0.1.1.tar.gz",
+        "count": 166,
+        "size": 47496
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2022-12-23T17:19:33Z",
+    "mentions": 4,
+    "downloads": []
+  }
+]

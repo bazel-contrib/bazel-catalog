@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Bazel wrapper around the pybind11 repository",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/pybind/pybind11_bazel/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/pybind/pybind11_bazel/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/pybind/pybind11_bazel/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/pybind/pybind11_bazel/contents/README.md",
+      "html_url": "https://github.com/pybind/pybind11_bazel/blob/master/README.md"
+    }
+  },
+  "updated_at": "2020-03-05T18:59:13Z",
+  "content_reports_enabled": false
+}

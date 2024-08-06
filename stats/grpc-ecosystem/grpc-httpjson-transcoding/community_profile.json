@@ -1,0 +1,29 @@
+{
+  "health_percentage": 62,
+  "description": "Transcoding to provide HTTP/JSON interface for gRPC Service",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/grpc-ecosystem/grpc-httpjson-transcoding/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/grpc-ecosystem/grpc-httpjson-transcoding/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/grpc-ecosystem/grpc-httpjson-transcoding/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/grpc-ecosystem/grpc-httpjson-transcoding/contents/README.md",
+      "html_url": "https://github.com/grpc-ecosystem/grpc-httpjson-transcoding/blob/master/README.md"
+    }
+  },
+  "updated_at": "2018-05-24T01:07:39Z",
+  "content_reports_enabled": false
+}

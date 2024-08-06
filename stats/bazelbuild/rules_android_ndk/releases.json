@@ -1,0 +1,26 @@
+[
+  {
+    "name": "v0.1.2",
+    "date": "2024-07-22T18:45:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_android_ndk-v0.1.2.tar.gz",
+        "count": 20916,
+        "size": 34234
+      }
+    ]
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2024-07-19T21:45:06Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.1.0",
+    "date": "2024-07-18T19:33:50Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "v7_0_2beta",
+    "sha": "5d39dde961fc1bed706aff0b84bd9ec24e408a0a"
+  },
+  {
+    "name": "tiny-curl-8_4_0",
+    "sha": "172e54cda18412da73fd8eb4e444e8a5b371ca59"
+  },
+  {
+    "name": "tiny-curl-7_72_0",
+    "sha": "0c9211798fc80d5c9cc9bcdc8e11eb485c9c1c5b"
+  },
+  {
+    "name": "curl-8_9_1",
+    "sha": "83bedbd730d62b83744cc26fa0433d3f6e2e4cd6"
+  },
+  {
+    "name": "curl-8_9_0",
+    "sha": "5040f7e94cd01decbe7ba8fdacbf489182d503dc"
+  },
+  {
+    "name": "curl-8_8_0",
+    "sha": "fd567d4f06857f4fc8e2f64ea727b1318f76ad33"
+  },
+  {
+    "name": "curl-8_7_1",
+    "sha": "de7b3e89218467159a7af72d58cea8425946e97d"
+  },
+  {
+    "name": "curl-8_7_0",
+    "sha": "72cf468d459d29e5366e416c014faaaf281dfa2d"
+  },
+  {
+    "name": "curl-8_6_0",
+    "sha": "5ce164e0e9290c96eb7d502173426c0a135ec008"
+  },
+  {
+    "name": "curl-8_5_0",
+    "sha": "7161cb17c01dcff1dc5bf89a18437d9d729f1ecd"
+  },
+  {
+    "name": "curl-8_4_0",
+    "sha": "d755a5f7c009dd63a61b2c745180d8ba937cbfeb"
+  },
+  {
+    "name": "curl-8_3_0",
+    "sha": "6fa1d817e5b1a00d7d0c8168091877476b499317"
+  },
+  {
+    "name": "curl-8_2_1",
+    "sha": "50490c0679fcd0e50bb3a8fbf2d9244845652cf0"
+  },
+  {
+    "name": "curl-8_2_0",
+    "sha": "98044e81705dc24a56daaf3544f30c13f0fc3a31"
+  },
+  {
+    "name": "curl-8_1_2",
+    "sha": "7ab9d43720bc34d9aa351c7ca683c1668ebf8335"
+  },
+  {
+    "name": "curl-8_1_1",
+    "sha": "1561d0675208854b39066877b140780a965702fa"
+  },
+  {
+    "name": "curl-8_1_0",
+    "sha": "a9f8fe28481fef7c28d85b4a12a3a35521408eaf"
+  },
+  {
+    "name": "curl-8_0_1",
+    "sha": "b16d1fa8ee567b52c09a0f89940b07d8491b881d"
+  },
+  {
+    "name": "curl-8_0_0",
+    "sha": "47ccaa4218c408e70671a2fa9caaa3caf8c1a877"
+  },
+  {
+    "name": "curl-7_88_1",
+    "sha": "046209e561b7e9b5aab1aef7daebf29ee6e6e8c7"
+  },
+  {
+    "name": "curl-7_88_0",
+    "sha": "3027611ca6d4cc5510d2d0fccc3e5a074e09a2fb"
+  },
+  {
+    "name": "curl-7_87_0",
+    "sha": "c12fb3ddaf48e709a7a4deaa55ec485e4df163ee"
+  },
+  {
+    "name": "curl-7_86_0",
+    "sha": "cd95ee9f771361acf241629d2fe5507e308082a2"
+  },
+  {
+    "name": "curl-7_85_0",
+    "sha": "93d092867f0f2c78571983040ef75e078ee1a4c4"
+  },
+  {
+    "name": "curl-7_84_0",
+    "sha": "45ac4d019475df03562fe0ac54eb67e1d1de0ca7"
+  },
+  {
+    "name": "curl-7_83_1",
+    "sha": "462196e6b4a47f924293a0e26b8e9c23d37ac26f"
+  },
+  {
+    "name": "curl-7_83_0",
+    "sha": "1669b17d3a1a1fd824308544ca0ec02a2a4f50ea"
+  },
+  {
+    "name": "curl-7_82_0",
+    "sha": "64db5c575d9c5536bd273a890f50777ad1ca7c13"
+  },
+  {
+    "name": "curl-7_81_0",
+    "sha": "801bd5138ce31aa0d906fa4e2eabfc599d74e793"
+  },
+  {
+    "name": "curl-7_80_0",
+    "sha": "9e560d11aad028de74addc0d1edfefa5667884f4"
+  }
+]

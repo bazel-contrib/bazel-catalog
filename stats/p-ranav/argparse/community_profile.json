@@ -1,0 +1,28 @@
+{
+  "health_percentage": 57,
+  "description": "Argument Parser for Modern C++",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/p-ranav/argparse/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/p-ranav/argparse/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/p-ranav/argparse/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/p-ranav/argparse/contents/README.md",
+      "html_url": "https://github.com/p-ranav/argparse/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-04-10T11:33:48Z"
+}

@@ -1,12 +1,48 @@
 [
   {
+    "name": "v2.0.0-rc0",
+    "date": "2024-05-22T01:10:47Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v2.0.0-rc0.tar.gz",
+        "count": 3472,
+        "size": 36261
+      }
+    ]
+  },
+  {
+    "name": "v1.2.0",
+    "date": "2024-05-22T01:09:02Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v1.2.0.tar.gz",
+        "count": 4502,
+        "size": 36658
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-alpha.0",
+    "date": "2024-05-10T06:37:48Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_jasmine-v2.0.0-alpha.0.tar.gz",
+        "count": 203,
+        "size": 36113
+      }
+    ]
+  },
+  {
     "name": "v1.1.1",
     "date": "2023-07-04T03:43:58Z",
     "mentions": 2,
     "downloads": [
       {
         "name": "rules_jasmine-v1.1.1.tar.gz",
-        "count": 9930,
+        "count": 88264,
         "size": 23314
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_jasmine-v1.0.0.tar.gz",
-        "count": 19028,
+        "count": 20227,
         "size": 22455
       }
     ]
@@ -30,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_jasmine-v0.6.0.tar.gz",
-        "count": 44,
+        "count": 47,
         "size": 21858
       }
     ]
@@ -42,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_jasmine-v0.5.0.tar.gz",
-        "count": 214,
+        "count": 2083,
         "size": 22765
       }
     ]
@@ -54,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_jasmine-v0.4.0.tar.gz",
-        "count": 4651,
+        "count": 6194,
         "size": 21241
       }
     ]
@@ -66,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_jasmine-v0.3.1.tar.gz",
-        "count": 2707,
+        "count": 4139,
         "size": 19749
       }
     ]

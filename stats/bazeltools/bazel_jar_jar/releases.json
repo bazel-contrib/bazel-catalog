@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v0.1.5",
+    "date": "2024-03-16T21:29:43Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "bazel_jar_jar-v0.1.5.tar.gz",
+        "count": 128708,
+        "size": 15013
+      }
+    ]
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2024-03-14T19:11:25Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "bazel_jar_jar-v0.1.1.tar.gz",
+        "count": 42822,
+        "size": 14996
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-12-03T17:58:50Z",
+    "mentions": 12,
+    "downloads": [
+      {
+        "name": "bazel_jar_jar-v0.1.0.tar.gz",
+        "count": 70345,
+        "size": 15002
+      }
+    ]
+  }
+]

@@ -1,5 +1,77 @@
 [
   {
+    "name": "6.0.2",
+    "date": "2024-06-17T13:40:39Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_proto-6.0.2.tar.gz",
+        "count": 157035,
+        "size": 42053
+      }
+    ]
+  },
+  {
+    "name": "6.0.0",
+    "date": "2024-04-28T16:13:07Z",
+    "mentions": 17,
+    "downloads": [
+      {
+        "name": "rules_proto-6.0.0.tar.gz",
+        "count": 626775,
+        "size": 29248
+      }
+    ]
+  },
+  {
+    "name": "6.0.0-rc3",
+    "date": "2024-04-16T16:18:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_proto-6.0.0-rc3.tar.gz",
+        "count": 22101,
+        "size": 29252
+      }
+    ]
+  },
+  {
+    "name": "6.0.0-rc2",
+    "date": "2024-02-02T19:18:34Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_proto-6.0.0-rc2.tar.gz",
+        "count": 129525,
+        "size": 28085
+      }
+    ]
+  },
+  {
+    "name": "6.0.0-rc1",
+    "date": "2023-12-04T23:17:26Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_proto-6.0.0-rc1.tar.gz",
+        "count": 219164,
+        "size": 16450
+      }
+    ]
+  },
+  {
+    "name": "6.0.0-rc0",
+    "date": "2023-11-03T15:09:25Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_proto-6.0.0-rc0.tar.gz",
+        "count": 54364,
+        "size": 16062
+      }
+    ]
+  },
+  {
     "name": "5.3.0-21.7",
     "date": "2022-12-27T15:53:51Z",
     "mentions": null,

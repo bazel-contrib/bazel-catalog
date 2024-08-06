@@ -64,6 +64,18 @@
     "sha": "a0cf83ccd238715100e198971e69da2fb16bf9b5"
   },
   {
+    "name": "6.2",
+    "sha": "61e8eda72f8cafcecf8b2aef0ef62dd58bfa953d"
+  },
+  {
+    "name": "6.1",
+    "sha": "b4321ee4fbc4cc0e09ae015682277368c1995a57"
+  },
+  {
+    "name": "6.0",
+    "sha": "e4bfab1096dc7f3c4246b488b8d2bb4cf70f3b23"
+  },
+  {
     "name": "5.3",
     "sha": "e6c1ff21e002bf97a7b1c07d63edd508a8dc9659"
   },
@@ -106,17 +118,5 @@
   {
     "name": "4.1",
     "sha": "786947c47918c44b5d740df500bb3090607df04d"
-  },
-  {
-    "name": "4.0",
-    "sha": "8ca81e01547c30bde92c3a1c369642b1891e9287"
-  },
-  {
-    "name": "3.3",
-    "sha": "a7b4e46d77df50aeb5cf54e3f9347551b6ff14bb"
-  },
-  {
-    "name": "3.2",
-    "sha": "2a2c0794cbbc255f2dc50acc483ce809a243d94b"
   }
 ]

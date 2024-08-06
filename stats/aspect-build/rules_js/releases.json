@@ -1,361 +1,361 @@
 [
   {
-    "name": "v1.32.2",
-    "date": "2023-09-11T15:27:07Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "rules_js-v1.32.2.tar.gz",
-        "count": 10761,
-        "size": 1559922
-      }
-    ]
-  },
-  {
-    "name": "v1.32.1",
-    "date": "2023-08-24T22:01:58Z",
+    "name": "v2.0.0-rc9",
+    "date": "2024-07-27T04:01:36Z",
     "mentions": 2,
     "downloads": [
       {
-        "name": "rules_js-v1.32.1.tar.gz",
-        "count": 13030,
-        "size": 2247647
+        "name": "rules_js-v2.0.0-rc9.tar.gz",
+        "count": 870,
+        "size": 1615825
       }
     ]
   },
   {
-    "name": "v1.32.0",
-    "date": "2023-08-22T01:08:03Z",
-    "mentions": 5,
+    "name": "v2.0.0-rc8",
+    "date": "2024-07-25T22:55:49Z",
+    "mentions": 1,
     "downloads": [
       {
-        "name": "rules_js-v1.32.0.tar.gz",
-        "count": 2910,
-        "size": 2249165
+        "name": "rules_js-v2.0.0-rc8.tar.gz",
+        "count": 5338,
+        "size": 1614829
       }
     ]
   },
   {
-    "name": "v1.31.0",
-    "date": "2023-08-03T19:47:18Z",
-    "mentions": 7,
+    "name": "v2.0.0-rc7",
+    "date": "2024-07-23T06:34:05Z",
+    "mentions": 2,
     "downloads": [
       {
-        "name": "rules_js-v1.31.0.tar.gz",
-        "count": 76788,
-        "size": 2239163
+        "name": "rules_js-v2.0.0-rc7.tar.gz",
+        "count": 1188,
+        "size": 1615954
       }
     ]
   },
   {
-    "name": "v1.30.0",
-    "date": "2023-07-11T18:35:17Z",
+    "name": "v2.0.0-rc6",
+    "date": "2024-07-02T23:20:48Z",
     "mentions": 3,
     "downloads": [
       {
-        "name": "rules_js-v1.30.0.tar.gz",
-        "count": 194447,
-        "size": 2237384
+        "name": "rules_js-v2.0.0-rc6.tar.gz",
+        "count": 9871,
+        "size": 1613700
       }
     ]
   },
   {
-    "name": "v1.29.2",
-    "date": "2023-07-04T01:54:12Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.29.2.tar.gz",
-        "count": 41480,
-        "size": 2234759
-      }
-    ]
-  },
-  {
-    "name": "v1.29.0",
-    "date": "2023-06-30T01:57:19Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.29.0.tar.gz",
-        "count": 15697,
-        "size": 2231281
-      }
-    ]
-  },
-  {
-    "name": "v1.28.0",
-    "date": "2023-06-10T17:14:25Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.28.0.tar.gz",
-        "count": 87699,
-        "size": 2225448
-      }
-    ]
-  },
-  {
-    "name": "v1.27.1",
-    "date": "2023-05-31T18:00:08Z",
+    "name": "v2.0.0-rc5",
+    "date": "2024-06-17T18:08:03Z",
     "mentions": 4,
     "downloads": [
       {
-        "name": "rules_js-v1.27.1.tar.gz",
-        "count": 61680,
-        "size": 2221799
+        "name": "rules_js-v2.0.0-rc5.tar.gz",
+        "count": 7202,
+        "size": 1611969
       }
     ]
   },
   {
-    "name": "v1.27.0",
-    "date": "2023-05-23T20:15:08Z",
-    "mentions": 5,
+    "name": "v2.0.0-rc4",
+    "date": "2024-06-05T21:39:29Z",
+    "mentions": 2,
     "downloads": [
       {
-        "name": "rules_js-v1.27.0.tar.gz",
-        "count": 39944,
-        "size": 2221258
+        "name": "rules_js-v2.0.0-rc4.tar.gz",
+        "count": 8737,
+        "size": 1611123
       }
     ]
   },
   {
-    "name": "v1.26.1",
-    "date": "2023-05-14T01:20:47Z",
+    "name": "v2.0.0-rc3",
+    "date": "2024-06-03T23:39:50Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-rc3.tar.gz",
+        "count": 1635,
+        "size": 1609703
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc2",
+    "date": "2024-05-31T08:23:52Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-rc2.tar.gz",
+        "count": 813,
+        "size": 1609624
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc1",
+    "date": "2024-05-22T17:27:12Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-rc1.tar.gz",
+        "count": 9070,
+        "size": 1609582
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc0",
+    "date": "2024-05-22T00:03:29Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-rc0.tar.gz",
+        "count": 6739,
+        "size": 1609614
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-alpha.8",
+    "date": "2024-05-21T19:23:07Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-alpha.8.tar.gz",
+        "count": 198,
+        "size": 1609759
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-alpha.7",
+    "date": "2024-05-20T20:36:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-alpha.7.tar.gz",
+        "count": 452,
+        "size": 1608571
+      }
+    ]
+  },
+  {
+    "name": "v1.42.3",
+    "date": "2024-05-20T18:24:02Z",
     "mentions": 3,
     "downloads": [
       {
-        "name": "rules_js-v1.26.1.tar.gz",
-        "count": 99925,
-        "size": 2218947
+        "name": "rules_js-v1.42.3.tar.gz",
+        "count": 196002,
+        "size": 1793412
       }
     ]
   },
   {
-    "name": "v1.26.0",
-    "date": "2023-05-09T19:57:15Z",
-    "mentions": 6,
+    "name": "v1.42.1",
+    "date": "2024-05-15T03:21:56Z",
+    "mentions": 3,
     "downloads": [
       {
-        "name": "rules_js-v1.26.0.tar.gz",
-        "count": 149071,
-        "size": 2214679
+        "name": "rules_js-v1.42.1.tar.gz",
+        "count": 14449,
+        "size": 1792023
       }
     ]
   },
   {
-    "name": "v1.25.4",
-    "date": "2023-04-28T20:22:10Z",
+    "name": "v2.0.0-alpha.6",
+    "date": "2024-05-10T22:51:41Z",
     "mentions": 1,
     "downloads": [
       {
-        "name": "rules_js-v1.25.4.tar.gz",
-        "count": 157495,
-        "size": 2208526
+        "name": "rules_js-v2.0.0-alpha.6.tar.gz",
+        "count": 1386,
+        "size": 1605536
       }
     ]
   },
   {
-    "name": "v1.25.3",
-    "date": "2023-04-28T01:49:59Z",
+    "name": "v2.0.0-alpha.5",
+    "date": "2024-05-10T16:24:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-alpha.5.tar.gz",
+        "count": 23512,
+        "size": 1605053
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-alpha.4",
+    "date": "2024-05-10T04:50:26Z",
     "mentions": 2,
     "downloads": [
       {
-        "name": "rules_js-v1.25.3.tar.gz",
-        "count": 296,
-        "size": 2208241
+        "name": "rules_js-v2.0.0-alpha.4.tar.gz",
+        "count": 451,
+        "size": 1605083
       }
     ]
   },
   {
-    "name": "v1.25.2",
-    "date": "2023-04-26T17:10:10Z",
+    "name": "v1.42.0",
+    "date": "2024-05-06T16:58:32Z",
     "mentions": 2,
     "downloads": [
       {
-        "name": "rules_js-v1.25.2.tar.gz",
-        "count": 6571,
-        "size": 2207880
+        "name": "rules_js-v1.42.0.tar.gz",
+        "count": 38962,
+        "size": 1793045
       }
     ]
   },
   {
-    "name": "v1.25.1",
-    "date": "2023-04-22T00:55:27Z",
+    "name": "v2.0.0-alpha.3",
+    "date": "2024-04-29T00:15:22Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_js-v2.0.0-alpha.3.tar.gz",
+        "count": 828,
+        "size": 1600312
+      }
+    ]
+  },
+  {
+    "name": "v1.41.2",
+    "date": "2024-04-21T19:59:11Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v1.41.2.tar.gz",
+        "count": 102243,
+        "size": 1791941
+      }
+    ]
+  },
+  {
+    "name": "v1.41.1",
+    "date": "2024-04-13T15:03:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_js-v1.41.1.tar.gz",
+        "count": 206264,
+        "size": 1792470
+      }
+    ]
+  },
+  {
+    "name": "v1.41.0",
+    "date": "2024-04-06T02:19:05Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v1.41.0.tar.gz",
+        "count": 95041,
+        "size": 1789660
+      }
+    ]
+  },
+  {
+    "name": "v1.40.1",
+    "date": "2024-04-03T22:10:46Z",
     "mentions": 4,
     "downloads": [
       {
-        "name": "rules_js-v1.25.1.tar.gz",
-        "count": 14742,
-        "size": 2196641
+        "name": "rules_js-v1.40.1.tar.gz",
+        "count": 21952,
+        "size": 1789539
       }
     ]
   },
   {
-    "name": "v1.25.0",
-    "date": "2023-04-18T19:13:23Z",
-    "mentions": 4,
+    "name": "v1.40.0",
+    "date": "2024-03-27T15:28:35Z",
+    "mentions": 3,
     "downloads": [
       {
-        "name": "rules_js-v1.25.0.tar.gz",
-        "count": 71377,
-        "size": 2031479
+        "name": "rules_js-v1.40.0.tar.gz",
+        "count": 98461,
+        "size": 1605274
       }
     ]
   },
   {
-    "name": "v1.24.1",
-    "date": "2023-04-11T00:09:36Z",
+    "name": "v1.39.1",
+    "date": "2024-03-20T12:41:28Z",
     "mentions": 1,
     "downloads": [
       {
-        "name": "rules_js-v1.24.1.tar.gz",
-        "count": 42169,
-        "size": 2029512
+        "name": "rules_js-v1.39.1.tar.gz",
+        "count": 110277,
+        "size": 1613584
       }
     ]
   },
   {
-    "name": "v1.24.0",
-    "date": "2023-04-05T00:27:14Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "rules_js-v1.24.0.tar.gz",
-        "count": 23781,
-        "size": 2029490
-      }
-    ]
-  },
-  {
-    "name": "v1.23.2",
-    "date": "2023-03-24T03:54:42Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.23.2.tar.gz",
-        "count": 53892,
-        "size": 1999104
-      }
-    ]
-  },
-  {
-    "name": "v1.23.1",
-    "date": "2023-03-20T16:28:13Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "rules_js-v1.23.1.tar.gz",
-        "count": 22119,
-        "size": 2028773
-      }
-    ]
-  },
-  {
-    "name": "v1.23.0",
-    "date": "2023-03-11T22:10:49Z",
-    "mentions": 1,
-    "downloads": [
-      {
-        "name": "rules_js-v1.23.0.tar.gz",
-        "count": 58608,
-        "size": 2029057
-      }
-    ]
-  },
-  {
-    "name": "v1.22.0",
-    "date": "2023-03-10T19:34:10Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.22.0.tar.gz",
-        "count": 79,
-        "size": 2028353
-      }
-    ]
-  },
-  {
-    "name": "v1.21.0",
-    "date": "2023-03-08T01:47:50Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.21.0.tar.gz",
-        "count": 212378,
-        "size": 2027491
-      }
-    ]
-  },
-  {
-    "name": "v1.20.3",
-    "date": "2023-03-07T22:21:14Z",
-    "mentions": 1,
-    "downloads": [
-      {
-        "name": "rules_js-v1.20.3.tar.gz",
-        "count": 2131,
-        "size": 2027806
-      }
-    ]
-  },
-  {
-    "name": "v1.20.2",
-    "date": "2023-03-06T15:14:31Z",
-    "mentions": 8,
-    "downloads": [
-      {
-        "name": "rules_js-v1.20.2.tar.gz",
-        "count": 8143,
-        "size": 2024460
-      }
-    ]
-  },
-  {
-    "name": "v1.20.1",
-    "date": "2023-02-25T22:01:54Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_js-v1.20.1.tar.gz",
-        "count": 62292,
-        "size": 2017465
-      }
-    ]
-  },
-  {
-    "name": "v1.20.0",
-    "date": "2023-02-18T01:57:55Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "rules_js-v1.20.0.tar.gz",
-        "count": 47064,
-        "size": 2015708
-      }
-    ]
-  },
-  {
-    "name": "v1.19.0",
-    "date": "2023-02-11T00:57:00Z",
+    "name": "v1.39.0",
+    "date": "2024-03-19T21:53:31Z",
     "mentions": 7,
     "downloads": [
       {
-        "name": "rules_js-v1.19.0.tar.gz",
-        "count": 33988,
-        "size": 2013944
+        "name": "rules_js-v1.39.0.tar.gz",
+        "count": 65358,
+        "size": 1613527
       }
     ]
   },
   {
-    "name": "v1.18.0",
-    "date": "2023-02-08T04:56:45Z",
+    "name": "v1.38.0",
+    "date": "2024-02-23T01:06:07Z",
     "mentions": 4,
     "downloads": [
       {
-        "name": "rules_js-v1.18.0.tar.gz",
-        "count": 14267,
-        "size": 1921752
+        "name": "rules_js-v1.38.0.tar.gz",
+        "count": 248812,
+        "size": 1617567
+      }
+    ]
+  },
+  {
+    "name": "v1.37.1",
+    "date": "2024-01-26T00:23:53Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_js-v1.37.1.tar.gz",
+        "count": 1020778,
+        "size": 1614073
+      }
+    ]
+  },
+  {
+    "name": "v1.37.0",
+    "date": "2024-01-24T22:33:46Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_js-v1.37.0.tar.gz",
+        "count": 161995,
+        "size": 1614065
+      }
+    ]
+  },
+  {
+    "name": "v1.36.1",
+    "date": "2024-01-22T23:17:44Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_js-v1.36.1.tar.gz",
+        "count": 18240,
+        "size": 1610378
       }
     ]
   }

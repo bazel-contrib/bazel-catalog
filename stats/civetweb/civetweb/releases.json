@@ -1,0 +1,104 @@
+[
+  {
+    "name": "v1.16",
+    "date": "2023-04-10T18:30:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "CivetWeb_Win64_V1.16.zip",
+        "count": 964,
+        "size": 952060
+      }
+    ]
+  },
+  {
+    "name": "v1.15",
+    "date": "2021-09-01T18:06:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "CivetWeb_Win32+64_V1.15.zip",
+        "count": 1235,
+        "size": 1702405
+      }
+    ]
+  },
+  {
+    "name": "v1.14",
+    "date": "2021-04-06T17:31:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "CivetWeb_Win32+64_V1.14.zip",
+        "count": 245,
+        "size": 3337328
+      }
+    ]
+  },
+  {
+    "name": "v1.13",
+    "date": "2020-09-30T20:32:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "CivetWeb_Win32+64_V1.13.zip",
+        "count": 336,
+        "size": 3318990
+      }
+    ]
+  },
+  {
+    "name": "v1.12",
+    "date": "2020-03-17T20:30:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "CivetWeb_Win32+64_V1.12.zip",
+        "count": 333,
+        "size": 1577660
+      }
+    ]
+  },
+  {
+    "name": "v1.11",
+    "date": "2018-09-10T18:31:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.10",
+    "date": "2017-09-26T18:19:09Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.9.1",
+    "date": "2017-01-04T20:13:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.9",
+    "date": "2016-12-30T11:28:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.8",
+    "date": "2016-05-27T21:52:14Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.7",
+    "date": "2015-07-05T07:17:14Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.6",
+    "date": "2014-06-27T20:03:15Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

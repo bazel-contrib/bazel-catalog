@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+  "documentation": "https://curl.se/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/curl/curl/blob/master/docs/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/curl/curl/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/curl/curl/contents/docs/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/curl/curl/blob/master/docs/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/curl/curl/contents/.github/CONTRIBUTING.md",
+      "html_url": "https://github.com/curl/curl/blob/master/.github/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/curl/curl/blob/master/COPYING"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/curl/curl/contents/README.md",
+      "html_url": "https://github.com/curl/curl/blob/master/README.md"
+    }
+  },
+  "updated_at": "2024-08-04T15:15:45Z",
+  "content_reports_enabled": true
+}

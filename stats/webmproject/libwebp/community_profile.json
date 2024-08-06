@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Mirror only. Please do not send pull requests. See https://chromium.googlesource.com/webm/libwebp/+/HEAD/CONTRIBUTING.md.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/webmproject/libwebp/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/webmproject/libwebp/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU=",
+      "html_url": "https://github.com/webmproject/libwebp/blob/main/COPYING"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/webmproject/libwebp/contents/README.md",
+      "html_url": "https://github.com/webmproject/libwebp/blob/main/README.md"
+    }
+  },
+  "updated_at": "2018-07-20T14:53:13Z",
+  "content_reports_enabled": false
+}

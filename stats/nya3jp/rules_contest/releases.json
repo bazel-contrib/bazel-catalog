@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v0.9.2",
+    "date": "2024-05-23T14:19:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_contest-0.9.2.tar.gz",
+        "count": 96,
+        "size": 532476
+      }
+    ]
+  },
+  {
+    "name": "v0.9.1",
+    "date": "2024-05-23T13:53:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_contest-0.9.1.tar.gz",
+        "count": 6,
+        "size": 514759
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2024-05-12T15:00:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_contest-0.9.0.tar.gz",
+        "count": 135,
+        "size": 513420
+      }
+    ]
+  }
+]

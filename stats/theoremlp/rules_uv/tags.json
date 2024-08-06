@@ -1,0 +1,94 @@
+[
+  {
+    "name": "v0.22.0",
+    "sha": "4e7e6d232c9e830ef6ac842504e3c30a28ee3209"
+  },
+  {
+    "name": "v0.21.0",
+    "sha": "94b8caf0d6e829a6491e9bb1c275c44d5f0564d0"
+  },
+  {
+    "name": "v0.20.0",
+    "sha": "ce1b25efbad9bc210a058a5ad7c4bd6782ee414b"
+  },
+  {
+    "name": "v0.19.0",
+    "sha": "139ea9bfb17dc3b320f25bb92f7fcc3f903fb6b6"
+  },
+  {
+    "name": "v0.18.0",
+    "sha": "7b316cb9292f0a2de674a8e528089fa65b2f8f5d"
+  },
+  {
+    "name": "v0.17.0",
+    "sha": "e56fb8b09dd833852e8ef1e0408b4bfda535e2a6"
+  },
+  {
+    "name": "v0.16.0",
+    "sha": "f28950a60d4bd6010ad3749f8bb7aa30538258a2"
+  },
+  {
+    "name": "v0.15.0",
+    "sha": "b692303bc84c199dde346a340290ebd3e3563bc2"
+  },
+  {
+    "name": "v0.14.0",
+    "sha": "4535b34637f18c6cbc216172f10e3889520b2819"
+  },
+  {
+    "name": "v0.13.0",
+    "sha": "7e00ac4208db5d70965d47f96640638825863793"
+  },
+  {
+    "name": "v0.12.0",
+    "sha": "1d83dbaad4209ce4b6c18aeb0e5dcd4ddaf6061c"
+  },
+  {
+    "name": "v0.11.0",
+    "sha": "fdf8b3c7b9b849002aa64dbb5e8e2edcb98e3662"
+  },
+  {
+    "name": "v0.10.0",
+    "sha": "e2a4083668038860b782850cf5ef256b811bb3a9"
+  },
+  {
+    "name": "v0.9.0",
+    "sha": "13d8978a46ac60db9f6e86fba57de5024bb03643"
+  },
+  {
+    "name": "v0.8.0",
+    "sha": "44e119f558fa5f7b780757ffe343819789cab1e0"
+  },
+  {
+    "name": "v0.7.0",
+    "sha": "6675479518efa251078a03660fb6cedecbb4dce5"
+  },
+  {
+    "name": "v0.6.1",
+    "sha": "1924804ed54ff7ca612484d66454cbe288064b7f"
+  },
+  {
+    "name": "v0.6.0",
+    "sha": "f5af7717c88b81a4900781d861868f1254e9364a"
+  },
+  {
+    "name": "v0.5.0",
+    "sha": "192899ca5e7d1955f1d8f2fa6ddedb07e3b9e83e"
+  },
+  {
+    "name": "v0.4.0",
+    "sha": "93491293474b785614fc1ddadd1596f6b8a06117"
+  },
+  {
+    "name": "v0.3.0",
+    "sha": "e18a603a52ef31b9812b455300fa3f1f38f67489"
+  },
+  {
+    "name": "v0.2.0",
+    "sha": "31956386093feaaae77eacf752a777d14497ae58"
+  },
+  {
+    "name": "v0.1.0",
+    "sha": "c47da23c8bbb4f020840fa2673a37a4210a25e8d"
+  }
+]

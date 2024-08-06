@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "Emboss is a tool for generating code that reads and writes binary data structures.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/emboss/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/emboss/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/google/emboss/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/google/emboss/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/emboss/contents/README.md",
+      "html_url": "https://github.com/google/emboss/blob/master/README.md"
+    }
+  },
+  "updated_at": "2020-04-16T02:10:53Z",
+  "content_reports_enabled": false
+}

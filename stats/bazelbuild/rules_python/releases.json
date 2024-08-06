@@ -1,12 +1,192 @@
 [
   {
+    "name": "0.34.0",
+    "date": "2024-07-04T05:12:58Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "rules_python-0.34.0.tar.gz",
+        "count": 197940,
+        "size": 679286
+      }
+    ]
+  },
+  {
+    "name": "0.33.2",
+    "date": "2024-06-19T13:07:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_python-0.33.2.tar.gz",
+        "count": 198290,
+        "size": 694512
+      }
+    ]
+  },
+  {
+    "name": "0.33.1",
+    "date": "2024-06-12T21:54:36Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python-0.33.1.tar.gz",
+        "count": 131783,
+        "size": 693972
+      }
+    ]
+  },
+  {
+    "name": "0.33.0",
+    "date": "2024-06-12T01:41:29Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "rules_python-0.33.0.tar.gz",
+        "count": 87256,
+        "size": 693850
+      }
+    ]
+  },
+  {
+    "name": "0.32.2",
+    "date": "2024-05-14T02:33:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_python-0.32.2.tar.gz",
+        "count": 647014,
+        "size": 614853
+      }
+    ]
+  },
+  {
+    "name": "0.32.1",
+    "date": "2024-05-13T06:54:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_python-0.32.1.tar.gz",
+        "count": 20912,
+        "size": 614387
+      }
+    ]
+  },
+  {
+    "name": "0.32.0",
+    "date": "2024-05-13T02:14:59Z",
+    "mentions": 17,
+    "downloads": [
+      {
+        "name": "rules_python-0.32.0.tar.gz",
+        "count": 6517,
+        "size": 614358
+      }
+    ]
+  },
+  {
+    "name": "0.31.0",
+    "date": "2024-02-13T04:57:54Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python-0.31.0.tar.gz",
+        "count": 1729067,
+        "size": 552836
+      }
+    ]
+  },
+  {
+    "name": "0.30.0",
+    "date": "2024-02-12T23:23:46Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_python-0.30.0.tar.gz",
+        "count": 34321,
+        "size": 552355
+      }
+    ]
+  },
+  {
+    "name": "0.29.0",
+    "date": "2024-01-22T20:20:36Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_python-0.29.0.tar.gz",
+        "count": 862431,
+        "size": 536376
+      }
+    ]
+  },
+  {
+    "name": "0.28.0",
+    "date": "2024-01-08T23:43:35Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "rules_python-0.28.0.tar.gz",
+        "count": 502391,
+        "size": 570477
+      }
+    ]
+  },
+  {
+    "name": "0.22.1",
+    "date": "2023-12-19T21:38:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_python-0.22.1.tar.gz",
+        "count": 1532489,
+        "size": 316340
+      }
+    ]
+  },
+  {
+    "name": "0.27.1",
+    "date": "2023-12-05T00:08:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_python-0.27.1.tar.gz",
+        "count": 1042498,
+        "size": 466161
+      }
+    ]
+  },
+  {
+    "name": "0.27.0",
+    "date": "2023-11-17T20:58:02Z",
+    "mentions": 17,
+    "downloads": [
+      {
+        "name": "rules_python-0.27.0.tar.gz",
+        "count": 552396,
+        "size": 465760
+      }
+    ]
+  },
+  {
+    "name": "0.26.0",
+    "date": "2023-10-06T06:40:39Z",
+    "mentions": 14,
+    "downloads": [
+      {
+        "name": "rules_python-0.26.0.tar.gz",
+        "count": 2391820,
+        "size": 446100
+      }
+    ]
+  },
+  {
     "name": "0.25.0",
     "date": "2023-08-22T21:18:53Z",
     "mentions": 5,
     "downloads": [
       {
         "name": "rules_python-0.25.0.tar.gz",
-        "count": 87624,
+        "count": 1277950,
         "size": 370795
       }
     ]
@@ -18,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_python-0.24.0.tar.gz",
-        "count": 243134,
+        "count": 2106778,
         "size": 359348
       }
     ]
@@ -30,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_python-0.23.1.tar.gz",
-        "count": 170333,
+        "count": 1082181,
         "size": 324328
       }
     ]
@@ -42,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_python-0.23.0.tar.gz",
-        "count": 5009,
+        "count": 15148,
         "size": 324323
       }
     ]
@@ -54,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_python-0.22.0.tar.gz",
-        "count": 206222,
+        "count": 776627,
         "size": 315971
       }
     ]
@@ -66,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_python-0.21.0.tar.gz",
-        "count": 476676,
+        "count": 1030420,
         "size": 287649
       }
     ]
@@ -78,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_python-0.20.0.tar.gz",
-        "count": 434786,
+        "count": 1473199,
         "size": 285734
       }
     ]
@@ -90,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_python-0.19.0.tar.gz",
-        "count": 619588,
+        "count": 799401,
         "size": 282038
       }
     ]
@@ -102,7 +282,7 @@
     "downloads": [
       {
         "name": "rules_python-0.18.1.tar.gz",
-        "count": 237674,
+        "count": 993130,
         "size": 275264
       }
     ]
@@ -114,7 +294,7 @@
     "downloads": [
       {
         "name": "rules_python-0.18.0.tar.gz",
-        "count": 7943,
+        "count": 18355,
         "size": 275041
       }
     ]
@@ -148,113 +328,5 @@
     "date": "2022-11-29T17:58:31Z",
     "mentions": 6,
     "downloads": []
-  },
-  {
-    "name": "0.14.0",
-    "date": "2022-11-20T18:16:47Z",
-    "mentions": 15,
-    "downloads": []
-  },
-  {
-    "name": "0.13.0",
-    "date": "2022-09-25T10:33:56Z",
-    "mentions": 6,
-    "downloads": []
-  },
-  {
-    "name": "0.12.0",
-    "date": "2022-08-29T03:09:33Z",
-    "mentions": 4,
-    "downloads": []
-  },
-  {
-    "name": "0.11.0",
-    "date": "2022-08-15T09:44:11Z",
-    "mentions": 13,
-    "downloads": []
-  },
-  {
-    "name": "0.10.2",
-    "date": "2022-07-14T22:35:39Z",
-    "mentions": 2,
-    "downloads": []
-  },
-  {
-    "name": "0.10.1",
-    "date": "2022-07-13T04:31:48Z",
-    "mentions": 3,
-    "downloads": []
-  },
-  {
-    "name": "0.10.0",
-    "date": "2022-07-02T22:05:43Z",
-    "mentions": 10,
-    "downloads": []
-  },
-  {
-    "name": "0.9.0",
-    "date": "2022-06-12T00:15:56Z",
-    "mentions": 9,
-    "downloads": []
-  },
-  {
-    "name": "0.8.1",
-    "date": "2022-04-22T14:19:10Z",
-    "mentions": 5,
-    "downloads": []
-  },
-  {
-    "name": "0.8.0",
-    "date": "2022-03-20T20:43:49Z",
-    "mentions": 4,
-    "downloads": []
-  },
-  {
-    "name": "0.7.0",
-    "date": "2022-03-11T16:04:33Z",
-    "mentions": 8,
-    "downloads": []
-  },
-  {
-    "name": "0.6.0",
-    "date": "2022-01-05T00:06:20Z",
-    "mentions": 14,
-    "downloads": []
-  },
-  {
-    "name": "0.5.0",
-    "date": "2021-10-26T02:28:10Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "rules_python-0.5.0.tar.gz",
-        "count": 1011266,
-        "size": 2512952
-      }
-    ]
-  },
-  {
-    "name": "0.4.0",
-    "date": "2021-09-12T22:58:33Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_python-0.4.0.tar.gz",
-        "count": 882739,
-        "size": 2509830
-      }
-    ]
-  },
-  {
-    "name": "0.3.0",
-    "date": "2021-06-23T05:36:15Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_python-0.3.0.tar.gz",
-        "count": 1317011,
-        "size": 2507489
-      }
-    ]
   }
 ]

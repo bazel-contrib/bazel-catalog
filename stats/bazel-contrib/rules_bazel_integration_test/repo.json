@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazel-contrib/rules_bazel_integration_test/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazel-contrib/rules_bazel_integration_test/deployments",
   "created_at": "2021-11-11T15:52:31Z",
-  "updated_at": "2023-09-15T17:27:22Z",
-  "pushed_at": "2023-09-14T00:50:20Z",
+  "updated_at": "2024-08-05T15:43:18Z",
+  "pushed_at": "2024-08-05T15:43:16Z",
   "git_url": "git://github.com/bazel-contrib/rules_bazel_integration_test.git",
   "ssh_url": "git@github.com:bazel-contrib/rules_bazel_integration_test.git",
   "clone_url": "https://github.com/bazel-contrib/rules_bazel_integration_test.git",
   "svn_url": "https://github.com/bazel-contrib/rules_bazel_integration_test",
   "homepage": null,
-  "size": 315,
-  "stargazers_count": 28,
-  "watchers_count": 28,
+  "size": 581,
+  "stargazers_count": 40,
+  "watchers_count": 40,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 6,
+  "forks_count": 8,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 16,
+  "open_issues_count": 20,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 6,
-  "open_issues": 16,
-  "watchers": 28,
+  "forks": 8,
+  "open_issues": 20,
+  "watchers": 40,
   "default_branch": "main",
   "permissions": {
     "admin": true,
@@ -110,6 +110,7 @@
     "triage": true,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazel-contrib",
     "id": 91752542,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 6,
-  "subscribers_count": 8
+  "network_count": 8,
+  "subscribers_count": 9
 }

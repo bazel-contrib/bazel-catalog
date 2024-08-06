@@ -1,0 +1,433 @@
+[
+  {
+    "name": "v4.3.5",
+    "date": "2023-10-09T11:17:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 162,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 246,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.3.5.tar.gz",
+        "count": 238455,
+        "size": 2530237
+      },
+      {
+        "name": "zeromq-4.3.5.zip",
+        "count": 8137,
+        "size": 3196186
+      }
+    ]
+  },
+  {
+    "name": "v4.3.4",
+    "date": "2021-01-17T13:23:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzmq-mingw64-4_3_4.zip",
+        "count": 3583,
+        "size": 8816174
+      },
+      {
+        "name": "libzmq-v100-4_3_4.zip",
+        "count": 1033,
+        "size": 2210613
+      },
+      {
+        "name": "libzmq-v120-4_3_4.zip",
+        "count": 671,
+        "size": 2183693
+      },
+      {
+        "name": "libzmq-v120-epoll-4_3_4.zip",
+        "count": 280,
+        "size": 2183720
+      },
+      {
+        "name": "libzmq-v120-gd-4_3_4.zip",
+        "count": 244,
+        "size": 43483734
+      },
+      {
+        "name": "libzmq-v120-gd-x64-4_3_4.zip",
+        "count": 510,
+        "size": 44828932
+      },
+      {
+        "name": "libzmq-v120-nocurve-4_3_4.zip",
+        "count": 185,
+        "size": 1755808
+      },
+      {
+        "name": "libzmq-v120-x64-4_3_4.zip",
+        "count": 886,
+        "size": 2638304
+      },
+      {
+        "name": "libzmq-v140-4_3_4.zip",
+        "count": 2275,
+        "size": 1907318
+      },
+      {
+        "name": "libzmq-v140-x64-4_3_4.zip",
+        "count": 3033,
+        "size": 2349200
+      },
+      {
+        "name": "libzmq-v141-4_3_4.zip",
+        "count": 3428,
+        "size": 1897885
+      },
+      {
+        "name": "libzmq-v141-gd-uwp-4_3_4.zip",
+        "count": 208,
+        "size": 2918981
+      },
+      {
+        "name": "libzmq-v141-uwp-4_3_4.zip",
+        "count": 231,
+        "size": 888193
+      },
+      {
+        "name": "libzmq-v141-x64-4_3_4.zip",
+        "count": 4072,
+        "size": 2366843
+      },
+      {
+        "name": "libzmq-v142-x64-4_3_4.zip",
+        "count": 6906,
+        "size": 2607204
+      },
+      {
+        "name": "libzmq-v90-4_3_4.zip",
+        "count": 414,
+        "size": 2145418
+      },
+      {
+        "name": "MD5SUMS",
+        "count": 699,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 532,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.3.4.tar.gz",
+        "count": 1050874,
+        "size": 2486520
+      },
+      {
+        "name": "zeromq-4.3.4.zip",
+        "count": 29735,
+        "size": 3381187
+      }
+    ]
+  },
+  {
+    "name": "v4.3.3",
+    "date": "2020-09-07T16:26:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 160,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 124,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.3.3.tar.gz",
+        "count": 374967,
+        "size": 2117050
+      },
+      {
+        "name": "zeromq-4.3.3.zip",
+        "count": 6125,
+        "size": 2756371
+      }
+    ]
+  },
+  {
+    "name": "v4.3.2",
+    "date": "2019-07-08T16:22:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 297,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 258,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.3.2.tar.gz",
+        "count": 567573,
+        "size": 1697442
+      },
+      {
+        "name": "zeromq-4.3.2.zip",
+        "count": 21436,
+        "size": 2494751
+      }
+    ]
+  },
+  {
+    "name": "v4.3.1",
+    "date": "2019-01-12T16:21:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 253,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 234,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.3.1.tar.gz",
+        "count": 706264,
+        "size": 1490122
+      },
+      {
+        "name": "zeromq-4.3.1.zip",
+        "count": 5859,
+        "size": 2270093
+      }
+    ]
+  },
+  {
+    "name": "v4.3.0",
+    "date": "2018-11-28T20:16:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 134,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 122,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.3.0.tar.gz",
+        "count": 48151,
+        "size": 1487771
+      },
+      {
+        "name": "zeromq-4.3.0.zip",
+        "count": 1280,
+        "size": 2265657
+      }
+    ]
+  },
+  {
+    "name": "v4.2.5",
+    "date": "2018-03-23T19:37:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 274,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 378,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.2.5.tar.gz",
+        "count": 282600,
+        "size": 1409447
+      },
+      {
+        "name": "zeromq-4.2.5.zip",
+        "count": 7238,
+        "size": 2157611
+      }
+    ]
+  },
+  {
+    "name": "v4.2.4",
+    "date": "2018-03-21T16:03:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 111,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 116,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.2.4.tar.gz",
+        "count": 1572,
+        "size": 1401240
+      },
+      {
+        "name": "zeromq-4.2.4.zip",
+        "count": 308,
+        "size": 2149628
+      }
+    ]
+  },
+  {
+    "name": "v4.2.3",
+    "date": "2017-12-13T13:41:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 227,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 175,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.2.3.tar.gz",
+        "count": 137654,
+        "size": 1326780
+      },
+      {
+        "name": "zeromq-4.2.3.zip",
+        "count": 11794,
+        "size": 2071279
+      }
+    ]
+  },
+  {
+    "name": "v4.2.2",
+    "date": "2017-02-18T18:09:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 226,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 225,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.2.2.tar.gz",
+        "count": 2323219,
+        "size": 1236437
+      },
+      {
+        "name": "zeromq-4.2.2.zip",
+        "count": 6834,
+        "size": 1978326
+      }
+    ]
+  },
+  {
+    "name": "v4.2.1",
+    "date": "2016-12-31T15:30:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 172,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 171,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.2.1.tar.gz",
+        "count": 123660,
+        "size": 1243428
+      },
+      {
+        "name": "zeromq-4.2.1.zip",
+        "count": 11753,
+        "size": 1985488
+      }
+    ]
+  },
+  {
+    "name": "v4.2.0",
+    "date": "2016-11-04T10:33:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 192,
+        "size": 105
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 145,
+        "size": 121
+      },
+      {
+        "name": "zeromq-4.2.0.tar.gz",
+        "count": 57763,
+        "size": 1046254
+      },
+      {
+        "name": "zeromq-4.2.0.zip",
+        "count": 5366,
+        "size": 1523347
+      }
+    ]
+  },
+  {
+    "name": "v4.2.0-rc1",
+    "date": "2016-11-01T15:31:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "MD5SUMS",
+        "count": 79,
+        "size": 113
+      },
+      {
+        "name": "SHA1SUMS",
+        "count": 81,
+        "size": 129
+      },
+      {
+        "name": "zeromq-4.2.0-rc1.tar.gz",
+        "count": 178,
+        "size": 1040639
+      },
+      {
+        "name": "zeromq-4.2.0-rc1.zip",
+        "count": 166,
+        "size": 1517270
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "health_percentage": 50,
+  "description": null,
+  "documentation": "https://github.com/raspberrypi/pico-sdk/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/raspberrypi/pico-sdk/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/raspberrypi/pico-sdk/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/raspberrypi/pico-sdk/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/raspberrypi/pico-sdk/blob/master/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU=",
+      "html_url": "https://github.com/raspberrypi/pico-sdk/blob/master/LICENSE.TXT"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/raspberrypi/pico-sdk/contents/README.md",
+      "html_url": "https://github.com/raspberrypi/pico-sdk/blob/master/README.md"
+    }
+  },
+  "updated_at": "2021-03-22T14:09:11Z",
+  "content_reports_enabled": false
+}

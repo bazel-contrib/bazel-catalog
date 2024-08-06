@@ -1,0 +1,884 @@
+[
+  {
+    "name": "releases/mcap-cli/v0.0.47",
+    "date": "2024-07-09T12:59:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 792,
+        "size": 19462408
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 170,
+        "size": 18340896
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 8,
+        "size": 18665864
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 18,
+        "size": 18019090
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 58,
+        "size": 19047936
+      }
+    ]
+  },
+  {
+    "name": "releases/rust/v0.9.1",
+    "date": "2024-06-24T21:29:12Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.46",
+    "date": "2024-05-20T23:37:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1472,
+        "size": 19462408
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 156,
+        "size": 18344992
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 7,
+        "size": 18665920
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 19,
+        "size": 18019154
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 102,
+        "size": 19045376
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.45",
+    "date": "2024-05-14T23:45:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 544,
+        "size": 19458312
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 29,
+        "size": 18340896
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 2,
+        "size": 18665920
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 6,
+        "size": 18019154
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 15,
+        "size": 19044864
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.44",
+    "date": "2024-04-24T20:33:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1072,
+        "size": 19450120
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 286,
+        "size": 18336800
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 11,
+        "size": 18649528
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 9,
+        "size": 18019138
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 68,
+        "size": 19037696
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.43",
+    "date": "2024-04-04T20:55:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 881,
+        "size": 19441896
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 90,
+        "size": 18316288
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 13,
+        "size": 18928016
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 11,
+        "size": 18202962
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 47,
+        "size": 19026432
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.42",
+    "date": "2024-02-14T02:34:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 3985,
+        "size": 19197992
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 286,
+        "size": 17821984
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 19,
+        "size": 20406992
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 29,
+        "size": 19642514
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 96,
+        "size": 18619904
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.41",
+    "date": "2024-02-13T23:15:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 9,
+        "size": 19197992
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 2,
+        "size": 17826080
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 2,
+        "size": 20406944
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 2,
+        "size": 19642610
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 4,
+        "size": 18619904
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.40",
+    "date": "2024-02-01T17:57:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 197,
+        "size": 19197864
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 39,
+        "size": 17821856
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 10,
+        "size": 20406992
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 12,
+        "size": 19642610
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 16,
+        "size": 18618368
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.39",
+    "date": "2024-01-23T16:27:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1909,
+        "size": 19197864
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 24,
+        "size": 17825952
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 5,
+        "size": 20406968
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 6,
+        "size": 19642562
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 24,
+        "size": 18617344
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.38",
+    "date": "2023-11-08T21:53:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1275,
+        "size": 19189672
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 242,
+        "size": 17817760
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 12,
+        "size": 20390248
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 37,
+        "size": 19609202
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 112,
+        "size": 18611712
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.37",
+    "date": "2023-11-03T12:48:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 134,
+        "size": 19189672
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 9,
+        "size": 17817760
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 4,
+        "size": 20390248
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 7,
+        "size": 19609154
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 9,
+        "size": 18611712
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.36",
+    "date": "2023-11-02T18:48:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 13,
+        "size": 19176712
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 4,
+        "size": 17804800
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 3,
+        "size": 20371984
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 3,
+        "size": 19590834
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 4,
+        "size": 18597888
+      }
+    ]
+  },
+  {
+    "name": "releases/rust/v0.9.0",
+    "date": "2023-11-01T13:36:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.35",
+    "date": "2023-09-20T22:03:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 38180,
+        "size": 19168584
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 478,
+        "size": 17796640
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 5,
+        "size": 20371008
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 19,
+        "size": 19589794
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 48,
+        "size": 18589184
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.34",
+    "date": "2023-08-25T01:48:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 38957,
+        "size": 18764080
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 79,
+        "size": 17703392
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 8,
+        "size": 19859880
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 9,
+        "size": 19234754
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 65,
+        "size": 17934848
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.33",
+    "date": "2023-08-24T17:31:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 10,
+        "size": 18764080
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 4,
+        "size": 17703392
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 5,
+        "size": 19859880
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 4,
+        "size": 19234754
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 6,
+        "size": 17934336
+      }
+    ]
+  },
+  {
+    "name": "releases/rust/v0.7.1",
+    "date": "2023-07-28T17:55:25Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.32",
+    "date": "2023-07-07T01:17:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 13036,
+        "size": 18784568
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 527,
+        "size": 17707488
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 9,
+        "size": 19892512
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 16,
+        "size": 19234690
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 40,
+        "size": 17954816
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.31",
+    "date": "2023-05-15T21:31:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 2231,
+        "size": 18768144
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 203,
+        "size": 17695168
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 4,
+        "size": 19875480
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 7,
+        "size": 19217506
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 37,
+        "size": 17942528
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.30",
+    "date": "2023-03-30T22:49:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1773,
+        "size": 18584272
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 385,
+        "size": 17515360
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 9,
+        "size": 19682856
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 8,
+        "size": 19039874
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 34,
+        "size": 17750016
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.29",
+    "date": "2023-03-09T01:37:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 2083,
+        "size": 18584272
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 320,
+        "size": 17515360
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 8,
+        "size": 19682632
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 11,
+        "size": 19023122
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 25,
+        "size": 17746944
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.28",
+    "date": "2023-03-03T02:12:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 164,
+        "size": 18584272
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 16,
+        "size": 17511264
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 7,
+        "size": 19682632
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 8,
+        "size": 19023122
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 13,
+        "size": 17746944
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.27",
+    "date": "2023-02-28T22:47:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 53,
+        "size": 18584272
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 5,
+        "size": 17511264
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 4,
+        "size": 19682560
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 4,
+        "size": 19023058
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 9,
+        "size": 17746944
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.26",
+    "date": "2023-02-23T18:43:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 6466,
+        "size": 18584272
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 7,
+        "size": 17511264
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 6,
+        "size": 19682624
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 6,
+        "size": 19023122
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 9,
+        "size": 17746944
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.25",
+    "date": "2023-02-16T22:42:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 163,
+        "size": 18580176
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 7,
+        "size": 17511264
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 5,
+        "size": 19666040
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 5,
+        "size": 19022914
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 15,
+        "size": 17744384
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.24",
+    "date": "2022-11-17T00:04:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1397,
+        "size": 18445208
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 72,
+        "size": 17386664
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 13,
+        "size": 19630416
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 14,
+        "size": 18986930
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 34,
+        "size": 17697792
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.23",
+    "date": "2022-11-02T02:53:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 1801,
+        "size": 18441144
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 22,
+        "size": 17390792
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 5,
+        "size": 19613656
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 9,
+        "size": 18986594
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 12,
+        "size": 17692160
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.22",
+    "date": "2022-10-16T23:50:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 142,
+        "size": 18441112
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 9,
+        "size": 17378472
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 7,
+        "size": 19614008
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 5,
+        "size": 19060962
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 13,
+        "size": 17692672
+      }
+    ]
+  },
+  {
+    "name": "releases/mcap-cli/v0.0.21",
+    "date": "2022-10-04T23:35:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "mcap-linux-amd64",
+        "count": 110,
+        "size": 18444536
+      },
+      {
+        "name": "mcap-linux-arm64",
+        "count": 6,
+        "size": 17381928
+      },
+      {
+        "name": "mcap-macos-amd64",
+        "count": 6,
+        "size": 19630248
+      },
+      {
+        "name": "mcap-macos-arm64",
+        "count": 7,
+        "size": 19077346
+      },
+      {
+        "name": "mcap-windows-amd64.exe",
+        "count": 7,
+        "size": 17698816
+      }
+    ]
+  }
+]

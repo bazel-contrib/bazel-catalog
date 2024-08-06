@@ -1,0 +1,43 @@
+{
+  "health_percentage": 100,
+  "description": "FlatBuffers: Memory Efficient Serialization Library",
+  "documentation": "https://flatbuffers.dev/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/flatbuffers/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/flatbuffers/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/google/flatbuffers/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/google/flatbuffers/contents/.github/ISSUE_TEMPLATE.md",
+      "html_url": "https://github.com/google/flatbuffers/blob/master/.github/ISSUE_TEMPLATE.md"
+    },
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/google/flatbuffers/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/google/flatbuffers/blob/master/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/google/flatbuffers/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/flatbuffers/contents/README.md",
+      "html_url": "https://github.com/google/flatbuffers/blob/master/README.md"
+    }
+  },
+  "updated_at": "2023-04-13T20:43:11Z",
+  "content_reports_enabled": true
+}

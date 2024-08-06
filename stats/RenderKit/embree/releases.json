@@ -1,0 +1,1046 @@
+[
+  {
+    "name": "v4.3.3",
+    "date": "2024-07-22T12:32:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.3.3.sycl.x64.windows.zip",
+        "count": 59,
+        "size": 129555945
+      },
+      {
+        "name": "embree-4.3.3.sycl.x86_64.linux.tar.gz",
+        "count": 74,
+        "size": 128345190
+      },
+      {
+        "name": "embree-4.3.3.x64.windows.zip",
+        "count": 264,
+        "size": 76444177
+      },
+      {
+        "name": "embree-4.3.3.x86_64.linux.tar.gz",
+        "count": 278,
+        "size": 74835496
+      },
+      {
+        "name": "embree-4.3.3.x86_64.macosx.zip",
+        "count": 64,
+        "size": 74278178
+      },
+      {
+        "name": "embree-4.3.3.arm64.macosx.zip",
+        "count": 40,
+        "size": 58617373
+      },
+      {
+        "name": "embree-4.3.3-testing.tar.gz",
+        "count": 8,
+        "size": 54222082
+      }
+    ]
+  },
+  {
+    "name": "v4.3.2",
+    "date": "2024-06-14T09:08:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.3.2-testing.tar.gz",
+        "count": 16,
+        "size": 54221973
+      },
+      {
+        "name": "embree-4.3.2.sycl.x64.windows.zip",
+        "count": 152,
+        "size": 128944679
+      },
+      {
+        "name": "embree-4.3.2.sycl.x86_64.linux.tar.gz",
+        "count": 173,
+        "size": 128353921
+      },
+      {
+        "name": "embree-4.3.2.x64.windows.zip",
+        "count": 604,
+        "size": 76440327
+      },
+      {
+        "name": "embree-4.3.2.x86_64.linux.tar.gz",
+        "count": 725,
+        "size": 74831573
+      },
+      {
+        "name": "embree-4.3.2.x86_64.macosx.zip",
+        "count": 134,
+        "size": 74271235
+      },
+      {
+        "name": "embree-4.3.2.arm64.macosx.zip",
+        "count": 112,
+        "size": 58610027
+      }
+    ]
+  },
+  {
+    "name": "v4.3.1",
+    "date": "2024-02-12T13:05:08Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.3.1.x86_64.macosx.zip",
+        "count": 588,
+        "size": 74640375
+      },
+      {
+        "name": "embree-4.3.1.x86_64.linux.tar.gz",
+        "count": 3561,
+        "size": 74883784
+      },
+      {
+        "name": "embree-4.3.1.sycl.x64.windows.zip",
+        "count": 500,
+        "size": 127379455
+      },
+      {
+        "name": "embree-4.3.1.x64.windows.zip",
+        "count": 2444,
+        "size": 76494018
+      },
+      {
+        "name": "embree-4.3.1.arm64.macosx.zip",
+        "count": 459,
+        "size": 58976781
+      },
+      {
+        "name": "embree-4.3.1.sycl.x86_64.linux.tar.gz",
+        "count": 813,
+        "size": 126253913
+      },
+      {
+        "name": "embree-4.3.1-testing.tar.gz",
+        "count": 49,
+        "size": 54222043
+      }
+    ]
+  },
+  {
+    "name": "v4.3.0",
+    "date": "2023-09-27T19:11:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.3.0.x64.windows.zip",
+        "count": 3265,
+        "size": 76997378
+      },
+      {
+        "name": "embree-4.3.0.x86_64.macosx.zip",
+        "count": 386,
+        "size": 75029964
+      },
+      {
+        "name": "embree-4.3.0.sycl.x64.windows.zip",
+        "count": 1101,
+        "size": 126442508
+      },
+      {
+        "name": "embree-4.3.0.sycl.x86_64.linux.tar.gz",
+        "count": 2252,
+        "size": 124556213
+      },
+      {
+        "name": "embree-4.3.0-testing.tar.gz",
+        "count": 69,
+        "size": 54221175
+      },
+      {
+        "name": "embree-4.3.0.x86_64.linux.tar.gz",
+        "count": 4521,
+        "size": 74606275
+      }
+    ]
+  },
+  {
+    "name": "v4.2.0",
+    "date": "2023-08-01T05:35:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.2.0.sycl.x64.windows.zip",
+        "count": 128,
+        "size": 70057581
+      },
+      {
+        "name": "embree-4.2.0.x64.windows.zip",
+        "count": 863,
+        "size": 55030916
+      },
+      {
+        "name": "embree-4.2.0.x86_64.macosx.zip",
+        "count": 214,
+        "size": 70120884
+      },
+      {
+        "name": "embree-4.2.0.sycl.x86_64.linux.tar.gz",
+        "count": 496,
+        "size": 123925362
+      },
+      {
+        "name": "embree-4.2.0.x86_64.linux.tar.gz",
+        "count": 1287,
+        "size": 81431683
+      },
+      {
+        "name": "embree-4.2.0-testing.tar.gz",
+        "count": 47,
+        "size": 50972877
+      }
+    ]
+  },
+  {
+    "name": "v4.1.0",
+    "date": "2023-05-11T17:08:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.1.0.x64.windows.zip",
+        "count": 26179,
+        "size": 55282075
+      },
+      {
+        "name": "embree-4.1.0.x86_64.linux.tar.gz",
+        "count": 21797,
+        "size": 81961634
+      },
+      {
+        "name": "embree-4.1.0.x86_64.macosx.zip",
+        "count": 648,
+        "size": 64006308
+      },
+      {
+        "name": "embree-4.1.0-beta.sycl.x64.windows.zip",
+        "count": 177,
+        "size": 70013626
+      },
+      {
+        "name": "embree-4.1.0-beta.sycl.x86_64.linux.tar.gz",
+        "count": 1061,
+        "size": 122813367
+      }
+    ]
+  },
+  {
+    "name": "v4.0.1",
+    "date": "2023-03-09T20:20:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.0.1.x86_64.macosx.zip",
+        "count": 372,
+        "size": 143393100
+      },
+      {
+        "name": "embree-4.0.1-beta.sycl.x64.windows.zip",
+        "count": 133,
+        "size": 72114464
+      },
+      {
+        "name": "embree-4.0.1.x86_64.linux.tar.gz",
+        "count": 968,
+        "size": 81888417
+      },
+      {
+        "name": "embree-4.0.1.x64.windows.zip",
+        "count": 854,
+        "size": 57209186
+      },
+      {
+        "name": "embree-4.0.1-beta.sycl.x86_64.linux.tar.gz",
+        "count": 80,
+        "size": 123596613
+      }
+    ]
+  },
+  {
+    "name": "v4.0.0",
+    "date": "2023-02-08T07:32:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-4.0.0.x64.windows.zip",
+        "count": 10711,
+        "size": 57897004
+      },
+      {
+        "name": "embree-4.0.0.x86_64.macosx.zip",
+        "count": 203,
+        "size": 143021722
+      },
+      {
+        "name": "embree-4.0.0-beta.sycl.x64.windows.zip",
+        "count": 81,
+        "size": 73068158
+      },
+      {
+        "name": "embree-4.0.0-beta.sycl.x86_64.linux.tar.gz",
+        "count": 194,
+        "size": 123473747
+      },
+      {
+        "name": "embree-4.0.0.x86_64.linux.tar.gz",
+        "count": 12610,
+        "size": 86861978
+      }
+    ]
+  },
+  {
+    "name": "v3.13.5",
+    "date": "2022-09-14T05:14:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.13.5.x64.vc14.windows.zip",
+        "count": 5605,
+        "size": 58338351
+      },
+      {
+        "name": "embree-3.13.5.x86_64.linux.tar.gz",
+        "count": 7698,
+        "size": 98968575
+      },
+      {
+        "name": "embree-3.13.5.x86_64.macosx.zip",
+        "count": 2149,
+        "size": 130047854
+      }
+    ]
+  },
+  {
+    "name": "v3.13.4",
+    "date": "2022-06-22T09:49:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.13.4.x64.vc14.windows.zip",
+        "count": 1526,
+        "size": 58311473
+      },
+      {
+        "name": "embree-3.13.4.x86_64.linux.tar.gz",
+        "count": 1178,
+        "size": 98960736
+      },
+      {
+        "name": "embree-3.13.4.x86_64.macosx.zip",
+        "count": 409,
+        "size": 141834204
+      }
+    ]
+  },
+  {
+    "name": "v3.13.3",
+    "date": "2022-02-11T09:35:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.13.3.x64.vc14.windows.zip",
+        "count": 4156,
+        "size": 58073134
+      },
+      {
+        "name": "embree-3.13.3.x86_64.linux.tar.gz",
+        "count": 18020,
+        "size": 98928147
+      },
+      {
+        "name": "embree-3.13.3.x86_64.macosx.zip",
+        "count": 1765,
+        "size": 141798370
+      }
+    ]
+  },
+  {
+    "name": "v3.13.2",
+    "date": "2021-10-29T09:45:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.13.2.x86_64.linux.tar.gz",
+        "count": 5495,
+        "size": 99009684
+      },
+      {
+        "name": "embree-3.13.2.x86_64.macosx.zip",
+        "count": 1351,
+        "size": 130012726
+      },
+      {
+        "name": "embree-3.13.2.x86_64.pkg",
+        "count": 112,
+        "size": 52567201
+      },
+      {
+        "name": "embree-3.13.2.x64.vc14.msi",
+        "count": 729,
+        "size": 58310656
+      },
+      {
+        "name": "embree-3.13.2.x64.vc14.windows.zip",
+        "count": 2048,
+        "size": 58297179
+      }
+    ]
+  },
+  {
+    "name": "v3.13.1",
+    "date": "2021-08-13T14:27:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.13.1.x64.vc14.msi",
+        "count": 572,
+        "size": 57782272
+      },
+      {
+        "name": "embree-3.13.1.x64.vc14.windows.zip",
+        "count": 2005,
+        "size": 57810326
+      },
+      {
+        "name": "embree-3.13.1.x86_64.linux.tar.gz",
+        "count": 7310,
+        "size": 96191899
+      },
+      {
+        "name": "embree-3.13.1.x86_64.macosx.zip",
+        "count": 1469,
+        "size": 130342627
+      },
+      {
+        "name": "embree-3.13.1.x86_64.pkg",
+        "count": 105,
+        "size": 52895204
+      }
+    ]
+  },
+  {
+    "name": "v3.13.0",
+    "date": "2021-05-08T17:16:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.13.0.x86_64.pkg",
+        "count": 83,
+        "size": 52932366
+      },
+      {
+        "name": "embree-3.13.0.x64.vc14.windows.zip",
+        "count": 2217,
+        "size": 57789712
+      },
+      {
+        "name": "embree-3.13.0.x86_64.macosx.zip",
+        "count": 3287,
+        "size": 123527096
+      },
+      {
+        "name": "embree-3.13.0.x86_64.linux.tar.gz",
+        "count": 3960,
+        "size": 96162228
+      },
+      {
+        "name": "embree-3.13.0.x64.vc14.msi",
+        "count": 673,
+        "size": 57761792
+      }
+    ]
+  },
+  {
+    "name": "v3.12.2",
+    "date": "2021-01-25T08:26:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.12.2.x64.vc14.msi",
+        "count": 907,
+        "size": 57335808
+      },
+      {
+        "name": "embree-3.12.2.x64.vc14.windows.zip",
+        "count": 2604,
+        "size": 57179282
+      },
+      {
+        "name": "embree-3.12.2.x86_64.linux.tar.gz",
+        "count": 5616,
+        "size": 95365459
+      },
+      {
+        "name": "embree-3.12.2.x86_64.macosx.zip",
+        "count": 1369,
+        "size": 122592700
+      },
+      {
+        "name": "embree-3.12.2.x86_64.pkg",
+        "count": 142,
+        "size": 122095406
+      }
+    ]
+  },
+  {
+    "name": "v3.12.1",
+    "date": "2020-10-14T07:11:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.12.1.sha256sum",
+        "count": 20,
+        "size": 483
+      },
+      {
+        "name": "embree-3.12.1.x86_64.pkg",
+        "count": 112,
+        "size": 122124170
+      },
+      {
+        "name": "embree-3.12.1.x64.vc14.msi",
+        "count": 790,
+        "size": 57458688
+      },
+      {
+        "name": "embree-3.12.1.x64.vc14.windows.zip",
+        "count": 2951,
+        "size": 57298118
+      },
+      {
+        "name": "embree-3.12.1.x86_64.macosx.zip",
+        "count": 912,
+        "size": 122375693
+      },
+      {
+        "name": "embree-3.12.1.x86_64.linux.tar.gz",
+        "count": 1605,
+        "size": 95241868
+      }
+    ]
+  },
+  {
+    "name": "v3.12.0",
+    "date": "2020-09-23T06:43:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.12.0.sha256sum",
+        "count": 18,
+        "size": 483
+      },
+      {
+        "name": "embree-3.12.0.x86_64.pkg",
+        "count": 151,
+        "size": 122083967
+      },
+      {
+        "name": "embree-3.12.0.x86_64.macosx.zip",
+        "count": 913,
+        "size": 122336544
+      },
+      {
+        "name": "embree-3.12.0.x64.vc14.msi",
+        "count": 361,
+        "size": 57454592
+      },
+      {
+        "name": "embree-3.12.0.x64.vc14.windows.zip",
+        "count": 1266,
+        "size": 57296200
+      },
+      {
+        "name": "embree-3.12.0.x86_64.linux.tar.gz",
+        "count": 2800,
+        "size": 95209715
+      }
+    ]
+  },
+  {
+    "name": "v3.11.0",
+    "date": "2020-06-25T06:35:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.11.0.x86_64.pkg",
+        "count": 140,
+        "size": 114034294
+      },
+      {
+        "name": "embree-3.11.0.x86_64.macosx.zip",
+        "count": 1048,
+        "size": 114261314
+      },
+      {
+        "name": "embree-3.11.0.x64.vc14.msi",
+        "count": 801,
+        "size": 49389568
+      },
+      {
+        "name": "embree-3.11.0.x64.vc14.windows.zip",
+        "count": 1646,
+        "size": 49233784
+      },
+      {
+        "name": "embree-3.11.0.x86_64.linux.tar.gz",
+        "count": 3312,
+        "size": 87054981
+      }
+    ]
+  },
+  {
+    "name": "v3.10.0",
+    "date": "2020-05-14T08:49:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.10.0.x64.vc14.msi",
+        "count": 421,
+        "size": 56487936
+      },
+      {
+        "name": "embree-3.10.0.x86_64.pkg",
+        "count": 85,
+        "size": 116479254
+      },
+      {
+        "name": "embree-3.10.0.x64.vc14.windows.zip",
+        "count": 955,
+        "size": 56331885
+      },
+      {
+        "name": "embree-3.10.0.x86_64.macosx.zip",
+        "count": 579,
+        "size": 116745007
+      },
+      {
+        "name": "embree-3.10.0.x64.vc12.windows.zip",
+        "count": 110,
+        "size": 60311453
+      },
+      {
+        "name": "embree-3.10.0.x86_64.linux.tar.gz",
+        "count": 1745,
+        "size": 99445782
+      }
+    ]
+  },
+  {
+    "name": "v3.9.0",
+    "date": "2020-04-07T05:46:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.9.0.x86_64.pkg",
+        "count": 103,
+        "size": 115685376
+      },
+      {
+        "name": "embree-3.9.0.x64.vc14.msi",
+        "count": 314,
+        "size": 56385536
+      },
+      {
+        "name": "embree-3.9.0.x86_64.macosx.zip",
+        "count": 1103,
+        "size": 116386421
+      },
+      {
+        "name": "embree-3.9.0.x86_64.linux.tar.gz",
+        "count": 2504,
+        "size": 98644141
+      },
+      {
+        "name": "embree-3.9.0.x64.vc12.windows.zip",
+        "count": 88,
+        "size": 60366390
+      },
+      {
+        "name": "embree-3.9.0.x64.vc14.windows.zip",
+        "count": 758,
+        "size": 56223602
+      }
+    ]
+  },
+  {
+    "name": "v3.8.0",
+    "date": "2020-04-07T06:30:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.8.0.x86_64.pkg",
+        "count": 142,
+        "size": 105730558
+      },
+      {
+        "name": "embree-3.8.0.x86_64.macosx.zip",
+        "count": 5551,
+        "size": 106469410
+      },
+      {
+        "name": "embree-3.8.0.x64.vc14.msi",
+        "count": 608,
+        "size": 46215168
+      },
+      {
+        "name": "embree-3.8.0.x64.vc14.windows.zip",
+        "count": 1204,
+        "size": 46066567
+      },
+      {
+        "name": "embree-3.8.0.x64.vc12.windows.zip",
+        "count": 89,
+        "size": 49974254
+      },
+      {
+        "name": "embree-3.8.0.x86_64.linux.tar.gz",
+        "count": 7139,
+        "size": 88419803
+      },
+      {
+        "name": "embree-3.8.0.x86_64.rpm.tar.gz",
+        "count": 241,
+        "size": 67461227
+      }
+    ]
+  },
+  {
+    "name": "v3.7.0",
+    "date": "2020-01-10T09:56:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.7.0.x86_64.pkg",
+        "count": 52,
+        "size": 101519697
+      },
+      {
+        "name": "embree-3.7.0.x86_64.macosx.zip",
+        "count": 4252,
+        "size": 101879648
+      },
+      {
+        "name": "embree-3.7.0.x64.vc12.windows.zip",
+        "count": 92,
+        "size": 48887644
+      },
+      {
+        "name": "embree-3.7.0.x64.vc14.msi",
+        "count": 269,
+        "size": 45146112
+      },
+      {
+        "name": "embree-3.7.0.x64.vc14.windows.zip",
+        "count": 4408,
+        "size": 44988787
+      },
+      {
+        "name": "embree-3.7.0.x86_64.linux.tar.gz",
+        "count": 7859,
+        "size": 83956602
+      },
+      {
+        "name": "embree-3.7.0.x86_64.rpm.tar.gz",
+        "count": 83,
+        "size": 64785725
+      }
+    ]
+  },
+  {
+    "name": "v3.6.1",
+    "date": "2019-09-11T09:50:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.6.1.x64.vc12.msi",
+        "count": 1275,
+        "size": 41213952
+      },
+      {
+        "name": "embree-3.6.1.x64.vc14.windows.zip",
+        "count": 2328,
+        "size": 38748839
+      },
+      {
+        "name": "embree-3.6.1.x86_64.linux.tar.gz",
+        "count": 7905,
+        "size": 81776509
+      },
+      {
+        "name": "embree-3.6.1.x86_64.macosx.tar.gz",
+        "count": 2982,
+        "size": 92811154
+      },
+      {
+        "name": "embree-3.6.1.x86_64.pkg",
+        "count": 177,
+        "size": 92607511
+      },
+      {
+        "name": "embree-3.6.1.x86_64.rpm.tar.gz",
+        "count": 383,
+        "size": 60112037
+      }
+    ]
+  },
+  {
+    "name": "v3.6.0",
+    "date": "2019-08-20T13:33:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.6.0.x64.vc12.windows.zip",
+        "count": 42,
+        "size": 40986375
+      },
+      {
+        "name": "embree-3.6.0.x86_64.linux.tar.gz",
+        "count": 346,
+        "size": 81618976
+      },
+      {
+        "name": "embree-3.6.0.x86_64.rpm.tar.gz",
+        "count": 51,
+        "size": 59960159
+      },
+      {
+        "name": "embree-3.6.0.x64.vc14.windows.zip",
+        "count": 81,
+        "size": 38654186
+      },
+      {
+        "name": "embree-3.6.0.x64.vc12.msi",
+        "count": 53,
+        "size": 41119744
+      },
+      {
+        "name": "embree-3.6.0.x86_64.macosx.tar.gz",
+        "count": 22,
+        "size": 81539310
+      },
+      {
+        "name": "embree-3.6.0.x86_64.pkg",
+        "count": 17,
+        "size": 81306971
+      }
+    ]
+  },
+  {
+    "name": "v3.6.0-beta.0",
+    "date": "2019-07-30T15:36:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v3.5.2",
+    "date": "2019-03-13T14:49:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.5.2.x64.vc12.msi",
+        "count": 655,
+        "size": 38203392
+      },
+      {
+        "name": "embree-3.5.2.x64.vc12.windows.zip",
+        "count": 212,
+        "size": 38054648
+      },
+      {
+        "name": "embree-3.5.2.x64.vc14.windows.zip",
+        "count": 1682,
+        "size": 35858097
+      },
+      {
+        "name": "embree-3.5.2.x86_64.linux.tar.gz",
+        "count": 7112,
+        "size": 74219681
+      },
+      {
+        "name": "embree-3.5.2.x86_64.macosx.tar.gz",
+        "count": 3949,
+        "size": 73638304
+      },
+      {
+        "name": "embree-3.5.2.x86_64.pkg",
+        "count": 244,
+        "size": 73401617
+      },
+      {
+        "name": "embree-3.5.2.x86_64.rpm.tar.gz",
+        "count": 2355,
+        "size": 54811387
+      }
+    ]
+  },
+  {
+    "name": "v3.5.1",
+    "date": "2019-03-07T06:46:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.5.1.x64.vc12.msi",
+        "count": 71,
+        "size": 38195200
+      },
+      {
+        "name": "embree-3.5.1.x64.vc12.windows.zip",
+        "count": 46,
+        "size": 38048223
+      },
+      {
+        "name": "embree-3.5.1.x64.vc14.windows.zip",
+        "count": 98,
+        "size": 35844721
+      },
+      {
+        "name": "embree-3.5.1.x86_64.linux.tar.gz",
+        "count": 554,
+        "size": 74199117
+      },
+      {
+        "name": "embree-3.5.1.x86_64.macosx.tar.gz",
+        "count": 321,
+        "size": 73623825
+      },
+      {
+        "name": "embree-3.5.1.x86_64.pkg",
+        "count": 34,
+        "size": 73385237
+      },
+      {
+        "name": "embree-3.5.1.x86_64.rpm.tar.gz",
+        "count": 40,
+        "size": 54775983
+      }
+    ]
+  },
+  {
+    "name": "v2.17.7",
+    "date": "2019-02-22T12:57:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-2.17.7.x64.msi",
+        "count": 355,
+        "size": 32952320
+      },
+      {
+        "name": "embree-2.17.7.x64.windows.zip",
+        "count": 568,
+        "size": 32838067
+      },
+      {
+        "name": "embree-2.17.7.x86_64.dmg",
+        "count": 65,
+        "size": 52487777
+      },
+      {
+        "name": "embree-2.17.7.x86_64.linux.tar.gz",
+        "count": 18122,
+        "size": 47553387
+      },
+      {
+        "name": "embree-2.17.7.x86_64.macosx.tar.gz",
+        "count": 340,
+        "size": 52839997
+      },
+      {
+        "name": "embree-2.17.7.x86_64.rpm.tar.gz",
+        "count": 2844,
+        "size": 33650480
+      }
+    ]
+  },
+  {
+    "name": "v3.5.0",
+    "date": "2019-02-08T14:15:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.5.0.x64.vc12.msi",
+        "count": 123,
+        "size": 38137856
+      },
+      {
+        "name": "embree-3.5.0.x64.vc12.windows.zip",
+        "count": 44,
+        "size": 37990623
+      },
+      {
+        "name": "embree-3.5.0.x64.vc14.windows.zip",
+        "count": 237,
+        "size": 35775893
+      },
+      {
+        "name": "embree-3.5.0.x86_64.linux.tar.gz",
+        "count": 15816,
+        "size": 74136463
+      },
+      {
+        "name": "embree-3.5.0.x86_64.macosx.tar.gz",
+        "count": 586,
+        "size": 73646799
+      },
+      {
+        "name": "embree-3.5.0.x86_64.pkg",
+        "count": 41,
+        "size": 73411135
+      },
+      {
+        "name": "embree-3.5.0.x86_64.rpm.tar.gz",
+        "count": 60,
+        "size": 54761450
+      }
+    ]
+  },
+  {
+    "name": "v3.4.0",
+    "date": "2019-01-15T19:08:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "embree-3.4.0.x64.vc12.windows.zip",
+        "count": 51,
+        "size": 37470674
+      },
+      {
+        "name": "embree-3.4.0.x64.vc12.msi",
+        "count": 137,
+        "size": 37621760
+      },
+      {
+        "name": "embree-3.4.0.x64.vc14.windows.zip",
+        "count": 210,
+        "size": 35328800
+      },
+      {
+        "name": "embree-3.4.0.x86_64.linux.tar.gz",
+        "count": 15692,
+        "size": 73276926
+      },
+      {
+        "name": "embree-3.4.0.x86_64.macosx.tar.gz",
+        "count": 434,
+        "size": 73212686
+      },
+      {
+        "name": "embree-3.4.0.x86_64.pkg",
+        "count": 85,
+        "size": 72981103
+      },
+      {
+        "name": "embree-3.4.0.x86_64.rpm.tar.gz",
+        "count": 87,
+        "size": 54328543
+      }
+    ]
+  }
+]

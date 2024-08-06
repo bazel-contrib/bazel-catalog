@@ -1,0 +1,20 @@
+[
+  {
+    "name": "v0.2.6",
+    "date": "2020-06-25T15:46:19Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.5",
+    "date": "2018-05-20T03:31:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "marisa-0.2.5.tar.gz",
+        "count": 1189,
+        "size": 571048
+      }
+    ]
+  }
+]

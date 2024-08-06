@@ -1,12 +1,120 @@
 [
   {
+    "name": "v0.20.1",
+    "date": "2024-05-31T15:41:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.20.1.tar.gz",
+        "count": 33194,
+        "size": 58378
+      }
+    ]
+  },
+  {
+    "name": "v0.21.0-rc1",
+    "date": "2024-06-01T18:24:15Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.21.0-rc1.tar.gz",
+        "count": 11619,
+        "size": 57706
+      }
+    ]
+  },
+  {
+    "name": "v0.21.0-rc0",
+    "date": "2024-05-22T01:05:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.21.0-rc0.tar.gz",
+        "count": 3918,
+        "size": 57595
+      }
+    ]
+  },
+  {
+    "name": "v0.20.0",
+    "date": "2024-05-22T01:03:18Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.20.0.tar.gz",
+        "count": 8475,
+        "size": 58500
+      }
+    ]
+  },
+  {
+    "name": "v0.20.0-alpha.0",
+    "date": "2024-05-10T06:05:37Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.20.0-alpha.0.tar.gz",
+        "count": 61578,
+        "size": 56206
+      }
+    ]
+  },
+  {
+    "name": "v0.19.0",
+    "date": "2024-03-25T18:30:44Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.19.0.tar.gz",
+        "count": 235604,
+        "size": 56750
+      }
+    ]
+  },
+  {
+    "name": "v0.18.0",
+    "date": "2024-01-06T00:41:12Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.18.0.tar.gz",
+        "count": 266782,
+        "size": 49851
+      }
+    ]
+  },
+  {
+    "name": "v0.17.0",
+    "date": "2024-01-04T22:13:33Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.17.0.tar.gz",
+        "count": 352,
+        "size": 49851
+      }
+    ]
+  },
+  {
+    "name": "v0.16.0",
+    "date": "2023-11-21T19:03:40Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_esbuild-v0.16.0.tar.gz",
+        "count": 155524,
+        "size": 45895
+      }
+    ]
+  },
+  {
     "name": "v0.15.3",
     "date": "2023-09-04T20:20:00Z",
     "mentions": null,
     "downloads": [
       {
         "name": "rules_esbuild-v0.15.3.tar.gz",
-        "count": 682,
+        "count": 63539,
         "size": 44822
       }
     ]
@@ -18,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_esbuild-v0.15.2.tar.gz",
-        "count": 8,
+        "count": 18,
         "size": 44858
       }
     ]
@@ -30,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_esbuild-v0.15.0.tar.gz",
-        "count": 52405,
+        "count": 353510,
         "size": 44141
       }
     ]
@@ -42,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_esbuild-v0.14.4.tar.gz",
-        "count": 146838,
+        "count": 373058,
         "size": 40928
       }
     ]
@@ -54,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_esbuild-v0.14.3.tar.gz",
-        "count": 243,
+        "count": 654,
         "size": 40960
       }
     ]
@@ -66,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_esbuild-v0.14.2.tar.gz",
-        "count": 18,
+        "count": 19,
         "size": 40833
       }
     ]
@@ -78,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_esbuild-v0.14.1.tar.gz",
-        "count": 2126,
+        "count": 3779,
         "size": 40834
       }
     ]
@@ -164,48 +272,6 @@
   {
     "name": "v0.8.0",
     "date": "2022-06-21T05:11:37Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.7.0",
-    "date": "2022-06-10T23:59:06Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.6.0",
-    "date": "2022-06-03T23:33:03Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.5.0",
-    "date": "2022-06-03T18:02:35Z",
-    "mentions": 2,
-    "downloads": []
-  },
-  {
-    "name": "v0.4.0",
-    "date": "2022-05-31T21:14:59Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.3.0",
-    "date": "2022-05-20T15:27:14Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.2.0",
-    "date": "2022-04-26T23:05:40Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.1.0",
-    "date": "2022-04-14T21:04:45Z",
     "mentions": 1,
     "downloads": []
   }

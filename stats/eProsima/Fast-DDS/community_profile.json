@@ -1,0 +1,32 @@
+{
+  "health_percentage": 62,
+  "description": "The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com",
+  "documentation": "https://eprosima.com",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/eProsima/Fast-DDS/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/eProsima/Fast-DDS/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/eProsima/Fast-DDS/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/eProsima/Fast-DDS/blob/master/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/eProsima/Fast-DDS/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/eProsima/Fast-DDS/contents/README.md",
+      "html_url": "https://github.com/eProsima/Fast-DDS/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-02-13T09:17:39Z",
+  "content_reports_enabled": false
+}

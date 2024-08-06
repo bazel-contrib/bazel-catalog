@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/jsonnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/jsonnet/deployments",
   "created_at": "2014-08-01T20:29:12Z",
-  "updated_at": "2023-09-19T15:23:56Z",
-  "pushed_at": "2023-08-14T12:02:45Z",
+  "updated_at": "2024-08-05T16:15:37Z",
+  "pushed_at": "2024-08-01T18:38:43Z",
   "git_url": "git://github.com/google/jsonnet.git",
   "ssh_url": "git@github.com:google/jsonnet.git",
   "clone_url": "https://github.com/google/jsonnet.git",
   "svn_url": "https://github.com/google/jsonnet",
   "homepage": "http://jsonnet.org",
-  "size": 50160,
-  "stargazers_count": 6424,
-  "watchers_count": 6424,
+  "size": 52371,
+  "stargazers_count": 6877,
+  "watchers_count": 6877,
   "language": "Jsonnet",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 441,
+  "forks_count": 437,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 255,
+  "open_issues_count": 240,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["config", "configuration", "functional", "json", "jsonnet"],
   "visibility": "public",
-  "forks": 441,
-  "open_issues": 255,
-  "watchers": 6424,
+  "forks": 437,
+  "open_issues": 240,
+  "watchers": 6877,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "google",
     "id": 1342004,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 441,
-  "subscribers_count": 110
+  "network_count": 437,
+  "subscribers_count": 107
 }

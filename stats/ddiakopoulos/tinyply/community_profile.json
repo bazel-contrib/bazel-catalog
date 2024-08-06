@@ -1,0 +1,18 @@
+{
+  "health_percentage": 28,
+  "description": " :earth_africa: C++11 ply 3d mesh format importer & exporter",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": null,
+    "readme": {
+      "url": "https://api.github.com/repos/ddiakopoulos/tinyply/contents/README.md",
+      "html_url": "https://github.com/ddiakopoulos/tinyply/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-11-26T16:11:52Z"
+}

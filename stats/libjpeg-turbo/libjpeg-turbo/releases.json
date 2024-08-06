@@ -1,0 +1,2280 @@
+[
+  {
+    "name": "3.0.3",
+    "date": "2024-05-08T16:37:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-3.0.3-gcc.exe",
+        "count": 360,
+        "size": 1651760
+      },
+      {
+        "name": "libjpeg-turbo-3.0.3-gcc64.exe",
+        "count": 634,
+        "size": 1996304
+      },
+      {
+        "name": "libjpeg-turbo-3.0.3-vc.exe",
+        "count": 724,
+        "size": 1632792
+      },
+      {
+        "name": "libjpeg-turbo-3.0.3-vc64.exe",
+        "count": 1820,
+        "size": 1936328
+      },
+      {
+        "name": "libjpeg-turbo-3.0.3.dmg",
+        "count": 126,
+        "size": 3112853
+      },
+      {
+        "name": "libjpeg-turbo-3.0.3.tar.gz",
+        "count": 183328,
+        "size": 2832827
+      },
+      {
+        "name": "libjpeg-turbo-3.0.3.tar.gz.sig",
+        "count": 171,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-3.0.3.dmg",
+        "count": 42,
+        "size": 8514744
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.3.aarch64.rpm",
+        "count": 108,
+        "size": 703384
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.3.i386.rpm",
+        "count": 41,
+        "size": 773588
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.3.src.rpm",
+        "count": 22,
+        "size": 2839159
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.3.x86_64.rpm",
+        "count": 77,
+        "size": 704040
+      },
+      {
+        "name": "libjpeg-turbo-official32_3.0.3_amd64.deb",
+        "count": 62,
+        "size": 396384
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.3_amd64.deb",
+        "count": 610,
+        "size": 588530
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.3_arm64.deb",
+        "count": 211,
+        "size": 600612
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.3_i386.deb",
+        "count": 25,
+        "size": 634832
+      }
+    ]
+  },
+  {
+    "name": "3.0.2",
+    "date": "2024-01-24T18:01:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-3.0.2-gcc.exe",
+        "count": 445,
+        "size": 1649808
+      },
+      {
+        "name": "libjpeg-turbo-3.0.2-gcc64.exe",
+        "count": 715,
+        "size": 1994304
+      },
+      {
+        "name": "libjpeg-turbo-3.0.2-vc.exe",
+        "count": 486,
+        "size": 1630824
+      },
+      {
+        "name": "libjpeg-turbo-3.0.2-vc64.exe",
+        "count": 1345,
+        "size": 1934256
+      },
+      {
+        "name": "libjpeg-turbo-3.0.2.dmg",
+        "count": 216,
+        "size": 3108254
+      },
+      {
+        "name": "libjpeg-turbo-3.0.2.tar.gz",
+        "count": 145551,
+        "size": 2831164
+      },
+      {
+        "name": "libjpeg-turbo-3.0.2.tar.gz.sig",
+        "count": 185,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-3.0.2.dmg",
+        "count": 53,
+        "size": 8498374
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.2.aarch64.rpm",
+        "count": 175,
+        "size": 704028
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.2.i386.rpm",
+        "count": 60,
+        "size": 774592
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.2.src.rpm",
+        "count": 18,
+        "size": 2838215
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.2.x86_64.rpm",
+        "count": 307,
+        "size": 704548
+      },
+      {
+        "name": "libjpeg-turbo-official32_3.0.2_amd64.deb",
+        "count": 130,
+        "size": 395570
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.2_amd64.deb",
+        "count": 623,
+        "size": 588748
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.2_arm64.deb",
+        "count": 226,
+        "size": 601348
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.2_i386.deb",
+        "count": 22,
+        "size": 636040
+      }
+    ]
+  },
+  {
+    "name": "3.0.1",
+    "date": "2023-10-16T18:07:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-3.0.1-gcc.exe",
+        "count": 135,
+        "size": 1646352
+      },
+      {
+        "name": "libjpeg-turbo-3.0.1-gcc64.exe",
+        "count": 212,
+        "size": 1989992
+      },
+      {
+        "name": "libjpeg-turbo-3.0.1-vc.exe",
+        "count": 127,
+        "size": 1627640
+      },
+      {
+        "name": "libjpeg-turbo-3.0.1-vc64.exe",
+        "count": 424,
+        "size": 1931840
+      },
+      {
+        "name": "libjpeg-turbo-3.0.1.dmg",
+        "count": 235,
+        "size": 3108252
+      },
+      {
+        "name": "libjpeg-turbo-3.0.1.tar.gz",
+        "count": 4798,
+        "size": 2800900
+      },
+      {
+        "name": "libjpeg-turbo-3.0.1.tar.gz.sig",
+        "count": 21,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-3.0.1.dmg",
+        "count": 26,
+        "size": 8472533
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.1.aarch64.rpm",
+        "count": 71,
+        "size": 700100
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.1.i386.rpm",
+        "count": 44,
+        "size": 799652
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.1.src.rpm",
+        "count": 9,
+        "size": 2806243
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.1.x86_64.rpm",
+        "count": 101,
+        "size": 722768
+      },
+      {
+        "name": "libjpeg-turbo-official32_3.0.1_amd64.deb",
+        "count": 46,
+        "size": 395546
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.1_amd64.deb",
+        "count": 419,
+        "size": 586906
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.1_arm64.deb",
+        "count": 65,
+        "size": 599064
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.1_i386.deb",
+        "count": 16,
+        "size": 634234
+      }
+    ]
+  },
+  {
+    "name": "3.0.0",
+    "date": "2023-07-03T16:32:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-3.0.0-gcc.exe",
+        "count": 9,
+        "size": 1646096
+      },
+      {
+        "name": "libjpeg-turbo-3.0.0-gcc64.exe",
+        "count": 15,
+        "size": 1989016
+      },
+      {
+        "name": "libjpeg-turbo-3.0.0-vc.exe",
+        "count": 10,
+        "size": 1627032
+      },
+      {
+        "name": "libjpeg-turbo-3.0.0-vc64.exe",
+        "count": 14,
+        "size": 1931728
+      },
+      {
+        "name": "libjpeg-turbo-3.0.0.dmg",
+        "count": 3,
+        "size": 3108248
+      },
+      {
+        "name": "libjpeg-turbo-3.0.0.tar.gz",
+        "count": 51,
+        "size": 2799663
+      },
+      {
+        "name": "libjpeg-turbo-3.0.0.tar.gz.sig",
+        "count": 2,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-3.0.0.dmg",
+        "count": 4,
+        "size": 8467890
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.0.aarch64.rpm",
+        "count": 2,
+        "size": 700388
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.0.i386.rpm",
+        "count": 3,
+        "size": 799068
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.0.src.rpm",
+        "count": 4,
+        "size": 2806055
+      },
+      {
+        "name": "libjpeg-turbo-official-3.0.0.x86_64.rpm",
+        "count": 12,
+        "size": 722156
+      },
+      {
+        "name": "libjpeg-turbo-official32_3.0.0_amd64.deb",
+        "count": 2,
+        "size": 395138
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.0_amd64.deb",
+        "count": 21,
+        "size": 586402
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.0_arm64.deb",
+        "count": 7,
+        "size": 598046
+      },
+      {
+        "name": "libjpeg-turbo-official_3.0.0_i386.deb",
+        "count": 3,
+        "size": 634718
+      }
+    ]
+  },
+  {
+    "name": "2.1.91",
+    "date": "2023-02-08T16:54:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.91-gcc.exe",
+        "count": 5,
+        "size": 1673248
+      },
+      {
+        "name": "libjpeg-turbo-2.1.91-gcc64.exe",
+        "count": 6,
+        "size": 2033496
+      },
+      {
+        "name": "libjpeg-turbo-2.1.91-vc.exe",
+        "count": 7,
+        "size": 1636976
+      },
+      {
+        "name": "libjpeg-turbo-2.1.91-vc64.exe",
+        "count": 13,
+        "size": 1958384
+      },
+      {
+        "name": "libjpeg-turbo-2.1.91.dmg",
+        "count": 1,
+        "size": 3220282
+      },
+      {
+        "name": "libjpeg-turbo-2.1.91.tar.gz",
+        "count": 22381,
+        "size": 2797142
+      },
+      {
+        "name": "libjpeg-turbo-2.1.91.tar.gz.sig",
+        "count": 4,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.91.dmg",
+        "count": 1,
+        "size": 8199827
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.91.aarch64.rpm",
+        "count": 4,
+        "size": 708172
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.91.i386.rpm",
+        "count": 4,
+        "size": 801088
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.91.src.rpm",
+        "count": 5,
+        "size": 2803709
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.91.x86_64.rpm",
+        "count": 12,
+        "size": 722060
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.91_amd64.deb",
+        "count": 7,
+        "size": 396498
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.91_amd64.deb",
+        "count": 7,
+        "size": 585682
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.91_arm64.deb",
+        "count": 5,
+        "size": 604760
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.91_i386.deb",
+        "count": 8,
+        "size": 636244
+      }
+    ]
+  },
+  {
+    "name": "2.1.5.1",
+    "date": "2023-02-08T16:41:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.5.1-gcc.exe",
+        "count": 19,
+        "size": 1360488
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.1-gcc64.exe",
+        "count": 22,
+        "size": 1539072
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.1-vc.exe",
+        "count": 38,
+        "size": 1333248
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.1-vc64.exe",
+        "count": 82,
+        "size": 1499728
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.1.dmg",
+        "count": 34,
+        "size": 3006533
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.1.tar.gz",
+        "count": 229,
+        "size": 2264936
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.1.tar.gz.sig",
+        "count": 11,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.5.1.dmg",
+        "count": 4,
+        "size": 5813712
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.1.aarch64.rpm",
+        "count": 47,
+        "size": 836372
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.1.i386.rpm",
+        "count": 48,
+        "size": 931296
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.1.src.rpm",
+        "count": 5,
+        "size": 2267532
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.1.x86_64.rpm",
+        "count": 71,
+        "size": 959604
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.5.1_amd64.deb",
+        "count": 49,
+        "size": 817544
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.5.1_amd64.deb",
+        "count": 146,
+        "size": 1179358
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.5.1_arm64.deb",
+        "count": 43,
+        "size": 1248862
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.5.1_i386.deb",
+        "count": 9,
+        "size": 1116618
+      }
+    ]
+  },
+  {
+    "name": "2.1.90",
+    "date": "2023-01-31T21:57:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.90-gcc.exe",
+        "count": 2,
+        "size": 1671448
+      },
+      {
+        "name": "libjpeg-turbo-2.1.90-gcc64.exe",
+        "count": 2,
+        "size": 2031160
+      },
+      {
+        "name": "libjpeg-turbo-2.1.90-vc.exe",
+        "count": 1,
+        "size": 1636016
+      },
+      {
+        "name": "libjpeg-turbo-2.1.90-vc64.exe",
+        "count": 2,
+        "size": 1957320
+      },
+      {
+        "name": "libjpeg-turbo-2.1.90.dmg",
+        "count": 1,
+        "size": 3194089
+      },
+      {
+        "name": "libjpeg-turbo-2.1.90.tar.gz",
+        "count": 7,
+        "size": 2796821
+      },
+      {
+        "name": "libjpeg-turbo-2.1.90.tar.gz.sig",
+        "count": 1,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.90.dmg",
+        "count": 1,
+        "size": 8199701
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.90.aarch64.rpm",
+        "count": 1,
+        "size": 708176
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.90.i386.rpm",
+        "count": 1,
+        "size": 800472
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.90.src.rpm",
+        "count": 1,
+        "size": 2803483
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.90.x86_64.rpm",
+        "count": 1,
+        "size": 721180
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.90_amd64.deb",
+        "count": 1,
+        "size": 396124
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.90_amd64.deb",
+        "count": 1,
+        "size": 586074
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.90_arm64.deb",
+        "count": 1,
+        "size": 604184
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.90_i386.deb",
+        "count": 1,
+        "size": 635306
+      }
+    ]
+  },
+  {
+    "name": "2.1.5",
+    "date": "2023-01-31T18:37:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.5-gcc.exe",
+        "count": 6,
+        "size": 1358648
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5-gcc64.exe",
+        "count": 4,
+        "size": 1537112
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5-vc.exe",
+        "count": 4,
+        "size": 1332584
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5-vc64.exe",
+        "count": 11,
+        "size": 1498360
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.dmg",
+        "count": 4,
+        "size": 3055951
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.tar.gz",
+        "count": 83,
+        "size": 2264471
+      },
+      {
+        "name": "libjpeg-turbo-2.1.5.tar.gz.sig",
+        "count": 3,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.5.dmg",
+        "count": 2,
+        "size": 5797021
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.aarch64.rpm",
+        "count": 3,
+        "size": 836332
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.i386.rpm",
+        "count": 2,
+        "size": 930576
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.src.rpm",
+        "count": 4,
+        "size": 2268252
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.5.x86_64.rpm",
+        "count": 5,
+        "size": 959004
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.5_amd64.deb",
+        "count": 4,
+        "size": 816950
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.5_amd64.deb",
+        "count": 9,
+        "size": 1178800
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.5_arm64.deb",
+        "count": 7,
+        "size": 1248822
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.5_i386.deb",
+        "count": 2,
+        "size": 1116118
+      }
+    ]
+  },
+  {
+    "name": "2.1.4",
+    "date": "2022-08-12T17:03:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.4-gcc.exe",
+        "count": 2,
+        "size": 1332136
+      },
+      {
+        "name": "libjpeg-turbo-2.1.4-gcc64.exe",
+        "count": 5,
+        "size": 1512464
+      },
+      {
+        "name": "libjpeg-turbo-2.1.4-vc.exe",
+        "count": 4,
+        "size": 1331504
+      },
+      {
+        "name": "libjpeg-turbo-2.1.4-vc64.exe",
+        "count": 7,
+        "size": 1495552
+      },
+      {
+        "name": "libjpeg-turbo-2.1.4.dmg",
+        "count": 2,
+        "size": 3048157
+      },
+      {
+        "name": "libjpeg-turbo-2.1.4.tar.gz",
+        "count": 50,
+        "size": 2261822
+      },
+      {
+        "name": "libjpeg-turbo-2.1.4.tar.gz.sig",
+        "count": 4,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.4.dmg",
+        "count": 3,
+        "size": 5033074
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.4.aarch64.rpm",
+        "count": 1,
+        "size": 823184
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.4.i386.rpm",
+        "count": 1,
+        "size": 927740
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.4.src.rpm",
+        "count": 1,
+        "size": 2265363
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.4.x86_64.rpm",
+        "count": 1,
+        "size": 956188
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.4_amd64.deb",
+        "count": 1,
+        "size": 814964
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.4_amd64.deb",
+        "count": 4,
+        "size": 1174360
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.4_arm64.deb",
+        "count": 2,
+        "size": 1245552
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.4_i386.deb",
+        "count": 2,
+        "size": 1114056
+      }
+    ]
+  },
+  {
+    "name": "2.0.8-esr",
+    "date": "2022-08-12T16:08:20Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.0.7-esr",
+    "date": "2022-05-03T03:09:49Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.1.3",
+    "date": "2022-02-25T21:24:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.3-gcc.exe",
+        "count": 2,
+        "size": 1333000
+      },
+      {
+        "name": "libjpeg-turbo-2.1.3-gcc64.exe",
+        "count": 2,
+        "size": 1513216
+      },
+      {
+        "name": "libjpeg-turbo-2.1.3-vc.exe",
+        "count": 5,
+        "size": 1331568
+      },
+      {
+        "name": "libjpeg-turbo-2.1.3-vc64.exe",
+        "count": 10,
+        "size": 1497432
+      },
+      {
+        "name": "libjpeg-turbo-2.1.3.dmg",
+        "count": 2,
+        "size": 3047907
+      },
+      {
+        "name": "libjpeg-turbo-2.1.3.tar.gz",
+        "count": 33,
+        "size": 2260756
+      },
+      {
+        "name": "libjpeg-turbo-2.1.3.tar.gz.sig",
+        "count": 2,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.3.dmg",
+        "count": 2,
+        "size": 5791632
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.3.aarch64.rpm",
+        "count": 3,
+        "size": 823256
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.3.i386.rpm",
+        "count": 1,
+        "size": 926876
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.3.src.rpm",
+        "count": 1,
+        "size": 2264078
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.3.x86_64.rpm",
+        "count": 1,
+        "size": 955384
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.3_amd64.deb",
+        "count": 2,
+        "size": 814040
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.3_amd64.deb",
+        "count": 7,
+        "size": 1173402
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.3_arm64.deb",
+        "count": 6,
+        "size": 1245602
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.3_i386.deb",
+        "count": 1,
+        "size": 1113340
+      }
+    ]
+  },
+  {
+    "name": "2.1.2",
+    "date": "2021-11-19T05:53:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.2-gcc.exe",
+        "count": 2,
+        "size": 1313504
+      },
+      {
+        "name": "libjpeg-turbo-2.1.2-gcc64.exe",
+        "count": 1,
+        "size": 1499000
+      },
+      {
+        "name": "libjpeg-turbo-2.1.2-vc.exe",
+        "count": 2,
+        "size": 1309624
+      },
+      {
+        "name": "libjpeg-turbo-2.1.2-vc64.exe",
+        "count": 3,
+        "size": 1479624
+      },
+      {
+        "name": "libjpeg-turbo-2.1.2.dmg",
+        "count": 6,
+        "size": 2084031
+      },
+      {
+        "name": "libjpeg-turbo-2.1.2.tar.gz",
+        "count": 29,
+        "size": 2257645
+      },
+      {
+        "name": "libjpeg-turbo-2.1.2.tar.gz.sig",
+        "count": 2,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.2.dmg",
+        "count": 2,
+        "size": 5774349
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.2.aarch64.rpm",
+        "count": 3,
+        "size": 825232
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.2.i386.rpm",
+        "count": 1,
+        "size": 924048
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.2.src.rpm",
+        "count": 1,
+        "size": 2260534
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.2.x86_64.rpm",
+        "count": 1,
+        "size": 954128
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.2_amd64.deb",
+        "count": 1,
+        "size": 811738
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.2_amd64.deb",
+        "count": 1,
+        "size": 1171518
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.2_arm64.deb",
+        "count": 6,
+        "size": 1243974
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.2_i386.deb",
+        "count": 1,
+        "size": 1111418
+      }
+    ]
+  },
+  {
+    "name": "2.1.1",
+    "date": "2021-08-10T03:03:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.1-gcc.exe",
+        "count": 1,
+        "size": 1296320
+      },
+      {
+        "name": "libjpeg-turbo-2.1.1-gcc64.exe",
+        "count": 1,
+        "size": 1476224
+      },
+      {
+        "name": "libjpeg-turbo-2.1.1-vc.exe",
+        "count": 2,
+        "size": 1310120
+      },
+      {
+        "name": "libjpeg-turbo-2.1.1-vc64.exe",
+        "count": 5,
+        "size": 1479672
+      },
+      {
+        "name": "libjpeg-turbo-2.1.1.dmg",
+        "count": 3,
+        "size": 2084030
+      },
+      {
+        "name": "libjpeg-turbo-2.1.1.tar.gz",
+        "count": 16,
+        "size": 2256321
+      },
+      {
+        "name": "libjpeg-turbo-2.1.1.tar.gz.sig",
+        "count": 2,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.1.dmg",
+        "count": 2,
+        "size": 5773709
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.1.i386.rpm",
+        "count": 1,
+        "size": 923652
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.1.src.rpm",
+        "count": 1,
+        "size": 2259852
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.1.x86_64.rpm",
+        "count": 2,
+        "size": 953632
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.1_amd64.deb",
+        "count": 1,
+        "size": 811412
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.1_amd64.deb",
+        "count": 1,
+        "size": 1170856
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.1_i386.deb",
+        "count": 1,
+        "size": 1110858
+      }
+    ]
+  },
+  {
+    "name": "2.1.0",
+    "date": "2021-04-23T18:57:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.1.0-gcc.exe",
+        "count": 2,
+        "size": 1294280
+      },
+      {
+        "name": "libjpeg-turbo-2.1.0-gcc64.exe",
+        "count": 2,
+        "size": 1474512
+      },
+      {
+        "name": "libjpeg-turbo-2.1.0-vc.exe",
+        "count": 1,
+        "size": 1308128
+      },
+      {
+        "name": "libjpeg-turbo-2.1.0-vc64.exe",
+        "count": 3,
+        "size": 1477352
+      },
+      {
+        "name": "libjpeg-turbo-2.1.0.dmg",
+        "count": 2,
+        "size": 3039587
+      },
+      {
+        "name": "libjpeg-turbo-2.1.0.tar.gz",
+        "count": 23,
+        "size": 2255497
+      },
+      {
+        "name": "libjpeg-turbo-2.1.0.tar.gz.sig",
+        "count": 1,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.1.0.dmg",
+        "count": 1,
+        "size": 5772452
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.0.i386.rpm",
+        "count": 1,
+        "size": 923580
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.0.src.rpm",
+        "count": 1,
+        "size": 2258447
+      },
+      {
+        "name": "libjpeg-turbo-official-2.1.0.x86_64.rpm",
+        "count": 2,
+        "size": 952104
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.1.0_amd64.deb",
+        "count": 1,
+        "size": 811338
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.0_amd64.deb",
+        "count": 5,
+        "size": 1169840
+      },
+      {
+        "name": "libjpeg-turbo-official_2.1.0_i386.deb",
+        "count": 1,
+        "size": 1110536
+      }
+    ]
+  },
+  {
+    "name": "2.0.90",
+    "date": "2020-11-25T04:51:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.90-gcc.exe",
+        "count": 1,
+        "size": 1286792
+      },
+      {
+        "name": "libjpeg-turbo-2.0.90-gcc64.exe",
+        "count": 2,
+        "size": 1464816
+      },
+      {
+        "name": "libjpeg-turbo-2.0.90-vc.exe",
+        "count": 2,
+        "size": 1301864
+      },
+      {
+        "name": "libjpeg-turbo-2.0.90-vc64.exe",
+        "count": 2,
+        "size": 1468448
+      },
+      {
+        "name": "libjpeg-turbo-2.0.90.dmg",
+        "count": 1,
+        "size": 3031862
+      },
+      {
+        "name": "libjpeg-turbo-2.0.90.tar.gz",
+        "count": 5,
+        "size": 2248705
+      },
+      {
+        "name": "libjpeg-turbo-2.0.90.tar.gz.sig",
+        "count": 1,
+        "size": 543
+      },
+      {
+        "name": "libjpeg-turbo-ios-2.0.90.dmg",
+        "count": 1,
+        "size": 5750056
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.90.i386.rpm",
+        "count": 1,
+        "size": 920760
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.90.src.rpm",
+        "count": 1,
+        "size": 2252204
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.90.x86_64.rpm",
+        "count": 2,
+        "size": 949328
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.90_amd64.deb",
+        "count": 1,
+        "size": 808996
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.90_amd64.deb",
+        "count": 2,
+        "size": 1167028
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.90_i386.deb",
+        "count": 1,
+        "size": 1107984
+      }
+    ]
+  },
+  {
+    "name": "2.0.6",
+    "date": "2020-11-17T04:25:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.6-gcc.exe",
+        "count": 4,
+        "size": 1242160
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6-gcc64.exe",
+        "count": 3,
+        "size": 1447456
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6-jws.zip",
+        "count": 13,
+        "size": 1299492
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6-vc.exe",
+        "count": 15,
+        "size": 1139864
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6-vc64.exe",
+        "count": 16,
+        "size": 1274696
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6.dmg",
+        "count": 11,
+        "size": 11610129
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6.tar.gz",
+        "count": 77,
+        "size": 2192315
+      },
+      {
+        "name": "libjpeg-turbo-2.0.6.tar.gz.sig",
+        "count": 3,
+        "size": 536
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.6.i386.rpm",
+        "count": 12,
+        "size": 1143301
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.6.src.rpm",
+        "count": 4,
+        "size": 2193630
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.6.x86_64.rpm",
+        "count": 17,
+        "size": 1063735
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.6_amd64.deb",
+        "count": 12,
+        "size": 853522
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.6_amd64.deb",
+        "count": 16,
+        "size": 1058126
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.6_i386.deb",
+        "count": 3,
+        "size": 1139792
+      }
+    ]
+  },
+  {
+    "name": "2.0.5",
+    "date": "2020-06-23T22:35:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.5-gcc.exe",
+        "count": 3,
+        "size": 1242096
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5-gcc64.exe",
+        "count": 4,
+        "size": 1446864
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5-jws.zip",
+        "count": 2,
+        "size": 1300452
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5-vc.exe",
+        "count": 2,
+        "size": 1138736
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5-vc64.exe",
+        "count": 4,
+        "size": 1274440
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5.dmg",
+        "count": 1,
+        "size": 11584765
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5.tar.gz",
+        "count": 36,
+        "size": 2162983
+      },
+      {
+        "name": "libjpeg-turbo-2.0.5.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.5.i386.rpm",
+        "count": 1,
+        "size": 1140424
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.5.src.rpm",
+        "count": 1,
+        "size": 2164481
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.5.x86_64.rpm",
+        "count": 3,
+        "size": 1061612
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.5_amd64.deb",
+        "count": 1,
+        "size": 851778
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.5_amd64.deb",
+        "count": 28,
+        "size": 1056710
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.5_i386.deb",
+        "count": 1,
+        "size": 1137376
+      }
+    ]
+  },
+  {
+    "name": "2.0.4",
+    "date": "2019-12-31T08:19:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.4-gcc.exe",
+        "count": 1,
+        "size": 1236712
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4-gcc64.exe",
+        "count": 1,
+        "size": 1447056
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4-jws.zip",
+        "count": 1,
+        "size": 1363050
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4-vc.exe",
+        "count": 2,
+        "size": 1138800
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4-vc64.exe",
+        "count": 3,
+        "size": 1275128
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4.dmg",
+        "count": 1,
+        "size": 11779693
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4.tar.gz",
+        "count": 58,
+        "size": 2161812
+      },
+      {
+        "name": "libjpeg-turbo-2.0.4.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.4.i386.rpm",
+        "count": 1,
+        "size": 1139795
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.4.src.rpm",
+        "count": 1,
+        "size": 2162401
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.4.x86_64.rpm",
+        "count": 1,
+        "size": 1059763
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.4_amd64.deb",
+        "count": 1,
+        "size": 851396
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.4_amd64.deb",
+        "count": 60,
+        "size": 1054240
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.4_i386.deb",
+        "count": 1,
+        "size": 1136908
+      }
+    ]
+  },
+  {
+    "name": "2.0.3",
+    "date": "2019-09-05T00:05:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.3-gcc.exe",
+        "count": 1,
+        "size": 1238064
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3-gcc64.exe",
+        "count": 2,
+        "size": 1446448
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3-jws.zip",
+        "count": 2,
+        "size": 1363571
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3-vc.exe",
+        "count": 4,
+        "size": 1139056
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3-vc64.exe",
+        "count": 3,
+        "size": 1275096
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3.dmg",
+        "count": 3,
+        "size": 11781513
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3.tar.gz",
+        "count": 12,
+        "size": 2161279
+      },
+      {
+        "name": "libjpeg-turbo-2.0.3.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.3.i386.rpm",
+        "count": 1,
+        "size": 1139691
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.3.src.rpm",
+        "count": 1,
+        "size": 2162777
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.3.x86_64.rpm",
+        "count": 2,
+        "size": 1059546
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.3_amd64.deb",
+        "count": 1,
+        "size": 851372
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.3_amd64.deb",
+        "count": 8,
+        "size": 1054028
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.3_i386.deb",
+        "count": 1,
+        "size": 1136718
+      }
+    ]
+  },
+  {
+    "name": "2.0.2",
+    "date": "2019-02-14T06:20:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.2-gcc.exe",
+        "count": 2,
+        "size": 1667624
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2-gcc64.exe",
+        "count": 2,
+        "size": 1886800
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2-jws.zip",
+        "count": 2,
+        "size": 1357650
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2-vc.exe",
+        "count": 3,
+        "size": 1134648
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2-vc64.exe",
+        "count": 6,
+        "size": 1271000
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2.dmg",
+        "count": 4,
+        "size": 11923559
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2.tar.gz",
+        "count": 20,
+        "size": 2159562
+      },
+      {
+        "name": "libjpeg-turbo-2.0.2.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.2.i386.rpm",
+        "count": 1,
+        "size": 1137949
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.2.src.rpm",
+        "count": 2,
+        "size": 2160168
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.2.x86_64.rpm",
+        "count": 4,
+        "size": 1058558
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.2_amd64.deb",
+        "count": 2,
+        "size": 850038
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.2_amd64.deb",
+        "count": 4,
+        "size": 1053016
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.2_i386.deb",
+        "count": 1,
+        "size": 1135130
+      }
+    ]
+  },
+  {
+    "name": "2.0.1",
+    "date": "2018-11-12T20:30:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.1-gcc.exe",
+        "count": 2,
+        "size": 1666960
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1-gcc64.exe",
+        "count": 3,
+        "size": 1887504
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1-jws.zip",
+        "count": 1,
+        "size": 1356180
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1-vc.exe",
+        "count": 3,
+        "size": 1134704
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1-vc64.exe",
+        "count": 3,
+        "size": 1271000
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1.dmg",
+        "count": 2,
+        "size": 11915330
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1.tar.gz",
+        "count": 27,
+        "size": 2159130
+      },
+      {
+        "name": "libjpeg-turbo-2.0.1.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.1.i386.rpm",
+        "count": 1,
+        "size": 1137584
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.1.src.rpm",
+        "count": 1,
+        "size": 2159566
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.1.x86_64.rpm",
+        "count": 1,
+        "size": 1058335
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.1_amd64.deb",
+        "count": 1,
+        "size": 850038
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.1_amd64.deb",
+        "count": 1,
+        "size": 1051398
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.1_i386.deb",
+        "count": 2,
+        "size": 1133926
+      }
+    ]
+  },
+  {
+    "name": "2.0.0",
+    "date": "2018-07-27T21:04:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-2.0.0-gcc.exe",
+        "count": 3,
+        "size": 1711736
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0-gcc64.exe",
+        "count": 1,
+        "size": 1965592
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0-jws.zip",
+        "count": 1,
+        "size": 1356463
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0-vc.exe",
+        "count": 4,
+        "size": 1134200
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0-vc64.exe",
+        "count": 10,
+        "size": 1270456
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0.dmg",
+        "count": 1,
+        "size": 11914893
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0.tar.gz",
+        "count": 7,
+        "size": 2158457
+      },
+      {
+        "name": "libjpeg-turbo-2.0.0.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.0.i386.rpm",
+        "count": 1,
+        "size": 1137578
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.0.src.rpm",
+        "count": 1,
+        "size": 2159724
+      },
+      {
+        "name": "libjpeg-turbo-official-2.0.0.x86_64.rpm",
+        "count": 2,
+        "size": 1058246
+      },
+      {
+        "name": "libjpeg-turbo-official32_2.0.0_amd64.deb",
+        "count": 1,
+        "size": 850030
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.0_amd64.deb",
+        "count": 1,
+        "size": 1051376
+      },
+      {
+        "name": "libjpeg-turbo-official_2.0.0_i386.deb",
+        "count": 1,
+        "size": 1133870
+      }
+    ]
+  },
+  {
+    "name": "1.5.90",
+    "date": "2018-03-24T13:19:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.5.90-gcc.exe",
+        "count": 1,
+        "size": 1709432
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90-gcc64.exe",
+        "count": 1,
+        "size": 1963088
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90-jws.zip",
+        "count": 1,
+        "size": 1352367
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90-vc.exe",
+        "count": 1,
+        "size": 1129888
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90-vc64.exe",
+        "count": 2,
+        "size": 1265440
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90.dmg",
+        "count": 1,
+        "size": 11721274
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90.tar.gz",
+        "count": 5,
+        "size": 2158825
+      },
+      {
+        "name": "libjpeg-turbo-1.5.90.tar.gz.sig",
+        "count": 1,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.90.i386.rpm",
+        "count": 1,
+        "size": 1135140
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.90.src.rpm",
+        "count": 1,
+        "size": 2159956
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.90.x86_64.rpm",
+        "count": 1,
+        "size": 1054965
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.5.90_amd64.deb",
+        "count": 1,
+        "size": 848182
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.90_amd64.deb",
+        "count": 1,
+        "size": 1048558
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.90_i386.deb",
+        "count": 2,
+        "size": 1131266
+      }
+    ]
+  },
+  {
+    "name": "1.5.3",
+    "date": "2017-12-14T06:08:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.5.3-gcc.exe",
+        "count": 1,
+        "size": 1695368
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3-gcc64.exe",
+        "count": 2,
+        "size": 1963784
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3-jws.zip",
+        "count": 2,
+        "size": 1194304
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3-vc.exe",
+        "count": 2,
+        "size": 1068840
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3-vc64.exe",
+        "count": 8,
+        "size": 1181976
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3.dmg",
+        "count": 6,
+        "size": 8458341
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3.tar.gz",
+        "count": 29,
+        "size": 1658672
+      },
+      {
+        "name": "libjpeg-turbo-1.5.3.tar.gz.sig",
+        "count": 2,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.3.i386.rpm",
+        "count": 1,
+        "size": 1022221
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.3.src.rpm",
+        "count": 1,
+        "size": 1659594
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.3.x86_64.rpm",
+        "count": 3,
+        "size": 951540
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.5.3_amd64.deb",
+        "count": 1,
+        "size": 757100
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.3_amd64.deb",
+        "count": 5,
+        "size": 948162
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.3_i386.deb",
+        "count": 1,
+        "size": 1020558
+      }
+    ]
+  },
+  {
+    "name": "1.5.2",
+    "date": "2017-08-09T21:30:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.5.2-gcc.exe",
+        "count": 2,
+        "size": 1695016
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2-gcc64.exe",
+        "count": 1,
+        "size": 1963640
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2-jws.zip",
+        "count": 3,
+        "size": 1193877
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2-vc.exe",
+        "count": 3,
+        "size": 1067992
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2-vc64.exe",
+        "count": 2,
+        "size": 1181344
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2.dmg",
+        "count": 1,
+        "size": 8417408
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2.tar.gz",
+        "count": 50,
+        "size": 1657235
+      },
+      {
+        "name": "libjpeg-turbo-1.5.2.tar.gz.sig",
+        "count": 2,
+        "size": 65
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.2.i386.rpm",
+        "count": 1,
+        "size": 1020498
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.2.src.rpm",
+        "count": 1,
+        "size": 1657447
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.2.x86_64.rpm",
+        "count": 1,
+        "size": 950608
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.5.2_amd64.deb",
+        "count": 1,
+        "size": 756598
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.2_amd64.deb",
+        "count": 26,
+        "size": 947502
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.2_i386.deb",
+        "count": 1,
+        "size": 1019630
+      }
+    ]
+  },
+  {
+    "name": "1.5.1",
+    "date": "2016-09-21T00:25:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.5.1-gcc.exe",
+        "count": 1,
+        "size": 1142240
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1-gcc64.exe",
+        "count": 3,
+        "size": 1242008
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1-jws.zip",
+        "count": 2,
+        "size": 1190175
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1-vc.exe",
+        "count": 3,
+        "size": 1065728
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1-vc64.exe",
+        "count": 2,
+        "size": 1178768
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1.dmg",
+        "count": 1,
+        "size": 8358019
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1.tar.gz",
+        "count": 27,
+        "size": 1650647
+      },
+      {
+        "name": "libjpeg-turbo-1.5.1.tar.gz.sig",
+        "count": 1,
+        "size": 72
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.1.i386.rpm",
+        "count": 1,
+        "size": 1018815
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.1.src.rpm",
+        "count": 1,
+        "size": 1651974
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.1.x86_64.rpm",
+        "count": 1,
+        "size": 907583
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.5.1_amd64.deb",
+        "count": 1,
+        "size": 754062
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.1_amd64.deb",
+        "count": 2,
+        "size": 942292
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.1_i386.deb",
+        "count": 1,
+        "size": 1013664
+      }
+    ]
+  },
+  {
+    "name": "1.5.0",
+    "date": "2016-06-07T18:00:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.5.0-gcc.exe",
+        "count": 3,
+        "size": 1140592
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0-gcc64.exe",
+        "count": 3,
+        "size": 1240368
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0-jws.zip",
+        "count": 2,
+        "size": 1188708
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0-vc.exe",
+        "count": 1,
+        "size": 1063992
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0-vc64.exe",
+        "count": 2,
+        "size": 1177240
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0.dmg",
+        "count": 1,
+        "size": 4453320
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0.tar.gz",
+        "count": 11,
+        "size": 1654276
+      },
+      {
+        "name": "libjpeg-turbo-1.5.0.tar.gz.sig",
+        "count": 1,
+        "size": 72
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.0.i386.rpm",
+        "count": 1,
+        "size": 1018846
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.0.src.rpm",
+        "count": 1,
+        "size": 1654715
+      },
+      {
+        "name": "libjpeg-turbo-official-1.5.0.x86_64.rpm",
+        "count": 2,
+        "size": 907475
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.5.0_amd64.deb",
+        "count": 2,
+        "size": 754290
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.0_amd64.deb",
+        "count": 5,
+        "size": 944506
+      },
+      {
+        "name": "libjpeg-turbo-official_1.5.0_i386.deb",
+        "count": 2,
+        "size": 1014286
+      }
+    ]
+  },
+  {
+    "name": "1.4.90",
+    "date": "2016-02-29T18:40:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.4.90-gcc.exe",
+        "count": 1,
+        "size": 1138640
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90-gcc64.exe",
+        "count": 1,
+        "size": 1239136
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90-jws.zip",
+        "count": 1,
+        "size": 1188717
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90-vc.exe",
+        "count": 1,
+        "size": 1063424
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90-vc64.exe",
+        "count": 1,
+        "size": 1179216
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90.dmg",
+        "count": 1,
+        "size": 4326022
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90.tar.gz",
+        "count": 1,
+        "size": 1652431
+      },
+      {
+        "name": "libjpeg-turbo-1.4.90.tar.gz.sig",
+        "count": 1,
+        "size": 72
+      },
+      {
+        "name": "libjpeg-turbo-official-1.4.90.i386.rpm",
+        "count": 1,
+        "size": 1020914
+      },
+      {
+        "name": "libjpeg-turbo-official-1.4.90.src.rpm",
+        "count": 1,
+        "size": 1652734
+      },
+      {
+        "name": "libjpeg-turbo-official-1.4.90.x86_64.rpm",
+        "count": 1,
+        "size": 908772
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.4.90_amd64.deb",
+        "count": 1,
+        "size": 756664
+      },
+      {
+        "name": "libjpeg-turbo-official_1.4.90_amd64.deb",
+        "count": 1,
+        "size": 945894
+      },
+      {
+        "name": "libjpeg-turbo-official_1.4.90_i386.deb",
+        "count": 1,
+        "size": 1016518
+      }
+    ]
+  },
+  {
+    "name": "1.4.2",
+    "date": "2015-09-21T22:31:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libjpeg-turbo-1.4.2-gcc.exe",
+        "count": 1,
+        "size": 1118304
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2-gcc64.exe",
+        "count": 1,
+        "size": 1207920
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2-jws.zip",
+        "count": 1,
+        "size": 1174848
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2-vc.exe",
+        "count": 2,
+        "size": 1048960
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2-vc64.exe",
+        "count": 3,
+        "size": 1157424
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2.dmg",
+        "count": 3,
+        "size": 4236938
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2.tar.gz",
+        "count": 7,
+        "size": 1569306
+      },
+      {
+        "name": "libjpeg-turbo-1.4.2.tar.gz.sig",
+        "count": 1,
+        "size": 72
+      },
+      {
+        "name": "libjpeg-turbo-official-1.4.2.i386.rpm",
+        "count": 1,
+        "size": 998188
+      },
+      {
+        "name": "libjpeg-turbo-official-1.4.2.src.rpm",
+        "count": 1,
+        "size": 1571983
+      },
+      {
+        "name": "libjpeg-turbo-official-1.4.2.x86_64.rpm",
+        "count": 1,
+        "size": 887622
+      },
+      {
+        "name": "libjpeg-turbo-official32_1.4.2_amd64.deb",
+        "count": 1,
+        "size": 741956
+      },
+      {
+        "name": "libjpeg-turbo-official_1.4.2_amd64.deb",
+        "count": 2,
+        "size": 925346
+      },
+      {
+        "name": "libjpeg-turbo-official_1.4.2_i386.deb",
+        "count": 1,
+        "size": 996570
+      }
+    ]
+  }
+]

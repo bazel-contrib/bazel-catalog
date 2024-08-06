@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/zopfli/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/zopfli/deployments",
   "created_at": "2015-03-09T10:32:36Z",
-  "updated_at": "2023-09-19T12:37:02Z",
-  "pushed_at": "2023-06-27T18:00:39Z",
+  "updated_at": "2024-08-02T14:06:10Z",
+  "pushed_at": "2024-04-11T09:55:08Z",
   "git_url": "git://github.com/google/zopfli.git",
   "ssh_url": "git@github.com:google/zopfli.git",
   "clone_url": "https://github.com/google/zopfli.git",
   "svn_url": "https://github.com/google/zopfli",
   "homepage": "",
-  "size": 579,
-  "stargazers_count": 3291,
-  "watchers_count": 3291,
+  "size": 603,
+  "stargazers_count": 3407,
+  "watchers_count": 3407,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 336,
+  "forks_count": 328,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 114,
+  "open_issues_count": 115,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 336,
-  "open_issues": 114,
-  "watchers": 3291,
+  "forks": 328,
+  "open_issues": 115,
+  "watchers": 3407,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "google",
     "id": 1342004,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 336,
-  "subscribers_count": 108
+  "network_count": 328,
+  "subscribers_count": 107
 }

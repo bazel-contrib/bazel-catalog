@@ -1,0 +1,757 @@
+[
+  {
+    "name": "v2021.13.0",
+    "date": "2024-06-26T13:43:29Z",
+    "mentions": 24,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.13.0-lin.tgz",
+        "count": 1704,
+        "size": 7452546
+      },
+      {
+        "name": "oneapi-tbb-2021.13.0-mac.tgz",
+        "count": 167,
+        "size": 888030
+      },
+      {
+        "name": "oneapi-tbb-2021.13.0-win.zip",
+        "count": 1469,
+        "size": 17333474
+      }
+    ]
+  },
+  {
+    "name": "v2021.12.0",
+    "date": "2024-04-12T18:53:57Z",
+    "mentions": 22,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.12.0-lin.tgz",
+        "count": 16078,
+        "size": 7437792
+      },
+      {
+        "name": "oneapi-tbb-2021.12.0-mac.tgz",
+        "count": 1075,
+        "size": 894310
+      },
+      {
+        "name": "oneapi-tbb-2021.12.0-win.zip",
+        "count": 2454,
+        "size": 17301068
+      }
+    ]
+  },
+  {
+    "name": "v2021.11.0",
+    "date": "2023-11-17T16:41:35Z",
+    "mentions": 18,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.11.0-lin.tgz",
+        "count": 10435,
+        "size": 7437651
+      },
+      {
+        "name": "oneapi-tbb-2021.11.0-mac.tgz",
+        "count": 1540,
+        "size": 918944
+      },
+      {
+        "name": "oneapi-tbb-2021.11.0-win.zip",
+        "count": 15737,
+        "size": 17295782
+      }
+    ]
+  },
+  {
+    "name": "v2021.10.0",
+    "date": "2023-07-24T16:50:39Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.10.0-lin.tgz",
+        "count": 29128,
+        "size": 6169152
+      },
+      {
+        "name": "oneapi-tbb-2021.10.0-mac.tgz",
+        "count": 6146,
+        "size": 883881
+      },
+      {
+        "name": "oneapi-tbb-2021.10.0-win.zip",
+        "count": 13045,
+        "size": 16480631
+      }
+    ]
+  },
+  {
+    "name": "v2021.9.0",
+    "date": "2023-04-14T10:12:21Z",
+    "mentions": 18,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.9.0-lin.tgz",
+        "count": 13645,
+        "size": 5752103
+      },
+      {
+        "name": "oneapi-tbb-2021.9.0-mac.tgz",
+        "count": 1159,
+        "size": 1042474
+      },
+      {
+        "name": "oneapi-tbb-2021.9.0-win.zip",
+        "count": 3757,
+        "size": 15622378
+      }
+    ]
+  },
+  {
+    "name": "v2021.8.0",
+    "date": "2023-02-17T13:36:50Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.8.0-lin.tgz",
+        "count": 20793,
+        "size": 5709747
+      },
+      {
+        "name": "oneapi-tbb-2021.8.0-mac.tgz",
+        "count": 2455,
+        "size": 1035145
+      },
+      {
+        "name": "oneapi-tbb-2021.8.0-win.zip",
+        "count": 5018,
+        "size": 15558527
+      }
+    ]
+  },
+  {
+    "name": "v2021.7.0",
+    "date": "2022-10-28T10:48:50Z",
+    "mentions": 22,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.7.0-lin.tgz",
+        "count": 61799,
+        "size": 5710418
+      },
+      {
+        "name": "oneapi-tbb-2021.7.0-mac.tgz",
+        "count": 3913,
+        "size": 1036534
+      },
+      {
+        "name": "oneapi-tbb-2021.7.0-win.zip",
+        "count": 5685,
+        "size": 15459638
+      }
+    ]
+  },
+  {
+    "name": "v2021.6.0",
+    "date": "2022-09-20T15:35:40Z",
+    "mentions": 22,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.6.0-lin.tgz",
+        "count": 1528,
+        "size": 5705260
+      },
+      {
+        "name": "oneapi-tbb-2021.6.0-mac.tgz",
+        "count": 55,
+        "size": 1036123
+      },
+      {
+        "name": "oneapi-tbb-2021.6.0-win.zip",
+        "count": 4062,
+        "size": 15439347
+      }
+    ]
+  },
+  {
+    "name": "v2021.5.0",
+    "date": "2021-12-22T19:37:39Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.5.0-lin.tgz",
+        "count": 60204,
+        "size": 5508849
+      },
+      {
+        "name": "oneapi-tbb-2021.5.0-mac.tgz",
+        "count": 11900,
+        "size": 991519
+      },
+      {
+        "name": "oneapi-tbb-2021.5.0-win.zip",
+        "count": 34993,
+        "size": 15781701
+      }
+    ]
+  },
+  {
+    "name": "v2021.4.0",
+    "date": "2021-10-04T17:32:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.4.0-doc.zip",
+        "count": 302,
+        "size": 4518668
+      },
+      {
+        "name": "oneapi-tbb-2021.4.0-lin.tgz",
+        "count": 11064,
+        "size": 5503674
+      },
+      {
+        "name": "oneapi-tbb-2021.4.0-mac.tgz",
+        "count": 2269,
+        "size": 992832
+      },
+      {
+        "name": "oneapi-tbb-2021.4.0-win.zip",
+        "count": 11828,
+        "size": 15704637
+      }
+    ]
+  },
+  {
+    "name": "v2021.3.0",
+    "date": "2021-06-30T11:15:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.3.0-lin.tgz",
+        "count": 18013,
+        "size": 5573265
+      },
+      {
+        "name": "oneapi-tbb-2021.3.0-mac.tgz",
+        "count": 3657,
+        "size": 1017148
+      },
+      {
+        "name": "oneapi-tbb-2021.3.0-win.zip",
+        "count": 3063,
+        "size": 15993388
+      }
+    ]
+  },
+  {
+    "name": "v2021.2.0",
+    "date": "2021-04-02T10:08:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.2.0-doc.zip",
+        "count": 305,
+        "size": 4893671
+      },
+      {
+        "name": "oneapi-tbb-2021.2.0-lin.tgz",
+        "count": 18274,
+        "size": 5197343
+      },
+      {
+        "name": "oneapi-tbb-2021.2.0-mac.tgz",
+        "count": 6665,
+        "size": 941434
+      },
+      {
+        "name": "oneapi-tbb-2021.2.0-win.zip",
+        "count": 7256,
+        "size": 15396005
+      }
+    ]
+  },
+  {
+    "name": "v2021.1.1",
+    "date": "2020-12-08T11:16:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.1.1-lin.tgz",
+        "count": 22883,
+        "size": 4836427
+      },
+      {
+        "name": "oneapi-tbb-2021.1.1-mac.tgz",
+        "count": 13218,
+        "size": 923197
+      },
+      {
+        "name": "oneapi-tbb-2021.1.1-win.zip",
+        "count": 89065,
+        "size": 14234066
+      }
+    ]
+  },
+  {
+    "name": "v2021.1-beta10",
+    "date": "2020-10-27T13:27:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.1-beta10-lin.tgz",
+        "count": 2738,
+        "size": 4449500
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta10-mac.tgz",
+        "count": 283,
+        "size": 906976
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta10-win.zip",
+        "count": 362,
+        "size": 13127353
+      }
+    ]
+  },
+  {
+    "name": "v2021.1-beta09",
+    "date": "2020-09-24T13:35:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.1-beta09-lin.tgz",
+        "count": 116,
+        "size": 12582866
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta09-mac.tgz",
+        "count": 53,
+        "size": 2242228
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta09-win.zip",
+        "count": 222,
+        "size": 13011641
+      }
+    ]
+  },
+  {
+    "name": "v2021.1-beta08",
+    "date": "2020-08-06T16:41:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.1-beta08-lin.tgz",
+        "count": 6845,
+        "size": 8258773
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta08-mac.tgz",
+        "count": 3336,
+        "size": 1521669
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta08-win.zip",
+        "count": 365,
+        "size": 12538426
+      }
+    ]
+  },
+  {
+    "name": "v2020.3",
+    "date": "2020-07-10T14:29:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb-2020.3-and.tgz",
+        "count": 444,
+        "size": 9049255
+      },
+      {
+        "name": "tbb-2020.3-doc.zip",
+        "count": 461,
+        "size": 1936507
+      },
+      {
+        "name": "tbb-2020.3-lin.tgz",
+        "count": 34153,
+        "size": 8771072
+      },
+      {
+        "name": "tbb-2020.3-mac.tgz",
+        "count": 24315,
+        "size": 3197308
+      },
+      {
+        "name": "tbb-2020.3-win.zip",
+        "count": 60845,
+        "size": 20345746
+      }
+    ]
+  },
+  {
+    "name": "v2021.1-beta05",
+    "date": "2020-04-02T08:00:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "oneapi-tbb-2021.1-beta05-lin.tgz",
+        "count": 134,
+        "size": 7667423
+      },
+      {
+        "name": "oneapi-tbb-2021.1-beta05-win.zip",
+        "count": 510,
+        "size": 18287887
+      }
+    ]
+  },
+  {
+    "name": "v2020.2",
+    "date": "2020-03-30T15:14:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb-2020.2-and.tgz",
+        "count": 30425,
+        "size": 9059560
+      },
+      {
+        "name": "tbb-2020.2-doc.zip",
+        "count": 339,
+        "size": 1936703
+      },
+      {
+        "name": "tbb-2020.2-lin.tgz",
+        "count": 22116,
+        "size": 8768135
+      },
+      {
+        "name": "tbb-2020.2-mac.tgz",
+        "count": 12275,
+        "size": 3196638
+      },
+      {
+        "name": "tbb-2020.2-win.zip",
+        "count": 12162,
+        "size": 20348182
+      }
+    ]
+  },
+  {
+    "name": "v2020.1",
+    "date": "2020-01-21T15:10:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb-2020.1-and.tgz",
+        "count": 280,
+        "size": 9051296
+      },
+      {
+        "name": "tbb-2020.1-doc.zip",
+        "count": 234,
+        "size": 1970583
+      },
+      {
+        "name": "tbb-2020.1-lin.tgz",
+        "count": 7911,
+        "size": 8757288
+      },
+      {
+        "name": "tbb-2020.1-mac.tgz",
+        "count": 40536,
+        "size": 3191712
+      },
+      {
+        "name": "tbb-2020.1-win.zip",
+        "count": 20514,
+        "size": 20300921
+      }
+    ]
+  },
+  {
+    "name": "v2020.0",
+    "date": "2019-12-18T15:16:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb-2020.0-and.tgz",
+        "count": 119,
+        "size": 8935571
+      },
+      {
+        "name": "tbb-2020.0-doc.zip",
+        "count": 130,
+        "size": 1970583
+      },
+      {
+        "name": "tbb-2020.0-lin.tgz",
+        "count": 4459,
+        "size": 8697009
+      },
+      {
+        "name": "tbb-2020.0-mac.tgz",
+        "count": 860,
+        "size": 3147545
+      },
+      {
+        "name": "tbb-2020.0-win.zip",
+        "count": 2813,
+        "size": 20236121
+      }
+    ]
+  },
+  {
+    "name": "2019_U9",
+    "date": "2019-10-10T10:09:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20191006oss_and.tgz",
+        "count": 188,
+        "size": 8879815
+      },
+      {
+        "name": "tbb2019_20191006oss_lin.tgz",
+        "count": 6841,
+        "size": 8384722
+      },
+      {
+        "name": "tbb2019_20191006oss_mac.tgz",
+        "count": 4969,
+        "size": 3109366
+      },
+      {
+        "name": "tbb2019_20191006oss_win.zip",
+        "count": 15708,
+        "size": 19387030
+      },
+      {
+        "name": "tbb2019_20191006_doc.zip",
+        "count": 289,
+        "size": 2008195
+      }
+    ]
+  },
+  {
+    "name": "2019_U8",
+    "date": "2019-06-06T10:46:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20190605oss_and.tgz",
+        "count": 354,
+        "size": 8854449
+      },
+      {
+        "name": "tbb2019_20190605oss_lin.tgz",
+        "count": 20407,
+        "size": 20722793
+      },
+      {
+        "name": "tbb2019_20190605oss_mac.tgz",
+        "count": 7130,
+        "size": 5289147
+      },
+      {
+        "name": "tbb2019_20190605oss_win.zip",
+        "count": 8890,
+        "size": 35468786
+      }
+    ]
+  },
+  {
+    "name": "2019_U7",
+    "date": "2019-05-23T15:57:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20190522oss_and.tgz",
+        "count": 81,
+        "size": 8853716
+      },
+      {
+        "name": "tbb2019_20190522oss_lin.tgz",
+        "count": 5214,
+        "size": 20723479
+      },
+      {
+        "name": "tbb2019_20190522oss_mac.tgz",
+        "count": 131,
+        "size": 5292973
+      },
+      {
+        "name": "tbb2019_20190522oss_win.zip",
+        "count": 1582,
+        "size": 35470732
+      }
+    ]
+  },
+  {
+    "name": "2019_U6",
+    "date": "2019-05-07T15:53:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20190410oss_and.tgz",
+        "count": 108,
+        "size": 8812348
+      },
+      {
+        "name": "tbb2019_20190410oss_lin.tgz",
+        "count": 958,
+        "size": 20673384
+      },
+      {
+        "name": "tbb2019_20190410oss_mac.tgz",
+        "count": 197,
+        "size": 5257579
+      },
+      {
+        "name": "tbb2019_20190410oss_win.zip",
+        "count": 23540,
+        "size": 35363080
+      }
+    ]
+  },
+  {
+    "name": "2019_U5",
+    "date": "2019-03-21T15:49:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20190320oss_and.tgz",
+        "count": 202,
+        "size": 8815408
+      },
+      {
+        "name": "tbb2019_20190320oss_lin.tgz",
+        "count": 6930,
+        "size": 20704766
+      },
+      {
+        "name": "tbb2019_20190320oss_mac.tgz",
+        "count": 723,
+        "size": 5263788
+      },
+      {
+        "name": "tbb2019_20190320oss_win.zip",
+        "count": 3169,
+        "size": 35342229
+      }
+    ]
+  },
+  {
+    "name": "2019_U4",
+    "date": "2019-03-01T15:23:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20190206oss_and.tgz",
+        "count": 110,
+        "size": 8801947
+      },
+      {
+        "name": "tbb2019_20190206oss_lin.tgz",
+        "count": 893,
+        "size": 20667689
+      },
+      {
+        "name": "tbb2019_20190206oss_mac.tgz",
+        "count": 151,
+        "size": 5259365
+      },
+      {
+        "name": "tbb2019_20190206oss_win.zip",
+        "count": 1283,
+        "size": 35412159
+      }
+    ]
+  },
+  {
+    "name": "2019_U3",
+    "date": "2018-12-04T11:45:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20181203oss_and.tgz",
+        "count": 303,
+        "size": 8771835
+      },
+      {
+        "name": "tbb2019_20181203oss_lin.tgz",
+        "count": 4886,
+        "size": 20634135
+      },
+      {
+        "name": "tbb2019_20181203oss_mac.tgz",
+        "count": 17262,
+        "size": 5225241
+      },
+      {
+        "name": "tbb2019_20181203oss_win.zip",
+        "count": 23666,
+        "size": 35363545
+      }
+    ]
+  },
+  {
+    "name": "2019_U2",
+    "date": "2018-11-09T10:16:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2019_20181010oss_and.tgz",
+        "count": 128,
+        "size": 8083423
+      },
+      {
+        "name": "tbb2019_20181010oss_lin.tgz",
+        "count": 2236,
+        "size": 19884102
+      },
+      {
+        "name": "tbb2019_20181010oss_mac.tgz",
+        "count": 178,
+        "size": 4533809
+      },
+      {
+        "name": "tbb2019_20181010oss_win.zip",
+        "count": 12480,
+        "size": 34540556
+      }
+    ]
+  },
+  {
+    "name": "2018_U6",
+    "date": "2018-10-09T09:18:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tbb2018_20180822oss_and.tgz",
+        "count": 208,
+        "size": 8247672
+      },
+      {
+        "name": "tbb2018_20180822oss_lin.tgz",
+        "count": 3604,
+        "size": 20338255
+      },
+      {
+        "name": "tbb2018_20180822oss_mac.tgz",
+        "count": 217,
+        "size": 3916645
+      },
+      {
+        "name": "tbb2018_20180822oss_win.zip",
+        "count": 16459,
+        "size": 36937350
+      }
+    ]
+  }
+]

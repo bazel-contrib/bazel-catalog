@@ -1,6 +1,6 @@
 {
   "health_percentage": 50,
-  "description": "Ruby Rules for Bazel. It is, perhaps, production-ready. This project builds atop the work of Yugui, whose original rules can be found at https://github.com/yugui/rules_ruby. Please be aware there is an active fork of this project maintained by Coinbase at https://github.com/coinbase/rules_ruby.",
+  "description": "Formerly canonical rules for ruby, that are about 2-3 years behind current Bazel. If they work for you great, but if not — please try the new rules ruby by Alex Radionov: https://github.com/bazel-contrib/rules_ruby",
   "documentation": "https://github.com/bazelruby/rules_ruby/tree/master/docs",
   "files": {
     "code_of_conduct": {

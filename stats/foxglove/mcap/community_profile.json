@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "MCAP is a modular, performant, and serialization-agnostic container file format, useful for pub/sub and robotics applications.",
+  "documentation": "https://mcap.dev",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/foxglove/.github/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/foxglove/.github/blob/main/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/foxglove/mcap/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/foxglove/mcap/contents/README.md",
+      "html_url": "https://github.com/foxglove/mcap/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": false
+}

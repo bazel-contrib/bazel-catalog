@@ -1,0 +1,122 @@
+[
+  {
+    "name": "svn-release-0.6.0-rc2",
+    "sha": "678d65e7ad4596f521c1b56638c7bf5a6b79e490"
+  },
+  {
+    "name": "svn-release-0.6.0-rc1",
+    "sha": "1e9892addbfec1240e612f321662b228b4ac942b"
+  },
+  {
+    "name": "svn-release-0.5.0",
+    "sha": "710c73a9503c7cacca533f679957766d5909bc83"
+  },
+  {
+    "name": "svn-import",
+    "sha": "676405939561adf064e29dd72a0616ea43b5b584"
+  },
+  {
+    "name": "1.9.5",
+    "sha": "5defb4ed1a4293b8e2bf641e16b156fb9de498cc"
+  },
+  {
+    "name": "1.9.4",
+    "sha": "9059f5cad030ba11d37818847443a53918c327b1"
+  },
+  {
+    "name": "1.9.3",
+    "sha": "6aba23f4a8628d599a9ef7fa4811c4ff6e4070e2"
+  },
+  {
+    "name": "1.9.2",
+    "sha": "d2e6a971f4544c55b8e3b25cf96db266971b778f"
+  },
+  {
+    "name": "1.9.1",
+    "sha": "645250b6690785be60ab6780ce4b58698d884d11"
+  },
+  {
+    "name": "1.9.0",
+    "sha": "3c32dca89214c03b107cc9d1c468000cff3f8127"
+  },
+  {
+    "name": "1.8.4",
+    "sha": "ddabf50f72cf369bf652a95c4d9fe31a1865a781"
+  },
+  {
+    "name": "1.8.3",
+    "sha": "2de18021fcb11370e9b5a1fbe7dcfd673533a134"
+  },
+  {
+    "name": "1.8.2",
+    "sha": "4cfae897c049ec72175a3d55deda68146ad3720d"
+  },
+  {
+    "name": "1.8.1",
+    "sha": "a679dde58d675e75eaf0fe31f62e833868e2f22d"
+  },
+  {
+    "name": "1.8.0",
+    "sha": "f700fe455940d4d325c088b9174a173e130e0fa8"
+  },
+  {
+    "name": "1.7.7",
+    "sha": "d8cd848ede1071a25846cd90b4fddf269d868ff1"
+  },
+  {
+    "name": "1.7.6",
+    "sha": "45a560a8c0be756cbe661cd831e9c4e763eef546"
+  },
+  {
+    "name": "1.7.5",
+    "sha": "a304d61a7b3ee2700b52abc0b28412aabee782e5"
+  },
+  {
+    "name": "1.7.4",
+    "sha": "48d2a69d47bbf92337a09fc1672e1bad39fdde86"
+  },
+  {
+    "name": "1.7.3",
+    "sha": "7e4df50d17f0a04a39193af2a7bac4076eed47c4"
+  },
+  {
+    "name": "1.7.2",
+    "sha": "c8054483f82afc3b4db7efe4e5dc034721649ec8"
+  },
+  {
+    "name": "1.7.1",
+    "sha": "b58c84457922a2119242fccb93883efcb52e29fd"
+  },
+  {
+    "name": "1.7.0",
+    "sha": "c018d9fc3a7fa54c53882f2efe420cb9b21cd658"
+  },
+  {
+    "name": "1.6.5",
+    "sha": "d84702c9036505d0906b2f3d222ce5498ec65bc6"
+  },
+  {
+    "name": "1.6.2",
+    "sha": "24682e37bf1425455b45e7db69dbdbcd30aec7dd"
+  },
+  {
+    "name": "1.6.1",
+    "sha": "9cb88d2ca66af19c53a98843d159cc1d32ebaec6"
+  },
+  {
+    "name": "1.6.0",
+    "sha": "cbe7e7c9cbd39d864588c5cf2436690634562d3f"
+  },
+  {
+    "name": "1.5.4",
+    "sha": "ee4ea0ec3f3ba2c448e6d426d55c7488f20be9cd"
+  },
+  {
+    "name": "1.4.4",
+    "sha": "f9db82af17594331dd25e687c40c922f04963737"
+  },
+  {
+    "name": "1.4.3",
+    "sha": "30d923f155483da5eab6247ee0cfb5f3ff978e11"
+  }
+]

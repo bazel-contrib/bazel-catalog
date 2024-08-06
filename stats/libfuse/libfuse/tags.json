@@ -1,0 +1,122 @@
+[
+  {
+    "name": "start",
+    "sha": "bc22e7bec727bc72d91a3001fbda976f1adf352d"
+  },
+  {
+    "name": "fuse-3.16.2",
+    "sha": "7a92727d97c10290b3501d86a194738973edb61d"
+  },
+  {
+    "name": "fuse-3.16.1",
+    "sha": "1f0dfae4084577997291bb0e1b94aeff89a5e70f"
+  },
+  {
+    "name": "fuse-3.15.1",
+    "sha": "0b50e26c51d42b3d2a8e0f82c0c1a49f1b5594b5"
+  },
+  {
+    "name": "fuse-3.15.0",
+    "sha": "6d08472ea47db895748d5ca7d3daf032c3fefcf8"
+  },
+  {
+    "name": "fuse-3.14.1",
+    "sha": "d8d1f84200ca559b202d331ebe001224c2de9be5"
+  },
+  {
+    "name": "fuse-3.14.0",
+    "sha": "3f65bb699cd2f0afe2b9519c39d29922229f2168"
+  },
+  {
+    "name": "fuse-3.13.1",
+    "sha": "becc030e94a1ac7a5af2c530cd7526aadfaac3f5"
+  },
+  {
+    "name": "fuse-3.13.0",
+    "sha": "9acd183460656bffa6672e85a413b5b4f80bce5e"
+  },
+  {
+    "name": "fuse-3.12.0",
+    "sha": "0c3fbe2ce24bdc79a2bbd8691f0f2cd9a383242b"
+  },
+  {
+    "name": "fuse-3.11.0",
+    "sha": "a56147d3cb269d64635408ab5588ad66eba43943"
+  },
+  {
+    "name": "fuse-3.10.5",
+    "sha": "d709c24cbd9e1041264c551c2a4445e654eaf429"
+  },
+  {
+    "name": "fuse-3.10.4",
+    "sha": "c56ba920474d972483926ec40022d9640b31779f"
+  },
+  {
+    "name": "fuse-3.10.3",
+    "sha": "f6cb8f23ac80d067131af457994424d481d4da0e"
+  },
+  {
+    "name": "fuse-3.10.2",
+    "sha": "77d662459a0fcdf358d515477d33795837e859d5"
+  },
+  {
+    "name": "fuse-3.10.1",
+    "sha": "cd4aae2de6aacad31a15791bbb52adf173561a6d"
+  },
+  {
+    "name": "fuse-3.10.0",
+    "sha": "0105e061b97a97d9836128aea5bcdfc9593c9b82"
+  },
+  {
+    "name": "fuse-3.9.4",
+    "sha": "db9b4fa148e6c22c0d4b4c567fa65d1cd5368152"
+  },
+  {
+    "name": "fuse-3.9.3",
+    "sha": "db9b4fa148e6c22c0d4b4c567fa65d1cd5368152"
+  },
+  {
+    "name": "fuse-3.9.2",
+    "sha": "4322cffbe992aa0768f5ce310ef18f5d5340485e"
+  },
+  {
+    "name": "fuse-3.9.1",
+    "sha": "fe484d2d43bad4dafac9fbc1773030cdb4a2d99f"
+  },
+  {
+    "name": "fuse-3.9.0",
+    "sha": "b5060b0642f6f97a934c4fc6a8d4dcd84d454fe7"
+  },
+  {
+    "name": "fuse-3.8.0",
+    "sha": "4afe7ca1e8932b39805acd0321d7decdee616e30"
+  },
+  {
+    "name": "fuse-3.7.0",
+    "sha": "62c1941cc846aeeae04b090d5d24252ba7365a41"
+  },
+  {
+    "name": "fuse-3.6.2",
+    "sha": "82e10e576e6c11eeaa13ad45421578401b14f180"
+  },
+  {
+    "name": "fuse-3.6.1",
+    "sha": "38c947503d05c003ec94f1a783cf5172020d1b0d"
+  },
+  {
+    "name": "fuse-3.6.0",
+    "sha": "be1c46953042b0e389e470ced8bd871ff216ed11"
+  },
+  {
+    "name": "fuse-3.5.0",
+    "sha": "9ec8e1c9406451262b6fd3c93787b2bb6d745ea5"
+  },
+  {
+    "name": "fuse-3.4.2",
+    "sha": "16337224ea221965b02ce538184cf28170b15e67"
+  },
+  {
+    "name": "fuse-3.4.1",
+    "sha": "00fcda459bb82c556478a00dbb0c24dedda6080c"
+  }
+]

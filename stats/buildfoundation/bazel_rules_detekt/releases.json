@@ -1,5 +1,41 @@
 [
   {
+    "name": "v0.8.1.2",
+    "date": "2023-10-10T20:12:04Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel_rules_detekt-v0.8.1.2.tar.gz",
+        "count": 576989,
+        "size": 23747
+      }
+    ]
+  },
+  {
+    "name": "v0.8.1.1",
+    "date": "2023-10-06T07:07:26Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel_rules_detekt-v0.8.1.1.tar.gz",
+        "count": 534,
+        "size": 23739
+      }
+    ]
+  },
+  {
+    "name": "v0.8.1",
+    "date": "2023-10-05T03:11:18Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "bazel_rules_detekt-v0.8.1.tar.gz",
+        "count": 186,
+        "size": 23764
+      }
+    ]
+  },
+  {
     "name": "v0.7.0",
     "date": "2022-12-21T01:42:50Z",
     "mentions": 3,

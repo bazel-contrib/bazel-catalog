@@ -1,0 +1,122 @@
+[
+  {
+    "name": "v1.10.0",
+    "sha": "ebb370ca83af193212df4dcbadcc5d87bc0de2f0"
+  },
+  {
+    "name": "v1.9.4",
+    "sha": "5ff839680134437dbf4678f3d0c7b371d84f4964"
+  },
+  {
+    "name": "v1.9.3",
+    "sha": "d44371841a2f1728a3f36839fd4b7e872d0927d3"
+  },
+  {
+    "name": "v1.9.2",
+    "sha": "fdf2ef5809ca875c454510610764d9125ef2ebbd"
+  },
+  {
+    "name": "v1.9.1",
+    "sha": "398e36c756a3067de8e2b35dd380baef040dfe0d"
+  },
+  {
+    "name": "v1.9.0",
+    "sha": "131896ab9d4fc9b8c606616327ed223d5d86472b"
+  },
+  {
+    "name": "v1.8.3",
+    "sha": "641b453d9db536ee020851bfcb1dc39f61006f0a"
+  },
+  {
+    "name": "v1.8.2",
+    "sha": "b3692db46d2b23a7c0af2d5e69988c94f126e10a"
+  },
+  {
+    "name": "v1.8.1.2",
+    "sha": "dfed9fa1d77f0434306d377c4da1f7191d3ba08a"
+  },
+  {
+    "name": "v1.8.1",
+    "sha": "fb5e98a334d5538f4ffa70f5f51b8286531fe1ae"
+  },
+  {
+    "name": "v1.8.0",
+    "sha": "c10863b98e1503af90616ae99725ecd120265dfb"
+  },
+  {
+    "name": "v1.7.5",
+    "sha": "7bb64ff2b69a9f8367de9ab483cdadf42b4c1b65"
+  },
+  {
+    "name": "v1.7.4.2",
+    "sha": "018ddf799917ee5c68b5266d6f42277fa6750080"
+  },
+  {
+    "name": "v1.7.4",
+    "sha": "cc21115cb4f9ff1f97322104ffb19ca89b5a0eb1"
+  },
+  {
+    "name": "v1.7.3",
+    "sha": "7fde7438d39f8452f89e3fee5ba4a16c502dffb0"
+  },
+  {
+    "name": "rc129v0",
+    "sha": "7d182b816ace89d6d6d16b7aee376a9962a05caa"
+  },
+  {
+    "name": "r131",
+    "sha": "d86dc916771c126afb797637dda9f6421c0cb998"
+  },
+  {
+    "name": "r130",
+    "sha": "baf78e7e4dcbdf824a76f990ffeb573d113bbbdb"
+  },
+  {
+    "name": "r129",
+    "sha": "7d182b816ace89d6d6d16b7aee376a9962a05caa"
+  },
+  {
+    "name": "r128",
+    "sha": "160661c7a4cbf805f4af74d2e3932a17a66e6ce7"
+  },
+  {
+    "name": "r127",
+    "sha": "e25b51de7b51101e04ceea194dd557fcc23c03ca"
+  },
+  {
+    "name": "r126",
+    "sha": "e25b51de7b51101e04ceea194dd557fcc23c03ca"
+  },
+  {
+    "name": "r125",
+    "sha": "a5358e602a526b844d6872c0b46087044651feb3"
+  },
+  {
+    "name": "r124",
+    "sha": "ca353cfe6e6ed078501774f0a25d2eb8190036c9"
+  },
+  {
+    "name": "r123",
+    "sha": "c0054caa236abd41032a27e37c75abef07ee99d7"
+  },
+  {
+    "name": "r122",
+    "sha": "6e9183ba44a6863f99023c82e8d9752a8a0a92a6"
+  },
+  {
+    "name": "r121",
+    "sha": "8dc446dd46d5dfad1997491899ae7164a3a69aa8"
+  },
+  {
+    "name": "r120",
+    "sha": "3f607b55edba5ffd724146e958ab487f97692da5"
+  },
+  {
+    "name": "r119",
+    "sha": "28fd251bc7b42e5cde15f9a2d78fc53b3b575558"
+  },
+  {
+    "name": "r118",
+    "sha": "0665c503564a284b3ee71f955bb58bd19563e906"
+  }
+]

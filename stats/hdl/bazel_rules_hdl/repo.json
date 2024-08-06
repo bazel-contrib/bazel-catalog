@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/hdl/bazel_rules_hdl/releases{/id}",
   "deployments_url": "https://api.github.com/repos/hdl/bazel_rules_hdl/deployments",
   "created_at": "2020-12-05T21:25:31Z",
-  "updated_at": "2023-07-27T23:25:52Z",
-  "pushed_at": "2023-09-18T22:48:01Z",
+  "updated_at": "2024-08-05T23:47:36Z",
+  "pushed_at": "2024-08-06T00:51:27Z",
   "git_url": "git://github.com/hdl/bazel_rules_hdl.git",
   "ssh_url": "git@github.com:hdl/bazel_rules_hdl.git",
   "clone_url": "https://github.com/hdl/bazel_rules_hdl.git",
   "svn_url": "https://github.com/hdl/bazel_rules_hdl",
   "homepage": null,
-  "size": 564,
-  "stargazers_count": 79,
-  "watchers_count": 79,
+  "size": 986,
+  "stargazers_count": 108,
+  "watchers_count": 108,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 26,
+  "forks_count": 40,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 73,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 26,
-  "open_issues": 46,
-  "watchers": 79,
+  "forks": 40,
+  "open_issues": 73,
+  "watchers": 108,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "hdl",
     "id": 60629323,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 26,
-  "subscribers_count": 14
+  "network_count": 40,
+  "subscribers_count": 16
 }

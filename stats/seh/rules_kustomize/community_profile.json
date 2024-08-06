@@ -1,4 +1,25 @@
 {
-  "message": "Not Found",
-  "documentation_url": "https://docs.github.com/rest/metrics/community#get-community-profile-metrics"
+  "health_percentage": 42,
+  "description": "kustomize rules for Bazel",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/seh/rules_kustomize/blob/main/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/seh/rules_kustomize/contents/README.rst",
+      "html_url": "https://github.com/seh/rules_kustomize/blob/main/README.rst"
+    }
+  },
+  "updated_at": null
 }

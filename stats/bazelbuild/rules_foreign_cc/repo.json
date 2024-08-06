@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/rules_foreign_cc/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_foreign_cc/deployments",
   "created_at": "2018-04-24T18:15:09Z",
-  "updated_at": "2023-09-14T03:10:49Z",
-  "pushed_at": "2023-09-19T17:49:18Z",
+  "updated_at": "2024-08-05T14:50:17Z",
+  "pushed_at": "2024-08-05T23:55:00Z",
   "git_url": "git://github.com/bazelbuild/rules_foreign_cc.git",
   "ssh_url": "git@github.com:bazelbuild/rules_foreign_cc.git",
   "clone_url": "https://github.com/bazelbuild/rules_foreign_cc.git",
   "svn_url": "https://github.com/bazelbuild/rules_foreign_cc",
   "homepage": "https://bazelbuild.github.io/rules_foreign_cc",
-  "size": 3328,
-  "stargazers_count": 612,
-  "watchers_count": 612,
+  "size": 3258,
+  "stargazers_count": 654,
+  "watchers_count": 654,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 207,
+  "forks_count": 235,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 108,
+  "open_issues_count": 148,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "cmake", "cmake-external", "gnu-make", "meson", "ninja"],
   "visibility": "public",
-  "forks": 207,
-  "open_issues": 108,
-  "watchers": 612,
+  "forks": 235,
+  "open_issues": 148,
+  "watchers": 654,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 207,
-  "subscribers_count": 35
+  "network_count": 235,
+  "subscribers_count": 31
 }

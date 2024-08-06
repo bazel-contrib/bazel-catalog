@@ -1,0 +1,92 @@
+[
+  {
+    "name": "0.5.2",
+    "date": "2024-05-02T10:08:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_build_error-0.5.2.tar.gz",
+        "count": 150,
+        "size": 17434
+      }
+    ]
+  },
+  {
+    "name": "0.5.1",
+    "date": "2024-04-29T08:09:57Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_build_error-0.5.1.tar.gz",
+        "count": 141,
+        "size": 17108
+      }
+    ]
+  },
+  {
+    "name": "0.5.0",
+    "date": "2024-04-15T14:48:55Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_build_error-0.5.0.tar.gz",
+        "count": 162,
+        "size": 17130
+      }
+    ]
+  },
+  {
+    "name": "0.4.1",
+    "date": "2024-04-13T05:35:36Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_build_error-0.4.1.tar.gz",
+        "count": 165,
+        "size": 16098
+      }
+    ]
+  },
+  {
+    "name": "0.4.0",
+    "date": "2024-04-12T20:41:40Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_build_error-0.4.0.tar.gz",
+        "count": 163,
+        "size": 15355
+      }
+    ]
+  },
+  {
+    "name": "0.3.0",
+    "date": "2024-04-11T16:24:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_build_error-0.3.0.tar.gz",
+        "count": 166,
+        "size": 14733
+      }
+    ]
+  },
+  {
+    "name": "0.2.0",
+    "date": "2024-04-10T14:58:17Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.1",
+    "date": "2024-04-09T17:05:08Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.0",
+    "date": "2024-04-07T07:40:56Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

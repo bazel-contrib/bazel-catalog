@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Bazel rules for shtk",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU=",
+      "html_url": "https://github.com/jmmv/rules_shtk/blob/main/COPYING"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/jmmv/rules_shtk/contents/README.md",
+      "html_url": "https://github.com/jmmv/rules_shtk/blob/main/README.md"
+    }
+  },
+  "updated_at": null
+}

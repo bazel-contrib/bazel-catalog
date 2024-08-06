@@ -1,0 +1,356 @@
+[
+  {
+    "name": "v1.10.0",
+    "date": "2024-07-22T05:36:45Z",
+    "mentions": 31,
+    "downloads": [
+      {
+        "name": "lz4-1.10.0.tar.gz",
+        "count": 5067,
+        "size": 387114
+      },
+      {
+        "name": "lz4-1.10.0.tar.gz.sha256",
+        "count": 71,
+        "size": 84
+      },
+      {
+        "name": "lz4_win32_v1_10_0.zip",
+        "count": 51,
+        "size": 301270
+      },
+      {
+        "name": "lz4_win64_v1_10_0.zip",
+        "count": 339,
+        "size": 470693
+      }
+    ]
+  },
+  {
+    "name": "v1.9.4",
+    "date": "2022-08-15T22:49:54Z",
+    "mentions": 38,
+    "downloads": [
+      {
+        "name": "lz4-1.9.4.tar.gz",
+        "count": 251190,
+        "size": 354063
+      },
+      {
+        "name": "lz4-1.9.4.tar.gz.sha256",
+        "count": 1294,
+        "size": 83
+      },
+      {
+        "name": "lz4_win32_v1_9_4.zip",
+        "count": 14237,
+        "size": 352732
+      },
+      {
+        "name": "lz4_win64_v1_9_4.zip",
+        "count": 88933,
+        "size": 618757
+      }
+    ]
+  },
+  {
+    "name": "v1.9.3",
+    "date": "2020-11-16T05:06:14Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "lz4_win32_v1_9_3.zip",
+        "count": 22227,
+        "size": 334947
+      },
+      {
+        "name": "lz4_win64_v1_9_3.zip",
+        "count": 85813,
+        "size": 600375
+      }
+    ]
+  },
+  {
+    "name": "v1.9.2",
+    "date": "2019-08-20T17:44:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_win32_v1_9_2.zip",
+        "count": 12323,
+        "size": 254555
+      },
+      {
+        "name": "lz4_win64_v1_9_2.zip",
+        "count": 40383,
+        "size": 422132
+      }
+    ]
+  },
+  {
+    "name": "v1.9.1",
+    "date": "2019-04-23T17:29:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_9_1_win32.zip",
+        "count": 3720,
+        "size": 246716
+      },
+      {
+        "name": "lz4_v1_9_1_win64.zip",
+        "count": 5433,
+        "size": 437318
+      }
+    ]
+  },
+  {
+    "name": "v1.9.0",
+    "date": "2019-04-16T20:58:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_9_0_win32.zip",
+        "count": 311,
+        "size": 246291
+      },
+      {
+        "name": "lz4_v1_9_0_win64.zip",
+        "count": 685,
+        "size": 435029
+      }
+    ]
+  },
+  {
+    "name": "v1.8.3",
+    "date": "2018-09-11T19:53:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_8_3_win32.zip",
+        "count": 2915,
+        "size": 296907
+      },
+      {
+        "name": "lz4_v1_8_3_win64.zip",
+        "count": 8004,
+        "size": 592346
+      }
+    ]
+  },
+  {
+    "name": "v1.8.2",
+    "date": "2018-05-07T21:39:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_8_2_win32.zip",
+        "count": 5782,
+        "size": 295435
+      },
+      {
+        "name": "lz4_v1_8_2_win64.zip",
+        "count": 6087,
+        "size": 670654
+      }
+    ]
+  },
+  {
+    "name": "v1.8.1.2",
+    "date": "2018-01-14T09:00:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_8_1_win32.zip",
+        "count": 4708,
+        "size": 262382
+      },
+      {
+        "name": "lz4_v1_8_1_win64.zip",
+        "count": 5655,
+        "size": 582060
+      }
+    ]
+  },
+  {
+    "name": "v1.8.1",
+    "date": "2018-01-13T00:25:29Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.8.0",
+    "date": "2017-08-18T17:48:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_8_0_win32.zip",
+        "count": 1756,
+        "size": 245303
+      },
+      {
+        "name": "lz4_v1_8_0_win64.zip",
+        "count": 3798,
+        "size": 498568
+      }
+    ]
+  },
+  {
+    "name": "v1.7.5",
+    "date": "2017-01-03T13:20:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_7_5_win32-fix.zip",
+        "count": 671,
+        "size": 421967
+      },
+      {
+        "name": "lz4_v1_7_5_win64-fix.zip",
+        "count": 1602,
+        "size": 469898
+      }
+    ]
+  },
+  {
+    "name": "v1.7.4.2",
+    "date": "2016-11-22T20:35:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_7_4_win32.zip",
+        "count": 323,
+        "size": 713093
+      },
+      {
+        "name": "lz4_v1_7_4_win64.zip",
+        "count": 6347,
+        "size": 838832
+      }
+    ]
+  },
+  {
+    "name": "v1.7.4",
+    "date": "2016-11-22T04:36:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_7_4_win32.zip",
+        "count": 123,
+        "size": 713057
+      },
+      {
+        "name": "lz4_v1_7_4_win64.zip",
+        "count": 671,
+        "size": 838775
+      }
+    ]
+  },
+  {
+    "name": "v1.7.3",
+    "date": "2016-11-16T20:18:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "lz4_v1_7_3_win32.zip",
+        "count": 204,
+        "size": 223962
+      },
+      {
+        "name": "lz4_v1_7_3_win64.zip",
+        "count": 303,
+        "size": 331245
+      }
+    ]
+  },
+  {
+    "name": "r131",
+    "date": "2015-06-30T01:35:43Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r130",
+    "date": "2015-05-29T18:24:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r129",
+    "date": "2015-05-11T12:03:21Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r128",
+    "date": "2015-03-31T13:14:52Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r127",
+    "date": "2015-01-02T15:29:34Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r126",
+    "date": "2014-12-24T14:12:01Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r125",
+    "date": "2014-12-13T10:51:17Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r124",
+    "date": "2014-11-08T08:32:55Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r123",
+    "date": "2014-09-25T13:41:44Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r122",
+    "date": "2014-08-28T12:26:29Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r121",
+    "date": "2014-08-07T11:05:43Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r120",
+    "date": "2014-07-24T11:55:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r119",
+    "date": "2014-07-02T21:33:27Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r118",
+    "date": "2014-06-26T09:48:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "r117",
+    "date": "2014-04-22T22:46:35Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

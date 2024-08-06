@@ -1,0 +1,337 @@
+[
+  {
+    "name": "v1.14",
+    "date": "2023-10-01T16:14:12Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "pugixml-1.14.tar.gz",
+        "count": 121103,
+        "size": 391977
+      },
+      {
+        "name": "pugixml-1.14.zip",
+        "count": 12598,
+        "size": 427157
+      }
+    ]
+  },
+  {
+    "name": "v1.13",
+    "date": "2022-11-02T14:51:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.13.tar.gz",
+        "count": 139317,
+        "size": 390607
+      },
+      {
+        "name": "pugixml-1.13.zip",
+        "count": 15040,
+        "size": 425830
+      }
+    ]
+  },
+  {
+    "name": "v1.12.1",
+    "date": "2022-02-16T03:16:08Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.12.1.tar.gz",
+        "count": 47840,
+        "size": 389692
+      },
+      {
+        "name": "pugixml-1.12.1.zip",
+        "count": 40251,
+        "size": 424901
+      }
+    ]
+  },
+  {
+    "name": "v1.12",
+    "date": "2022-02-09T06:37:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.12.tar.gz",
+        "count": 57973,
+        "size": 389685
+      },
+      {
+        "name": "pugixml-1.12.zip",
+        "count": 6895,
+        "size": 424901
+      }
+    ]
+  },
+  {
+    "name": "v1.11.4",
+    "date": "2020-12-22T16:43:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.11.4.tar.gz",
+        "count": 39222,
+        "size": 386229
+      },
+      {
+        "name": "pugixml-1.11.4.zip",
+        "count": 5270,
+        "size": 419022
+      }
+    ]
+  },
+  {
+    "name": "v1.11.3",
+    "date": "2020-12-18T17:54:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.11.3.tar.gz",
+        "count": 578,
+        "size": 386244
+      },
+      {
+        "name": "pugixml-1.11.3.zip",
+        "count": 81,
+        "size": 419009
+      }
+    ]
+  },
+  {
+    "name": "v1.11.2",
+    "date": "2020-12-15T03:51:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.11.2.tar.gz",
+        "count": 5278,
+        "size": 386166
+      },
+      {
+        "name": "pugixml-1.11.2.zip",
+        "count": 63,
+        "size": 418944
+      }
+    ]
+  },
+  {
+    "name": "v1.11.1",
+    "date": "2020-12-05T00:39:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.11.1.tar.gz",
+        "count": 14969,
+        "size": 386133
+      },
+      {
+        "name": "pugixml-1.11.1.zip",
+        "count": 56,
+        "size": 418923
+      }
+    ]
+  },
+  {
+    "name": "v1.11",
+    "date": "2020-11-26T17:50:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.11.tar.gz",
+        "count": 15927,
+        "size": 385889
+      },
+      {
+        "name": "pugixml-1.11.zip",
+        "count": 14842,
+        "size": 418306
+      }
+    ]
+  },
+  {
+    "name": "v1.10",
+    "date": "2019-09-16T00:40:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.10.tar.gz",
+        "count": 344537,
+        "size": 381990
+      },
+      {
+        "name": "pugixml-1.10.zip",
+        "count": 15248,
+        "size": 414215
+      }
+    ]
+  },
+  {
+    "name": "v1.9",
+    "date": "2018-04-04T15:09:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.9.tar.gz",
+        "count": 122286,
+        "size": 377369
+      },
+      {
+        "name": "pugixml-1.9.zip",
+        "count": 18530,
+        "size": 406949
+      }
+    ]
+  },
+  {
+    "name": "v1.8.1",
+    "date": "2016-11-27T20:51:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.8.1.tar.gz",
+        "count": 56629,
+        "size": 357846
+      },
+      {
+        "name": "pugixml-1.8.1.zip",
+        "count": 1985,
+        "size": 382910
+      }
+    ]
+  },
+  {
+    "name": "v1.8",
+    "date": "2016-11-24T08:36:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.8.tar.gz",
+        "count": 28499,
+        "size": 357806
+      },
+      {
+        "name": "pugixml-1.8.zip",
+        "count": 12345,
+        "size": 382910
+      }
+    ]
+  },
+  {
+    "name": "v1.7",
+    "date": "2015-10-19T03:19:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.7.tar.gz",
+        "count": 22071,
+        "size": 354472
+      },
+      {
+        "name": "pugixml-1.7.zip",
+        "count": 11833,
+        "size": 374658
+      }
+    ]
+  },
+  {
+    "name": "v1.6",
+    "date": "2015-04-11T03:56:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.6.tar.gz",
+        "count": 6578,
+        "size": 346616
+      },
+      {
+        "name": "pugixml-1.6.zip",
+        "count": 6123,
+        "size": 365433
+      }
+    ]
+  },
+  {
+    "name": "v1.5",
+    "date": "2014-11-23T18:48:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.5.tar.gz",
+        "count": 8351,
+        "size": 374783
+      },
+      {
+        "name": "pugixml-1.5.zip",
+        "count": 3983,
+        "size": 404353
+      }
+    ]
+  },
+  {
+    "name": "v1.4",
+    "date": "2014-02-28T06:15:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.4.tar.gz",
+        "count": 18454,
+        "size": 369290
+      },
+      {
+        "name": "pugixml-1.4.zip",
+        "count": 128275,
+        "size": 398643
+      }
+    ]
+  },
+  {
+    "name": "v1.2",
+    "date": "2014-02-28T06:24:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.2.tar.gz",
+        "count": 111639,
+        "size": 363189
+      },
+      {
+        "name": "pugixml-1.2.zip",
+        "count": 544,
+        "size": 390105
+      }
+    ]
+  },
+  {
+    "name": "v1.0",
+    "date": "2014-02-28T06:27:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pugixml-1.0.tar.gz",
+        "count": 87,
+        "size": 349311
+      },
+      {
+        "name": "pugixml-1.0.zip",
+        "count": 203,
+        "size": 375511
+      }
+    ]
+  },
+  {
+    "name": "v0.9",
+    "date": "2014-02-28T06:27:58Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.5",
+    "date": "2014-02-28T06:28:13Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

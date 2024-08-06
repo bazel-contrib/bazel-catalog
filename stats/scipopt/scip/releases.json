@@ -1,0 +1,424 @@
+[
+  {
+    "name": "v910",
+    "date": "2024-06-21T10:30:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SCIPOptSuite-9.1.0-Darwin.sh",
+        "count": 8,
+        "size": 31318945
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-debian11.deb",
+        "count": 12,
+        "size": 30802322
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-debian11.sh",
+        "count": 6,
+        "size": 30850720
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-debian12.deb",
+        "count": 23,
+        "size": 30899640
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-debian12.sh",
+        "count": 3,
+        "size": 30952303
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-ubuntu20.deb",
+        "count": 55,
+        "size": 31491392
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-ubuntu20.sh",
+        "count": 3,
+        "size": 31550839
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-ubuntu22.deb",
+        "count": 12,
+        "size": 31252118
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Linux-ubuntu22.sh",
+        "count": 3,
+        "size": 31304502
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Raspberry.deb",
+        "count": 1,
+        "size": 24435558
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-Raspberry.sh",
+        "count": 2,
+        "size": 24505107
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-win32-VS15.exe",
+        "count": 4,
+        "size": 30652013
+      },
+      {
+        "name": "SCIPOptSuite-9.1.0-win64-VS15.exe",
+        "count": 31,
+        "size": 51802010
+      },
+      {
+        "name": "scipoptsuite-9.1.0.tgz",
+        "count": 29,
+        "size": 17363709
+      }
+    ]
+  },
+  {
+    "name": "v901",
+    "date": "2024-05-14T08:59:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SCIPOptSuite-9.0.1-Darwin.sh",
+        "count": 12,
+        "size": 31320647
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-debian11.deb",
+        "count": 31,
+        "size": 30822978
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-debian11.sh",
+        "count": 12,
+        "size": 30887702
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-debian12.deb",
+        "count": 15,
+        "size": 30919876
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-debian12.sh",
+        "count": 41,
+        "size": 30982900
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-ubuntu20.deb",
+        "count": 37,
+        "size": 31509066
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-ubuntu20.sh",
+        "count": 6,
+        "size": 31573311
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-ubuntu22.deb",
+        "count": 29,
+        "size": 31271512
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Linux-ubuntu22.sh",
+        "count": 24,
+        "size": 31338622
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Raspberry.deb",
+        "count": 5,
+        "size": 24453602
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-Raspberry.sh",
+        "count": 1,
+        "size": 24521829
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-win32-VS15.exe",
+        "count": 1,
+        "size": 30634435
+      },
+      {
+        "name": "SCIPOptSuite-9.0.1-win64-VS15.exe",
+        "count": 25,
+        "size": 51776503
+      },
+      {
+        "name": "scipoptsuite-9.0.1.tgz",
+        "count": 2,
+        "size": 18927550
+      }
+    ]
+  },
+  {
+    "name": "v900",
+    "date": "2024-02-27T11:08:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SCIP-9.0.0-Darwin-arm.zip",
+        "count": 25,
+        "size": 30713653
+      },
+      {
+        "name": "SCIP-9.0.0-Darwin-x86_64.zip",
+        "count": 12,
+        "size": 34771704
+      },
+      {
+        "name": "SCIP-9.0.0-Linux-x86_64.zip",
+        "count": 49,
+        "size": 35960328
+      },
+      {
+        "name": "SCIP-9.0.0-win64-VS22.zip",
+        "count": 27,
+        "size": 62147110
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Darwin.sh",
+        "count": 8,
+        "size": 31186069
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-debian11.deb",
+        "count": 24,
+        "size": 30608792
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-debian11.sh",
+        "count": 18,
+        "size": 30660974
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-debian12.deb",
+        "count": 361,
+        "size": 30711636
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-debian12.sh",
+        "count": 201,
+        "size": 30765805
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-ubuntu20.deb",
+        "count": 472,
+        "size": 31106350
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-ubuntu20.sh",
+        "count": 5,
+        "size": 31163500
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-ubuntu22.deb",
+        "count": 78,
+        "size": 31062980
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Linux-ubuntu22.sh",
+        "count": 8,
+        "size": 31126414
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Raspberry.deb",
+        "count": 4,
+        "size": 24215056
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-Raspberry.sh",
+        "count": 2,
+        "size": 24283078
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-win32-VS15.exe",
+        "count": 3,
+        "size": 30553550
+      },
+      {
+        "name": "SCIPOptSuite-9.0.0-win64-VS15.exe",
+        "count": 286,
+        "size": 51673801
+      },
+      {
+        "name": "scipoptsuite-9.0.0.tgz",
+        "count": 225,
+        "size": 18832931
+      }
+    ]
+  },
+  {
+    "name": "v810",
+    "date": "2024-02-27T11:05:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SCIPOptSuite-8.1.0-Darwin.sh",
+        "count": 2,
+        "size": 24388053
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-Linux-debian.deb",
+        "count": 15,
+        "size": 25867694
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-Linux-debian.sh",
+        "count": 2,
+        "size": 25923618
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-Linux-ubuntu.deb",
+        "count": 7,
+        "size": 26401134
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-Linux-ubuntu.sh",
+        "count": 1,
+        "size": 26454324
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-Raspberry.deb",
+        "count": 1,
+        "size": 20300022
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-Raspberry.sh",
+        "count": 1,
+        "size": 20359164
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-win32-VS15.exe",
+        "count": 1,
+        "size": 28457357
+      },
+      {
+        "name": "SCIPOptSuite-8.1.0-win64-VS15.exe",
+        "count": 10,
+        "size": 49237228
+      }
+    ]
+  },
+  {
+    "name": "v804",
+    "date": "2023-10-12T14:15:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SCIPOptSuite-8.0.4-Darwin.sh",
+        "count": 18,
+        "size": 24054599
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Linux-arm64.deb",
+        "count": 50,
+        "size": 23535234
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Linux-debian.deb",
+        "count": 604,
+        "size": 25519412
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Linux-debian.sh",
+        "count": 156,
+        "size": 25573315
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Linux-ubuntu.deb",
+        "count": 61,
+        "size": 26057074
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Linux-ubuntu.sh",
+        "count": 171,
+        "size": 26107225
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Raspberry.deb",
+        "count": 4,
+        "size": 19993554
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-Raspberry.sh",
+        "count": 6,
+        "size": 20048840
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-win32-VS15.exe",
+        "count": 4,
+        "size": 28219192
+      },
+      {
+        "name": "SCIPOptSuite-8.0.4-win64-VS15.exe",
+        "count": 57,
+        "size": 48960998
+      },
+      {
+        "name": "scipoptsuite-8.0.4.tgz",
+        "count": 193,
+        "size": 15155360
+      }
+    ]
+  },
+  {
+    "name": "v803",
+    "date": "2023-07-02T09:37:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "SCIPOptSuite-8.0.3-Darwin-Ipopt-gcc10.sh",
+        "count": 54,
+        "size": 24762834
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-Darwin-Ipopt-gcc7.sh",
+        "count": 5,
+        "size": 24762741
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-Darwin-no-Ipopt.sh",
+        "count": 8,
+        "size": 21647877
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-Linux-debian.deb",
+        "count": 783,
+        "size": 25677374
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-Linux-debian.sh",
+        "count": 43,
+        "size": 25731637
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-Linux-ubuntu.deb",
+        "count": 924,
+        "size": 26219296
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-Linux-ubuntu.sh",
+        "count": 138,
+        "size": 26267329
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-win32-VS15.exe",
+        "count": 9,
+        "size": 28337973
+      },
+      {
+        "name": "SCIPOptSuite-8.0.3-win64-VS15.exe",
+        "count": 402,
+        "size": 49100313
+      },
+      {
+        "name": "scipoptsuite-8.0.3.tgz",
+        "count": 74,
+        "size": 15141950
+      }
+    ]
+  }
+]

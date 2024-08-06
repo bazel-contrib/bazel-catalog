@@ -1,0 +1,32 @@
+{
+  "health_percentage": 62,
+  "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+  "documentation": "https://www.zeromq.org",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/zeromq/libzmq/contents/.github/CONTRIBUTING.md",
+      "html_url": "https://github.com/zeromq/libzmq/blob/master/.github/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/zeromq/libzmq/contents/.github/issue_template.md",
+      "html_url": "https://github.com/zeromq/libzmq/blob/master/.github/issue_template.md"
+    },
+    "pull_request_template": null,
+    "license": {
+      "key": "mpl-2.0",
+      "name": "Mozilla Public License 2.0",
+      "spdx_id": "MPL-2.0",
+      "url": "https://api.github.com/licenses/mpl-2.0",
+      "node_id": "MDc6TGljZW5zZTE0",
+      "html_url": "https://github.com/zeromq/libzmq/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/zeromq/libzmq/contents/README.md",
+      "html_url": "https://github.com/zeromq/libzmq/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-07-26T21:47:13Z",
+  "content_reports_enabled": false
+}

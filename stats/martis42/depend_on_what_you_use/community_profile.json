@@ -1,0 +1,28 @@
+{
+  "health_percentage": 57,
+  "description": "Bazel tool for making sure your C++ dependencies match your include statements",
+  "documentation": "https://github.com/martis42/depend_on_what_you_use/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/martis42/depend_on_what_you_use/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/martis42/depend_on_what_you_use/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/martis42/depend_on_what_you_use/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/martis42/depend_on_what_you_use/contents/README.md",
+      "html_url": "https://github.com/martis42/depend_on_what_you_use/blob/main/README.md"
+    }
+  },
+  "updated_at": "2022-04-09T20:45:39Z"
+}

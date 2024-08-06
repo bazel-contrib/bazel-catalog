@@ -1,0 +1,26 @@
+{
+  "health_percentage": 25,
+  "description": null,
+  "documentation": "http://en.wikipedia.org/wiki/Util-linux",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "gpl-2.0",
+      "name": "GNU General Public License v2.0",
+      "spdx_id": "GPL-2.0",
+      "url": "https://api.github.com/licenses/gpl-2.0",
+      "node_id": "MDc6TGljZW5zZTg=",
+      "html_url": "https://github.com/util-linux/util-linux/blob/master/COPYING"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/util-linux/util-linux/contents/README",
+      "html_url": "https://github.com/util-linux/util-linux/blob/master/README"
+    }
+  },
+  "updated_at": "2019-02-21T12:54:31Z",
+  "content_reports_enabled": false
+}

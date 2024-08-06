@@ -1,181 +1,181 @@
 [
   {
-    "name": "v1.58.1",
-    "date": "2023-09-13T21:15:01Z",
+    "name": "v1.66.0-pre2",
+    "date": "2024-08-02T21:29:30Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.58.0",
-    "date": "2023-09-06T16:00:03Z",
+    "name": "v1.58.3",
+    "date": "2024-08-02T20:19:33Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.58.0-pre1",
-    "date": "2023-08-24T22:51:32Z",
+    "name": "v1.65.4",
+    "date": "2024-08-02T17:37:34Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.57.0",
-    "date": "2023-08-09T00:41:48Z",
+    "name": "v1.65.3",
+    "date": "2024-08-01T16:45:32Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.55.3",
-    "date": "2023-08-01T18:04:13Z",
-    "mentions": 2,
+    "name": "v1.64.3",
+    "date": "2024-08-02T20:20:49Z",
+    "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.54.3",
-    "date": "2023-08-01T20:56:18Z",
+    "name": "v1.63.2",
+    "date": "2024-08-02T20:20:36Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.62.3",
+    "date": "2024-08-02T20:20:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.61.3",
+    "date": "2024-08-02T20:20:11Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.60.2",
+    "date": "2024-08-02T20:20:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.59.5",
+    "date": "2024-08-02T20:19:47Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.65.2",
+    "date": "2024-07-26T16:02:52Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.66.0-pre1",
+    "date": "2024-07-29T16:29:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.65.1",
+    "date": "2024-07-16T23:11:04Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.65.0",
+    "date": "2024-06-28T19:38:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.65.0-pre2",
+    "date": "2024-06-21T14:03:50Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.65.0-pre1",
+    "date": "2024-06-14T18:13:17Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.64.2",
+    "date": "2024-06-07T18:37:26Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.64.1",
+    "date": "2024-05-30T20:34:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.63.1",
+    "date": "2024-05-29T21:06:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.64.0",
+    "date": "2024-05-17T01:01:32Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.64.0-pre2",
+    "date": "2024-05-09T23:05:42Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.64.0-pre1",
+    "date": "2024-05-07T21:26:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.63.0",
+    "date": "2024-04-26T21:39:56Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.63.0-pre2",
+    "date": "2024-04-18T00:39:07Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.62.2",
+    "date": "2024-04-17T16:47:30Z",
     "mentions": 1,
     "downloads": []
   },
   {
-    "name": "v1.53.2",
-    "date": "2023-08-01T23:56:04Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v1.57.0-pre1",
-    "date": "2023-07-25T03:56:42Z",
+    "name": "v1.63.0-pre1",
+    "date": "2024-04-12T18:28:01Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.56.2",
-    "date": "2023-07-14T21:59:55Z",
+    "name": "v1.62.1",
+    "date": "2024-03-08T17:26:45Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.56.1",
-    "date": "2023-07-11T03:11:36Z",
+    "name": "v1.61.2",
+    "date": "2024-03-11T17:59:03Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.56.1-pre1",
-    "date": "2023-07-07T03:57:16Z",
+    "name": "v1.62.0",
+    "date": "2024-02-20T23:15:27Z",
     "mentions": null,
     "downloads": []
   },
   {
-    "name": "v1.56.0",
-    "date": "2023-06-14T22:57:27Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.56.0-pre3",
-    "date": "2023-06-13T03:41:08Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.56.0-pre2",
-    "date": "2023-06-05T22:54:35Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.55.1",
-    "date": "2023-06-02T04:43:05Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.56.0-pre1",
-    "date": "2023-06-01T23:15:13Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.55.0",
-    "date": "2023-05-19T06:14:17Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.53.1",
-    "date": "2023-05-11T18:37:08Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.55.0-pre2",
-    "date": "2023-05-10T19:57:50Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.54.2",
-    "date": "2023-05-10T19:34:49Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.52.2",
-    "date": "2023-05-10T20:10:02Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.54.1",
-    "date": "2023-05-02T04:05:43Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.55.0-pre1",
-    "date": "2023-04-26T17:31:36Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.54.0",
-    "date": "2023-04-13T00:36:17Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.54.0-pre2",
-    "date": "2023-04-07T01:26:03Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.54.0-pre1",
-    "date": "2023-03-31T23:19:19Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.53.0",
-    "date": "2023-03-22T22:35:26Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.53.0-pre2",
-    "date": "2023-03-07T01:08:37Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.47.5",
-    "date": "2023-02-28T22:33:50Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v1.53.0-pre1",
-    "date": "2023-02-21T22:28:46Z",
+    "name": "v1.62.0-pre1",
+    "date": "2024-02-14T02:56:37Z",
     "mentions": null,
     "downloads": []
   }

@@ -1,0 +1,37 @@
+{
+  "health_percentage": 62,
+  "description": null,
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/google/ruy/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/google/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/google/ruy/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/google/ruy/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/google/ruy/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/google/ruy/contents/README.md",
+      "html_url": "https://github.com/google/ruy/blob/master/README.md"
+    }
+  },
+  "updated_at": "2020-03-27T20:16:45Z",
+  "content_reports_enabled": false
+}

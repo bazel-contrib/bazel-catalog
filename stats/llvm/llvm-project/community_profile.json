@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+  "documentation": "http://llvm.org",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/llvm/llvm-project/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/llvm/llvm-project/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/llvm/llvm-project/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/llvm/llvm-project/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/llvm/llvm-project/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/llvm/llvm-project/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/llvm/llvm-project/blob/main/LICENSE.TXT"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/llvm/llvm-project/contents/README.md",
+      "html_url": "https://github.com/llvm/llvm-project/blob/main/README.md"
+    }
+  },
+  "updated_at": "2024-08-05T15:33:09Z",
+  "content_reports_enabled": true
+}

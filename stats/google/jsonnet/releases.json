@@ -30,7 +30,7 @@
     "downloads": [
       {
         "name": "jsonnet-bin-v0.17.0-linux.tar.gz",
-        "count": 298202,
+        "count": 357851,
         "size": 6092052
       }
     ]
@@ -42,7 +42,7 @@
     "downloads": [
       {
         "name": "jsonnet-bin-v0.16.0-linux.tar.gz",
-        "count": 223217,
+        "count": 257679,
         "size": 5986797
       }
     ]
@@ -54,7 +54,7 @@
     "downloads": [
       {
         "name": "jsonnet-bin-v0.15.0-linux.tar.gz",
-        "count": 761488,
+        "count": 876747,
         "size": 5984744
       }
     ]
@@ -66,17 +66,17 @@
     "downloads": [
       {
         "name": "jsonnet-bin-v0.14.0-darwin.tar.gz",
-        "count": 234,
+        "count": 236,
         "size": 788587
       },
       {
         "name": "jsonnet-bin-v0.14.0-linux.tar.gz",
-        "count": 48447,
+        "count": 49797,
         "size": 5984495
       },
       {
         "name": "jsonnet-bin-v0.14.0-osx.tar.gz",
-        "count": 355,
+        "count": 412,
         "size": 788587
       }
     ]

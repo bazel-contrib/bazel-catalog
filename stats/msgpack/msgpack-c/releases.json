@@ -1,0 +1,362 @@
+[
+  {
+    "name": "c-6.0.2",
+    "date": "2024-06-24T07:01:08Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-c-6.0.2.tar.gz",
+        "count": 3145,
+        "size": 69533
+      }
+    ]
+  },
+  {
+    "name": "cpp-6.1.1",
+    "date": "2024-04-02T03:19:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-6.1.1.tar.gz",
+        "count": 7370,
+        "size": 476459
+      }
+    ]
+  },
+  {
+    "name": "c-6.0.1",
+    "date": "2024-04-02T05:22:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-c-6.0.1.tar.gz",
+        "count": 23342,
+        "size": 69497
+      }
+    ]
+  },
+  {
+    "name": "cpp-6.1.0",
+    "date": "2023-07-08T05:02:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-6.1.0.tar.gz",
+        "count": 46700,
+        "size": 478452
+      }
+    ]
+  },
+  {
+    "name": "cpp-6.0.0",
+    "date": "2023-03-04T13:51:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-6.0.0.tar.gz",
+        "count": 14376,
+        "size": 476132
+      }
+    ]
+  },
+  {
+    "name": "c-6.0.0",
+    "date": "2023-03-04T13:49:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-c-6.0.0.tar.gz",
+        "count": 317412,
+        "size": 69341
+      }
+    ]
+  },
+  {
+    "name": "cpp-5.0.0",
+    "date": "2023-01-10T12:45:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-5.0.0.tar.gz",
+        "count": 5976,
+        "size": 476103
+      }
+    ]
+  },
+  {
+    "name": "c-5.0.0",
+    "date": "2023-01-10T12:44:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-c-5.0.0.tar.gz",
+        "count": 9164,
+        "size": 69275
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.1.3",
+    "date": "2022-11-02T04:51:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.1.3.tar.gz",
+        "count": 4871,
+        "size": 476128
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.1.2",
+    "date": "2022-09-07T04:27:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.1.2.tar.gz",
+        "count": 4692,
+        "size": 476047
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.1.1",
+    "date": "2022-03-09T12:01:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.1.1.tar.gz",
+        "count": 25330,
+        "size": 475478
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.1.0",
+    "date": "2022-02-12T08:57:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.1.0.tar.gz",
+        "count": 5985,
+        "size": 475761
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.0.3",
+    "date": "2021-10-23T04:56:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.0.3.tar.gz",
+        "count": 4944,
+        "size": 240337
+      }
+    ]
+  },
+  {
+    "name": "c-4.0.0",
+    "date": "2021-09-01T02:16:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-c-4.0.0.tar.gz",
+        "count": 298329,
+        "size": 69290
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.0.2",
+    "date": "2021-08-31T01:09:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.0.2.tar.gz",
+        "count": 251,
+        "size": 240493
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.0.1",
+    "date": "2021-08-30T01:41:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.0.1.tar.gz",
+        "count": 119,
+        "size": 240030
+      }
+    ]
+  },
+  {
+    "name": "cpp-4.0.0",
+    "date": "2021-08-29T14:01:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-cxx-4.0.0.tar.gz",
+        "count": 75,
+        "size": 239138
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.3.0",
+    "date": "2020-06-05T08:09:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.3.0.tar.gz",
+        "count": 805988,
+        "size": 508001
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.2.1",
+    "date": "2019-12-10T05:38:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.2.1.tar.gz",
+        "count": 171192,
+        "size": 1234733
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.2.0",
+    "date": "2019-05-27T14:56:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.2.0.tar.gz",
+        "count": 171342,
+        "size": 499188
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.1.1",
+    "date": "2018-09-09T10:26:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.1.1.tar.gz",
+        "count": 44622,
+        "size": 495858
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.1.0",
+    "date": "2018-08-21T15:03:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.1.0.tar.gz",
+        "count": 5399,
+        "size": 490365
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.0.1",
+    "date": "2018-05-12T09:28:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.0.1.tar.gz",
+        "count": 83100,
+        "size": 481488
+      }
+    ]
+  },
+  {
+    "name": "cpp-3.0.0",
+    "date": "2018-05-09T14:25:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-3.0.0.tar.gz",
+        "count": 490235,
+        "size": 478969
+      }
+    ]
+  },
+  {
+    "name": "cpp-2.1.5",
+    "date": "2017-08-03T15:01:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-2.1.5.tar.gz",
+        "count": 43780,
+        "size": 463951
+      }
+    ]
+  },
+  {
+    "name": "cpp-2.1.3",
+    "date": "2017-06-15T15:05:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-2.1.3.tar.gz",
+        "count": 2983,
+        "size": 462139
+      }
+    ]
+  },
+  {
+    "name": "cpp-2.1.2",
+    "date": "2017-06-07T04:26:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-2.1.2.tar.gz",
+        "count": 1598,
+        "size": 457462
+      }
+    ]
+  },
+  {
+    "name": "cpp-2.1.1",
+    "date": "2017-02-04T11:19:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-2.1.1.tar.gz",
+        "count": 26556,
+        "size": 460168
+      }
+    ]
+  },
+  {
+    "name": "cpp-2.1.0",
+    "date": "2017-01-10T12:39:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-2.1.0.tar.gz",
+        "count": 8401,
+        "size": 459355
+      }
+    ]
+  },
+  {
+    "name": "cpp-2.0.0",
+    "date": "2016-06-25T04:45:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "msgpack-2.0.0.tar.gz",
+        "count": 7947,
+        "size": 446063
+      }
+    ]
+  }
+]

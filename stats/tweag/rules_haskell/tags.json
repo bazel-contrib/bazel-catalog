@@ -1,5 +1,17 @@
 [
   {
+    "name": "v0.19",
+    "sha": "998d3f8d450cf82d1a071c19d8b64cca668e7abd"
+  },
+  {
+    "name": "v0.18",
+    "sha": "6d1ff6cb1d4c4a32f5773d6851555cc14617c613"
+  },
+  {
+    "name": "v0.17",
+    "sha": "c65889294dbee9f8c6af10e6c18d7ff34d021d86"
+  },
+  {
     "name": "v0.16",
     "sha": "15aba7bee8823264fb6a7e7a053b37e806d2cb5c"
   },

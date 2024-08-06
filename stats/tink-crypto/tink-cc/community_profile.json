@@ -1,0 +1,29 @@
+{
+  "health_percentage": 75,
+  "description": "C++ implementation of Tink",
+  "documentation": "https://developers.google.com/tink",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/tink-crypto/tink-cc/contents/docs/CONTRIBUTING.md",
+      "html_url": "https://github.com/tink-crypto/tink-cc/blob/main/docs/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/tink-crypto/tink-cc/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/tink-crypto/tink-cc/contents/README.md",
+      "html_url": "https://github.com/tink-crypto/tink-cc/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": false
+}

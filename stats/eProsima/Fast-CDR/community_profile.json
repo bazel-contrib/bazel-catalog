@@ -1,0 +1,32 @@
+{
+  "health_percentage": 62,
+  "description": "eProsima FastCDR library provides two serialization mechanisms. One is the standard CDR serialization mechanism, while the other is a faster implementation of it. Looking for commercial support? Contact info@eprosima.com",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/eProsima/Fast-CDR/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/eProsima/Fast-CDR/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/eProsima/Fast-CDR/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/eProsima/Fast-CDR/blob/master/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/eProsima/Fast-CDR/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/eProsima/Fast-CDR/contents/README.md",
+      "html_url": "https://github.com/eProsima/Fast-CDR/blob/master/README.md"
+    }
+  },
+  "updated_at": "2020-05-26T10:58:08Z",
+  "content_reports_enabled": false
+}

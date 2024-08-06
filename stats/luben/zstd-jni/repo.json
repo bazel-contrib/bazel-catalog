@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/luben/zstd-jni/releases{/id}",
   "deployments_url": "https://api.github.com/repos/luben/zstd-jni/deployments",
   "created_at": "2015-02-25T22:29:05Z",
-  "updated_at": "2023-09-13T08:40:30Z",
-  "pushed_at": "2023-07-29T15:47:01Z",
+  "updated_at": "2024-08-01T11:02:46Z",
+  "pushed_at": "2024-07-22T13:07:43Z",
   "git_url": "git://github.com/luben/zstd-jni.git",
   "ssh_url": "git@github.com:luben/zstd-jni.git",
   "clone_url": "https://github.com/luben/zstd-jni.git",
   "svn_url": "https://github.com/luben/zstd-jni",
   "homepage": "",
-  "size": 38957,
-  "stargazers_count": 717,
-  "watchers_count": 717,
+  "size": 39729,
+  "stargazers_count": 823,
+  "watchers_count": 823,
   "language": "C",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 146,
+  "forks_count": 165,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 13,
+  "open_issues_count": 17,
   "license": {
     "key": "other",
     "name": "Other",
@@ -105,9 +105,9 @@
     "native-library"
   ],
   "visibility": "public",
-  "forks": 146,
-  "open_issues": 13,
-  "watchers": 717,
+  "forks": 165,
+  "open_issues": 17,
+  "watchers": 823,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,6 +116,6 @@
     "triage": false,
     "pull": true
   },
-  "network_count": 146,
-  "subscribers_count": 23
+  "network_count": 165,
+  "subscribers_count": 25
 }

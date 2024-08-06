@@ -1,254 +1,362 @@
 [
   {
-    "name": "v0.11.0",
-    "date": "2023-09-13T19:43:59Z",
-    "mentions": 1,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.11.0.tar.gz",
-        "count": 20,
-        "size": 151098
-      }
-    ]
-  },
-  {
-    "name": "v0.10.0",
-    "date": "2023-09-06T21:35:28Z",
+    "name": "v0.36.0",
+    "date": "2024-07-30T23:25:16Z",
     "mentions": 2,
     "downloads": [
       {
-        "name": "rules_swift_package_manager.v0.10.0.tar.gz",
-        "count": 47,
-        "size": 148364
+        "name": "rules_swift_package_manager.v0.36.0.tar.gz",
+        "count": 26,
+        "size": 172161
       }
     ]
   },
   {
-    "name": "v0.9.0",
-    "date": "2023-09-05T18:47:30Z",
+    "name": "v0.35.1",
+    "date": "2024-07-10T16:53:33Z",
     "mentions": 1,
     "downloads": [
       {
-        "name": "rules_swift_package_manager.v0.9.0.tar.gz",
-        "count": 3430,
-        "size": 147479
+        "name": "rules_swift_package_manager.v0.35.1.tar.gz",
+        "count": 2169,
+        "size": 171876
       }
     ]
   },
   {
-    "name": "v0.8.0",
-    "date": "2023-08-29T20:32:32Z",
+    "name": "v0.35.0",
+    "date": "2024-07-10T16:44:46Z",
     "mentions": 3,
     "downloads": [
       {
-        "name": "rules_swift_package_manager.v0.8.0.tar.gz",
-        "count": 742,
-        "size": 147923
+        "name": "rules_swift_package_manager.v0.35.0.tar.gz",
+        "count": 7,
+        "size": 171886
       }
     ]
   },
   {
-    "name": "v0.7.1",
-    "date": "2023-07-14T21:47:33Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.7.1.tar.gz",
-        "count": 7161,
-        "size": 145473
-      }
-    ]
-  },
-  {
-    "name": "v0.7.0",
-    "date": "2023-07-13T17:44:13Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.7.0.tar.gz",
-        "count": 9552,
-        "size": 145456
-      }
-    ]
-  },
-  {
-    "name": "v0.6.0",
-    "date": "2023-07-02T14:46:30Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.6.0.tar.gz",
-        "count": 1292,
-        "size": 145243
-      }
-    ]
-  },
-  {
-    "name": "v0.5.0",
-    "date": "2023-06-08T17:01:22Z",
+    "name": "v0.34.1",
+    "date": "2024-06-26T19:14:04Z",
     "mentions": 1,
     "downloads": [
       {
-        "name": "rules_swift_package_manager.v0.5.0.tar.gz",
-        "count": 105,
-        "size": 143136
+        "name": "rules_swift_package_manager.v0.34.1.tar.gz",
+        "count": 23873,
+        "size": 179816
       }
     ]
   },
   {
-    "name": "v0.4.4",
-    "date": "2023-06-07T16:53:01Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.4.4.tar.gz",
-        "count": 30,
-        "size": 141603
-      }
-    ]
-  },
-  {
-    "name": "v0.4.3",
-    "date": "2023-04-28T13:38:06Z",
-    "mentions": 3,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.4.3.tar.gz",
-        "count": 16196,
-        "size": 141386
-      }
-    ]
-  },
-  {
-    "name": "v0.4.2",
-    "date": "2023-04-02T14:34:43Z",
+    "name": "v0.34.0",
+    "date": "2024-06-26T01:34:14Z",
     "mentions": 1,
     "downloads": [
       {
-        "name": "rules_swift_package_manager.v0.4.2.tar.gz",
-        "count": 3826,
-        "size": 139786
+        "name": "rules_swift_package_manager.v0.34.0.tar.gz",
+        "count": 97,
+        "size": 179822
       }
     ]
   },
   {
-    "name": "v0.4.1",
-    "date": "2023-04-01T21:46:53Z",
+    "name": "v0.33.0",
+    "date": "2024-06-21T16:17:59Z",
     "mentions": 3,
     "downloads": [
       {
-        "name": "rules_swift_package_manager.v0.4.1.tar.gz",
-        "count": 2724,
-        "size": 139786
+        "name": "rules_swift_package_manager.v0.33.0.tar.gz",
+        "count": 86,
+        "size": 175971
       }
     ]
   },
   {
-    "name": "v0.4.0",
-    "date": "2023-04-01T21:41:12Z",
-    "mentions": 3,
-    "downloads": [
-      {
-        "name": "rules_swift_package_manager.v0.4.0.tar.gz",
-        "count": 3,
-        "size": 139786
-      }
-    ]
-  },
-  {
-    "name": "v0.3.3",
-    "date": "2023-03-20T12:59:41Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "swift_bazel.v0.3.3.tar.gz",
-        "count": 23,
-        "size": 116677
-      }
-    ]
-  },
-  {
-    "name": "v0.3.2",
-    "date": "2023-03-07T20:26:57Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "swift_bazel.v0.3.2.tar.gz",
-        "count": 47,
-        "size": 114671
-      }
-    ]
-  },
-  {
-    "name": "v0.3.1",
-    "date": "2023-03-03T22:50:50Z",
+    "name": "v0.32.0",
+    "date": "2024-06-12T14:25:35Z",
     "mentions": 1,
     "downloads": [
       {
-        "name": "swift_bazel.v0.3.1.tar.gz",
+        "name": "rules_swift_package_manager.v0.32.0.tar.gz",
+        "count": 3232,
+        "size": 175653
+      }
+    ]
+  },
+  {
+    "name": "v0.31.1",
+    "date": "2024-06-02T14:14:20Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.31.1.tar.gz",
+        "count": 8558,
+        "size": 175447
+      }
+    ]
+  },
+  {
+    "name": "v0.31.0",
+    "date": "2024-06-02T14:04:22Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.31.0.tar.gz",
+        "count": 11,
+        "size": 175465
+      }
+    ]
+  },
+  {
+    "name": "v0.30.0",
+    "date": "2024-04-22T21:56:44Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.30.0.tar.gz",
+        "count": 4165,
+        "size": 175288
+      }
+    ]
+  },
+  {
+    "name": "v0.29.2",
+    "date": "2024-04-09T11:04:16Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.29.2.tar.gz",
+        "count": 7874,
+        "size": 173053
+      }
+    ]
+  },
+  {
+    "name": "v0.29.1",
+    "date": "2024-03-24T14:56:18Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.29.1.tar.gz",
+        "count": 740,
+        "size": 172710
+      }
+    ]
+  },
+  {
+    "name": "v0.29.0",
+    "date": "2024-03-24T13:26:02Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.29.0.tar.gz",
         "count": 8,
-        "size": 114380
+        "size": 172710
       }
     ]
   },
   {
-    "name": "v0.3.0",
-    "date": "2023-02-28T13:54:24Z",
+    "name": "v0.28.0",
+    "date": "2024-02-14T13:02:18Z",
     "mentions": 2,
     "downloads": [
       {
-        "name": "swift_bazel.v0.3.0.tar.gz",
-        "count": 6,
-        "size": 111967
+        "name": "rules_swift_package_manager.v0.28.0.tar.gz",
+        "count": 10035,
+        "size": 198254
       }
     ]
   },
   {
-    "name": "v0.2.2",
-    "date": "2023-02-24T15:12:54Z",
+    "name": "v0.27.0",
+    "date": "2024-02-10T21:33:59Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.27.0.tar.gz",
+        "count": 2046,
+        "size": 199094
+      }
+    ]
+  },
+  {
+    "name": "v0.26.2",
+    "date": "2024-02-01T20:31:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.26.2.tar.gz",
+        "count": 1538,
+        "size": 198774
+      }
+    ]
+  },
+  {
+    "name": "v0.26.1",
+    "date": "2024-02-01T14:17:23Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.26.1.tar.gz",
+        "count": 9,
+        "size": 198774
+      }
+    ]
+  },
+  {
+    "name": "v0.26.0",
+    "date": "2024-02-01T00:41:16Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.26.0.tar.gz",
+        "count": 10,
+        "size": 198764
+      }
+    ]
+  },
+  {
+    "name": "v0.25.0",
+    "date": "2024-01-03T13:57:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.25.0.tar.gz",
+        "count": 6431,
+        "size": 198507
+      }
+    ]
+  },
+  {
+    "name": "v0.24.0",
+    "date": "2023-12-17T21:07:09Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.24.0.tar.gz",
+        "count": 369,
+        "size": 199998
+      }
+    ]
+  },
+  {
+    "name": "v0.23.0",
+    "date": "2023-12-08T13:11:20Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.23.0.tar.gz",
+        "count": 446,
+        "size": 199679
+      }
+    ]
+  },
+  {
+    "name": "v0.22.0",
+    "date": "2023-11-26T15:26:24Z",
     "mentions": 3,
     "downloads": [
       {
-        "name": "swift_bazel.v0.2.2.tar.gz",
-        "count": 4,
-        "size": 109447
+        "name": "rules_swift_package_manager.v0.22.0.tar.gz",
+        "count": 11688,
+        "size": 198102
       }
     ]
   },
   {
-    "name": "v0.2.1",
-    "date": "2023-02-13T16:02:10Z",
+    "name": "v0.21.0",
+    "date": "2023-11-13T23:30:51Z",
     "mentions": 2,
     "downloads": [
       {
-        "name": "swift_bazel.v0.2.1.tar.gz",
-        "count": 31,
-        "size": 100736
+        "name": "rules_swift_package_manager.v0.21.0.tar.gz",
+        "count": 2543,
+        "size": 174919
       }
     ]
   },
   {
-    "name": "v0.2.0",
-    "date": "2023-01-13T20:34:21Z",
+    "name": "v0.20.0",
+    "date": "2023-11-03T20:01:39Z",
     "mentions": 2,
-    "downloads": []
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.20.0.tar.gz",
+        "count": 1322,
+        "size": 174691
+      }
+    ]
   },
   {
-    "name": "v0.1.0",
-    "date": "2023-01-10T23:07:21Z",
+    "name": "v0.19.0",
+    "date": "2023-10-30T13:03:56Z",
     "mentions": 1,
-    "downloads": []
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.19.0.tar.gz",
+        "count": 552,
+        "size": 174875
+      }
+    ]
   },
   {
-    "name": "v0.0.2",
-    "date": "2023-01-10T19:22:45Z",
+    "name": "v0.18.2",
+    "date": "2023-10-26T13:59:56Z",
     "mentions": 1,
-    "downloads": []
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.18.2.tar.gz",
+        "count": 426,
+        "size": 174569
+      }
+    ]
   },
   {
-    "name": "v0.0.1",
-    "date": "2023-01-10T19:13:29Z",
-    "mentions": 2,
-    "downloads": []
+    "name": "v0.18.1",
+    "date": "2023-10-25T20:57:12Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.18.1.tar.gz",
+        "count": 9,
+        "size": 174500
+      }
+    ]
+  },
+  {
+    "name": "v0.18.0",
+    "date": "2023-10-25T19:36:05Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.18.0.tar.gz",
+        "count": 9,
+        "size": 174502
+      }
+    ]
+  },
+  {
+    "name": "v0.17.0",
+    "date": "2023-10-24T14:30:13Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.17.0.tar.gz",
+        "count": 434,
+        "size": 153466
+      }
+    ]
+  },
+  {
+    "name": "v0.16.0",
+    "date": "2023-10-17T15:18:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swift_package_manager.v0.16.0.tar.gz",
+        "count": 25255,
+        "size": 153398
+      }
+    ]
   }
 ]

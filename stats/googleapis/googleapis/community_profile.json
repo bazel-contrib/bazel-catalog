@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "Public interface definitions of Google APIs.",
+  "documentation": "http://googleapis.github.io/googleapis/",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/googleapis/googleapis/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/googleapis/googleapis/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/googleapis/googleapis/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/googleapis/googleapis/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/googleapis/googleapis/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/googleapis/googleapis/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/googleapis/googleapis/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/googleapis/googleapis/contents/README.md",
+      "html_url": "https://github.com/googleapis/googleapis/blob/master/README.md"
+    }
+  },
+  "updated_at": "2020-09-03T13:37:20Z",
+  "content_reports_enabled": false
+}

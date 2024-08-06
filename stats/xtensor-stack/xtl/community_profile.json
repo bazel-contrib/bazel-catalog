@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "The x template library",
+  "documentation": "https://github.com/xtensor-stack/xtl/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/xtensor-stack/xtl/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/xtensor-stack/xtl/blob/master/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "bsd-3-clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "spdx_id": "BSD-3-Clause",
+      "url": "https://api.github.com/licenses/bsd-3-clause",
+      "node_id": "MDc6TGljZW5zZTU=",
+      "html_url": "https://github.com/xtensor-stack/xtl/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/xtensor-stack/xtl/contents/README.md",
+      "html_url": "https://github.com/xtensor-stack/xtl/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-12-19T16:45:54Z",
+  "content_reports_enabled": false
+}

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/apple_support/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/apple_support/deployments",
   "created_at": "2018-12-08T14:22:15Z",
-  "updated_at": "2023-08-03T08:56:25Z",
-  "pushed_at": "2023-09-19T17:17:09Z",
+  "updated_at": "2024-07-24T09:13:41Z",
+  "pushed_at": "2024-07-31T19:15:13Z",
   "git_url": "git://github.com/bazelbuild/apple_support.git",
   "ssh_url": "git@github.com:bazelbuild/apple_support.git",
   "clone_url": "https://github.com/bazelbuild/apple_support.git",
   "svn_url": "https://github.com/bazelbuild/apple_support",
   "homepage": "",
-  "size": 384,
-  "stargazers_count": 65,
-  "watchers_count": 65,
+  "size": 499,
+  "stargazers_count": 76,
+  "watchers_count": 76,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 28,
+  "forks_count": 36,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 8,
+  "open_issues_count": 12,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 28,
-  "open_issues": 8,
-  "watchers": 65,
+  "forks": 36,
+  "open_issues": 12,
+  "watchers": 76,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 28,
-  "subscribers_count": 16
+  "network_count": 36,
+  "subscribers_count": 17
 }

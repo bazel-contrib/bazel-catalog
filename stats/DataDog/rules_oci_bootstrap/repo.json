@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/DataDog/rules_oci_bootstrap/releases{/id}",
   "deployments_url": "https://api.github.com/repos/DataDog/rules_oci_bootstrap/deployments",
   "created_at": "2022-02-02T16:47:28Z",
-  "updated_at": "2022-09-22T07:50:56Z",
+  "updated_at": "2024-03-31T14:13:41Z",
   "pushed_at": "2023-09-06T20:14:16Z",
   "git_url": "git://github.com/DataDog/rules_oci_bootstrap.git",
   "ssh_url": "git@github.com:DataDog/rules_oci_bootstrap.git",
@@ -110,6 +110,9 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {
+    "exemptFromGlobalRepoRules": "false"
+  },
   "organization": {
     "login": "DataDog",
     "id": 365230,
@@ -131,5 +134,5 @@
     "site_admin": false
   },
   "network_count": 1,
-  "subscribers_count": 8
+  "subscribers_count": 322
 }

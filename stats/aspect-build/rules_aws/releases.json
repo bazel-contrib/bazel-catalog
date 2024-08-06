@@ -1,0 +1,50 @@
+[
+  {
+    "name": "v0.4.0",
+    "date": "2024-07-26T16:49:49Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_aws-v0.4.0.tar.gz",
+        "count": 30,
+        "size": 34209
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2024-05-02T21:22:24Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_aws-v0.3.0.tar.gz",
+        "count": 775,
+        "size": 33906
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2024-02-08T16:35:21Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_aws-v0.2.0.tar.gz",
+        "count": 6708,
+        "size": 30702
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2024-02-08T05:31:38Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_aws-v0.1.0.tar.gz",
+        "count": 12,
+        "size": 30179
+      }
+    ]
+  }
+]

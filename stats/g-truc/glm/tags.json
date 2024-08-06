@@ -1,0 +1,122 @@
+[
+  {
+    "name": "release-closed",
+    "sha": "485700a54648d43ea977c15af73bcf3e56e271be"
+  },
+  {
+    "name": "preview1",
+    "sha": "e8f0499e2a5c5cd6d26f4ed8b20a77e2da36d7c6"
+  },
+  {
+    "name": "precision-closed",
+    "sha": "604405e9413a4cd2bfdce8df64db32995b4b5aa4"
+  },
+  {
+    "name": "packing-closed",
+    "sha": "5be36e0ddc971cbd0ff6557f5583bfd532827225"
+  },
+  {
+    "name": "nohalf-closed",
+    "sha": "eb7059ff26f71ad6bcb462491098924a2025ebd0"
+  },
+  {
+    "name": "io-closed",
+    "sha": "83f594b5ed2689f4e4ec6845396c46032b6ccacb"
+  },
+  {
+    "name": "bug-214-closed",
+    "sha": "7fe8a1944c66fb9acf3aa2930966cfafa4ee9e09"
+  },
+  {
+    "name": "1.0.1",
+    "sha": "0af55ccecd98d4e5a8d1fad7de25ba429d60e863"
+  },
+  {
+    "name": "1.0.0",
+    "sha": "33b0eb9fa336ffd8551024b1d2690e418014553b"
+  },
+  {
+    "name": "0.9.9.8",
+    "sha": "bf71a834948186f4097caa076cd2663c69a10e1e"
+  },
+  {
+    "name": "0.9.9.7",
+    "sha": "13724cfae64a8b5313d1cabc9a963d2c9dbeda12"
+  },
+  {
+    "name": "0.9.9.6",
+    "sha": "4db8f89aace8f04c839b606e15b39fb8383ec732"
+  },
+  {
+    "name": "0.9.9.5",
+    "sha": "d162eee1e6f7c317a09229fe6ceab8ec6ab9a4b4"
+  },
+  {
+    "name": "0.9.9.4",
+    "sha": "658d8960d081e0c9c312d49758c7ef919371b428"
+  },
+  {
+    "name": "0.9.9.3",
+    "sha": "9749727c2db4742369219e1d452f43e918734b4e"
+  },
+  {
+    "name": "0.9.9.2",
+    "sha": "21a30e11164c6ffc1ec12811cf7ce82c9f3b2d1f"
+  },
+  {
+    "name": "0.9.9.1",
+    "sha": "416fa93e42f8fe1d85a93888a113fecd79e01453"
+  },
+  {
+    "name": "0.9.9.0",
+    "sha": "fe7c7b5ac15ba8d5c9c45984831dc2e830726b33"
+  },
+  {
+    "name": "0.9.9-a2",
+    "sha": "fcbedf5058ef8613dd02aac62ef00d55dcfeadd7"
+  },
+  {
+    "name": "0.9.9-a1",
+    "sha": "8a8a6c2b76180a3c65d11467c79270bfcc75bb25"
+  },
+  {
+    "name": "0.9.8.5",
+    "sha": "6fa203eeb7fbcbb6f620501fad40359c8a456049"
+  },
+  {
+    "name": "0.9.8.4",
+    "sha": "5dcc56489e1b66dfd5bca751fa9b8dc68059e008"
+  },
+  {
+    "name": "0.9.8.3",
+    "sha": "6a1e2ec5d5e79e6d869c947cbdbcbb297bdf9d32"
+  },
+  {
+    "name": "0.9.8.2",
+    "sha": "c4f52dc98f3e5c87e4a3077fad2b7fe611135aae"
+  },
+  {
+    "name": "0.9.8.1",
+    "sha": "48f896bad9ec5e822d581b0793e514e240824008"
+  },
+  {
+    "name": "0.9.8.0",
+    "sha": "454d480ceb4ac10ca76ac24b49836b7d5a35f786"
+  },
+  {
+    "name": "0.9.7.6",
+    "sha": "dff3af56a884e31d21eae7ab3eb72a8d192adc54"
+  },
+  {
+    "name": "0.9.7.5",
+    "sha": "767aa16e5bf25a92d6cb1da2a3062d4ccde91774"
+  },
+  {
+    "name": "0.9.7.4",
+    "sha": "407d671954030b5875f3ad0328f2810ab7839f37"
+  },
+  {
+    "name": "0.9.7.3",
+    "sha": "5809830f641c570f88e6ada2dcb3f94be840d6b8"
+  }
+]

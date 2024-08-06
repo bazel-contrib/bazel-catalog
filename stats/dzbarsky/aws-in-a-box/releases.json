@@ -1,0 +1,1112 @@
+[
+  {
+    "name": "v0.0.58",
+    "date": "2024-07-01T18:15:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 4,
+        "size": 7542496
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 140,
+        "size": 7393266
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 2,
+        "size": 7551726
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 2,
+        "size": 7256621
+      },
+      {
+        "name": "aws-in-a-box-v0.0.58.tar.gz",
+        "count": 57,
+        "size": 68287
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7712256
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7247872
+      }
+    ]
+  },
+  {
+    "name": "v0.0.57",
+    "date": "2024-05-17T15:37:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 3,
+        "size": 7538320
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 5,
+        "size": 7393170
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 4,
+        "size": 7551625
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 4,
+        "size": 7256520
+      },
+      {
+        "name": "aws-in-a-box-v0.0.57.tar.gz",
+        "count": 147,
+        "size": 80520
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7711232
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7247360
+      }
+    ]
+  },
+  {
+    "name": "v0.0.56",
+    "date": "2024-05-17T15:36:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 0,
+        "size": 7538320
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 0,
+        "size": 7393170
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7551625
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7256520
+      },
+      {
+        "name": "aws-in-a-box-v0.0.56.tar.gz",
+        "count": 5,
+        "size": 80524
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7711232
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7247360
+      }
+    ]
+  },
+  {
+    "name": "v0.0.55",
+    "date": "2024-04-24T21:57:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 4,
+        "size": 7538320
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 149,
+        "size": 7393170
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 2,
+        "size": 7547529
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 2,
+        "size": 7256520
+      },
+      {
+        "name": "aws-in-a-box-v0.0.55.tar.gz",
+        "count": 11378,
+        "size": 80524
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7710208
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7246848
+      }
+    ]
+  },
+  {
+    "name": "v0.0.54",
+    "date": "2024-04-24T12:47:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7538320
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 7393170
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7547529
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 7256520
+      },
+      {
+        "name": "aws-in-a-box-v0.0.54.tar.gz",
+        "count": 148,
+        "size": 80437
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7710208
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7246848
+      }
+    ]
+  },
+  {
+    "name": "v0.0.53",
+    "date": "2024-04-24T01:24:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 0,
+        "size": 7538320
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 0,
+        "size": 7393170
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7547529
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7256520
+      },
+      {
+        "name": "aws-in-a-box-v0.0.53.tar.gz",
+        "count": 2,
+        "size": 80414
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7710208
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7246848
+      }
+    ]
+  },
+  {
+    "name": "v0.0.52",
+    "date": "2024-04-24T01:15:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 0,
+        "size": 7538320
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 0,
+        "size": 7393170
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7547529
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7256520
+      },
+      {
+        "name": "aws-in-a-box-v0.0.52.tar.gz",
+        "count": 2,
+        "size": 80419
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7710208
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7246848
+      }
+    ]
+  },
+  {
+    "name": "v0.0.51",
+    "date": "2024-03-18T18:56:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 0,
+        "size": 7538096
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 0,
+        "size": 7392930
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7543195
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7256282
+      },
+      {
+        "name": "aws-in-a-box-v0.0.51.tar.gz",
+        "count": 195,
+        "size": 80114
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7707648
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7243776
+      }
+    ]
+  },
+  {
+    "name": "v0.0.50",
+    "date": "2024-03-18T18:46:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 0,
+        "size": 7538096
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 0,
+        "size": 7392930
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7543195
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7256282
+      },
+      {
+        "name": "aws-in-a-box-v0.0.50.tar.gz",
+        "count": 5,
+        "size": 79936
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7707648
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7243776
+      }
+    ]
+  },
+  {
+    "name": "v0.0.49",
+    "date": "2024-03-06T05:52:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 7,
+        "size": 7421744
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 149,
+        "size": 7276610
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 2,
+        "size": 7430183
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 2,
+        "size": 7110502
+      },
+      {
+        "name": "aws-in-a-box-v0.0.49.tar.gz",
+        "count": 219,
+        "size": 76898
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7590912
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7135232
+      }
+    ]
+  },
+  {
+    "name": "v0.0.48",
+    "date": "2024-02-11T03:49:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7385696
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 3,
+        "size": 7239346
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7398024
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7107015
+      },
+      {
+        "name": "aws-in-a-box-v0.0.48.tar.gz",
+        "count": 268,
+        "size": 75034
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7556096
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7101952
+      }
+    ]
+  },
+  {
+    "name": "v0.0.47",
+    "date": "2024-02-09T14:51:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7385696
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 7239346
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7398024
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 7107015
+      },
+      {
+        "name": "aws-in-a-box-v0.0.47.tar.gz",
+        "count": 2,
+        "size": 75020
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7556096
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7101952
+      }
+    ]
+  },
+  {
+    "name": "v0.0.46",
+    "date": "2024-02-08T04:13:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 2,
+        "size": 7385600
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 2,
+        "size": 7239218
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 2,
+        "size": 7397932
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 2,
+        "size": 7106923
+      },
+      {
+        "name": "aws-in-a-box-v0.0.46.tar.gz",
+        "count": 4,
+        "size": 74955
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 2,
+        "size": 7555072
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 2,
+        "size": 7101440
+      }
+    ]
+  },
+  {
+    "name": "v0.0.45",
+    "date": "2024-02-08T01:58:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 0,
+        "size": 7385600
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 0,
+        "size": 7239218
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 0,
+        "size": 7397932
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 0,
+        "size": 7106923
+      },
+      {
+        "name": "aws-in-a-box-v0.0.45.tar.gz",
+        "count": 1,
+        "size": 74964
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7555072
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7101440
+      }
+    ]
+  },
+  {
+    "name": "v0.0.44",
+    "date": "2024-01-23T01:15:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 8,
+        "size": 7371664
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 149,
+        "size": 7237010
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 3,
+        "size": 7379808
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 3,
+        "size": 7105183
+      },
+      {
+        "name": "aws-in-a-box-v0.0.44.tar.gz",
+        "count": 295,
+        "size": 72109
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7537152
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 7084544
+      }
+    ]
+  },
+  {
+    "name": "v0.0.43",
+    "date": "2023-12-27T02:58:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7367568
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 2,
+        "size": 7237010
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7379808
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 7105183
+      },
+      {
+        "name": "aws-in-a-box-v0.0.43.tar.gz",
+        "count": 3028,
+        "size": 72057
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 2,
+        "size": 7537152
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 7084032
+      }
+    ]
+  },
+  {
+    "name": "v0.0.42",
+    "date": "2023-12-01T16:52:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 7,
+        "size": 7371616
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 149,
+        "size": 7236946
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 4,
+        "size": 7379752
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 3,
+        "size": 7105127
+      },
+      {
+        "name": "aws-in-a-box-v0.0.42.tar.gz",
+        "count": 6,
+        "size": 57114
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7539712
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 2,
+        "size": 7085056
+      }
+    ]
+  },
+  {
+    "name": "v0.0.41",
+    "date": "2023-09-18T18:31:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 4,
+        "size": 7367152
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 5,
+        "size": 7221010
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 3,
+        "size": 7375308
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 4,
+        "size": 7104779
+      },
+      {
+        "name": "aws-in-a-box-v0.0.41.tar.gz",
+        "count": 5,
+        "size": 56661
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7536128
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 2,
+        "size": 7082496
+      }
+    ]
+  },
+  {
+    "name": "v0.0.40",
+    "date": "2023-09-16T19:37:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7316912
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 7180482
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 7033746
+      },
+      {
+        "name": "aws-in-a-box-v0.0.40.tar.gz",
+        "count": 5,
+        "size": 54583
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7483392
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 7032320
+      }
+    ]
+  },
+  {
+    "name": "v0.0.39",
+    "date": "2023-09-16T19:26:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-v0.0.39.tar.gz",
+        "count": 2,
+        "size": 54574
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 2,
+        "size": 7328851
+      }
+    ]
+  },
+  {
+    "name": "v0.0.37",
+    "date": "2023-09-16T19:07:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7316912
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 7180482
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7328851
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 7033746
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7483392
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 7032320
+      }
+    ]
+  },
+  {
+    "name": "v0.0.36",
+    "date": "2023-09-06T23:02:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 6,
+        "size": 7275280
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 133,
+        "size": 7124146
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 304,
+        "size": 7278653
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 38,
+        "size": 7028604
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7436800
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 6987264
+      }
+    ]
+  },
+  {
+    "name": "v0.0.35",
+    "date": "2023-08-23T01:23:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7252208
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 3,
+        "size": 7120578
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7259545
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 1,
+        "size": 6960344
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7413760
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 6964224
+      }
+    ]
+  },
+  {
+    "name": "v0.0.34",
+    "date": "2023-08-23T00:47:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 7120578
+      }
+    ]
+  },
+  {
+    "name": "v0.0.34",
+    "date": "2023-08-23T00:47:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 0,
+        "size": 7413760
+      }
+    ]
+  },
+  {
+    "name": "v0.0.33",
+    "date": "2023-07-31T15:42:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 3,
+        "size": 7192192
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 9,
+        "size": 6999666
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 39,
+        "size": 7194252
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 42,
+        "size": 6825852
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7294464
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 6819840
+      }
+    ]
+  },
+  {
+    "name": "v0.0.32",
+    "date": "2023-07-27T16:44:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 7036400
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 1,
+        "size": 6834962
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 1,
+        "size": 7037435
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 2,
+        "size": 6681323
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 7137280
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 6671360
+      }
+    ]
+  },
+  {
+    "name": "v0.0.31",
+    "date": "2023-07-24T13:43:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 3,
+        "size": 9251776
+      },
+      {
+        "name": "aws-in-a-box-darwin-arm64",
+        "count": 8,
+        "size": 8975346
+      },
+      {
+        "name": "aws-in-a-box-linux-amd64",
+        "count": 21,
+        "size": 9309669
+      },
+      {
+        "name": "aws-in-a-box-linux-arm64",
+        "count": 28,
+        "size": 8782949
+      },
+      {
+        "name": "aws-in-a-box-windows-amd64",
+        "count": 1,
+        "size": 9414656
+      },
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 1,
+        "size": 8833024
+      }
+    ]
+  },
+  {
+    "name": "v0.0.30",
+    "date": "2023-07-24T13:14:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-darwin-amd64",
+        "count": 1,
+        "size": 9251776
+      }
+    ]
+  },
+  {
+    "name": "v0.0.30",
+    "date": "2023-07-24T13:14:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "aws-in-a-box-windows-arm64",
+        "count": 0,
+        "size": 8833024
+      }
+    ]
+  }
+]

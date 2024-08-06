@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Bazel repository for building the tree-sitter C parser.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/zadlg/tree-sitter-c-bazel/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/zadlg/tree-sitter-c-bazel/contents/README.md",
+      "html_url": "https://github.com/zadlg/tree-sitter-c-bazel/blob/main/README.md"
+    }
+  },
+  "updated_at": null
+}

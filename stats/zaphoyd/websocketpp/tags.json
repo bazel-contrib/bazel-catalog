@@ -1,0 +1,66 @@
+[
+  {
+    "name": "v0.2.2dev",
+    "sha": "43970572f50c3e1c89a9a4c9fcefbc9eb1df98fd"
+  },
+  {
+    "name": "0.8.2",
+    "sha": "56123c87598f8b1dd471be83ca841ceae07f95ba"
+  },
+  {
+    "name": "0.8.1",
+    "sha": "c6d7e295bf5a0ab9b5f896720cc1a0e0fdc397a7"
+  },
+  {
+    "name": "0.8.0",
+    "sha": "c612a35f06138fad627c0ecf61f7b43d1328e32e"
+  },
+  {
+    "name": "0.7.0",
+    "sha": "378437aecdcb1dfe62096ffd5d944bf1f640ccc3"
+  },
+  {
+    "name": "0.6.0",
+    "sha": "c5510d6de04917812b910a8dd44735c1f17061d9"
+  },
+  {
+    "name": "0.6.0-permessage-deflate",
+    "sha": "0d7052d2ae31a9fd6240deda02ae484549886ad5"
+  },
+  {
+    "name": "0.5.1",
+    "sha": "ac5d7ea5af9734de965688b54a7860259887b537"
+  },
+  {
+    "name": "0.5.0",
+    "sha": "f20b2e573f1adfce25f20b30583377aa70f2b23e"
+  },
+  {
+    "name": "0.4.0",
+    "sha": "802e34bd2cad95c7ac93acf189813395481e41c9"
+  },
+  {
+    "name": "0.3.0",
+    "sha": "e203dbed45409111c2e95cb3e4a1d178ee57d2bc"
+  },
+  {
+    "name": "0.3.0-alpha4",
+    "sha": "4231edec53b23bfd11b14e959a58996c8157eee3"
+  },
+  {
+    "name": "0.3.0-alpha3",
+    "sha": "3f08de3d9db0f93f3f5ee47d7e4021cb3a796a1e"
+  },
+  {
+    "name": "0.3.0-alpha2",
+    "sha": "9161119b4d373133e21fa1bc2237213f9360b98f"
+  },
+  {
+    "name": "0.3.0-alpha1",
+    "sha": "a401a4448dc4da0b65cc2a53996eeaaeb209b324"
+  },
+  {
+    "name": "0.2.3-dev",
+    "sha": "d645ccc36f7662ecb6d09a425ac8626bcf15e610"
+  }
+]

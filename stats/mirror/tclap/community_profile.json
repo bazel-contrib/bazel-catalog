@@ -1,0 +1,26 @@
+{
+  "health_percentage": 37,
+  "description": "Templatized C++ Command Line Parser mirror",
+  "documentation": "http://tclap.sourceforge.net/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/mirror/tclap/blob/master/COPYING"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/mirror/tclap/contents/README",
+      "html_url": "https://github.com/mirror/tclap/blob/master/README"
+    }
+  },
+  "updated_at": "2020-03-22T09:46:21Z",
+  "content_reports_enabled": false
+}

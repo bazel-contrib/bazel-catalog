@@ -1,0 +1,18 @@
+{
+  "health_percentage": 14,
+  "description": null,
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": null,
+    "readme": {
+      "url": "https://api.github.com/repos/opicaud/rules_pact/contents/README.md",
+      "html_url": "https://github.com/opicaud/rules_pact/blob/main/README.md"
+    }
+  },
+  "updated_at": null
+}

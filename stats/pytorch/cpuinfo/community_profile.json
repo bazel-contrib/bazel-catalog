@@ -1,0 +1,37 @@
+{
+  "health_percentage": 62,
+  "description": "CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/pytorch/cpuinfo/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/pytorch/cpuinfo/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/pytorch/cpuinfo/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/pytorch/cpuinfo/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/pytorch/cpuinfo/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/pytorch/cpuinfo/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "bsd-2-clause",
+      "name": "BSD 2-Clause \"Simplified\" License",
+      "spdx_id": "BSD-2-Clause",
+      "url": "https://api.github.com/licenses/bsd-2-clause",
+      "node_id": "MDc6TGljZW5zZTQ=",
+      "html_url": "https://github.com/pytorch/cpuinfo/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/pytorch/cpuinfo/contents/README.md",
+      "html_url": "https://github.com/pytorch/cpuinfo/blob/main/README.md"
+    }
+  },
+  "updated_at": "2020-01-22T22:30:04Z",
+  "content_reports_enabled": false
+}

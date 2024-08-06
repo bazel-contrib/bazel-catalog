@@ -1,0 +1,28 @@
+{
+  "health_percentage": 57,
+  "description": "PCG — C++ Implementation",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/imneme/pcg-cpp/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/imneme/pcg-cpp/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/imneme/pcg-cpp/blob/master/LICENSE-APACHE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/imneme/pcg-cpp/contents/README.md",
+      "html_url": "https://github.com/imneme/pcg-cpp/blob/master/README.md"
+    }
+  },
+  "updated_at": "2018-09-27T14:04:42Z"
+}

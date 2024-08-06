@@ -1,0 +1,40 @@
+{
+  "health_percentage": 87,
+  "description": "A Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raft clusters in a single system.",
+  "documentation": "https://github.com/rabbitmq/ra/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/rabbitmq/ra/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/rabbitmq/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/rabbitmq/ra/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/rabbitmq/ra/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/rabbitmq/ra/contents/.github/PULL_REQUEST_TEMPLATE.md",
+      "html_url": "https://github.com/rabbitmq/ra/blob/main/.github/PULL_REQUEST_TEMPLATE.md"
+    },
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/rabbitmq/ra/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/rabbitmq/ra/contents/README.md",
+      "html_url": "https://github.com/rabbitmq/ra/blob/main/README.md"
+    }
+  },
+  "updated_at": "2019-01-31T14:39:21Z",
+  "content_reports_enabled": false
+}

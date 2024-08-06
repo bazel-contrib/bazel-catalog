@@ -1,0 +1,122 @@
+[
+  {
+    "name": "jpeg-ari",
+    "sha": "1e247ac854f8e33682bcfea475f6bccc42377208"
+  },
+  {
+    "name": "jpeg-9",
+    "sha": "e7f88aec23279d58bf5f37524c1958ba366f346d"
+  },
+  {
+    "name": "jpeg-9e",
+    "sha": "ff9491d4e0a06542ae82367183e4548664705d80"
+  },
+  {
+    "name": "jpeg-9d",
+    "sha": "9fc018fd1aa9598f21c9bc4d8d53c0cef007bdcf"
+  },
+  {
+    "name": "jpeg-9c",
+    "sha": "96e4e7eb60080a995d908ee05111ede19a5e775e"
+  },
+  {
+    "name": "jpeg-9b",
+    "sha": "a560e4b4239b585e0f9dfc4d7e5d7b2273f43c11"
+  },
+  {
+    "name": "jpeg-9a",
+    "sha": "fc11193e7a4548616a3803c66697a58d2a7304c5"
+  },
+  {
+    "name": "jpeg-8",
+    "sha": "989630f70cf1af69ebfefca8910d1647bf189712"
+  },
+  {
+    "name": "jpeg-8d",
+    "sha": "5829cb23983cd241c48abd8ed70ff3627560c453"
+  },
+  {
+    "name": "jpeg-8c",
+    "sha": "c39ec149e8dfa87b8032a0cf0ce0a41da1bbdada"
+  },
+  {
+    "name": "jpeg-8b",
+    "sha": "a4ecaacde6d64e1f20b8647546813c17592016c1"
+  },
+  {
+    "name": "jpeg-8a",
+    "sha": "f18f81b7e20cf993786a3348960ab2428762deee"
+  },
+  {
+    "name": "jpeg-7",
+    "sha": "5996a25e2f50d20d6a8f09830724035b49c3927b"
+  },
+  {
+    "name": "jpeg-6",
+    "sha": "bc79e0680a45d1ca330d690dae0340c8e17ab5e3"
+  },
+  {
+    "name": "jpeg-6bx",
+    "sha": "a2e6a9dd47eb10c701a42a16f305ded1a02cd886"
+  },
+  {
+    "name": "jpeg-6bl-drc",
+    "sha": "af618ffe093de6563fc61355d4d28f2038ec6e9e"
+  },
+  {
+    "name": "jpeg-6bl",
+    "sha": "ec6e451d054addf6962110c2d469131f61fa7267"
+  },
+  {
+    "name": "jpeg-6b",
+    "sha": "5ead57a34a398aa798f35bd7a6abad19b2e453e2"
+  },
+  {
+    "name": "jpeg-6a",
+    "sha": "489583f5165e05d37302e8eeec58104ea0109127"
+  },
+  {
+    "name": "jpeg-5",
+    "sha": "36a4ccccd33f5cc9df62949554af87129ced7f84"
+  },
+  {
+    "name": "jpeg-5b",
+    "sha": "a8b67c4fbbfde9b4b4e03f2dea8f4f0b1900fc33"
+  },
+  {
+    "name": "jpeg-5a",
+    "sha": "9ba2f5ed3649fb6de83d3c16e4dba1443aaca983"
+  },
+  {
+    "name": "jpeg-4",
+    "sha": "88aeed428fd820659e3ae00292cb84ecfc05dd23"
+  },
+  {
+    "name": "jpeg-4a",
+    "sha": "cc7150e281999ac2642e21f13e2c160f68b1d675"
+  },
+  {
+    "name": "jpeg-3",
+    "sha": "4a6b7303643714d495b9d26742d8a156fd120936"
+  },
+  {
+    "name": "jpeg-2",
+    "sha": "bd543f030e7e435c2c6a6a7d52ad927ae97cd927"
+  },
+  {
+    "name": "jpeg-1",
+    "sha": "2cbeb8abd92d5ad8a1bd415b51b3816213b15f31"
+  },
+  {
+    "name": "3.0.3",
+    "sha": "7fa4b5b762c9a99b46b0b7838f5fd55071b92ea5"
+  },
+  {
+    "name": "3.0.2",
+    "sha": "289df647c0f208dad7db63f24830361257812b1b"
+  },
+  {
+    "name": "3.0.1",
+    "sha": "ec32420f6b5dfa4e86883d42b209e8371e55aeb5"
+  }
+]

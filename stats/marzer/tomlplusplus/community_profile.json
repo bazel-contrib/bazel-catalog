@@ -1,0 +1,39 @@
+{
+  "health_percentage": 85,
+  "description": "Header-only TOML config file parser and serializer for C++17.",
+  "documentation": "https://marzer.github.io/tomlplusplus/",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/marzer/tomlplusplus/blob/master/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/marzer/tomlplusplus/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/marzer/tomlplusplus/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/marzer/tomlplusplus/blob/master/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/marzer/tomlplusplus/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/marzer/tomlplusplus/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/marzer/tomlplusplus/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/marzer/tomlplusplus/blob/master/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/marzer/tomlplusplus/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/marzer/tomlplusplus/contents/README.md",
+      "html_url": "https://github.com/marzer/tomlplusplus/blob/master/README.md"
+    }
+  },
+  "updated_at": "2024-07-02T12:45:43Z"
+}

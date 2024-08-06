@@ -1,0 +1,34 @@
+{
+  "health_percentage": 50,
+  "description": "Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate",
+  "documentation": "https://github.com/bufbuild/protovalidate",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/bufbuild/protoc-gen-validate/blob/main/.github/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/bufbuild/protoc-gen-validate/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/bufbuild/protoc-gen-validate/contents/.github/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/bufbuild/protoc-gen-validate/blob/main/.github/CODE_OF_CONDUCT.md"
+    },
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/bufbuild/protoc-gen-validate/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bufbuild/protoc-gen-validate/contents/README.md",
+      "html_url": "https://github.com/bufbuild/protoc-gen-validate/blob/main/README.md"
+    }
+  },
+  "updated_at": "2024-04-04T16:04:30Z",
+  "content_reports_enabled": false
+}

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/rabbitmq/looking_glass/releases{/id}",
   "deployments_url": "https://api.github.com/repos/rabbitmq/looking_glass/deployments",
   "created_at": "2017-02-28T14:19:50Z",
-  "updated_at": "2023-07-29T06:12:58Z",
-  "pushed_at": "2023-09-14T07:48:41Z",
+  "updated_at": "2024-05-11T03:02:58Z",
+  "pushed_at": "2024-05-12T03:03:14Z",
   "git_url": "git://github.com/rabbitmq/looking_glass.git",
   "ssh_url": "git@github.com:rabbitmq/looking_glass.git",
   "clone_url": "https://github.com/rabbitmq/looking_glass.git",
   "svn_url": "https://github.com/rabbitmq/looking_glass",
   "homepage": "",
-  "size": 305,
-  "stargazers_count": 137,
-  "watchers_count": 137,
+  "size": 323,
+  "stargazers_count": 139,
+  "watchers_count": 139,
   "language": "Erlang",
   "has_issues": true,
   "has_projects": false,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 15,
+  "forks_count": 17,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["erlang", "profiling", "tracing"],
   "visibility": "public",
-  "forks": 15,
+  "forks": 17,
   "open_issues": 3,
-  "watchers": 137,
+  "watchers": 139,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "rabbitmq",
     "id": 96669,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 15,
+  "network_count": 17,
   "subscribers_count": 30
 }

@@ -1,0 +1,1417 @@
+[
+  {
+    "name": "curl-8_9_1",
+    "date": "2024-07-31T07:08:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.9.1.tar.bz2",
+        "count": 306,
+        "size": 3278263
+      },
+      {
+        "name": "curl-8.9.1.tar.bz2.asc",
+        "count": 23,
+        "size": 488
+      },
+      {
+        "name": "curl-8.9.1.tar.gz",
+        "count": 710,
+        "size": 4200000
+      },
+      {
+        "name": "curl-8.9.1.tar.gz.asc",
+        "count": 20,
+        "size": 488
+      },
+      {
+        "name": "curl-8.9.1.tar.xz",
+        "count": 4078,
+        "size": 2782364
+      },
+      {
+        "name": "curl-8.9.1.tar.xz.asc",
+        "count": 55,
+        "size": 488
+      },
+      {
+        "name": "curl-8.9.1.zip",
+        "count": 287,
+        "size": 6559959
+      },
+      {
+        "name": "curl-8.9.1.zip.asc",
+        "count": 15,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_9_0",
+    "date": "2024-07-24T06:37:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.9.0.jpg",
+        "count": 41,
+        "size": 375150
+      },
+      {
+        "name": "curl-8.9.0.tar.bz2",
+        "count": 411,
+        "size": 3275633
+      },
+      {
+        "name": "curl-8.9.0.tar.bz2.asc",
+        "count": 32,
+        "size": 488
+      },
+      {
+        "name": "curl-8.9.0.tar.gz",
+        "count": 793,
+        "size": 4206411
+      },
+      {
+        "name": "curl-8.9.0.tar.gz.asc",
+        "count": 35,
+        "size": 488
+      },
+      {
+        "name": "curl-8.9.0.tar.xz",
+        "count": 6027,
+        "size": 2781828
+      },
+      {
+        "name": "curl-8.9.0.tar.xz.asc",
+        "count": 56,
+        "size": 488
+      },
+      {
+        "name": "curl-8.9.0.zip",
+        "count": 414,
+        "size": 6563266
+      },
+      {
+        "name": "curl-8.9.0.zip.asc",
+        "count": 26,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_8_0",
+    "date": "2024-05-22T06:02:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.8.0.tar.bz2",
+        "count": 5149,
+        "size": 3221424
+      },
+      {
+        "name": "curl-8.8.0.tar.bz2.asc",
+        "count": 69,
+        "size": 488
+      },
+      {
+        "name": "curl-8.8.0.tar.gz",
+        "count": 29750,
+        "size": 4152714
+      },
+      {
+        "name": "curl-8.8.0.tar.gz.asc",
+        "count": 143,
+        "size": 488
+      },
+      {
+        "name": "curl-8.8.0.tar.xz",
+        "count": 40786,
+        "size": 2748860
+      },
+      {
+        "name": "curl-8.8.0.tar.xz.asc",
+        "count": 325,
+        "size": 488
+      },
+      {
+        "name": "curl-8.8.0.zip",
+        "count": 2733,
+        "size": 6489292
+      },
+      {
+        "name": "curl-8.8.0.zip.asc",
+        "count": 91,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_7_1",
+    "date": "2024-03-27T08:17:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.7.1.tar.bz2",
+        "count": 88739,
+        "size": 3291718
+      },
+      {
+        "name": "curl-8.7.1.tar.bz2.asc",
+        "count": 80,
+        "size": 488
+      },
+      {
+        "name": "curl-8.7.1.tar.gz",
+        "count": 7779,
+        "size": 4462311
+      },
+      {
+        "name": "curl-8.7.1.tar.gz.asc",
+        "count": 246,
+        "size": 488
+      },
+      {
+        "name": "curl-8.7.1.tar.xz",
+        "count": 12333,
+        "size": 2707016
+      },
+      {
+        "name": "curl-8.7.1.tar.xz.asc",
+        "count": 127,
+        "size": 488
+      },
+      {
+        "name": "curl-8.7.1.zip",
+        "count": 2620,
+        "size": 6707769
+      },
+      {
+        "name": "curl-8.7.1.zip.asc",
+        "count": 104,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_7_0",
+    "date": "2024-03-27T06:59:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.7.0.tar.bz2",
+        "count": 49,
+        "size": 2947972
+      },
+      {
+        "name": "curl-8.7.0.tar.bz2.asc",
+        "count": 20,
+        "size": 488
+      },
+      {
+        "name": "curl-8.7.0.tar.gz",
+        "count": 197,
+        "size": 3956340
+      },
+      {
+        "name": "curl-8.7.0.tar.gz.asc",
+        "count": 16,
+        "size": 488
+      },
+      {
+        "name": "curl-8.7.0.tar.xz",
+        "count": 38,
+        "size": 2379056
+      },
+      {
+        "name": "curl-8.7.0.tar.xz.asc",
+        "count": 17,
+        "size": 488
+      },
+      {
+        "name": "curl-8.7.0.zip",
+        "count": 133,
+        "size": 5854633
+      },
+      {
+        "name": "curl-8.7.0.zip.asc",
+        "count": 19,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_6_0",
+    "date": "2024-01-31T07:15:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.6.0.tar.bz2",
+        "count": 335308,
+        "size": 3218652
+      },
+      {
+        "name": "curl-8.6.0.tar.bz2.asc",
+        "count": 79,
+        "size": 488
+      },
+      {
+        "name": "curl-8.6.0.tar.gz",
+        "count": 14804,
+        "size": 4381562
+      },
+      {
+        "name": "curl-8.6.0.tar.gz.asc",
+        "count": 86,
+        "size": 488
+      },
+      {
+        "name": "curl-8.6.0.tar.xz",
+        "count": 12982,
+        "size": 2630108
+      },
+      {
+        "name": "curl-8.6.0.tar.xz.asc",
+        "count": 129,
+        "size": 488
+      },
+      {
+        "name": "curl-8.6.0.zip",
+        "count": 5302,
+        "size": 6581509
+      },
+      {
+        "name": "curl-8.6.0.zip.asc",
+        "count": 55,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_5_0",
+    "date": "2023-12-06T07:24:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.5.0.tar.bz2",
+        "count": 113038,
+        "size": 3248325
+      },
+      {
+        "name": "curl-8.5.0.tar.bz2.asc",
+        "count": 60,
+        "size": 488
+      },
+      {
+        "name": "curl-8.5.0.tar.gz",
+        "count": 32276,
+        "size": 4372979
+      },
+      {
+        "name": "curl-8.5.0.tar.gz.asc",
+        "count": 102,
+        "size": 488
+      },
+      {
+        "name": "curl-8.5.0.tar.xz",
+        "count": 23118,
+        "size": 2658520
+      },
+      {
+        "name": "curl-8.5.0.tar.xz.asc",
+        "count": 122,
+        "size": 488
+      },
+      {
+        "name": "curl-8.5.0.zip",
+        "count": 6568,
+        "size": 6725369
+      },
+      {
+        "name": "curl-8.5.0.zip.asc",
+        "count": 84,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_4_0",
+    "date": "2023-10-11T06:28:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.4.0.tar.bz2",
+        "count": 164724,
+        "size": 3252668
+      },
+      {
+        "name": "curl-8.4.0.tar.bz2.asc",
+        "count": 101,
+        "size": 488
+      },
+      {
+        "name": "curl-8.4.0.tar.gz",
+        "count": 138957,
+        "size": 4424232
+      },
+      {
+        "name": "curl-8.4.0.tar.gz.asc",
+        "count": 108,
+        "size": 488
+      },
+      {
+        "name": "curl-8.4.0.tar.xz",
+        "count": 348392,
+        "size": 2658376
+      },
+      {
+        "name": "curl-8.4.0.tar.xz.asc",
+        "count": 189,
+        "size": 488
+      },
+      {
+        "name": "curl-8.4.0.zip",
+        "count": 8034,
+        "size": 6753397
+      },
+      {
+        "name": "curl-8.4.0.zip.asc",
+        "count": 125,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_3_0",
+    "date": "2023-09-13T06:25:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.3.0.tar.bz2",
+        "count": 1025,
+        "size": 3231051
+      },
+      {
+        "name": "curl-8.3.0.tar.bz2.asc",
+        "count": 70,
+        "size": 488
+      },
+      {
+        "name": "curl-8.3.0.tar.gz",
+        "count": 2196,
+        "size": 4404620
+      },
+      {
+        "name": "curl-8.3.0.tar.gz.asc",
+        "count": 119,
+        "size": 488
+      },
+      {
+        "name": "curl-8.3.0.tar.xz",
+        "count": 35368,
+        "size": 2641764
+      },
+      {
+        "name": "curl-8.3.0.tar.xz.asc",
+        "count": 103,
+        "size": 488
+      },
+      {
+        "name": "curl-8.3.0.zip",
+        "count": 1567,
+        "size": 6721155
+      },
+      {
+        "name": "curl-8.3.0.zip.asc",
+        "count": 80,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_2_1",
+    "date": "2023-07-26T06:28:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.2.1.tar.bz2",
+        "count": 7114,
+        "size": 3212355
+      },
+      {
+        "name": "curl-8.2.1.tar.bz2.asc",
+        "count": 82,
+        "size": 488
+      },
+      {
+        "name": "curl-8.2.1.tar.gz",
+        "count": 51619,
+        "size": 4394020
+      },
+      {
+        "name": "curl-8.2.1.tar.gz.asc",
+        "count": 131,
+        "size": 488
+      },
+      {
+        "name": "curl-8.2.1.tar.xz",
+        "count": 80668,
+        "size": 2631932
+      },
+      {
+        "name": "curl-8.2.1.tar.xz.asc",
+        "count": 130,
+        "size": 488
+      },
+      {
+        "name": "curl-8.2.1.zip",
+        "count": 6903,
+        "size": 6689980
+      },
+      {
+        "name": "curl-8.2.1.zip.asc",
+        "count": 88,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_2_0",
+    "date": "2023-07-19T06:21:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.2.0.tar.bz2",
+        "count": 9540,
+        "size": 3221322
+      },
+      {
+        "name": "curl-8.2.0.tar.bz2.asc",
+        "count": 57,
+        "size": 488
+      },
+      {
+        "name": "curl-8.2.0.tar.gz",
+        "count": 5321,
+        "size": 4400603
+      },
+      {
+        "name": "curl-8.2.0.tar.gz.asc",
+        "count": 56,
+        "size": 488
+      },
+      {
+        "name": "curl-8.2.0.tar.xz",
+        "count": 14607,
+        "size": 2637208
+      },
+      {
+        "name": "curl-8.2.0.tar.xz.asc",
+        "count": 129,
+        "size": 488
+      },
+      {
+        "name": "curl-8.2.0.zip",
+        "count": 5116,
+        "size": 6697090
+      },
+      {
+        "name": "curl-8.2.0.zip.asc",
+        "count": 58,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_1_2",
+    "date": "2023-05-30T06:24:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.1.2.tar.bz2",
+        "count": 5237,
+        "size": 3171168
+      },
+      {
+        "name": "curl-8.1.2.tar.bz2.asc",
+        "count": 114,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.2.tar.gz",
+        "count": 9653,
+        "size": 4365788
+      },
+      {
+        "name": "curl-8.1.2.tar.gz.asc",
+        "count": 93,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.2.tar.xz",
+        "count": 40567,
+        "size": 2612652
+      },
+      {
+        "name": "curl-8.1.2.tar.xz.asc",
+        "count": 277,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.2.zip",
+        "count": 6561,
+        "size": 6640017
+      },
+      {
+        "name": "curl-8.1.2.zip.asc",
+        "count": 85,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_1_1",
+    "date": "2023-05-23T06:16:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.1.1.tar.bz2",
+        "count": 4546,
+        "size": 3170438
+      },
+      {
+        "name": "curl-8.1.1.tar.bz2.asc",
+        "count": 60,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.1.tar.gz",
+        "count": 5217,
+        "size": 4365094
+      },
+      {
+        "name": "curl-8.1.1.tar.gz.asc",
+        "count": 613,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.1.tar.xz",
+        "count": 16700,
+        "size": 2613348
+      },
+      {
+        "name": "curl-8.1.1.tar.xz.asc",
+        "count": 98,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.1.zip",
+        "count": 4765,
+        "size": 6639290
+      },
+      {
+        "name": "curl-8.1.1.zip.asc",
+        "count": 47,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_1_0",
+    "date": "2023-05-17T06:22:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.1.0.tar.bz2",
+        "count": 463,
+        "size": 3174714
+      },
+      {
+        "name": "curl-8.1.0.tar.bz2.asc",
+        "count": 43,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.0.tar.gz",
+        "count": 12666,
+        "size": 4368624
+      },
+      {
+        "name": "curl-8.1.0.tar.gz.asc",
+        "count": 48,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.0.tar.xz",
+        "count": 3578,
+        "size": 2612568
+      },
+      {
+        "name": "curl-8.1.0.tar.xz.asc",
+        "count": 98,
+        "size": 488
+      },
+      {
+        "name": "curl-8.1.0.zip",
+        "count": 476,
+        "size": 6643454
+      },
+      {
+        "name": "curl-8.1.0.zip.asc",
+        "count": 50,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_0_1",
+    "date": "2023-03-20T13:59:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.0.1.tar.bz2",
+        "count": 11836,
+        "size": 3115562
+      },
+      {
+        "name": "curl-8.0.1.tar.bz2.asc",
+        "count": 75,
+        "size": 488
+      },
+      {
+        "name": "curl-8.0.1.tar.gz",
+        "count": 66380,
+        "size": 4290168
+      },
+      {
+        "name": "curl-8.0.1.tar.gz.asc",
+        "count": 108,
+        "size": 488
+      },
+      {
+        "name": "curl-8.0.1.tar.xz",
+        "count": 275154,
+        "size": 2575544
+      },
+      {
+        "name": "curl-8.0.1.tar.xz.asc",
+        "count": 157,
+        "size": 488
+      },
+      {
+        "name": "curl-8.0.1.zip",
+        "count": 7394,
+        "size": 6531226
+      },
+      {
+        "name": "curl-8.0.1.zip.asc",
+        "count": 108,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-8_0_0",
+    "date": "2023-03-20T07:23:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-8.0.0.tar.bz2",
+        "count": 87,
+        "size": 3121080
+      },
+      {
+        "name": "curl-8.0.0.tar.bz2.asc",
+        "count": 39,
+        "size": 488
+      },
+      {
+        "name": "curl-8.0.0.tar.gz",
+        "count": 557,
+        "size": 4294608
+      },
+      {
+        "name": "curl-8.0.0.tar.gz.asc",
+        "count": 40,
+        "size": 488
+      },
+      {
+        "name": "curl-8.0.0.tar.xz",
+        "count": 172,
+        "size": 2576600
+      },
+      {
+        "name": "curl-8.0.0.tar.xz.asc",
+        "count": 61,
+        "size": 488
+      },
+      {
+        "name": "curl-8.0.0.zip",
+        "count": 223,
+        "size": 6536238
+      },
+      {
+        "name": "curl-8.0.0.zip.asc",
+        "count": 40,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_88_1",
+    "date": "2023-02-20T07:37:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.88.1.tar.bz2",
+        "count": 5960,
+        "size": 3185862
+      },
+      {
+        "name": "curl-7.88.1.tar.bz2.asc",
+        "count": 99,
+        "size": 488
+      },
+      {
+        "name": "curl-7.88.1.tar.gz",
+        "count": 9906,
+        "size": 4343562
+      },
+      {
+        "name": "curl-7.88.1.tar.gz.asc",
+        "count": 115,
+        "size": 488
+      },
+      {
+        "name": "curl-7.88.1.tar.xz",
+        "count": 119163,
+        "size": 2581032
+      },
+      {
+        "name": "curl-7.88.1.tar.xz.asc",
+        "count": 166,
+        "size": 488
+      },
+      {
+        "name": "curl-7.88.1.zip",
+        "count": 6543,
+        "size": 6592937
+      },
+      {
+        "name": "curl-7.88.1.zip.asc",
+        "count": 121,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_88_0",
+    "date": "2023-02-15T07:25:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.88.0.tar.bz2",
+        "count": 988,
+        "size": 3188948
+      },
+      {
+        "name": "curl-7.88.0.tar.bz2.asc",
+        "count": 41,
+        "size": 488
+      },
+      {
+        "name": "curl-7.88.0.tar.gz",
+        "count": 12767,
+        "size": 4345058
+      },
+      {
+        "name": "curl-7.88.0.tar.gz.asc",
+        "count": 39,
+        "size": 488
+      },
+      {
+        "name": "curl-7.88.0.tar.xz",
+        "count": 28224,
+        "size": 2571564
+      },
+      {
+        "name": "curl-7.88.0.tar.xz.asc",
+        "count": 75,
+        "size": 488
+      },
+      {
+        "name": "curl-7.88.0.zip",
+        "count": 387,
+        "size": 6597489
+      },
+      {
+        "name": "curl-7.88.0.zip.asc",
+        "count": 41,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_87_0",
+    "date": "2022-12-21T07:11:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.87.0.tar.bz2",
+        "count": 23081,
+        "size": 3140918
+      },
+      {
+        "name": "curl-7.87.0.tar.bz2.asc",
+        "count": 130,
+        "size": 488
+      },
+      {
+        "name": "curl-7.87.0.tar.gz",
+        "count": 59544,
+        "size": 4291127
+      },
+      {
+        "name": "curl-7.87.0.tar.gz.asc",
+        "count": 147,
+        "size": 488
+      },
+      {
+        "name": "curl-7.87.0.tar.xz",
+        "count": 12995,
+        "size": 2547932
+      },
+      {
+        "name": "curl-7.87.0.tar.xz.asc",
+        "count": 229,
+        "size": 488
+      },
+      {
+        "name": "curl-7.87.0.zip",
+        "count": 7654,
+        "size": 6538258
+      },
+      {
+        "name": "curl-7.87.0.zip.asc",
+        "count": 148,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_86_0",
+    "date": "2022-10-26T06:23:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.86.0.tar.bz2",
+        "count": 13483,
+        "size": 3118530
+      },
+      {
+        "name": "curl-7.86.0.tar.bz2.asc",
+        "count": 164,
+        "size": 488
+      },
+      {
+        "name": "curl-7.86.0.tar.gz",
+        "count": 143968,
+        "size": 4232231
+      },
+      {
+        "name": "curl-7.86.0.tar.gz.asc",
+        "count": 197,
+        "size": 488
+      },
+      {
+        "name": "curl-7.86.0.tar.xz",
+        "count": 107411,
+        "size": 2518356
+      },
+      {
+        "name": "curl-7.86.0.tar.xz.asc",
+        "count": 274,
+        "size": 488
+      },
+      {
+        "name": "curl-7.86.0.zip",
+        "count": 7307,
+        "size": 6457132
+      },
+      {
+        "name": "curl-7.86.0.zip.asc",
+        "count": 175,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_85_0",
+    "date": "2022-08-31T06:26:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.85.0.tar.bz2",
+        "count": 6004,
+        "size": 3093256
+      },
+      {
+        "name": "curl-7.85.0.tar.bz2.asc",
+        "count": 170,
+        "size": 488
+      },
+      {
+        "name": "curl-7.85.0.tar.gz",
+        "count": 224767,
+        "size": 4182153
+      },
+      {
+        "name": "curl-7.85.0.tar.gz.asc",
+        "count": 165,
+        "size": 488
+      },
+      {
+        "name": "curl-7.85.0.tar.xz",
+        "count": 227593,
+        "size": 2480648
+      },
+      {
+        "name": "curl-7.85.0.tar.xz.asc",
+        "count": 210,
+        "size": 488
+      },
+      {
+        "name": "curl-7.85.0.zip",
+        "count": 9971,
+        "size": 6381680
+      },
+      {
+        "name": "curl-7.85.0.zip.asc",
+        "count": 179,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_84_0",
+    "date": "2022-06-27T06:36:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.84.0.tar.bz2",
+        "count": 15357,
+        "size": 3093273
+      },
+      {
+        "name": "curl-7.84.0.tar.bz2.asc",
+        "count": 94,
+        "size": 488
+      },
+      {
+        "name": "curl-7.84.0.tar.gz",
+        "count": 90407,
+        "size": 4173236
+      },
+      {
+        "name": "curl-7.84.0.tar.gz.asc",
+        "count": 106,
+        "size": 488
+      },
+      {
+        "name": "curl-7.84.0.tar.xz",
+        "count": 7700,
+        "size": 2477944
+      },
+      {
+        "name": "curl-7.84.0.tar.xz.asc",
+        "count": 204,
+        "size": 488
+      },
+      {
+        "name": "curl-7.84.0.zip",
+        "count": 8445,
+        "size": 6369163
+      },
+      {
+        "name": "curl-7.84.0.zip.asc",
+        "count": 140,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_83_1",
+    "date": "2022-05-11T06:29:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.83.1.tar.bz2",
+        "count": 9524,
+        "size": 3067759
+      },
+      {
+        "name": "curl-7.83.1.tar.bz2.asc",
+        "count": 94,
+        "size": 488
+      },
+      {
+        "name": "curl-7.83.1.tar.gz",
+        "count": 55127,
+        "size": 4162207
+      },
+      {
+        "name": "curl-7.83.1.tar.gz.asc",
+        "count": 112,
+        "size": 488
+      },
+      {
+        "name": "curl-7.83.1.tar.xz",
+        "count": 5961,
+        "size": 2474940
+      },
+      {
+        "name": "curl-7.83.1.tar.xz.asc",
+        "count": 136,
+        "size": 488
+      },
+      {
+        "name": "curl-7.83.1.zip",
+        "count": 6218,
+        "size": 6295794
+      },
+      {
+        "name": "curl-7.83.1.zip.asc",
+        "count": 114,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_83_0",
+    "date": "2022-04-27T06:27:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.83.0.tar.bz2",
+        "count": 269,
+        "size": 3068612
+      },
+      {
+        "name": "curl-7.83.0.tar.bz2.asc",
+        "count": 85,
+        "size": 488
+      },
+      {
+        "name": "curl-7.83.0.tar.gz",
+        "count": 7510,
+        "size": 4162166
+      },
+      {
+        "name": "curl-7.83.0.tar.gz.asc",
+        "count": 79,
+        "size": 488
+      },
+      {
+        "name": "curl-7.83.0.tar.xz",
+        "count": 504,
+        "size": 2472560
+      },
+      {
+        "name": "curl-7.83.0.tar.xz.asc",
+        "count": 114,
+        "size": 488
+      },
+      {
+        "name": "curl-7.83.0.zip",
+        "count": 691,
+        "size": 6292813
+      },
+      {
+        "name": "curl-7.83.0.zip.asc",
+        "count": 83,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_82_0",
+    "date": "2022-03-05T08:51:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.82.0.tar.bz2",
+        "count": 9531,
+        "size": 3047219
+      },
+      {
+        "name": "curl-7.82.0.tar.bz2.asc",
+        "count": 113,
+        "size": 488
+      },
+      {
+        "name": "curl-7.82.0.tar.gz",
+        "count": 46081,
+        "size": 4106857
+      },
+      {
+        "name": "curl-7.82.0.tar.gz.asc",
+        "count": 109,
+        "size": 488
+      },
+      {
+        "name": "curl-7.82.0.tar.xz",
+        "count": 6001,
+        "size": 2446764
+      },
+      {
+        "name": "curl-7.82.0.tar.xz.asc",
+        "count": 138,
+        "size": 488
+      },
+      {
+        "name": "curl-7.82.0.zip",
+        "count": 6121,
+        "size": 6216245
+      },
+      {
+        "name": "curl-7.82.0.zip.asc",
+        "count": 112,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_81_0",
+    "date": "2022-01-05T07:59:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.81.0.tar.bz2",
+        "count": 509,
+        "size": 3111745
+      },
+      {
+        "name": "curl-7.81.0.tar.bz2.asc",
+        "count": 111,
+        "size": 488
+      },
+      {
+        "name": "curl-7.81.0.tar.gz",
+        "count": 29001,
+        "size": 4188040
+      },
+      {
+        "name": "curl-7.81.0.tar.gz.asc",
+        "count": 104,
+        "size": 488
+      },
+      {
+        "name": "curl-7.81.0.tar.xz",
+        "count": 36972,
+        "size": 2486388
+      },
+      {
+        "name": "curl-7.81.0.tar.xz.asc",
+        "count": 232,
+        "size": 488
+      },
+      {
+        "name": "curl-7.81.0.zip",
+        "count": 56197,
+        "size": 6316329
+      },
+      {
+        "name": "curl-7.81.0.zip.asc",
+        "count": 116,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_80_0",
+    "date": "2021-11-10T06:42:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.80.0.tar.bz2",
+        "count": 8134,
+        "size": 3083401
+      },
+      {
+        "name": "curl-7.80.0.tar.bz2.asc",
+        "count": 110,
+        "size": 488
+      },
+      {
+        "name": "curl-7.80.0.tar.gz",
+        "count": 65647,
+        "size": 4167093
+      },
+      {
+        "name": "curl-7.80.0.tar.gz.asc",
+        "count": 112,
+        "size": 488
+      },
+      {
+        "name": "curl-7.80.0.tar.xz",
+        "count": 208590,
+        "size": 2474492
+      },
+      {
+        "name": "curl-7.80.0.tar.xz.asc",
+        "count": 212,
+        "size": 488
+      },
+      {
+        "name": "curl-7.80.0.zip",
+        "count": 8029,
+        "size": 6280333
+      },
+      {
+        "name": "curl-7.80.0.zip.asc",
+        "count": 151,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_79_1",
+    "date": "2021-09-22T06:19:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.79.1.tar.bz2",
+        "count": 10831,
+        "size": 3061770
+      },
+      {
+        "name": "curl-7.79.1.tar.bz2.asc",
+        "count": 110,
+        "size": 488
+      },
+      {
+        "name": "curl-7.79.1.tar.gz",
+        "count": 69916,
+        "size": 4144744
+      },
+      {
+        "name": "curl-7.79.1.tar.gz.asc",
+        "count": 2029,
+        "size": 488
+      },
+      {
+        "name": "curl-7.79.1.tar.xz",
+        "count": 66539,
+        "size": 2465212
+      },
+      {
+        "name": "curl-7.79.1.tar.xz.asc",
+        "count": 162,
+        "size": 488
+      },
+      {
+        "name": "curl-7.79.1.zip",
+        "count": 6983,
+        "size": 6235840
+      },
+      {
+        "name": "curl-7.79.1.zip.asc",
+        "count": 115,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_79_0",
+    "date": "2021-09-15T06:24:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.79.0.tar.bz2",
+        "count": 208,
+        "size": 3063287
+      },
+      {
+        "name": "curl-7.79.0.tar.bz2.asc",
+        "count": 101,
+        "size": 488
+      },
+      {
+        "name": "curl-7.79.0.tar.gz",
+        "count": 25672,
+        "size": 4148066
+      },
+      {
+        "name": "curl-7.79.0.tar.gz.asc",
+        "count": 93,
+        "size": 488
+      },
+      {
+        "name": "curl-7.79.0.tar.xz",
+        "count": 343,
+        "size": 2463072
+      },
+      {
+        "name": "curl-7.79.0.tar.xz.asc",
+        "count": 140,
+        "size": 488
+      },
+      {
+        "name": "curl-7.79.0.zip",
+        "count": 392,
+        "size": 6238447
+      },
+      {
+        "name": "curl-7.79.0.zip.asc",
+        "count": 95,
+        "size": 488
+      }
+    ]
+  },
+  {
+    "name": "curl-7_78_0",
+    "date": "2021-07-21T07:07:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "curl-7.78.0.tar.bz2",
+        "count": 4904,
+        "size": 3038695
+      },
+      {
+        "name": "curl-7.78.0.tar.bz2.asc",
+        "count": 121,
+        "size": 488
+      },
+      {
+        "name": "curl-7.78.0.tar.gz",
+        "count": 21861,
+        "size": 4112944
+      },
+      {
+        "name": "curl-7.78.0.tar.gz.asc",
+        "count": 124,
+        "size": 488
+      },
+      {
+        "name": "curl-7.78.0.tar.xz",
+        "count": 15451,
+        "size": 2440640
+      },
+      {
+        "name": "curl-7.78.0.tar.xz.asc",
+        "count": 200,
+        "size": 488
+      },
+      {
+        "name": "curl-7.78.0.zip",
+        "count": 7985,
+        "size": 6193411
+      },
+      {
+        "name": "curl-7.78.0.zip.asc",
+        "count": 124,
+        "size": 488
+      }
+    ]
+  }
+]

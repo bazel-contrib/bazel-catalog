@@ -1,0 +1,122 @@
+[
+  {
+    "name": "boost-1.86.0.beta1",
+    "sha": "2bd6f0dfc52ff1fb1bd502361f4d0c750ce51d93"
+  },
+  {
+    "name": "boost-1.85.0",
+    "sha": "11385ec21012926e15a612e3bf9f9a71403c1e5b"
+  },
+  {
+    "name": "boost-1.85.0.beta1",
+    "sha": "11385ec21012926e15a612e3bf9f9a71403c1e5b"
+  },
+  {
+    "name": "boost-1.84.0",
+    "sha": "cbeca533d2113efbcffa84326111ad15a6a1f57a"
+  },
+  {
+    "name": "boost-1.84.0.beta1",
+    "sha": "cbeca533d2113efbcffa84326111ad15a6a1f57a"
+  },
+  {
+    "name": "boost-1.83.0",
+    "sha": "a1cf5d531405e62927b0257b5cbecc66a545b508"
+  },
+  {
+    "name": "boost-1.83.0.beta1",
+    "sha": "a1cf5d531405e62927b0257b5cbecc66a545b508"
+  },
+  {
+    "name": "boost-1.82.0",
+    "sha": "429c1982d4751facab94027200d553fc4af3bdd8"
+  },
+  {
+    "name": "boost-1.82.0.beta1",
+    "sha": "429c1982d4751facab94027200d553fc4af3bdd8"
+  },
+  {
+    "name": "boost-1.81.0",
+    "sha": "a7276f03975df55243924b4d277f4b1ae32bcfa2"
+  },
+  {
+    "name": "boost-1.81.0.beta1",
+    "sha": "a7276f03975df55243924b4d277f4b1ae32bcfa2"
+  },
+  {
+    "name": "boost-1.80.0",
+    "sha": "1cff5e37bb69f42ffab73438de61e34c71258f19"
+  },
+  {
+    "name": "boost-1.80.0.beta1",
+    "sha": "1cff5e37bb69f42ffab73438de61e34c71258f19"
+  },
+  {
+    "name": "boost-1.79.0",
+    "sha": "08dced51e9a688ec3e9c1b7c5f90c99f2b1cdca7"
+  },
+  {
+    "name": "boost-1.79.0.beta1",
+    "sha": "08dced51e9a688ec3e9c1b7c5f90c99f2b1cdca7"
+  },
+  {
+    "name": "boost-1.78.0",
+    "sha": "e108255ffb5d2557ed3398b3fc575a2e9fd434cc"
+  },
+  {
+    "name": "boost-1.78.0.beta1",
+    "sha": "0b62f7d5a59c60ca229d6ae63a06d0b23a2308dc"
+  },
+  {
+    "name": "boost-1.77.0",
+    "sha": "088b79a0ca751932010f82d3f95457c8b483fb9b"
+  },
+  {
+    "name": "boost-1.77.0.beta1",
+    "sha": "088b79a0ca751932010f82d3f95457c8b483fb9b"
+  },
+  {
+    "name": "boost-1.76.0",
+    "sha": "aed3dd07270d770f3075dd5384037b7c7b746a2f"
+  },
+  {
+    "name": "boost-1.76.0.beta1",
+    "sha": "b6b1791741ae64dad9f29c4beaf4bc4935401104"
+  },
+  {
+    "name": "boost-1.75.0",
+    "sha": "fad75493bd2da03524854976f2d80dd7989c90fb"
+  },
+  {
+    "name": "boost-1.75.0.beta1",
+    "sha": "fad75493bd2da03524854976f2d80dd7989c90fb"
+  },
+  {
+    "name": "boost-1.74.0",
+    "sha": "83fd6b3e9d3709d3efdc609a5aceb9d5851212b0"
+  },
+  {
+    "name": "boost-1.74.0.beta1",
+    "sha": "83fd6b3e9d3709d3efdc609a5aceb9d5851212b0"
+  },
+  {
+    "name": "boost-1.73.0",
+    "sha": "0b32bb4f6b8b38c149f9b446b7949c1a8ea9027f"
+  },
+  {
+    "name": "boost-1.73.0.beta1",
+    "sha": "0b32bb4f6b8b38c149f9b446b7949c1a8ea9027f"
+  },
+  {
+    "name": "boost-1.72.0",
+    "sha": "dc67f3ea657dc70fdd27af8c0c866feb6c335dfc"
+  },
+  {
+    "name": "boost-1.72.0.beta1",
+    "sha": "dc67f3ea657dc70fdd27af8c0c866feb6c335dfc"
+  },
+  {
+    "name": "boost-1.71.0",
+    "sha": "bbda3f0aba785b741c3acb615b7b4e3c077df62c"
+  }
+]

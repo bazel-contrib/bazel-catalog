@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v0.6.1",
+    "sha": "0e2a1c2f7c6b208372ecacdbdad592f39cb81f32"
+  },
+  {
+    "name": "v0.6.0",
+    "sha": "289ab0b3f1947da499610df148bf24364a15fd8a"
+  },
+  {
+    "name": "v0.5.0",
+    "sha": "30a6ce1efbf4cce6c2bb41ca73f3f7bce0a36340"
+  },
+  {
+    "name": "v0.4.0",
+    "sha": "272e75fbc0861ff773260f889c08555d2bd318d1"
+  },
+  {
+    "name": "v0.3.2",
+    "sha": "1566c4d5a53e5af11f4eb4ebd156c4174aca930d"
+  },
+  {
+    "name": "v0.3.1",
+    "sha": "2ddd0c15072ca59220f6cf661b712ce0f04f2a5f"
+  },
+  {
+    "name": "v0.3.0",
+    "sha": "e19271875f3b614ab343e1ac0848116ee2ea141c"
+  },
+  {
+    "name": "v0.2.0",
+    "sha": "7b1c2585d1254e081efa81f538baf63f78d64786"
+  },
+  {
+    "name": "0.1.0",
+    "sha": "220335c03bd0fd761be276cbfa69f3ec5c3b6b56"
+  }
+]

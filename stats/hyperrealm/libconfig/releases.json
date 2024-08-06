@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v1.7.3",
+    "date": "2021-06-20T00:14:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libconfig-1.7.3.tar.gz",
+        "count": 110366,
+        "size": 730800
+      }
+    ]
+  },
+  {
+    "name": "v1.7.2",
+    "date": "2018-01-06T05:00:56Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.7.1",
+    "date": "2017-11-17T17:05:12Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.7",
+    "date": "2017-10-30T03:11:29Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.6",
+    "date": "2015-12-31T20:57:53Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

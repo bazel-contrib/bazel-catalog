@@ -1,0 +1,55 @@
+[
+  {
+    "name": "0.3.0",
+    "date": "2024-04-30T17:12:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "maliput_malidrive-0.3.0.tar.gz",
+        "count": 277,
+        "size": 4533210
+      },
+      {
+        "name": "maliput_malidrive_manylinux2014_x86_64.zip",
+        "count": 3,
+        "size": 2554273
+      }
+    ]
+  },
+  {
+    "name": "0.2.1",
+    "date": "2024-02-02T21:06:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "maliput_malidrive-0.2.1.tar.gz",
+        "count": 439,
+        "size": 4525361
+      }
+    ]
+  },
+  {
+    "name": "0.2.0",
+    "date": "2024-01-05T14:47:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "maliput_malidrive-0.2.0.tar.gz",
+        "count": 314,
+        "size": 4524903
+      }
+    ]
+  },
+  {
+    "name": "0.1.4-1",
+    "date": "2023-09-21T22:10:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "maliput_malidrive-0.1.4-1.tar.gz",
+        "count": 15,
+        "size": 4337645
+      }
+    ]
+  }
+]

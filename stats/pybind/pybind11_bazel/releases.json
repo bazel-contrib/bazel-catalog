@@ -1,0 +1,87 @@
+[
+  {
+    "name": "v2.12.0",
+    "date": "2024-04-08T21:33:31Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "pybind11_bazel-2.12.0.tar.gz",
+        "count": 30224,
+        "size": 5210
+      },
+      {
+        "name": "pybind11_bazel-2.12.0.zip",
+        "count": 71971,
+        "size": 8385
+      }
+    ]
+  },
+  {
+    "name": "v2.11.1.bzl.3",
+    "date": "2024-03-02T10:26:25Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "pybind11_bazel-2.11.1.bzl.3.tar.gz",
+        "count": 19,
+        "size": 4830
+      },
+      {
+        "name": "pybind11_bazel-2.11.1.bzl.3.zip",
+        "count": 50162,
+        "size": 7648
+      }
+    ]
+  },
+  {
+    "name": "v2.11.1.bzl.2",
+    "date": "2024-02-16T11:17:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "pybind11_bazel-2.11.1.bzl.2.tar.gz",
+        "count": 9075,
+        "size": 4538
+      },
+      {
+        "name": "pybind11_bazel-2.11.1.bzl.2.zip",
+        "count": 49364,
+        "size": 7030
+      }
+    ]
+  },
+  {
+    "name": "v2.11.1.bzl.1",
+    "date": "2024-01-17T13:55:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pybind11_bazel-2.11.1.bzl.1.tar.gz",
+        "count": 11411,
+        "size": 9691
+      },
+      {
+        "name": "pybind11_bazel-2.11.1.bzl.1.zip",
+        "count": 23537,
+        "size": 13132
+      }
+    ]
+  },
+  {
+    "name": "v2.11.1",
+    "date": "2023-08-11T13:24:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "pybind11_bazel-2.11.1.tar.gz",
+        "count": 126648,
+        "size": 9618
+      },
+      {
+        "name": "pybind11_bazel-2.11.1.zip",
+        "count": 55138,
+        "size": 12882
+      }
+    ]
+  }
+]

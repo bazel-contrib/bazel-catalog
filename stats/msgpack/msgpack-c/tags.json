@@ -1,0 +1,122 @@
+[
+  {
+    "name": "cpp-6.1.1",
+    "sha": "44c0f705c9a60217d7e07de844fb13ce4c1c1e6e"
+  },
+  {
+    "name": "cpp-6.1.0",
+    "sha": "8c602e8579c7e7d65d6f9c6703c9699db3fb0488"
+  },
+  {
+    "name": "cpp-6.0.0",
+    "sha": "1edfba0cd24378bba74578f18ca96e3809ae1664"
+  },
+  {
+    "name": "cpp-5.0.0",
+    "sha": "8824c626b4c05698ec94ed77ababd64457f5574e"
+  },
+  {
+    "name": "cpp-4.1.3",
+    "sha": "7e56a0807423699e041cb8d09407e3cf79ce164b"
+  },
+  {
+    "name": "cpp-4.1.2",
+    "sha": "fb64ea0b68cda185f1e45b87713ba9cd7be3e394"
+  },
+  {
+    "name": "cpp-4.1.1",
+    "sha": "63511f29dbac8a1200a7653e561055e82e43d391"
+  },
+  {
+    "name": "cpp-4.1.0",
+    "sha": "b350a00f6bf2507702eaafcf92659e634f642644"
+  },
+  {
+    "name": "cpp-4.0.3",
+    "sha": "53bfbba863cabf027446f6f343b95885989013b8"
+  },
+  {
+    "name": "cpp-4.0.2",
+    "sha": "3bdbf0d2ee75d46d71afa691a594777d89a22cf7"
+  },
+  {
+    "name": "cpp-4.0.1",
+    "sha": "0b8d6a6614b413f298131993b36bcc263b9de2f1"
+  },
+  {
+    "name": "cpp-4.0.0",
+    "sha": "b065560404a30fa097285c7c35c577a75168a844"
+  },
+  {
+    "name": "cpp-3.3.0",
+    "sha": "6e7deb809120881634b3ca895e66b2a946084f34"
+  },
+  {
+    "name": "cpp-3.2.1",
+    "sha": "8085ab8721090a447cf98bb802d1406ad7afe420"
+  },
+  {
+    "name": "cpp-3.2.0",
+    "sha": "29b9505cb76710802e130d5b8403ec1b40de1c8d"
+  },
+  {
+    "name": "cpp-3.1.1",
+    "sha": "83a82e3eb512b18d4149cabb7eb43c7e8bc081af"
+  },
+  {
+    "name": "cpp-3.1.0",
+    "sha": "b6803a5fecbe321458faafd6a079dac466614ff9"
+  },
+  {
+    "name": "cpp-3.0.1",
+    "sha": "2c4f2b890ef1546fc022d270d11e657f6fc8022f"
+  },
+  {
+    "name": "cpp-3.0.0",
+    "sha": "bd18a36daedbb631fee352bbeeaa8ec1a55a24b8"
+  },
+  {
+    "name": "cpp-3",
+    "sha": "8085ab8721090a447cf98bb802d1406ad7afe420"
+  },
+  {
+    "name": "cpp-2.1.5",
+    "sha": "7a98138f27f27290e680bf8fbf1f8d1b089bf138"
+  },
+  {
+    "name": "cpp-2.1.4",
+    "sha": "7c671093965d0182617b36485782db4a88f634cb"
+  },
+  {
+    "name": "cpp-2.1.3",
+    "sha": "c00584281f0a333fe54c5afbda5711807aad0156"
+  },
+  {
+    "name": "cpp-2.1.2",
+    "sha": "c50fbe4ce9aaef8410dd941fc01acb3de0acebb0"
+  },
+  {
+    "name": "cpp-2.1.1",
+    "sha": "c6e6dbc608366090c12b142b3832604e6aa12f54"
+  },
+  {
+    "name": "cpp-2.1.0",
+    "sha": "c0bf8b3affbf2909713aa4cc2de1425c0c2445ce"
+  },
+  {
+    "name": "cpp-2.0.0",
+    "sha": "42181289ed9c12fbf70ed3f1320c7ef9a4f76836"
+  },
+  {
+    "name": "cpp-1.4.2",
+    "sha": "e59f6e67a569eef29d82d8017578684fe3eda00d"
+  },
+  {
+    "name": "cpp-1.4.1",
+    "sha": "7df967142d38ecfed6327e3df02e84aa3562ae54"
+  },
+  {
+    "name": "cpp-1.4.0",
+    "sha": "cabd8a8a038c78e569db06d2f3f812da28191cf4"
+  }
+]

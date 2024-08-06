@@ -1,5 +1,25 @@
 [
   {
+    "name": "guts_0.0.0",
+    "sha": "5558fa46239742720d84c46edb0544732adf4db8"
+  },
+  {
+    "name": "1.5.3",
+    "sha": "acaeabeff3e051d5396e91732b1fd2f0b2641402"
+  },
+  {
+    "name": "1.5.2",
+    "sha": "27cbd6bdd5a8e9c3cf7f3e8f682056d297a8ba36"
+  },
+  {
+    "name": "1.5.1",
+    "sha": "54930c95227daaac4dcf1eb3028e2f4e0768d139"
+  },
+  {
+    "name": "1.5.0",
+    "sha": "5aa53f07f7188a569cadfc5daf1522972d9a9630"
+  },
+  {
     "name": "1.4.1",
     "sha": "760ed6a8bfef14cfff7432dd21235627d6e42c47"
   },
@@ -98,17 +118,5 @@
   {
     "name": "0.1.3",
     "sha": "e17c45ddd54bb80fe8a3a2ea384ba87e7ce1dff1"
-  },
-  {
-    "name": "0.1.2",
-    "sha": "14cd5c51c4bae0ae5dbd9e79b33b611339b64689"
-  },
-  {
-    "name": "0.1.1",
-    "sha": "02250a7b7c80ded8f42fcf2caa9c26bdf042e820"
-  },
-  {
-    "name": "0.1.0",
-    "sha": "3cf242b6516eaaf936b7a1550c4832c00bd4e359"
   }
 ]

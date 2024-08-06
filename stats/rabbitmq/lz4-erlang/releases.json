@@ -1,12 +1,24 @@
 [
   {
+    "name": "v1.9.4.1",
+    "date": "2024-04-15T15:15:20Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "lz4-erlang-1.9.4.1.tar.gz",
+        "count": 1817,
+        "size": 84378
+      }
+    ]
+  },
+  {
     "name": "v1.9.4.0",
     "date": "2023-07-10T09:39:57Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "lz4-erlang-1.9.4.0.tar.gz",
-        "count": 395,
+        "count": 1945,
         "size": 82466
       }
     ]
@@ -18,7 +30,7 @@
     "downloads": [
       {
         "name": "lz4-erlang-1.9.2.6.tar.gz",
-        "count": 147,
+        "count": 668,
         "size": 82470
       }
     ]
@@ -30,7 +42,7 @@
     "downloads": [
       {
         "name": "lz4-erlang-1.9.2.5.tar.gz",
-        "count": 1007,
+        "count": 4444,
         "size": 81865
       }
     ]
@@ -42,7 +54,7 @@
     "downloads": [
       {
         "name": "lz4-erlang-1.9.2.4.tar.gz",
-        "count": 46,
+        "count": 449,
         "size": 81314
       }
     ]

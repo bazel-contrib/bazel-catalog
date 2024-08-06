@@ -1,37 +1,74 @@
 [
   {
+    "name": "v1.3.1",
+    "date": "2024-01-22T19:41:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zlib-1.3.1.tar.gz",
+        "count": 390420,
+        "size": 1512791
+      },
+      {
+        "name": "zlib-1.3.1.tar.gz.asc",
+        "count": 1348,
+        "size": 235
+      },
+      {
+        "name": "zlib-1.3.1.tar.xz",
+        "count": 455788,
+        "size": 1305740
+      },
+      {
+        "name": "zlib-1.3.1.tar.xz.asc",
+        "count": 780,
+        "size": 235
+      },
+      {
+        "name": "zlib131.zip",
+        "count": 6496,
+        "size": 1655249
+      },
+      {
+        "name": "zlib131.zip.asc",
+        "count": 141,
+        "size": 235
+      }
+    ]
+  },
+  {
     "name": "v1.3",
     "date": "2023-08-18T09:59:51Z",
     "mentions": null,
     "downloads": [
       {
         "name": "zlib-1.3.tar.gz",
-        "count": 19370,
+        "count": 2278811,
         "size": 1495873
       },
       {
         "name": "zlib-1.3.tar.gz.asc",
-        "count": 97,
+        "count": 673,
         "size": 235
       },
       {
         "name": "zlib-1.3.tar.xz",
-        "count": 1591,
+        "count": 209345,
         "size": 1295740
       },
       {
         "name": "zlib-1.3.tar.xz.asc",
-        "count": 100,
+        "count": 1115,
         "size": 235
       },
       {
         "name": "zlib13.zip",
-        "count": 787,
+        "count": 66805,
         "size": 1628983
       },
       {
         "name": "zlib13.zip.asc",
-        "count": 21,
+        "count": 105,
         "size": 235
       }
     ]
@@ -43,32 +80,32 @@
     "downloads": [
       {
         "name": "zlib-1.2.13.tar.gz",
-        "count": 141991,
+        "count": 453327,
         "size": 1497445
       },
       {
         "name": "zlib-1.2.13.tar.gz.asc",
-        "count": 601,
+        "count": 2625,
         "size": 235
       },
       {
         "name": "zlib-1.2.13.tar.xz",
-        "count": 1512663,
+        "count": 5484636,
         "size": 1296496
       },
       {
         "name": "zlib-1.2.13.tar.xz.asc",
-        "count": 172,
+        "count": 229,
         "size": 235
       },
       {
         "name": "zlib1213.zip",
-        "count": 7116,
+        "count": 13718,
         "size": 1631786
       },
       {
         "name": "zlib1213.zip.asc",
-        "count": 170,
+        "count": 201,
         "size": 235
       }
     ]

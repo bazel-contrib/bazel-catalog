@@ -1,0 +1,349 @@
+[
+  {
+    "name": "v0.11.2",
+    "date": "2024-04-18T23:13:27Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.11.2.tgz",
+        "count": 4,
+        "size": 102481
+      },
+      {
+        "name": "rules_graalvm-0.11.2.tgz.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.11.2.tgz.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.11.2.tgz.sha512",
+        "count": 1,
+        "size": 155
+      },
+      {
+        "name": "rules_graalvm-0.11.2.zip",
+        "count": 1791,
+        "size": 130174
+      },
+      {
+        "name": "rules_graalvm-0.11.2.zip.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.11.2.zip.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.11.2.zip.sha512",
+        "count": 1,
+        "size": 155
+      },
+      {
+        "name": "rules_graalvm_0.11.2.tgz.pem",
+        "count": 3,
+        "size": 1384
+      },
+      {
+        "name": "rules_graalvm_0.11.2.tgz.sig",
+        "count": 1,
+        "size": 96
+      },
+      {
+        "name": "rules_graalvm_0.11.2.zip.pem",
+        "count": 2,
+        "size": 1384
+      },
+      {
+        "name": "rules_graalvm_0.11.2.zip.sig",
+        "count": 1,
+        "size": 96
+      }
+    ]
+  },
+  {
+    "name": "v0.11.1",
+    "date": "2024-01-24T17:54:23Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.11.1.tgz",
+        "count": 5,
+        "size": 567575
+      },
+      {
+        "name": "rules_graalvm-0.11.1.tgz.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.11.1.tgz.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.11.1.tgz.sha512",
+        "count": 1,
+        "size": 155
+      },
+      {
+        "name": "rules_graalvm-0.11.1.zip",
+        "count": 38897,
+        "size": 693039
+      },
+      {
+        "name": "rules_graalvm-0.11.1.zip.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.11.1.zip.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.11.1.zip.sha512",
+        "count": 1,
+        "size": 155
+      }
+    ]
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2024-01-08T20:36:59Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.11.0.tgz",
+        "count": 5,
+        "size": 565054
+      },
+      {
+        "name": "rules_graalvm-0.11.0.tgz.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.11.0.tgz.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.11.0.tgz.sha512",
+        "count": 1,
+        "size": 155
+      },
+      {
+        "name": "rules_graalvm-0.11.0.zip",
+        "count": 357,
+        "size": 691003
+      },
+      {
+        "name": "rules_graalvm-0.11.0.zip.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.11.0.zip.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.11.0.zip.sha512",
+        "count": 1,
+        "size": 155
+      }
+    ]
+  },
+  {
+    "name": "v0.10.3",
+    "date": "2023-09-13T22:26:37Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.10.3.tgz",
+        "count": 4,
+        "size": 169058
+      },
+      {
+        "name": "rules_graalvm-0.10.3.tgz.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.10.3.tgz.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.10.3.tgz.sha512",
+        "count": 1,
+        "size": 155
+      },
+      {
+        "name": "rules_graalvm-0.10.3.zip",
+        "count": 3252,
+        "size": 223246
+      },
+      {
+        "name": "rules_graalvm-0.10.3.zip.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.10.3.zip.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.10.3.zip.sha512",
+        "count": 1,
+        "size": 155
+      }
+    ]
+  },
+  {
+    "name": "v0.10.2",
+    "date": "2023-09-11T09:51:40Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.10.2.tgz",
+        "count": 5,
+        "size": 145216
+      },
+      {
+        "name": "rules_graalvm-0.10.2.tgz.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.10.2.tgz.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.10.2.tgz.sha512",
+        "count": 1,
+        "size": 155
+      },
+      {
+        "name": "rules_graalvm-0.10.2.zip",
+        "count": 434,
+        "size": 178458
+      },
+      {
+        "name": "rules_graalvm-0.10.2.zip.asc",
+        "count": 1,
+        "size": 833
+      },
+      {
+        "name": "rules_graalvm-0.10.2.zip.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "rules_graalvm-0.10.2.zip.sha512",
+        "count": 1,
+        "size": 155
+      }
+    ]
+  },
+  {
+    "name": "v0.10.1",
+    "date": "2023-09-08T07:49:29Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.10.1.tgz",
+        "count": 2,
+        "size": 145855
+      },
+      {
+        "name": "rules_graalvm-0.10.1.zip",
+        "count": 480,
+        "size": 178576
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2023-09-08T06:08:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.10.0.tgz",
+        "count": 5,
+        "size": 163608
+      },
+      {
+        "name": "rules_graalvm-0.10.0.zip",
+        "count": 430,
+        "size": 211746
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0-rc1",
+    "date": "2023-09-08T04:48:21Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.10.0-rc1.zip",
+        "count": 12,
+        "size": 397923
+      }
+    ]
+  },
+  {
+    "name": "v0.9.2",
+    "date": "2023-08-26T09:07:00Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.9.2.tar.gz",
+        "count": 7,
+        "size": 229171
+      },
+      {
+        "name": "rules_graalvm-0.9.2.zip",
+        "count": 69,
+        "size": 316906
+      }
+    ]
+  },
+  {
+    "name": "v0.9.1",
+    "date": "2023-08-23T02:14:58Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.9.1.tar.gz",
+        "count": 3,
+        "size": 223204
+      },
+      {
+        "name": "rules_graalvm-0.9.1.zip",
+        "count": 7,
+        "size": 296700
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2023-08-13T20:22:28Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_graalvm-0.9.0.tar.gz",
+        "count": 21,
+        "size": 88937
+      }
+    ]
+  }
+]

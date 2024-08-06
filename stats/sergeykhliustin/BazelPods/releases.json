@@ -1,0 +1,290 @@
+[
+  {
+    "name": "1.12.4",
+    "date": "2024-08-02T14:40:03Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 13,
+        "size": 68485
+      }
+    ]
+  },
+  {
+    "name": "1.12.3",
+    "date": "2024-05-30T14:53:51Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 185,
+        "size": 68935
+      }
+    ]
+  },
+  {
+    "name": "1.12.2",
+    "date": "2024-05-29T16:34:13Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 103,
+        "size": 68861
+      }
+    ]
+  },
+  {
+    "name": "1.12.1",
+    "date": "2024-05-02T16:41:11Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 207,
+        "size": 69019
+      }
+    ]
+  },
+  {
+    "name": "1.12.0",
+    "date": "2024-05-02T08:15:37Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 13,
+        "size": 69006
+      }
+    ]
+  },
+  {
+    "name": "1.11.9",
+    "date": "2024-05-01T16:07:29Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 143,
+        "size": 69016
+      }
+    ]
+  },
+  {
+    "name": "1.11.7",
+    "date": "2024-03-18T12:40:13Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 56,
+        "size": 68012
+      }
+    ]
+  },
+  {
+    "name": "1.11.6",
+    "date": "2024-03-08T12:14:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 245,
+        "size": 68396
+      }
+    ]
+  },
+  {
+    "name": "1.11.5",
+    "date": "2024-03-07T15:55:27Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 5,
+        "size": 68339
+      }
+    ]
+  },
+  {
+    "name": "1.11.4",
+    "date": "2024-03-05T13:48:43Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 8,
+        "size": 68279
+      }
+    ]
+  },
+  {
+    "name": "1.11.3",
+    "date": "2024-03-04T20:15:01Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 22,
+        "size": 67702
+      }
+    ]
+  },
+  {
+    "name": "0.11.2",
+    "date": "2024-03-01T00:12:16Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 23,
+        "size": 67566
+      }
+    ]
+  },
+  {
+    "name": "0.11.1",
+    "date": "2024-02-29T15:44:15Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 3,
+        "size": 67429
+      }
+    ]
+  },
+  {
+    "name": "0.11.0",
+    "date": "2024-02-29T14:31:41Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 2,
+        "size": 67337
+      }
+    ]
+  },
+  {
+    "name": "0.10.1",
+    "date": "2023-11-15T15:15:17Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 195,
+        "size": 58874
+      }
+    ]
+  },
+  {
+    "name": "0.10.0",
+    "date": "2023-08-30T19:29:30Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 117,
+        "size": 59016
+      }
+    ]
+  },
+  {
+    "name": "0.9.2",
+    "date": "2023-07-03T13:08:54Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 16,
+        "size": 58677
+      }
+    ]
+  },
+  {
+    "name": "0.9.1",
+    "date": "2023-06-24T22:36:25Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "release.tar.gz",
+        "count": 10,
+        "size": 58593
+      }
+    ]
+  },
+  {
+    "name": "0.9",
+    "date": "2023-03-14T11:41:29Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.8.1",
+    "date": "2023-02-23T17:23:10Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.8",
+    "date": "2023-02-20T12:05:23Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.7.2",
+    "date": "2023-02-02T23:20:41Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.7.1",
+    "date": "2023-02-02T20:17:57Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.7",
+    "date": "2023-02-02T16:28:26Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.6.1",
+    "date": "2023-01-27T01:18:42Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.6",
+    "date": "2022-12-28T17:05:45Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.5.1",
+    "date": "2022-12-14T00:14:47Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.5",
+    "date": "2022-11-10T14:23:56Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.4.1",
+    "date": "2022-09-22T20:46:12Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.4",
+    "date": "2022-09-22T12:36:58Z",
+    "mentions": 1,
+    "downloads": []
+  }
+]

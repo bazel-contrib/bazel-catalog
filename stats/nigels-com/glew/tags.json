@@ -1,0 +1,82 @@
+[
+  {
+    "name": "glew-2.2.0",
+    "sha": "9fb23c3e61cbd2d581e33ff7d8579b572b38ee26"
+  },
+  {
+    "name": "glew-2.1.0",
+    "sha": "3a8eff77da3658c13fbd3634c943d5251d76322c"
+  },
+  {
+    "name": "glew-2.0.0",
+    "sha": "7d72257b0ff2aadab92d9b627beb44c36b072e52"
+  },
+  {
+    "name": "glew-1.13.0",
+    "sha": "f0067bb1151d36b37bd43948ce5a399844afb313"
+  },
+  {
+    "name": "glew-1.12.0",
+    "sha": "9fedd9e053c973ef85cfc830c74a26d0cdd8c99a"
+  },
+  {
+    "name": "glew-1.11.0",
+    "sha": "83a2bae026289a8d4cdce0061b1c52595b3c9338"
+  },
+  {
+    "name": "glew-1.10.0",
+    "sha": "a6c3e7dad0d1ae34e8016cf086ba6109d6fb4e4a"
+  },
+  {
+    "name": "glew-1.9.0",
+    "sha": "e2f62ea8212ae2fb3b4d4c89ff138573fa01d781"
+  },
+  {
+    "name": "glew-1.8.0",
+    "sha": "a53c68ddd77e1bd5430cfdf2481e22900340bddd"
+  },
+  {
+    "name": "glew-1.7.0",
+    "sha": "4a5f85e49034c7c3364dc2658040dc18cb8eed71"
+  },
+  {
+    "name": "glew-1.6.0",
+    "sha": "2e7fd1cef2d583dcf9fb511808a92f2f359de3f5"
+  },
+  {
+    "name": "glew-1.5.8",
+    "sha": "8b64761d8dcfe1b952acc6c0e5be79002c1f01f6"
+  },
+  {
+    "name": "glew-1.5.7",
+    "sha": "e80137e24452431e284c9cc25325f78ba2d02f30"
+  },
+  {
+    "name": "glew-1.5.6",
+    "sha": "8f580bd5b806595c9f4cc6ea41d95e4f94f72561"
+  },
+  {
+    "name": "glew-1.5.5",
+    "sha": "974063f13361b77b99200486bbe1f1f7669a33d8"
+  },
+  {
+    "name": "glew-1.5.4",
+    "sha": "46d049f06cd07ae02dfa1ac5b11925ccd85a67a6"
+  },
+  {
+    "name": "glew-1.5.3",
+    "sha": "3285bcd840c901dfe22d338bbd6e8fe9928b08cd"
+  },
+  {
+    "name": "glew-1.5.2",
+    "sha": "76519aa8c689546c64b9fd485d06eb60504a0cdb"
+  },
+  {
+    "name": "glew-1.5.1",
+    "sha": "8b600cea8e43cf8d7b67eeb865942245f470710f"
+  },
+  {
+    "name": "glew-1.5.0",
+    "sha": "ab2791fadc36f8cc3ff0944a3b1ff6d0e1c0aca0"
+  }
+]

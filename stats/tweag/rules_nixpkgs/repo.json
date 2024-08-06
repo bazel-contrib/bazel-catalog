@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/tweag/rules_nixpkgs/releases{/id}",
   "deployments_url": "https://api.github.com/repos/tweag/rules_nixpkgs/deployments",
   "created_at": "2017-12-10T08:53:48Z",
-  "updated_at": "2023-09-16T07:12:28Z",
-  "pushed_at": "2023-09-16T04:32:20Z",
+  "updated_at": "2024-08-05T07:15:22Z",
+  "pushed_at": "2024-08-05T07:29:59Z",
   "git_url": "git://github.com/tweag/rules_nixpkgs.git",
   "ssh_url": "git@github.com:tweag/rules_nixpkgs.git",
   "clone_url": "https://github.com/tweag/rules_nixpkgs.git",
   "svn_url": "https://github.com/tweag/rules_nixpkgs",
   "homepage": null,
-  "size": 1466,
-  "stargazers_count": 225,
-  "watchers_count": 225,
+  "size": 1822,
+  "stargazers_count": 278,
+  "watchers_count": 278,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 67,
+  "forks_count": 79,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 75,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "bazel-rules", "nix", "nixpkgs"],
   "visibility": "public",
-  "forks": 67,
-  "open_issues": 46,
-  "watchers": 225,
+  "forks": 79,
+  "open_issues": 75,
+  "watchers": 278,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "tweag",
     "id": 6057932,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 67,
-  "subscribers_count": 32
+  "network_count": 79,
+  "subscribers_count": 30
 }

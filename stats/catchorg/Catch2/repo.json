@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/catchorg/Catch2/releases{/id}",
   "deployments_url": "https://api.github.com/repos/catchorg/Catch2/deployments",
   "created_at": "2010-11-08T18:22:56Z",
-  "updated_at": "2023-09-19T08:26:54Z",
-  "pushed_at": "2023-09-17T09:18:12Z",
+  "updated_at": "2024-08-05T18:13:18Z",
+  "pushed_at": "2024-08-05T18:13:12Z",
   "git_url": "git://github.com/catchorg/Catch2.git",
   "ssh_url": "git@github.com:catchorg/Catch2.git",
   "clone_url": "https://github.com/catchorg/Catch2.git",
   "svn_url": "https://github.com/catchorg/Catch2",
   "homepage": "https://discord.gg/4CWS9zD",
-  "size": 29419,
-  "stargazers_count": 17059,
-  "watchers_count": 17059,
+  "size": 27542,
+  "stargazers_count": 18340,
+  "watchers_count": 18340,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2933,
+  "forks_count": 3018,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 384,
+  "open_issues_count": 418,
   "license": {
     "key": "bsl-1.0",
     "name": "Boost Software License 1.0",
@@ -108,9 +108,9 @@
     "testing"
   ],
   "visibility": "public",
-  "forks": 2933,
-  "open_issues": 384,
-  "watchers": 17059,
+  "forks": 3018,
+  "open_issues": 418,
+  "watchers": 18340,
   "default_branch": "devel",
   "permissions": {
     "admin": false,
@@ -119,6 +119,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "catchorg",
     "id": 33321405,
@@ -139,6 +140,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 2933,
-  "subscribers_count": 447
+  "network_count": 3018,
+  "subscribers_count": 440
 }

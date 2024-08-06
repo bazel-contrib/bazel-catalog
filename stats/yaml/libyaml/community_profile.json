@@ -1,0 +1,26 @@
+{
+  "health_percentage": 37,
+  "description": "Canonical source repository for LibYAML",
+  "documentation": "http://pyyaml.org/wiki/LibYAML",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/yaml/libyaml/blob/master/License"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/yaml/libyaml/contents/ReadMe.md",
+      "html_url": "https://github.com/yaml/libyaml/blob/master/ReadMe.md"
+    }
+  },
+  "updated_at": "2019-03-12T23:14:52Z",
+  "content_reports_enabled": false
+}

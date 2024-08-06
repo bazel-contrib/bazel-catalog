@@ -8,6 +8,34 @@
     "sha": "9d4a91a91f81022c34e304d6b1e5f9a5774b1a3f"
   },
   {
+    "name": "4.13",
+    "sha": "0c8d3a949e8d5d07414af2b7046e55b62abad34d"
+  },
+  {
+    "name": "4.12.2",
+    "sha": "fdd9a8e83edba1fdf7bbcbb5affedbcd856f02b3"
+  },
+  {
+    "name": "4.12.1",
+    "sha": "ed702b2c332dedba223712b6fdffff0b5e9670a6"
+  },
+  {
+    "name": "4.12",
+    "sha": "46b20a36f420fe06ca23fef643eac79e8bd3bf5c"
+  },
+  {
+    "name": "4.11.1",
+    "sha": "6c8cbf7f24e2db036e02bfefa0cb686d6c92777f"
+  },
+  {
+    "name": "4.11.1-1.0.0",
+    "sha": "10d19a70ed39f457955a827138fd8853cb93f18f"
+  },
+  {
+    "name": "4.11",
+    "sha": "b1c83b5c967e31e7dba763185fa4c306dd1ece6c"
+  },
+  {
     "name": "4.10.3",
     "sha": "df665e531aa0bc53eb24e048beff9d36389faa3c"
   },
@@ -90,9 +118,5 @@
   {
     "name": "4.0.1",
     "sha": "7020b9a7a4796d2dc5392d6385d83e384a01f9fd"
-  },
-  {
-    "name": "4.0-alpha-3",
-    "sha": "ba7d2ff2c3dcade4bfcf29ff3311c82b1122f294"
   }
 ]

@@ -1,12 +1,36 @@
 [
   {
+    "name": "v2.0.0-rc0",
+    "date": "2024-05-22T01:15:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_terser-v2.0.0-rc0.tar.gz",
+        "count": 127,
+        "size": 30633
+      }
+    ]
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2024-05-22T01:14:50Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_terser-v1.0.1.tar.gz",
+        "count": 210,
+        "size": 31446
+      }
+    ]
+  },
+  {
     "name": "v1.0.0",
     "date": "2023-07-14T21:58:28Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_terser-v1.0.0.tar.gz",
-        "count": 6019,
+        "count": 57824,
         "size": 25379
       }
     ]
@@ -18,7 +42,7 @@
     "downloads": [
       {
         "name": "rules_terser-v0.14.3.tar.gz",
-        "count": 114,
+        "count": 521,
         "size": 25374
       }
     ]
@@ -30,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_terser-v0.14.2.tar.gz",
-        "count": 5,
+        "count": 6,
         "size": 25365
       }
     ]
@@ -42,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_terser-v0.14.1.tar.gz",
-        "count": 14827,
+        "count": 15390,
         "size": 25078
       }
     ]

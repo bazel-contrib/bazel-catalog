@@ -1,0 +1,44 @@
+[
+  {
+    "name": "v0.6.0",
+    "date": "2024-02-15T13:11:25Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rpmpack-0.6.0.tar.gz",
+        "count": 32230,
+        "size": 60653
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2023-07-10T09:21:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.4",
+    "date": "2023-07-05T08:54:43Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.3",
+    "date": "2019-11-01T14:30:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2",
+    "date": "2019-10-04T14:06:59Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1",
+    "date": "2019-09-19T20:09:10Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

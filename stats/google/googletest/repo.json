@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/google/googletest/releases{/id}",
   "deployments_url": "https://api.github.com/repos/google/googletest/deployments",
   "created_at": "2015-07-28T15:07:53Z",
-  "updated_at": "2023-09-19T18:13:51Z",
-  "pushed_at": "2023-09-18T22:07:15Z",
+  "updated_at": "2024-08-06T01:20:13Z",
+  "pushed_at": "2024-08-01T13:35:48Z",
   "git_url": "git://github.com/google/googletest.git",
   "ssh_url": "git@github.com:google/googletest.git",
   "clone_url": "https://github.com/google/googletest.git",
   "svn_url": "https://github.com/google/googletest",
   "homepage": "https://google.github.io/googletest/",
-  "size": 12933,
-  "stargazers_count": 30845,
-  "watchers_count": 30845,
+  "size": 13377,
+  "stargazers_count": 33965,
+  "watchers_count": 33965,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": true,
-  "forks_count": 9822,
+  "forks_count": 10020,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 308,
+  "open_issues_count": 325,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 9822,
-  "open_issues": 308,
-  "watchers": 30845,
+  "forks": 10020,
+  "open_issues": 325,
+  "watchers": 33965,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "google",
     "id": 1342004,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 9822,
-  "subscribers_count": 1196
+  "network_count": 10020,
+  "subscribers_count": 1222
 }

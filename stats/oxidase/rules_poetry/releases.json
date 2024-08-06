@@ -1,19 +1,103 @@
 [
   {
+    "name": "v0.3.6",
+    "date": "2024-07-01T19:55:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.6.tar.gz",
+        "count": 2480,
+        "size": 72780
+      }
+    ]
+  },
+  {
+    "name": "v0.3.5",
+    "date": "2024-07-01T19:58:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.5.tar.gz",
+        "count": 51,
+        "size": 64084
+      }
+    ]
+  },
+  {
+    "name": "v0.3.4",
+    "date": "2024-07-01T19:24:48Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.4.tar.gz",
+        "count": 53,
+        "size": 62255
+      }
+    ]
+  },
+  {
+    "name": "v0.3.3",
+    "date": "2024-07-01T19:24:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.3.tar.gz",
+        "count": 49,
+        "size": 61760
+      }
+    ]
+  },
+  {
+    "name": "v0.3.2",
+    "date": "2024-07-01T19:24:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.2.tar.gz",
+        "count": 49,
+        "size": 48960
+      }
+    ]
+  },
+  {
+    "name": "v0.3.1",
+    "date": "2024-07-01T19:24:50Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.1.tar.gz",
+        "count": 52,
+        "size": 46444
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2024-07-01T19:24:52Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.0.tar.gz",
+        "count": 49,
+        "size": 46136
+      }
+    ]
+  },
+  {
     "name": "v0.2.0",
-    "date": "2023-05-19T14:09:10Z",
+    "date": "2024-07-01T19:24:53Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_poetry-0.2.0.tar.gz",
-        "count": 98,
+        "count": 48,
         "size": 44221
       }
     ]
   },
   {
     "name": "v0.1.0",
-    "date": "2023-04-01T22:02:40Z",
+    "date": "2024-07-01T19:24:54Z",
     "mentions": null,
     "downloads": []
   }

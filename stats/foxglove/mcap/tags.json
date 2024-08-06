@@ -1,0 +1,122 @@
+[
+  {
+    "name": "v0.0.0",
+    "sha": "cdcbb69e90d9438e5e3dc2348b23ac52d2c05d77"
+  },
+  {
+    "name": "releases/typescript/support/0.1.0",
+    "sha": "695f43805615477fa0d990ea6931c18bd6561e81"
+  },
+  {
+    "name": "releases/typescript/support/v1.0.1",
+    "sha": "40cccdfeec54c888397a9941943ce79a1d9d5267"
+  },
+  {
+    "name": "releases/typescript/support/v1.0.0",
+    "sha": "a98c3f77dd5934d1dc04505e635502406d39b354"
+  },
+  {
+    "name": "releases/typescript/support/v0.1.0",
+    "sha": "695f43805615477fa0d990ea6931c18bd6561e81"
+  },
+  {
+    "name": "releases/typescript/nodejs/v1.0.1",
+    "sha": "40cccdfeec54c888397a9941943ce79a1d9d5267"
+  },
+  {
+    "name": "releases/typescript/nodejs/v1.0.0",
+    "sha": "a98c3f77dd5934d1dc04505e635502406d39b354"
+  },
+  {
+    "name": "releases/typescript/core/v2.1.2",
+    "sha": "037ceb7be9ba756afb32fcf43cbc711327fa5e92"
+  },
+  {
+    "name": "releases/typescript/core/v2.1.1",
+    "sha": "bce280bbabaec5c0f23812f6215992ef3e9b8fa8"
+  },
+  {
+    "name": "releases/typescript/core/v2.1.0",
+    "sha": "d7c0bb35352ed568ce4dfd521a0410e5ff352174"
+  },
+  {
+    "name": "releases/typescript/core/v2.0.2",
+    "sha": "84b2623f5453bfcc112c3f47134f89295d465ce3"
+  },
+  {
+    "name": "releases/typescript/core/v2.0.1",
+    "sha": "0e41bc359a431e8d5c36849fa2e8ddfaa8831679"
+  },
+  {
+    "name": "releases/typescript/core/v2.0.0",
+    "sha": "886f652afd6e0a0191116ac028413ec3a59c5dce"
+  },
+  {
+    "name": "releases/typescript/core/v1.3.0",
+    "sha": "67139713f3595d5b9fd1c9b53ec44ec9c1869020"
+  },
+  {
+    "name": "releases/typescript/core/v1.2.1",
+    "sha": "0842cbf26dbf114a0fa0eb2dc36355f6db75382f"
+  },
+  {
+    "name": "releases/typescript/core/v1.2.0",
+    "sha": "edd144f3868f6c43cec96cc55eae233c93a69b46"
+  },
+  {
+    "name": "releases/typescript/core/v1.1.0",
+    "sha": "15e5174ac74ec12236ec21611dc56d4d5f5cac81"
+  },
+  {
+    "name": "releases/typescript/core/v1.0.0",
+    "sha": "18aeae848f66935e5425a20a246b413c9edf3014"
+  },
+  {
+    "name": "releases/typescript/core/v0.3.0",
+    "sha": "e70d161bfcdbd15698e15702a7a961465b715a49"
+  },
+  {
+    "name": "releases/typescript/core/v0.2.2",
+    "sha": "a38b97bc8520007fc27a01e5e6de333ad82392eb"
+  },
+  {
+    "name": "releases/typescript/core/v0.2.1",
+    "sha": "ed0e6f0691e47ae12e1abf550d8bad1e99676cbd"
+  },
+  {
+    "name": "releases/typescript/core/v0.2.0",
+    "sha": "ab8499333dc77483d80c5b06c3c68d30a2304f3f"
+  },
+  {
+    "name": "releases/typescript/core/v0.1.1",
+    "sha": "926774ab8ce0d9f659ca20dcec05d1577dfb6a77"
+  },
+  {
+    "name": "releases/typescript/browser/v1.0.0",
+    "sha": "a98c3f77dd5934d1dc04505e635502406d39b354"
+  },
+  {
+    "name": "releases/swift/v1.0.0",
+    "sha": "ab5cfb8b0362fc4d3fa8834ab24a6299b811c70d"
+  },
+  {
+    "name": "releases/rust/v0.9.1",
+    "sha": "b9c9778886b4f35353034349a52382a5db76ce22"
+  },
+  {
+    "name": "releases/rust/v0.9.0",
+    "sha": "526626f5cd2b221d098d3582a9a8593b0426cbaf"
+  },
+  {
+    "name": "releases/rust/v0.8.0",
+    "sha": "36cea413187a2369cf63043ce1b0ad5cec6525f3"
+  },
+  {
+    "name": "releases/rust/v0.7.1",
+    "sha": "67139713f3595d5b9fd1c9b53ec44ec9c1869020"
+  },
+  {
+    "name": "releases/rust/v0.6.0",
+    "sha": "66b5a9e245064c74033abefecb6f8d75a9b7390a"
+  }
+]

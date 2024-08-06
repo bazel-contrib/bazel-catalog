@@ -1,0 +1,194 @@
+[
+  {
+    "name": "v0.0.17",
+    "date": "2024-07-09T12:43:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.17.tar.gz",
+        "count": 7446,
+        "size": 49262
+      }
+    ]
+  },
+  {
+    "name": "v0.0.16",
+    "date": "2024-07-08T14:58:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.16.tar.gz",
+        "count": 32,
+        "size": 49321
+      }
+    ]
+  },
+  {
+    "name": "v0.0.15",
+    "date": "2024-06-09T23:00:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.15.tar.gz",
+        "count": 45130,
+        "size": 49144
+      }
+    ]
+  },
+  {
+    "name": "v0.0.14",
+    "date": "2024-05-25T17:06:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.14.tar.gz",
+        "count": 10691,
+        "size": 47827
+      }
+    ]
+  },
+  {
+    "name": "v0.0.13",
+    "date": "2024-05-05T01:30:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.13.tar.gz",
+        "count": 141,
+        "size": 42054
+      }
+    ]
+  },
+  {
+    "name": "v0.0.12",
+    "date": "2024-05-05T01:29:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.12.tar.gz",
+        "count": 14,
+        "size": 42041
+      }
+    ]
+  },
+  {
+    "name": "v0.0.11",
+    "date": "2024-05-02T00:17:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.11.tar.gz",
+        "count": 14,
+        "size": 42038
+      }
+    ]
+  },
+  {
+    "name": "v0.0.10",
+    "date": "2024-04-27T02:52:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.10.tar.gz",
+        "count": 27,
+        "size": 41900
+      }
+    ]
+  },
+  {
+    "name": "v0.0.9",
+    "date": "2024-04-01T18:25:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.9.tar.gz",
+        "count": 192,
+        "size": 41682
+      }
+    ]
+  },
+  {
+    "name": "v0.0.8",
+    "date": "2024-04-01T18:14:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.8.tar.gz",
+        "count": 14,
+        "size": 41316
+      }
+    ]
+  },
+  {
+    "name": "v0.0.7",
+    "date": "2024-04-01T16:33:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.7.tar.gz",
+        "count": 15,
+        "size": 41328
+      }
+    ]
+  },
+  {
+    "name": "v0.0.6",
+    "date": "2024-03-29T21:58:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.6.tar.gz",
+        "count": 3,
+        "size": 41259
+      }
+    ]
+  },
+  {
+    "name": "v0.0.5",
+    "date": "2024-03-29T21:47:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.5.tar.gz",
+        "count": 10,
+        "size": 41201
+      }
+    ]
+  },
+  {
+    "name": "v0.0.4",
+    "date": "2024-03-29T20:04:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.4.tar.gz",
+        "count": 11,
+        "size": 41068
+      }
+    ]
+  },
+  {
+    "name": "v0.0.3",
+    "date": "2024-03-29T19:40:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_itest-v0.0.3.tar.gz",
+        "count": 11,
+        "size": 81739
+      }
+    ]
+  },
+  {
+    "name": "v0.0.2",
+    "date": "2024-03-29T19:32:53Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2024-03-29T19:28:32Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

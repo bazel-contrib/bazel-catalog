@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/fmtlib/fmt/releases{/id}",
   "deployments_url": "https://api.github.com/repos/fmtlib/fmt/deployments",
   "created_at": "2012-12-07T16:26:46Z",
-  "updated_at": "2023-09-19T19:48:36Z",
-  "pushed_at": "2023-09-19T15:42:34Z",
+  "updated_at": "2024-08-06T02:23:48Z",
+  "pushed_at": "2024-08-05T21:56:44Z",
   "git_url": "git://github.com/fmtlib/fmt.git",
   "ssh_url": "git@github.com:fmtlib/fmt.git",
   "clone_url": "https://github.com/fmtlib/fmt.git",
   "svn_url": "https://github.com/fmtlib/fmt",
   "homepage": "https://fmt.dev",
-  "size": 14268,
-  "stargazers_count": 17743,
-  "watchers_count": 17743,
+  "size": 15806,
+  "stargazers_count": 20026,
+  "watchers_count": 20026,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 2161,
+  "forks_count": 2436,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 10,
+  "open_issues_count": 12,
   "license": {
     "key": "other",
     "name": "Other",
@@ -98,19 +98,22 @@
   "is_template": false,
   "web_commit_signoff_required": false,
   "topics": [
-    "c-plus-plus",
     "chrono",
+    "cpp",
     "cross-platform",
+    "floating-point",
     "formatting",
     "multiplatform",
     "output",
     "performance",
-    "printf"
+    "printf",
+    "ranges",
+    "unicode"
   ],
   "visibility": "public",
-  "forks": 2161,
-  "open_issues": 10,
-  "watchers": 17743,
+  "forks": 2436,
+  "open_issues": 12,
+  "watchers": 20026,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,6 +122,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "fmtlib",
     "id": 7280830,
@@ -139,6 +143,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 2161,
-  "subscribers_count": 315
+  "network_count": 2436,
+  "subscribers_count": 322
 }

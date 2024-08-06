@@ -1,0 +1,46 @@
+[
+  {
+    "name": "v0.4.2",
+    "sha": "34fb5aa9115723ac9e3c6f6b3dafeac4e85125ce"
+  },
+  {
+    "name": "v0.4.1",
+    "sha": "2c93dc27bbc938aeb5bca4c0b47ac4d1732a2d6b"
+  },
+  {
+    "name": "v0.4.0",
+    "sha": "fdcaa339f0094ae656cb5a590cb04153dd469642"
+  },
+  {
+    "name": "v0.3.0",
+    "sha": "d7193dee6667b4ef81325e1da9f84f02af7a5054"
+  },
+  {
+    "name": "v0.2.5",
+    "sha": "cb40258afcf025f893d615cc1fa28f80937f3fcc"
+  },
+  {
+    "name": "v0.2.4",
+    "sha": "5c68a87795113a15a03e36b08dce35594718e756"
+  },
+  {
+    "name": "v0.2.3",
+    "sha": "c698ced24dec69f2badaebbd2d64a1b246effe2b"
+  },
+  {
+    "name": "v0.2.2",
+    "sha": "85b3cb1ff538ea509958447d92d7bd41a8850b89"
+  },
+  {
+    "name": "v0.2.1",
+    "sha": "60a653773c5676eaf39f37009841a993f98cb9d2"
+  },
+  {
+    "name": "v0.2.0",
+    "sha": "cc9d63cf44a5367e3e8dd0505b619777fdcd1a1b"
+  },
+  {
+    "name": "v0.1.0",
+    "sha": "b373d0e57f4546a98fd9d69b88f5c47e706133d8"
+  }
+]

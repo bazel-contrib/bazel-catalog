@@ -1,5 +1,17 @@
 [
   {
+    "name": "0.6.0",
+    "date": "2024-04-04T20:02:16Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_jsonnet-0.6.0.tar.gz",
+        "count": 23186,
+        "size": 27292
+      }
+    ]
+  },
+  {
     "name": "0.5.0",
     "date": "2023-02-16T22:19:53Z",
     "mentions": null,

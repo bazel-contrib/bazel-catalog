@@ -1,5 +1,29 @@
 [
   {
+    "name": "v1.15.2",
+    "date": "2024-07-31T13:36:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "googletest-1.15.2.tar.gz",
+        "count": 2693,
+        "size": 872667
+      }
+    ]
+  },
+  {
+    "name": "v1.15.0",
+    "date": "2024-07-15T17:52:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "googletest-1.15.0.tar.gz",
+        "count": 44075,
+        "size": 872487
+      }
+    ]
+  },
+  {
     "name": "v1.14.0",
     "date": "2023-08-02T16:32:20Z",
     "mentions": null,

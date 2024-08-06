@@ -1,67 +1,1474 @@
 [
   {
+    "name": "v27.3",
+    "date": "2024-07-31T16:09:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.3.tar.gz",
+        "count": 1381,
+        "size": 6282725
+      },
+      {
+        "name": "protobuf-27.3.zip",
+        "count": 2327,
+        "size": 7998180
+      },
+      {
+        "name": "protoc-27.3-linux-aarch_64.zip",
+        "count": 488,
+        "size": 3204123
+      },
+      {
+        "name": "protoc-27.3-linux-ppcle_64.zip",
+        "count": 25,
+        "size": 3502692
+      },
+      {
+        "name": "protoc-27.3-linux-s390_64.zip",
+        "count": 36,
+        "size": 4152828
+      },
+      {
+        "name": "protoc-27.3-linux-x86_32.zip",
+        "count": 38,
+        "size": 3507619
+      },
+      {
+        "name": "protoc-27.3-linux-x86_64.zip",
+        "count": 16361,
+        "size": 3235873
+      },
+      {
+        "name": "protoc-27.3-osx-aarch_64.zip",
+        "count": 914,
+        "size": 2372763
+      },
+      {
+        "name": "protoc-27.3-osx-universal_binary.zip",
+        "count": 99,
+        "size": 4674272
+      },
+      {
+        "name": "protoc-27.3-osx-x86_64.zip",
+        "count": 540,
+        "size": 2347002
+      },
+      {
+        "name": "protoc-27.3-win32.zip",
+        "count": 215,
+        "size": 3280952
+      },
+      {
+        "name": "protoc-27.3-win64.zip",
+        "count": 3175,
+        "size": 3233250
+      }
+    ]
+  },
+  {
+    "name": "v25.4",
+    "date": "2024-07-24T18:41:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.4.tar.gz",
+        "count": 282,
+        "size": 5878444
+      },
+      {
+        "name": "protobuf-25.4.zip",
+        "count": 370,
+        "size": 7570694
+      },
+      {
+        "name": "protoc-25.4-linux-aarch_64.zip",
+        "count": 180,
+        "size": 3071656
+      },
+      {
+        "name": "protoc-25.4-linux-ppcle_64.zip",
+        "count": 79,
+        "size": 3363997
+      },
+      {
+        "name": "protoc-25.4-linux-s390_64.zip",
+        "count": 60,
+        "size": 3977581
+      },
+      {
+        "name": "protoc-25.4-linux-x86_32.zip",
+        "count": 48,
+        "size": 3374630
+      },
+      {
+        "name": "protoc-25.4-linux-x86_64.zip",
+        "count": 3931,
+        "size": 3105554
+      },
+      {
+        "name": "protoc-25.4-osx-aarch_64.zip",
+        "count": 393,
+        "size": 2209079
+      },
+      {
+        "name": "protoc-25.4-osx-universal_binary.zip",
+        "count": 111,
+        "size": 4438666
+      },
+      {
+        "name": "protoc-25.4-osx-x86_64.zip",
+        "count": 134,
+        "size": 2235048
+      },
+      {
+        "name": "protoc-25.4-win32.zip",
+        "count": 92,
+        "size": 3172404
+      },
+      {
+        "name": "protoc-25.4-win64.zip",
+        "count": 1563,
+        "size": 3147091
+      }
+    ]
+  },
+  {
+    "name": "v28.0-rc1",
+    "date": "2024-07-11T23:47:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-28.0-rc1.tar.gz",
+        "count": 1070,
+        "size": 6375924
+      },
+      {
+        "name": "protobuf-28.0-rc1.zip",
+        "count": 508,
+        "size": 8140166
+      },
+      {
+        "name": "protoc-28.0-rc-1-linux-aarch_64.zip",
+        "count": 74,
+        "size": 3213937
+      },
+      {
+        "name": "protoc-28.0-rc-1-linux-ppcle_64.zip",
+        "count": 21,
+        "size": 3506642
+      },
+      {
+        "name": "protoc-28.0-rc-1-linux-s390_64.zip",
+        "count": 20,
+        "size": 4142046
+      },
+      {
+        "name": "protoc-28.0-rc-1-linux-x86_32.zip",
+        "count": 69,
+        "size": 3512725
+      },
+      {
+        "name": "protoc-28.0-rc-1-linux-x86_64.zip",
+        "count": 931,
+        "size": 3233727
+      },
+      {
+        "name": "protoc-28.0-rc-1-osx-aarch_64.zip",
+        "count": 123,
+        "size": 2237389
+      },
+      {
+        "name": "protoc-28.0-rc-1-osx-universal_binary.zip",
+        "count": 68,
+        "size": 4505100
+      },
+      {
+        "name": "protoc-28.0-rc-1-osx-x86_64.zip",
+        "count": 85,
+        "size": 2313693
+      },
+      {
+        "name": "protoc-28.0-rc-1-win32.zip",
+        "count": 102,
+        "size": 3205424
+      },
+      {
+        "name": "protoc-28.0-rc-1-win64.zip",
+        "count": 1597,
+        "size": 3126646
+      }
+    ]
+  },
+  {
+    "name": "v27.2",
+    "date": "2024-06-25T19:57:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.2.tar.gz",
+        "count": 4788,
+        "size": 6282174
+      },
+      {
+        "name": "protobuf-27.2.zip",
+        "count": 26266,
+        "size": 7998829
+      },
+      {
+        "name": "protoc-27.2-linux-aarch_64.zip",
+        "count": 4544,
+        "size": 3203778
+      },
+      {
+        "name": "protoc-27.2-linux-ppcle_64.zip",
+        "count": 354,
+        "size": 3502144
+      },
+      {
+        "name": "protoc-27.2-linux-s390_64.zip",
+        "count": 380,
+        "size": 4152770
+      },
+      {
+        "name": "protoc-27.2-linux-x86_32.zip",
+        "count": 494,
+        "size": 3507267
+      },
+      {
+        "name": "protoc-27.2-linux-x86_64.zip",
+        "count": 124141,
+        "size": 3235502
+      },
+      {
+        "name": "protoc-27.2-osx-aarch_64.zip",
+        "count": 7252,
+        "size": 2371759
+      },
+      {
+        "name": "protoc-27.2-osx-universal_binary.zip",
+        "count": 1918,
+        "size": 4673326
+      },
+      {
+        "name": "protoc-27.2-osx-x86_64.zip",
+        "count": 3852,
+        "size": 2346383
+      },
+      {
+        "name": "protoc-27.2-win32.zip",
+        "count": 1154,
+        "size": 3280169
+      },
+      {
+        "name": "protoc-27.2-win64.zip",
+        "count": 19074,
+        "size": 3233001
+      }
+    ]
+  },
+  {
+    "name": "v27.1",
+    "date": "2024-06-05T18:58:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.1.tar.gz",
+        "count": 24486,
+        "size": 6278488
+      },
+      {
+        "name": "protobuf-27.1.zip",
+        "count": 21154,
+        "size": 7991546
+      },
+      {
+        "name": "protoc-27.1-linux-aarch_64.zip",
+        "count": 6329,
+        "size": 3202911
+      },
+      {
+        "name": "protoc-27.1-linux-ppcle_64.zip",
+        "count": 69,
+        "size": 3501333
+      },
+      {
+        "name": "protoc-27.1-linux-s390_64.zip",
+        "count": 137,
+        "size": 4151407
+      },
+      {
+        "name": "protoc-27.1-linux-x86_32.zip",
+        "count": 163,
+        "size": 3505672
+      },
+      {
+        "name": "protoc-27.1-linux-x86_64.zip",
+        "count": 111681,
+        "size": 3234438
+      },
+      {
+        "name": "protoc-27.1-osx-aarch_64.zip",
+        "count": 5156,
+        "size": 2370250
+      },
+      {
+        "name": "protoc-27.1-osx-universal_binary.zip",
+        "count": 5069,
+        "size": 4669331
+      },
+      {
+        "name": "protoc-27.1-osx-x86_64.zip",
+        "count": 3299,
+        "size": 2345706
+      },
+      {
+        "name": "protoc-27.1-win32.zip",
+        "count": 713,
+        "size": 3278894
+      },
+      {
+        "name": "protoc-27.1-win64.zip",
+        "count": 15109,
+        "size": 3231711
+      }
+    ]
+  },
+  {
+    "name": "v27.0",
+    "date": "2024-05-23T14:41:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.0.tar.gz",
+        "count": 4742,
+        "size": 6277386
+      },
+      {
+        "name": "protobuf-27.0.zip",
+        "count": 11008,
+        "size": 7991003
+      },
+      {
+        "name": "protoc-27.0-linux-aarch_64.zip",
+        "count": 1426,
+        "size": 3202209
+      },
+      {
+        "name": "protoc-27.0-linux-ppcle_64.zip",
+        "count": 55,
+        "size": 3500804
+      },
+      {
+        "name": "protoc-27.0-linux-s390_64.zip",
+        "count": 63,
+        "size": 4150989
+      },
+      {
+        "name": "protoc-27.0-linux-x86_32.zip",
+        "count": 116,
+        "size": 3504733
+      },
+      {
+        "name": "protoc-27.0-linux-x86_64.zip",
+        "count": 53410,
+        "size": 3234085
+      },
+      {
+        "name": "protoc-27.0-osx-aarch_64.zip",
+        "count": 3265,
+        "size": 2370182
+      },
+      {
+        "name": "protoc-27.0-osx-universal_binary.zip",
+        "count": 416,
+        "size": 4669478
+      },
+      {
+        "name": "protoc-27.0-osx-x86_64.zip",
+        "count": 1581,
+        "size": 2345687
+      },
+      {
+        "name": "protoc-27.0-win32.zip",
+        "count": 525,
+        "size": 3278719
+      },
+      {
+        "name": "protoc-27.0-win64.zip",
+        "count": 9070,
+        "size": 3231291
+      }
+    ]
+  },
+  {
+    "name": "v27.0-rc3",
+    "date": "2024-05-14T18:44:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.0-rc3.tar.gz",
+        "count": 211,
+        "size": 6275843
+      },
+      {
+        "name": "protobuf-27.0-rc3.zip",
+        "count": 226,
+        "size": 8014089
+      },
+      {
+        "name": "protoc-27.0-rc-3-linux-aarch_64.zip",
+        "count": 78,
+        "size": 3200963
+      },
+      {
+        "name": "protoc-27.0-rc-3-linux-ppcle_64.zip",
+        "count": 30,
+        "size": 3499714
+      },
+      {
+        "name": "protoc-27.0-rc-3-linux-s390_64.zip",
+        "count": 32,
+        "size": 4149984
+      },
+      {
+        "name": "protoc-27.0-rc-3-linux-x86_32.zip",
+        "count": 133,
+        "size": 3503423
+      },
+      {
+        "name": "protoc-27.0-rc-3-linux-x86_64.zip",
+        "count": 720,
+        "size": 3232798
+      },
+      {
+        "name": "protoc-27.0-rc-3-osx-aarch_64.zip",
+        "count": 139,
+        "size": 2368824
+      },
+      {
+        "name": "protoc-27.0-rc-3-osx-universal_binary.zip",
+        "count": 80,
+        "size": 4668188
+      },
+      {
+        "name": "protoc-27.0-rc-3-osx-x86_64.zip",
+        "count": 101,
+        "size": 2344902
+      },
+      {
+        "name": "protoc-27.0-rc-3-win32.zip",
+        "count": 113,
+        "size": 3277873
+      },
+      {
+        "name": "protoc-27.0-rc-3-win64.zip",
+        "count": 1795,
+        "size": 3230081
+      }
+    ]
+  },
+  {
+    "name": "v27.0-rc2",
+    "date": "2024-05-08T22:58:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.0-rc2.tar.gz",
+        "count": 102,
+        "size": 6275921
+      },
+      {
+        "name": "protobuf-27.0-rc2.zip",
+        "count": 568,
+        "size": 8014124
+      },
+      {
+        "name": "protoc-27.0-rc-2-linux-aarch_64.zip",
+        "count": 68,
+        "size": 3200958
+      },
+      {
+        "name": "protoc-27.0-rc-2-linux-ppcle_64.zip",
+        "count": 29,
+        "size": 3499671
+      },
+      {
+        "name": "protoc-27.0-rc-2-linux-s390_64.zip",
+        "count": 27,
+        "size": 4149803
+      },
+      {
+        "name": "protoc-27.0-rc-2-linux-x86_32.zip",
+        "count": 42,
+        "size": 3503491
+      },
+      {
+        "name": "protoc-27.0-rc-2-linux-x86_64.zip",
+        "count": 435,
+        "size": 3232950
+      },
+      {
+        "name": "protoc-27.0-rc-2-osx-aarch_64.zip",
+        "count": 81,
+        "size": 2368707
+      },
+      {
+        "name": "protoc-27.0-rc-2-osx-universal_binary.zip",
+        "count": 61,
+        "size": 4668074
+      },
+      {
+        "name": "protoc-27.0-rc-2-osx-x86_64.zip",
+        "count": 71,
+        "size": 2344831
+      },
+      {
+        "name": "protoc-27.0-rc-2-win32.zip",
+        "count": 74,
+        "size": 3277906
+      },
+      {
+        "name": "protoc-27.0-rc-2-win64.zip",
+        "count": 1140,
+        "size": 3229965
+      }
+    ]
+  },
+  {
+    "name": "v27.0-rc1",
+    "date": "2024-04-18T18:31:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-27.0-rc1.tar.gz",
+        "count": 278,
+        "size": 6272006
+      },
+      {
+        "name": "protobuf-27.0-rc1.zip",
+        "count": 711,
+        "size": 8001282
+      },
+      {
+        "name": "protoc-27.0-rc-1-linux-aarch_64.zip",
+        "count": 143,
+        "size": 3193846
+      },
+      {
+        "name": "protoc-27.0-rc-1-linux-ppcle_64.zip",
+        "count": 51,
+        "size": 3496918
+      },
+      {
+        "name": "protoc-27.0-rc-1-linux-s390_64.zip",
+        "count": 49,
+        "size": 4146614
+      },
+      {
+        "name": "protoc-27.0-rc-1-linux-x86_32.zip",
+        "count": 119,
+        "size": 3500438
+      },
+      {
+        "name": "protoc-27.0-rc-1-linux-x86_64.zip",
+        "count": 2001,
+        "size": 3229409
+      },
+      {
+        "name": "protoc-27.0-rc-1-osx-aarch_64.zip",
+        "count": 308,
+        "size": 2370365
+      },
+      {
+        "name": "protoc-27.0-rc-1-osx-universal_binary.zip",
+        "count": 140,
+        "size": 4669124
+      },
+      {
+        "name": "protoc-27.0-rc-1-osx-x86_64.zip",
+        "count": 197,
+        "size": 2344551
+      },
+      {
+        "name": "protoc-27.0-rc-1-win32.zip",
+        "count": 158,
+        "size": 3272429
+      },
+      {
+        "name": "protoc-27.0-rc-1-win64.zip",
+        "count": 3013,
+        "size": 3224151
+      }
+    ]
+  },
+  {
+    "name": "v26.1",
+    "date": "2024-03-27T20:28:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-26.1.tar.gz",
+        "count": 120700,
+        "size": 5957903
+      },
+      {
+        "name": "protobuf-26.1.zip",
+        "count": 35502,
+        "size": 7613835
+      },
+      {
+        "name": "protoc-26.1-linux-aarch_64.zip",
+        "count": 17643,
+        "size": 3141384
+      },
+      {
+        "name": "protoc-26.1-linux-ppcle_64.zip",
+        "count": 135,
+        "size": 3438134
+      },
+      {
+        "name": "protoc-26.1-linux-s390_64.zip",
+        "count": 574,
+        "size": 4067249
+      },
+      {
+        "name": "protoc-26.1-linux-x86_32.zip",
+        "count": 329,
+        "size": 3443421
+      },
+      {
+        "name": "protoc-26.1-linux-x86_64.zip",
+        "count": 485609,
+        "size": 3173150
+      },
+      {
+        "name": "protoc-26.1-osx-aarch_64.zip",
+        "count": 33308,
+        "size": 2304045
+      },
+      {
+        "name": "protoc-26.1-osx-universal_binary.zip",
+        "count": 6518,
+        "size": 4538720
+      },
+      {
+        "name": "protoc-26.1-osx-x86_64.zip",
+        "count": 20453,
+        "size": 2279373
+      },
+      {
+        "name": "protoc-26.1-win32.zip",
+        "count": 1492,
+        "size": 3205010
+      },
+      {
+        "name": "protoc-26.1-win64.zip",
+        "count": 46495,
+        "size": 3163548
+      }
+    ]
+  },
+  {
+    "name": "v26.0",
+    "date": "2024-03-13T17:09:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-26.0.tar.gz",
+        "count": 21248,
+        "size": 5957426
+      },
+      {
+        "name": "protobuf-26.0.zip",
+        "count": 9115,
+        "size": 7612918
+      },
+      {
+        "name": "protoc-26.0-linux-aarch_64.zip",
+        "count": 7803,
+        "size": 3139602
+      },
+      {
+        "name": "protoc-26.0-linux-ppcle_64.zip",
+        "count": 80,
+        "size": 3436416
+      },
+      {
+        "name": "protoc-26.0-linux-s390_64.zip",
+        "count": 86,
+        "size": 4065539
+      },
+      {
+        "name": "protoc-26.0-linux-x86_32.zip",
+        "count": 98,
+        "size": 3441707
+      },
+      {
+        "name": "protoc-26.0-linux-x86_64.zip",
+        "count": 172860,
+        "size": 3171431
+      },
+      {
+        "name": "protoc-26.0-osx-aarch_64.zip",
+        "count": 5570,
+        "size": 2302223
+      },
+      {
+        "name": "protoc-26.0-osx-universal_binary.zip",
+        "count": 863,
+        "size": 4536953
+      },
+      {
+        "name": "protoc-26.0-osx-x86_64.zip",
+        "count": 7489,
+        "size": 2277579
+      },
+      {
+        "name": "protoc-26.0-win32.zip",
+        "count": 1171,
+        "size": 3203289
+      },
+      {
+        "name": "protoc-26.0-win64.zip",
+        "count": 11647,
+        "size": 3161826
+      }
+    ]
+  },
+  {
+    "name": "v26.0-rc3",
+    "date": "2024-02-28T23:49:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-26.0-rc3.tar.gz",
+        "count": 193,
+        "size": 5958462
+      },
+      {
+        "name": "protobuf-26.0-rc3.zip",
+        "count": 197,
+        "size": 7637814
+      },
+      {
+        "name": "protoc-26.0-rc-3-linux-aarch_64.zip",
+        "count": 116,
+        "size": 3139573
+      },
+      {
+        "name": "protoc-26.0-rc-3-linux-ppcle_64.zip",
+        "count": 51,
+        "size": 3436389
+      },
+      {
+        "name": "protoc-26.0-rc-3-linux-s390_64.zip",
+        "count": 52,
+        "size": 4065496
+      },
+      {
+        "name": "protoc-26.0-rc-3-linux-x86_32.zip",
+        "count": 82,
+        "size": 3441633
+      },
+      {
+        "name": "protoc-26.0-rc-3-linux-x86_64.zip",
+        "count": 704,
+        "size": 3171366
+      },
+      {
+        "name": "protoc-26.0-rc-3-osx-aarch_64.zip",
+        "count": 184,
+        "size": 2302187
+      },
+      {
+        "name": "protoc-26.0-rc-3-osx-universal_binary.zip",
+        "count": 121,
+        "size": 4536916
+      },
+      {
+        "name": "protoc-26.0-rc-3-osx-x86_64.zip",
+        "count": 138,
+        "size": 2277494
+      },
+      {
+        "name": "protoc-26.0-rc-3-win32.zip",
+        "count": 108,
+        "size": 3203385
+      },
+      {
+        "name": "protoc-26.0-rc-3-win64.zip",
+        "count": 1721,
+        "size": 3161704
+      }
+    ]
+  },
+  {
+    "name": "v25.3",
+    "date": "2024-02-15T23:20:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.3.tar.gz",
+        "count": 116033,
+        "size": 5878962
+      },
+      {
+        "name": "protobuf-25.3.zip",
+        "count": 69998,
+        "size": 7570181
+      },
+      {
+        "name": "protoc-25.3-linux-aarch_64.zip",
+        "count": 34705,
+        "size": 3071653
+      },
+      {
+        "name": "protoc-25.3-linux-ppcle_64.zip",
+        "count": 20295,
+        "size": 3363997
+      },
+      {
+        "name": "protoc-25.3-linux-s390_64.zip",
+        "count": 20426,
+        "size": 3977579
+      },
+      {
+        "name": "protoc-25.3-linux-x86_32.zip",
+        "count": 20034,
+        "size": 3374631
+      },
+      {
+        "name": "protoc-25.3-linux-x86_64.zip",
+        "count": 663452,
+        "size": 3105560
+      },
+      {
+        "name": "protoc-25.3-osx-aarch_64.zip",
+        "count": 43128,
+        "size": 2209081
+      },
+      {
+        "name": "protoc-25.3-osx-universal_binary.zip",
+        "count": 2267,
+        "size": 4438498
+      },
+      {
+        "name": "protoc-25.3-osx-x86_64.zip",
+        "count": 60368,
+        "size": 2235056
+      },
+      {
+        "name": "protoc-25.3-win32.zip",
+        "count": 21015,
+        "size": 3172404
+      },
+      {
+        "name": "protoc-25.3-win64.zip",
+        "count": 55246,
+        "size": 3147092
+      }
+    ]
+  },
+  {
+    "name": "v26.0-rc2",
+    "date": "2024-02-06T19:04:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-26.0-rc2.tar.gz",
+        "count": 146,
+        "size": 5957009
+      },
+      {
+        "name": "protobuf-26.0-rc2.zip",
+        "count": 144,
+        "size": 7636107
+      },
+      {
+        "name": "protoc-26.0-rc-2-linux-aarch_64.zip",
+        "count": 66,
+        "size": 3139572
+      },
+      {
+        "name": "protoc-26.0-rc-2-linux-ppcle_64.zip",
+        "count": 41,
+        "size": 3436389
+      },
+      {
+        "name": "protoc-26.0-rc-2-linux-s390_64.zip",
+        "count": 39,
+        "size": 4065497
+      },
+      {
+        "name": "protoc-26.0-rc-2-linux-x86_32.zip",
+        "count": 81,
+        "size": 3441633
+      },
+      {
+        "name": "protoc-26.0-rc-2-linux-x86_64.zip",
+        "count": 559,
+        "size": 3171366
+      },
+      {
+        "name": "protoc-26.0-rc-2-osx-aarch_64.zip",
+        "count": 107,
+        "size": 2302193
+      },
+      {
+        "name": "protoc-26.0-rc-2-osx-universal_binary.zip",
+        "count": 76,
+        "size": 4536837
+      },
+      {
+        "name": "protoc-26.0-rc-2-osx-x86_64.zip",
+        "count": 85,
+        "size": 2277501
+      },
+      {
+        "name": "protoc-26.0-rc-2-win32.zip",
+        "count": 80,
+        "size": 3203385
+      },
+      {
+        "name": "protoc-26.0-rc-2-win64.zip",
+        "count": 918,
+        "size": 3161706
+      }
+    ]
+  },
+  {
+    "name": "v26.0-rc1",
+    "date": "2024-01-25T18:55:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-26.0-rc1.tar.gz",
+        "count": 135,
+        "size": 5961676
+      },
+      {
+        "name": "protobuf-26.0-rc1.zip",
+        "count": 206,
+        "size": 7640070
+      },
+      {
+        "name": "protoc-26.0-rc-1-linux-aarch_64.zip",
+        "count": 83,
+        "size": 3142910
+      },
+      {
+        "name": "protoc-26.0-rc-1-linux-ppcle_64.zip",
+        "count": 33,
+        "size": 3438673
+      },
+      {
+        "name": "protoc-26.0-rc-1-linux-s390_64.zip",
+        "count": 34,
+        "size": 4072517
+      },
+      {
+        "name": "protoc-26.0-rc-1-linux-x86_32.zip",
+        "count": 68,
+        "size": 3444800
+      },
+      {
+        "name": "protoc-26.0-rc-1-linux-x86_64.zip",
+        "count": 879,
+        "size": 3174782
+      },
+      {
+        "name": "protoc-26.0-rc-1-osx-aarch_64.zip",
+        "count": 127,
+        "size": 2307063
+      },
+      {
+        "name": "protoc-26.0-rc-1-osx-universal_binary.zip",
+        "count": 71,
+        "size": 4542680
+      },
+      {
+        "name": "protoc-26.0-rc-1-osx-x86_64.zip",
+        "count": 86,
+        "size": 2280043
+      },
+      {
+        "name": "protoc-26.0-rc-1-win32.zip",
+        "count": 98,
+        "size": 3208785
+      },
+      {
+        "name": "protoc-26.0-rc-1-win64.zip",
+        "count": 1337,
+        "size": 3166418
+      }
+    ]
+  },
+  {
+    "name": "v25.2",
+    "date": "2024-01-09T23:52:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.2.tar.gz",
+        "count": 308787,
+        "size": 5878387
+      },
+      {
+        "name": "protobuf-25.2.zip",
+        "count": 21882,
+        "size": 7569448
+      },
+      {
+        "name": "protoc-25.2-linux-aarch_64.zip",
+        "count": 24773,
+        "size": 3071655
+      },
+      {
+        "name": "protoc-25.2-linux-ppcle_64.zip",
+        "count": 169,
+        "size": 3363994
+      },
+      {
+        "name": "protoc-25.2-linux-s390_64.zip",
+        "count": 274,
+        "size": 3977581
+      },
+      {
+        "name": "protoc-25.2-linux-x86_32.zip",
+        "count": 228,
+        "size": 3374635
+      },
+      {
+        "name": "protoc-25.2-linux-x86_64.zip",
+        "count": 526893,
+        "size": 3105555
+      },
+      {
+        "name": "protoc-25.2-osx-aarch_64.zip",
+        "count": 62439,
+        "size": 2209071
+      },
+      {
+        "name": "protoc-25.2-osx-universal_binary.zip",
+        "count": 1346,
+        "size": 4438550
+      },
+      {
+        "name": "protoc-25.2-osx-x86_64.zip",
+        "count": 63541,
+        "size": 2235343
+      },
+      {
+        "name": "protoc-25.2-win32.zip",
+        "count": 1480,
+        "size": 3172404
+      },
+      {
+        "name": "protoc-25.2-win64.zip",
+        "count": 131845,
+        "size": 3147092
+      }
+    ]
+  },
+  {
+    "name": "v25.1",
+    "date": "2023-11-15T22:34:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.1.tar.gz",
+        "count": 136722,
+        "size": 5878124
+      },
+      {
+        "name": "protobuf-25.1.zip",
+        "count": 78571,
+        "size": 7569325
+      },
+      {
+        "name": "protoc-25.1-linux-aarch_64.zip",
+        "count": 14010,
+        "size": 3071521
+      },
+      {
+        "name": "protoc-25.1-linux-ppcle_64.zip",
+        "count": 141,
+        "size": 3363940
+      },
+      {
+        "name": "protoc-25.1-linux-s390_64.zip",
+        "count": 367,
+        "size": 3977486
+      },
+      {
+        "name": "protoc-25.1-linux-x86_32.zip",
+        "count": 392,
+        "size": 3374305
+      },
+      {
+        "name": "protoc-25.1-linux-x86_64.zip",
+        "count": 641196,
+        "size": 3105275
+      },
+      {
+        "name": "protoc-25.1-osx-aarch_64.zip",
+        "count": 25297,
+        "size": 2209026
+      },
+      {
+        "name": "protoc-25.1-osx-universal_binary.zip",
+        "count": 7178,
+        "size": 4438225
+      },
+      {
+        "name": "protoc-25.1-osx-x86_64.zip",
+        "count": 27272,
+        "size": 2235234
+      },
+      {
+        "name": "protoc-25.1-win32.zip",
+        "count": 1405,
+        "size": 3172547
+      },
+      {
+        "name": "protoc-25.1-win64.zip",
+        "count": 33751,
+        "size": 3146962
+      }
+    ]
+  },
+  {
+    "name": "v25.0",
+    "date": "2023-11-01T22:50:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.0.tar.gz",
+        "count": 72551,
+        "size": 5873954
+      },
+      {
+        "name": "protobuf-25.0.zip",
+        "count": 3382,
+        "size": 7564195
+      },
+      {
+        "name": "protoc-25.0-linux-aarch_64.zip",
+        "count": 2249,
+        "size": 3071574
+      },
+      {
+        "name": "protoc-25.0-linux-ppcle_64.zip",
+        "count": 59,
+        "size": 3363990
+      },
+      {
+        "name": "protoc-25.0-linux-s390_64.zip",
+        "count": 74,
+        "size": 3977679
+      },
+      {
+        "name": "protoc-25.0-linux-x86_32.zip",
+        "count": 106,
+        "size": 3374323
+      },
+      {
+        "name": "protoc-25.0-linux-x86_64.zip",
+        "count": 139372,
+        "size": 3105250
+      },
+      {
+        "name": "protoc-25.0-osx-aarch_64.zip",
+        "count": 5490,
+        "size": 2209179
+      },
+      {
+        "name": "protoc-25.0-osx-universal_binary.zip",
+        "count": 784,
+        "size": 4438527
+      },
+      {
+        "name": "protoc-25.0-osx-x86_64.zip",
+        "count": 3255,
+        "size": 2235088
+      },
+      {
+        "name": "protoc-25.0-win32.zip",
+        "count": 1620,
+        "size": 3172646
+      },
+      {
+        "name": "protoc-25.0-win64.zip",
+        "count": 11590,
+        "size": 3147220
+      }
+    ]
+  },
+  {
+    "name": "v25.0-rc2",
+    "date": "2023-10-18T19:13:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.0-rc2.tar.gz",
+        "count": 213,
+        "size": 5874576
+      },
+      {
+        "name": "protobuf-25.0-rc2.zip",
+        "count": 259,
+        "size": 7588205
+      },
+      {
+        "name": "protoc-25.0-rc-2-linux-aarch_64.zip",
+        "count": 103,
+        "size": 3071612
+      },
+      {
+        "name": "protoc-25.0-rc-2-linux-ppcle_64.zip",
+        "count": 46,
+        "size": 3364010
+      },
+      {
+        "name": "protoc-25.0-rc-2-linux-s390_64.zip",
+        "count": 50,
+        "size": 3977700
+      },
+      {
+        "name": "protoc-25.0-rc-2-linux-x86_32.zip",
+        "count": 83,
+        "size": 3374365
+      },
+      {
+        "name": "protoc-25.0-rc-2-linux-x86_64.zip",
+        "count": 2028,
+        "size": 3105188
+      },
+      {
+        "name": "protoc-25.0-rc-2-osx-aarch_64.zip",
+        "count": 185,
+        "size": 2209266
+      },
+      {
+        "name": "protoc-25.0-rc-2-osx-universal_binary.zip",
+        "count": 106,
+        "size": 4438598
+      },
+      {
+        "name": "protoc-25.0-rc-2-osx-x86_64.zip",
+        "count": 156,
+        "size": 2235116
+      },
+      {
+        "name": "protoc-25.0-rc-2-win32.zip",
+        "count": 147,
+        "size": 3172628
+      },
+      {
+        "name": "protoc-25.0-rc-2-win64.zip",
+        "count": 2547,
+        "size": 3147095
+      }
+    ]
+  },
+  {
+    "name": "v25.0-rc1",
+    "date": "2023-10-16T21:40:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-25.0-rc1.tar.gz",
+        "count": 77,
+        "size": 5874405
+      },
+      {
+        "name": "protobuf-25.0-rc1.zip",
+        "count": 113,
+        "size": 7588212
+      },
+      {
+        "name": "protoc-25.0-rc-1-linux-aarch_64.zip",
+        "count": 57,
+        "size": 3071611
+      },
+      {
+        "name": "protoc-25.0-rc-1-linux-ppcle_64.zip",
+        "count": 39,
+        "size": 3364010
+      },
+      {
+        "name": "protoc-25.0-rc-1-linux-s390_64.zip",
+        "count": 39,
+        "size": 3977698
+      },
+      {
+        "name": "protoc-25.0-rc-1-linux-x86_32.zip",
+        "count": 42,
+        "size": 3374365
+      },
+      {
+        "name": "protoc-25.0-rc-1-linux-x86_64.zip",
+        "count": 392,
+        "size": 3105187
+      },
+      {
+        "name": "protoc-25.0-rc-1-osx-aarch_64.zip",
+        "count": 89,
+        "size": 2209269
+      },
+      {
+        "name": "protoc-25.0-rc-1-osx-universal_binary.zip",
+        "count": 61,
+        "size": 4438582
+      },
+      {
+        "name": "protoc-25.0-rc-1-osx-x86_64.zip",
+        "count": 95,
+        "size": 2235114
+      },
+      {
+        "name": "protoc-25.0-rc-1-win32.zip",
+        "count": 95,
+        "size": 3172627
+      },
+      {
+        "name": "protoc-25.0-rc-1-win64.zip",
+        "count": 610,
+        "size": 3147094
+      }
+    ]
+  },
+  {
+    "name": "v24.4",
+    "date": "2023-10-04T16:55:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "protobuf-24.4.tar.gz",
+        "count": 225075,
+        "size": 5180235
+      },
+      {
+        "name": "protobuf-24.4.zip",
+        "count": 5073,
+        "size": 7273121
+      },
+      {
+        "name": "protoc-24.4-linux-aarch_64.zip",
+        "count": 41879,
+        "size": 2971447
+      },
+      {
+        "name": "protoc-24.4-linux-ppcle_64.zip",
+        "count": 97,
+        "size": 3247205
+      },
+      {
+        "name": "protoc-24.4-linux-s390_64.zip",
+        "count": 155,
+        "size": 3828822
+      },
+      {
+        "name": "protoc-24.4-linux-x86_32.zip",
+        "count": 1453,
+        "size": 3267857
+      },
+      {
+        "name": "protoc-24.4-linux-x86_64.zip",
+        "count": 302219,
+        "size": 3005774
+      },
+      {
+        "name": "protoc-24.4-osx-aarch_64.zip",
+        "count": 27747,
+        "size": 2088802
+      },
+      {
+        "name": "protoc-24.4-osx-universal_binary.zip",
+        "count": 1619,
+        "size": 4201464
+      },
+      {
+        "name": "protoc-24.4-osx-x86_64.zip",
+        "count": 42506,
+        "size": 2121366
+      },
+      {
+        "name": "protoc-24.4-win32.zip",
+        "count": 1040,
+        "size": 2918311
+      },
+      {
+        "name": "protoc-24.4-win64.zip",
+        "count": 39382,
+        "size": 2910319
+      }
+    ]
+  },
+  {
     "name": "v24.3",
     "date": "2023-09-07T18:26:57Z",
     "mentions": null,
     "downloads": [
       {
         "name": "protobuf-24.3.tar.gz",
-        "count": 3708,
+        "count": 44717,
         "size": 5179711
       },
       {
         "name": "protobuf-24.3.zip",
-        "count": 2382,
+        "count": 5822,
         "size": 7272983
       },
       {
         "name": "protoc-24.3-linux-aarch_64.zip",
-        "count": 1330,
+        "count": 7016,
         "size": 2971115
       },
       {
         "name": "protoc-24.3-linux-ppcle_64.zip",
-        "count": 28,
+        "count": 115,
         "size": 3247037
       },
       {
         "name": "protoc-24.3-linux-s390_64.zip",
-        "count": 30,
+        "count": 217,
         "size": 3829472
       },
       {
         "name": "protoc-24.3-linux-x86_32.zip",
-        "count": 109,
+        "count": 268,
         "size": 3267492
       },
       {
         "name": "protoc-24.3-linux-x86_64.zip",
-        "count": 26988,
+        "count": 284594,
         "size": 3005508
       },
       {
         "name": "protoc-24.3-osx-aarch_64.zip",
-        "count": 1188,
+        "count": 9103,
         "size": 2089053
       },
       {
         "name": "protoc-24.3-osx-universal_binary.zip",
-        "count": 607,
+        "count": 5592,
         "size": 4201636
       },
       {
         "name": "protoc-24.3-osx-x86_64.zip",
-        "count": 2186,
+        "count": 50770,
         "size": 2121387
       },
       {
         "name": "protoc-24.3-win32.zip",
-        "count": 348,
+        "count": 740,
         "size": 2917989
       },
       {
         "name": "protoc-24.3-win64.zip",
-        "count": 6470,
+        "count": 56110,
         "size": 2910489
       }
     ]
@@ -73,62 +1480,62 @@
     "downloads": [
       {
         "name": "protobuf-24.2.tar.gz",
-        "count": 4578,
+        "count": 6575,
         "size": 5179130
       },
       {
         "name": "protobuf-24.2.zip",
-        "count": 2634,
+        "count": 2786,
         "size": 7272543
       },
       {
         "name": "protoc-24.2-linux-aarch_64.zip",
-        "count": 1441,
+        "count": 1701,
         "size": 2971114
       },
       {
         "name": "protoc-24.2-linux-ppcle_64.zip",
-        "count": 74,
+        "count": 124,
         "size": 3246981
       },
       {
         "name": "protoc-24.2-linux-s390_64.zip",
-        "count": 59,
+        "count": 99,
         "size": 3829546
       },
       {
         "name": "protoc-24.2-linux-x86_32.zip",
-        "count": 97,
+        "count": 139,
         "size": 3267499
       },
       {
         "name": "protoc-24.2-linux-x86_64.zip",
-        "count": 40800,
+        "count": 397627,
         "size": 3005518
       },
       {
         "name": "protoc-24.2-osx-aarch_64.zip",
-        "count": 1191,
+        "count": 1371,
         "size": 2088938
       },
       {
         "name": "protoc-24.2-osx-universal_binary.zip",
-        "count": 616,
+        "count": 747,
         "size": 4201732
       },
       {
         "name": "protoc-24.2-osx-x86_64.zip",
-        "count": 2567,
+        "count": 2732,
         "size": 2121382
       },
       {
         "name": "protoc-24.2-win32.zip",
-        "count": 440,
+        "count": 508,
         "size": 2917989
       },
       {
         "name": "protoc-24.2-win64.zip",
-        "count": 7823,
+        "count": 10256,
         "size": 2910496
       }
     ]
@@ -140,62 +1547,62 @@
     "downloads": [
       {
         "name": "protobuf-24.1.tar.gz",
-        "count": 7540,
+        "count": 25003,
         "size": 5178595
       },
       {
         "name": "protobuf-24.1.zip",
-        "count": 1396,
+        "count": 1750,
         "size": 7272744
       },
       {
         "name": "protoc-24.1-linux-aarch_64.zip",
-        "count": 1722,
+        "count": 2805,
         "size": 2971117
       },
       {
         "name": "protoc-24.1-linux-ppcle_64.zip",
-        "count": 21,
+        "count": 60,
         "size": 3246979
       },
       {
         "name": "protoc-24.1-linux-s390_64.zip",
-        "count": 24,
+        "count": 78,
         "size": 3829547
       },
       {
         "name": "protoc-24.1-linux-x86_32.zip",
-        "count": 53,
+        "count": 93,
         "size": 3267499
       },
       {
         "name": "protoc-24.1-linux-x86_64.zip",
-        "count": 18501,
+        "count": 40138,
         "size": 3005520
       },
       {
         "name": "protoc-24.1-osx-aarch_64.zip",
-        "count": 812,
+        "count": 1548,
         "size": 2088935
       },
       {
         "name": "protoc-24.1-osx-universal_binary.zip",
-        "count": 419,
+        "count": 528,
         "size": 4201715
       },
       {
         "name": "protoc-24.1-osx-x86_64.zip",
-        "count": 1710,
+        "count": 2659,
         "size": 2121378
       },
       {
         "name": "protoc-24.1-win32.zip",
-        "count": 273,
+        "count": 332,
         "size": 2917988
       },
       {
         "name": "protoc-24.1-win64.zip",
-        "count": 4777,
+        "count": 5614,
         "size": 2910499
       }
     ]
@@ -207,62 +1614,62 @@
     "downloads": [
       {
         "name": "protobuf-24.0.tar.gz",
-        "count": 1541,
+        "count": 1762,
         "size": 5179150
       },
       {
         "name": "protobuf-24.0.zip",
-        "count": 2339,
+        "count": 159511,
         "size": 7272449
       },
       {
         "name": "protoc-24.0-linux-aarch_64.zip",
-        "count": 1398,
+        "count": 3807,
         "size": 2971066
       },
       {
         "name": "protoc-24.0-linux-ppcle_64.zip",
-        "count": 32,
+        "count": 71,
         "size": 3246947
       },
       {
         "name": "protoc-24.0-linux-s390_64.zip",
-        "count": 36,
+        "count": 74,
         "size": 3829542
       },
       {
         "name": "protoc-24.0-linux-x86_32.zip",
-        "count": 80,
+        "count": 123,
         "size": 3267493
       },
       {
         "name": "protoc-24.0-linux-x86_64.zip",
-        "count": 25030,
+        "count": 60719,
         "size": 3005515
       },
       {
         "name": "protoc-24.0-osx-aarch_64.zip",
-        "count": 1495,
+        "count": 2159,
         "size": 2088827
       },
       {
         "name": "protoc-24.0-osx-universal_binary.zip",
-        "count": 720,
+        "count": 983,
         "size": 4201523
       },
       {
         "name": "protoc-24.0-osx-x86_64.zip",
-        "count": 1911,
+        "count": 2694,
         "size": 2121378
       },
       {
         "name": "protoc-24.0-win32.zip",
-        "count": 381,
+        "count": 451,
         "size": 2917993
       },
       {
         "name": "protoc-24.0-win64.zip",
-        "count": 6153,
+        "count": 7236,
         "size": 2910493
       }
     ]
@@ -274,62 +1681,62 @@
     "downloads": [
       {
         "name": "protobuf-24.0-rc3.tar.gz",
-        "count": 116,
+        "count": 150,
         "size": 5180007
       },
       {
         "name": "protobuf-24.0-rc3.zip",
-        "count": 124,
+        "count": 171,
         "size": 7292049
       },
       {
         "name": "protoc-24.0-rc-3-linux-aarch_64.zip",
-        "count": 48,
+        "count": 84,
         "size": 2971071
       },
       {
         "name": "protoc-24.0-rc-3-linux-ppcle_64.zip",
-        "count": 10,
+        "count": 47,
         "size": 3246952
       },
       {
         "name": "protoc-24.0-rc-3-linux-s390_64.zip",
-        "count": 8,
+        "count": 44,
         "size": 3829492
       },
       {
         "name": "protoc-24.0-rc-3-linux-x86_32.zip",
-        "count": 38,
+        "count": 76,
         "size": 3267527
       },
       {
         "name": "protoc-24.0-rc-3-linux-x86_64.zip",
-        "count": 454,
+        "count": 1965,
         "size": 3005431
       },
       {
         "name": "protoc-24.0-rc-3-osx-aarch_64.zip",
-        "count": 78,
+        "count": 127,
         "size": 2088899
       },
       {
         "name": "protoc-24.0-rc-3-osx-universal_binary.zip",
-        "count": 38,
+        "count": 82,
         "size": 4201592
       },
       {
         "name": "protoc-24.0-rc-3-osx-x86_64.zip",
-        "count": 73,
+        "count": 120,
         "size": 2121400
       },
       {
         "name": "protoc-24.0-rc-3-win32.zip",
-        "count": 66,
+        "count": 111,
         "size": 2917992
       },
       {
         "name": "protoc-24.0-rc-3-win64.zip",
-        "count": 1058,
+        "count": 1191,
         "size": 2910513
       }
     ]
@@ -341,62 +1748,62 @@
     "downloads": [
       {
         "name": "protobuf-24.0-rc2.tar.gz",
-        "count": 198,
+        "count": 237,
         "size": 5181829
       },
       {
         "name": "protobuf-24.0-rc2.zip",
-        "count": 214,
+        "count": 256,
         "size": 7293178
       },
       {
         "name": "protoc-24.0-rc-2-linux-aarch_64.zip",
-        "count": 100,
+        "count": 137,
         "size": 2967750
       },
       {
         "name": "protoc-24.0-rc-2-linux-ppcle_64.zip",
-        "count": 22,
+        "count": 60,
         "size": 3244007
       },
       {
         "name": "protoc-24.0-rc-2-linux-s390_64.zip",
-        "count": 17,
+        "count": 54,
         "size": 3827496
       },
       {
         "name": "protoc-24.0-rc-2-linux-x86_32.zip",
-        "count": 52,
+        "count": 89,
         "size": 3264306
       },
       {
         "name": "protoc-24.0-rc-2-linux-x86_64.zip",
-        "count": 790,
+        "count": 1067,
         "size": 3002375
       },
       {
         "name": "protoc-24.0-rc-2-osx-aarch_64.zip",
-        "count": 153,
+        "count": 201,
         "size": 2083405
       },
       {
         "name": "protoc-24.0-rc-2-osx-universal_binary.zip",
-        "count": 94,
+        "count": 136,
         "size": 4193660
       },
       {
         "name": "protoc-24.0-rc-2-osx-x86_64.zip",
-        "count": 121,
+        "count": 170,
         "size": 2118001
       },
       {
         "name": "protoc-24.0-rc-2-win32.zip",
-        "count": 75,
+        "count": 115,
         "size": 2915846
       },
       {
         "name": "protoc-24.0-rc-2-win64.zip",
-        "count": 2028,
+        "count": 2267,
         "size": 2905848
       }
     ]
@@ -408,62 +1815,62 @@
     "downloads": [
       {
         "name": "protobuf-24.0-rc1.tar.gz",
-        "count": 109,
+        "count": 149,
         "size": 5176464
       },
       {
         "name": "protobuf-24.0-rc1.zip",
-        "count": 116,
+        "count": 158,
         "size": 7284780
       },
       {
         "name": "protoc-24.0-rc-1-linux-aarch_64.zip",
-        "count": 43,
+        "count": 82,
         "size": 2965980
       },
       {
         "name": "protoc-24.0-rc-1-linux-ppcle_64.zip",
-        "count": 11,
+        "count": 46,
         "size": 3241182
       },
       {
         "name": "protoc-24.0-rc-1-linux-s390_64.zip",
-        "count": 10,
+        "count": 47,
         "size": 3825921
       },
       {
         "name": "protoc-24.0-rc-1-linux-x86_32.zip",
-        "count": 22,
+        "count": 57,
         "size": 3261360
       },
       {
         "name": "protoc-24.0-rc-1-linux-x86_64.zip",
-        "count": 280,
+        "count": 341,
         "size": 2999409
       },
       {
         "name": "protoc-24.0-rc-1-osx-aarch_64.zip",
-        "count": 68,
+        "count": 116,
         "size": 2081442
       },
       {
         "name": "protoc-24.0-rc-1-osx-universal_binary.zip",
-        "count": 48,
+        "count": 89,
         "size": 4187740
       },
       {
         "name": "protoc-24.0-rc-1-osx-x86_64.zip",
-        "count": 63,
+        "count": 108,
         "size": 2114088
       },
       {
         "name": "protoc-24.0-rc-1-win32.zip",
-        "count": 56,
+        "count": 97,
         "size": 2913173
       },
       {
         "name": "protoc-24.0-rc-1-win64.zip",
-        "count": 951,
+        "count": 1057,
         "size": 2903550
       }
     ]
@@ -475,62 +1882,62 @@
     "downloads": [
       {
         "name": "protobuf-23.4.tar.gz",
-        "count": 54123,
+        "count": 227501,
         "size": 5043507
       },
       {
         "name": "protobuf-23.4.zip",
-        "count": 4989,
+        "count": 5637,
         "size": 7046977
       },
       {
         "name": "protoc-23.4-linux-aarch_64.zip",
-        "count": 11222,
+        "count": 81854,
         "size": 2879347
       },
       {
         "name": "protoc-23.4-linux-ppcle_64.zip",
-        "count": 271,
+        "count": 4371,
         "size": 3147785
       },
       {
         "name": "protoc-23.4-linux-s390_64.zip",
-        "count": 380,
+        "count": 4610,
         "size": 3756319
       },
       {
         "name": "protoc-23.4-linux-x86_32.zip",
-        "count": 200,
+        "count": 291,
         "size": 3180749
       },
       {
         "name": "protoc-23.4-linux-x86_64.zip",
-        "count": 233424,
+        "count": 2071752,
         "size": 2916317
       },
       {
         "name": "protoc-23.4-osx-aarch_64.zip",
-        "count": 8829,
+        "count": 83787,
         "size": 1974960
       },
       {
         "name": "protoc-23.4-osx-universal_binary.zip",
-        "count": 1455,
+        "count": 1932,
         "size": 3973443
       },
       {
         "name": "protoc-23.4-osx-x86_64.zip",
-        "count": 28818,
+        "count": 128581,
         "size": 2008727
       },
       {
         "name": "protoc-23.4-win32.zip",
-        "count": 808,
+        "count": 877,
         "size": 2805373
       },
       {
         "name": "protoc-23.4-win64.zip",
-        "count": 29136,
+        "count": 165503,
         "size": 2806766
       }
     ]
@@ -542,1870 +1949,63 @@
     "downloads": [
       {
         "name": "protobuf-23.3.tar.gz",
-        "count": 8751,
+        "count": 11251,
         "size": 5039024
       },
       {
         "name": "protobuf-23.3.zip",
-        "count": 4471,
+        "count": 4661,
         "size": 7046604
       },
       {
         "name": "protoc-23.3-linux-aarch_64.zip",
-        "count": 4898,
+        "count": 10835,
         "size": 2879295
       },
       {
         "name": "protoc-23.3-linux-ppcle_64.zip",
-        "count": 129,
+        "count": 175,
         "size": 3147803
       },
       {
         "name": "protoc-23.3-linux-s390_64.zip",
-        "count": 144,
+        "count": 181,
         "size": 3756223
       },
       {
         "name": "protoc-23.3-linux-x86_32.zip",
-        "count": 395,
+        "count": 493,
         "size": 3180762
       },
       {
         "name": "protoc-23.3-linux-x86_64.zip",
-        "count": 140170,
+        "count": 351860,
         "size": 2916346
       },
       {
         "name": "protoc-23.3-osx-aarch_64.zip",
-        "count": 2670,
+        "count": 3311,
         "size": 1975072
       },
       {
         "name": "protoc-23.3-osx-universal_binary.zip",
-        "count": 2140,
+        "count": 4053,
         "size": 3973035
       },
       {
         "name": "protoc-23.3-osx-x86_64.zip",
-        "count": 4081,
+        "count": 4506,
         "size": 2008814
       },
       {
         "name": "protoc-23.3-win32.zip",
-        "count": 662,
+        "count": 723,
         "size": 2805405
       },
       {
         "name": "protoc-23.3-win64.zip",
-        "count": 13053,
+        "count": 13607,
         "size": 2806787
-      }
-    ]
-  },
-  {
-    "name": "v23.2",
-    "date": "2023-05-26T16:43:43Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-23.2.tar.gz",
-        "count": 32214,
-        "size": 5037572
-      },
-      {
-        "name": "protobuf-23.2.zip",
-        "count": 4250,
-        "size": 7043570
-      },
-      {
-        "name": "protoc-23.2-linux-aarch_64.zip",
-        "count": 2043,
-        "size": 2879296
-      },
-      {
-        "name": "protoc-23.2-linux-ppcle_64.zip",
-        "count": 65,
-        "size": 3147795
-      },
-      {
-        "name": "protoc-23.2-linux-s390_64.zip",
-        "count": 74,
-        "size": 3756223
-      },
-      {
-        "name": "protoc-23.2-linux-x86_32.zip",
-        "count": 219,
-        "size": 3180762
-      },
-      {
-        "name": "protoc-23.2-linux-x86_64.zip",
-        "count": 99730,
-        "size": 2916347
-      },
-      {
-        "name": "protoc-23.2-osx-aarch_64.zip",
-        "count": 3022,
-        "size": 1975064
-      },
-      {
-        "name": "protoc-23.2-osx-universal_binary.zip",
-        "count": 928,
-        "size": 3973156
-      },
-      {
-        "name": "protoc-23.2-osx-x86_64.zip",
-        "count": 4945,
-        "size": 2008809
-      },
-      {
-        "name": "protoc-23.2-win32.zip",
-        "count": 1291,
-        "size": 2805406
-      },
-      {
-        "name": "protoc-23.2-win64.zip",
-        "count": 13277,
-        "size": 2806786
-      }
-    ]
-  },
-  {
-    "name": "v23.1",
-    "date": "2023-05-17T17:28:25Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-23.1.tar.gz",
-        "count": 27293,
-        "size": 5036068
-      },
-      {
-        "name": "protobuf-23.1.zip",
-        "count": 2110,
-        "size": 7043319
-      },
-      {
-        "name": "protoc-23.1-linux-aarch_64.zip",
-        "count": 4095,
-        "size": 2878968
-      },
-      {
-        "name": "protoc-23.1-linux-ppcle_64.zip",
-        "count": 38,
-        "size": 3147723
-      },
-      {
-        "name": "protoc-23.1-linux-s390_64.zip",
-        "count": 44,
-        "size": 3755727
-      },
-      {
-        "name": "protoc-23.1-linux-x86_32.zip",
-        "count": 95,
-        "size": 3180489
-      },
-      {
-        "name": "protoc-23.1-linux-x86_64.zip",
-        "count": 57909,
-        "size": 2915996
-      },
-      {
-        "name": "protoc-23.1-osx-aarch_64.zip",
-        "count": 3349,
-        "size": 1975112
-      },
-      {
-        "name": "protoc-23.1-osx-universal_binary.zip",
-        "count": 715,
-        "size": 3973317
-      },
-      {
-        "name": "protoc-23.1-osx-x86_64.zip",
-        "count": 9370,
-        "size": 2008572
-      },
-      {
-        "name": "protoc-23.1-win32.zip",
-        "count": 368,
-        "size": 2805178
-      },
-      {
-        "name": "protoc-23.1-win64.zip",
-        "count": 9203,
-        "size": 2806551
-      }
-    ]
-  },
-  {
-    "name": "v22.5",
-    "date": "2023-05-10T03:56:57Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.5.tar.gz",
-        "count": 1106,
-        "size": 4921141
-      },
-      {
-        "name": "protobuf-22.5.zip",
-        "count": 432,
-        "size": 6865704
-      },
-      {
-        "name": "protoc-22.5-linux-aarch_64.zip",
-        "count": 368,
-        "size": 2788513
-      },
-      {
-        "name": "protoc-22.5-linux-ppcle_64.zip",
-        "count": 16,
-        "size": 3049632
-      },
-      {
-        "name": "protoc-22.5-linux-s390_64.zip",
-        "count": 18,
-        "size": 3658334
-      },
-      {
-        "name": "protoc-22.5-linux-x86_32.zip",
-        "count": 34,
-        "size": 3084284
-      },
-      {
-        "name": "protoc-22.5-linux-x86_64.zip",
-        "count": 11247,
-        "size": 2827738
-      },
-      {
-        "name": "protoc-22.5-osx-aarch_64.zip",
-        "count": 210,
-        "size": 1886095
-      },
-      {
-        "name": "protoc-22.5-osx-universal_binary.zip",
-        "count": 232,
-        "size": 3795451
-      },
-      {
-        "name": "protoc-22.5-osx-x86_64.zip",
-        "count": 407,
-        "size": 1920951
-      },
-      {
-        "name": "protoc-22.5-win32.zip",
-        "count": 83,
-        "size": 2716445
-      },
-      {
-        "name": "protoc-22.5-win64.zip",
-        "count": 1983,
-        "size": 2722591
-      }
-    ]
-  },
-  {
-    "name": "v23.0",
-    "date": "2023-05-08T18:31:51Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-23.0.tar.gz",
-        "count": 9337,
-        "size": 5035516
-      },
-      {
-        "name": "protobuf-23.0.zip",
-        "count": 1534,
-        "size": 7042623
-      },
-      {
-        "name": "protoc-23.0-linux-aarch_64.zip",
-        "count": 740,
-        "size": 2878860
-      },
-      {
-        "name": "protoc-23.0-linux-ppcle_64.zip",
-        "count": 70,
-        "size": 3147649
-      },
-      {
-        "name": "protoc-23.0-linux-s390_64.zip",
-        "count": 96,
-        "size": 3755627
-      },
-      {
-        "name": "protoc-23.0-linux-x86_32.zip",
-        "count": 99,
-        "size": 3180417
-      },
-      {
-        "name": "protoc-23.0-linux-x86_64.zip",
-        "count": 25671,
-        "size": 2916032
-      },
-      {
-        "name": "protoc-23.0-osx-aarch_64.zip",
-        "count": 730,
-        "size": 1975199
-      },
-      {
-        "name": "protoc-23.0-osx-universal_binary.zip",
-        "count": 498,
-        "size": 3973593
-      },
-      {
-        "name": "protoc-23.0-osx-x86_64.zip",
-        "count": 1240,
-        "size": 2008448
-      },
-      {
-        "name": "protoc-23.0-win32.zip",
-        "count": 332,
-        "size": 2805148
-      },
-      {
-        "name": "protoc-23.0-win64.zip",
-        "count": 6272,
-        "size": 2806511
-      }
-    ]
-  },
-  {
-    "name": "v23.0-rc3",
-    "date": "2023-05-05T17:20:25Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-23.0-rc3.tar.gz",
-        "count": 40,
-        "size": 5036106
-      },
-      {
-        "name": "protobuf-23.0-rc3.zip",
-        "count": 64,
-        "size": 7061290
-      },
-      {
-        "name": "protoc-23.0-rc-3-linux-aarch_64.zip",
-        "count": 22,
-        "size": 2878915
-      },
-      {
-        "name": "protoc-23.0-rc-3-linux-ppcle_64.zip",
-        "count": 10,
-        "size": 3147646
-      },
-      {
-        "name": "protoc-23.0-rc-3-linux-s390_64.zip",
-        "count": 11,
-        "size": 3755612
-      },
-      {
-        "name": "protoc-23.0-rc-3-linux-x86_32.zip",
-        "count": 10,
-        "size": 3180441
-      },
-      {
-        "name": "protoc-23.0-rc-3-linux-x86_64.zip",
-        "count": 104,
-        "size": 2916016
-      },
-      {
-        "name": "protoc-23.0-rc-3-osx-aarch_64.zip",
-        "count": 45,
-        "size": 1975210
-      },
-      {
-        "name": "protoc-23.0-rc-3-osx-universal_binary.zip",
-        "count": 22,
-        "size": 3973381
-      },
-      {
-        "name": "protoc-23.0-rc-3-osx-x86_64.zip",
-        "count": 47,
-        "size": 2008409
-      },
-      {
-        "name": "protoc-23.0-rc-3-win32.zip",
-        "count": 38,
-        "size": 2805135
-      },
-      {
-        "name": "protoc-23.0-rc-3-win64.zip",
-        "count": 548,
-        "size": 2806504
-      }
-    ]
-  },
-  {
-    "name": "v22.4",
-    "date": "2023-05-04T20:35:56Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.4.tar.gz",
-        "count": 705,
-        "size": 4920602
-      },
-      {
-        "name": "protobuf-22.4.zip",
-        "count": 817,
-        "size": 6865104
-      },
-      {
-        "name": "protoc-22.4-linux-aarch_64.zip",
-        "count": 482,
-        "size": 2788487
-      },
-      {
-        "name": "protoc-22.4-linux-ppcle_64.zip",
-        "count": 27,
-        "size": 3049635
-      },
-      {
-        "name": "protoc-22.4-linux-s390_64.zip",
-        "count": 30,
-        "size": 3658332
-      },
-      {
-        "name": "protoc-22.4-linux-x86_32.zip",
-        "count": 32,
-        "size": 3084283
-      },
-      {
-        "name": "protoc-22.4-linux-x86_64.zip",
-        "count": 12647,
-        "size": 2827737
-      },
-      {
-        "name": "protoc-22.4-osx-aarch_64.zip",
-        "count": 262,
-        "size": 1887469
-      },
-      {
-        "name": "protoc-22.4-osx-universal_binary.zip",
-        "count": 178,
-        "size": 3795074
-      },
-      {
-        "name": "protoc-22.4-osx-x86_64.zip",
-        "count": 716,
-        "size": 1920956
-      },
-      {
-        "name": "protoc-22.4-win32.zip",
-        "count": 187,
-        "size": 2716443
-      },
-      {
-        "name": "protoc-22.4-win64.zip",
-        "count": 2215,
-        "size": 2722591
-      }
-    ]
-  },
-  {
-    "name": "v23.0-rc2",
-    "date": "2023-04-28T18:59:14Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-23.0-rc2.tar.gz",
-        "count": 65,
-        "size": 5035743
-      },
-      {
-        "name": "protobuf-23.0-rc2.zip",
-        "count": 78,
-        "size": 7061196
-      },
-      {
-        "name": "protoc-23.0-rc-2-linux-aarch_64.zip",
-        "count": 22,
-        "size": 2877770
-      },
-      {
-        "name": "protoc-23.0-rc-2-linux-ppcle_64.zip",
-        "count": 7,
-        "size": 3146757
-      },
-      {
-        "name": "protoc-23.0-rc-2-linux-s390_64.zip",
-        "count": 7,
-        "size": 3755128
-      },
-      {
-        "name": "protoc-23.0-rc-2-linux-x86_32.zip",
-        "count": 10,
-        "size": 3183448
-      },
-      {
-        "name": "protoc-23.0-rc-2-linux-x86_64.zip",
-        "count": 358,
-        "size": 2914526
-      },
-      {
-        "name": "protoc-23.0-rc-2-osx-aarch_64.zip",
-        "count": 35,
-        "size": 1963291
-      },
-      {
-        "name": "protoc-23.0-rc-2-osx-universal_binary.zip",
-        "count": 36,
-        "size": 3969971
-      },
-      {
-        "name": "protoc-23.0-rc-2-osx-x86_64.zip",
-        "count": 72,
-        "size": 1924857
-      },
-      {
-        "name": "protoc-23.0-rc-2-win32.zip",
-        "count": 57,
-        "size": 2807430
-      },
-      {
-        "name": "protoc-23.0-rc-2-win64.zip",
-        "count": 866,
-        "size": 2805604
-      }
-    ]
-  },
-  {
-    "name": "v23.0-rc1",
-    "date": "2023-04-26T23:16:56Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-23.0-rc1.tar.gz",
-        "count": 31,
-        "size": 5035229
-      },
-      {
-        "name": "protobuf-23.0-rc1.zip",
-        "count": 26,
-        "size": 7060704
-      },
-      {
-        "name": "protoc-23.0-rc-1-linux-aarch_64.zip",
-        "count": 17,
-        "size": 2877730
-      },
-      {
-        "name": "protoc-23.0-rc-1-linux-ppcle_64.zip",
-        "count": 7,
-        "size": 3146748
-      },
-      {
-        "name": "protoc-23.0-rc-1-linux-s390_64.zip",
-        "count": 9,
-        "size": 3755134
-      },
-      {
-        "name": "protoc-23.0-rc-1-linux-x86_32.zip",
-        "count": 10,
-        "size": 3183364
-      },
-      {
-        "name": "protoc-23.0-rc-1-linux-x86_64.zip",
-        "count": 51,
-        "size": 2914452
-      },
-      {
-        "name": "protoc-23.0-rc-1-osx-aarch_64.zip",
-        "count": 26,
-        "size": 1973587
-      },
-      {
-        "name": "protoc-23.0-rc-1-osx-universal_binary.zip",
-        "count": 17,
-        "size": 3969486
-      },
-      {
-        "name": "protoc-23.0-rc-1-osx-x86_64.zip",
-        "count": 25,
-        "size": 2007341
-      },
-      {
-        "name": "protoc-23.0-rc-1-win32.zip",
-        "count": 21,
-        "size": 2807420
-      },
-      {
-        "name": "protoc-23.0-rc-1-win64.zip",
-        "count": 279,
-        "size": 2805602
-      }
-    ]
-  },
-  {
-    "name": "v22.3",
-    "date": "2023-04-12T23:47:13Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.3.tar.gz",
-        "count": 10743,
-        "size": 4919899
-      },
-      {
-        "name": "protobuf-22.3.zip",
-        "count": 68947,
-        "size": 6864017
-      },
-      {
-        "name": "protoc-22.3-linux-aarch_64.zip",
-        "count": 1797,
-        "size": 2788488
-      },
-      {
-        "name": "protoc-22.3-linux-ppcle_64.zip",
-        "count": 85,
-        "size": 3049632
-      },
-      {
-        "name": "protoc-22.3-linux-s390_64.zip",
-        "count": 76,
-        "size": 3658335
-      },
-      {
-        "name": "protoc-22.3-linux-x86_32.zip",
-        "count": 185,
-        "size": 3087961
-      },
-      {
-        "name": "protoc-22.3-linux-x86_64.zip",
-        "count": 83233,
-        "size": 2827739
-      },
-      {
-        "name": "protoc-22.3-osx-aarch_64.zip",
-        "count": 1470,
-        "size": 1878576
-      },
-      {
-        "name": "protoc-22.3-osx-universal_binary.zip",
-        "count": 885,
-        "size": 3686702
-      },
-      {
-        "name": "protoc-22.3-osx-x86_64.zip",
-        "count": 5897,
-        "size": 1841496
-      },
-      {
-        "name": "protoc-22.3-win32.zip",
-        "count": 714,
-        "size": 2719651
-      },
-      {
-        "name": "protoc-22.3-win64.zip",
-        "count": 16339,
-        "size": 2722589
-      }
-    ]
-  },
-  {
-    "name": "v22.2",
-    "date": "2023-03-10T18:35:01Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.2.tar.gz",
-        "count": 11329,
-        "size": 4919363
-      },
-      {
-        "name": "protobuf-22.2.zip",
-        "count": 7659,
-        "size": 6863858
-      },
-      {
-        "name": "protoc-22.2-linux-aarch_64.zip",
-        "count": 4060,
-        "size": 2788356
-      },
-      {
-        "name": "protoc-22.2-linux-ppcle_64.zip",
-        "count": 106,
-        "size": 3049376
-      },
-      {
-        "name": "protoc-22.2-linux-s390_64.zip",
-        "count": 108,
-        "size": 3658302
-      },
-      {
-        "name": "protoc-22.2-linux-x86_32.zip",
-        "count": 317,
-        "size": 3087454
-      },
-      {
-        "name": "protoc-22.2-linux-x86_64.zip",
-        "count": 136186,
-        "size": 2827950
-      },
-      {
-        "name": "protoc-22.2-osx-aarch_64.zip",
-        "count": 2746,
-        "size": 1877929
-      },
-      {
-        "name": "protoc-22.2-osx-universal_binary.zip",
-        "count": 3584,
-        "size": 3683033
-      },
-      {
-        "name": "protoc-22.2-osx-x86_64.zip",
-        "count": 6587,
-        "size": 1840550
-      },
-      {
-        "name": "protoc-22.2-win32.zip",
-        "count": 1301,
-        "size": 2719032
-      },
-      {
-        "name": "protoc-22.2-win64.zip",
-        "count": 19643,
-        "size": 2722003
-      }
-    ]
-  },
-  {
-    "name": "v22.1",
-    "date": "2023-03-07T22:31:27Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.1.tar.gz",
-        "count": 1155,
-        "size": 4919309
-      },
-      {
-        "name": "protobuf-22.1.zip",
-        "count": 942,
-        "size": 6863795
-      },
-      {
-        "name": "protoc-22.1-linux-aarch_64.zip",
-        "count": 441,
-        "size": 2788341
-      },
-      {
-        "name": "protoc-22.1-linux-ppcle_64.zip",
-        "count": 41,
-        "size": 3049376
-      },
-      {
-        "name": "protoc-22.1-linux-s390_64.zip",
-        "count": 41,
-        "size": 3658303
-      },
-      {
-        "name": "protoc-22.1-linux-x86_32.zip",
-        "count": 54,
-        "size": 3087454
-      },
-      {
-        "name": "protoc-22.1-linux-x86_64.zip",
-        "count": 47498,
-        "size": 2827947
-      },
-      {
-        "name": "protoc-22.1-osx-aarch_64.zip",
-        "count": 859,
-        "size": 1877926
-      },
-      {
-        "name": "protoc-22.1-osx-universal_binary.zip",
-        "count": 826,
-        "size": 3683018
-      },
-      {
-        "name": "protoc-22.1-osx-x86_64.zip",
-        "count": 1614,
-        "size": 1840545
-      },
-      {
-        "name": "protoc-22.1-win32.zip",
-        "count": 233,
-        "size": 2719032
-      },
-      {
-        "name": "protoc-22.1-win64.zip",
-        "count": 3297,
-        "size": 2722005
-      }
-    ]
-  },
-  {
-    "name": "v22.0",
-    "date": "2023-02-16T18:17:29Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.0.tar.gz",
-        "count": 18934,
-        "size": 4917254
-      },
-      {
-        "name": "protobuf-22.0.zip",
-        "count": 4155,
-        "size": 6858868
-      },
-      {
-        "name": "protoc-22.0-linux-aarch_64.zip",
-        "count": 1450,
-        "size": 1975053
-      },
-      {
-        "name": "protoc-22.0-linux-ppcle_64.zip",
-        "count": 222,
-        "size": 2167929
-      },
-      {
-        "name": "protoc-22.0-linux-s390_64.zip",
-        "count": 238,
-        "size": 2789800
-      },
-      {
-        "name": "protoc-22.0-linux-x86_32.zip",
-        "count": 327,
-        "size": 2204590
-      },
-      {
-        "name": "protoc-22.0-linux-x86_64.zip",
-        "count": 130769,
-        "size": 2006686
-      },
-      {
-        "name": "protoc-22.0-osx-aarch_64.zip",
-        "count": 4554,
-        "size": 1877954
-      },
-      {
-        "name": "protoc-22.0-osx-universal_binary.zip",
-        "count": 1291,
-        "size": 3683440
-      },
-      {
-        "name": "protoc-22.0-osx-x86_64.zip",
-        "count": 3570,
-        "size": 1840778
-      },
-      {
-        "name": "protoc-22.0-win32.zip",
-        "count": 886,
-        "size": 2719550
-      },
-      {
-        "name": "protoc-22.0-win64.zip",
-        "count": 11773,
-        "size": 2722201
-      }
-    ]
-  },
-  {
-    "name": "v22.0-rc3",
-    "date": "2023-02-10T20:17:58Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-22.0-rc3.tar.gz",
-        "count": 97,
-        "size": 4913517
-      },
-      {
-        "name": "protobuf-22.0-rc3.zip",
-        "count": 119,
-        "size": 6870966
-      },
-      {
-        "name": "protoc-22.0-rc-3-linux-aarch_64.zip",
-        "count": 45,
-        "size": 1975062
-      },
-      {
-        "name": "protoc-22.0-rc-3-linux-ppcle_64.zip",
-        "count": 12,
-        "size": 2167922
-      },
-      {
-        "name": "protoc-22.0-rc-3-linux-s390_64.zip",
-        "count": 13,
-        "size": 2789900
-      },
-      {
-        "name": "protoc-22.0-rc-3-linux-x86_32.zip",
-        "count": 17,
-        "size": 2204643
-      },
-      {
-        "name": "protoc-22.0-rc-3-linux-x86_64.zip",
-        "count": 1668,
-        "size": 2006649
-      },
-      {
-        "name": "protoc-22.0-rc-3-osx-aarch_64.zip",
-        "count": 85,
-        "size": 1877959
-      },
-      {
-        "name": "protoc-22.0-rc-3-osx-universal_binary.zip",
-        "count": 38,
-        "size": 3683648
-      },
-      {
-        "name": "protoc-22.0-rc-3-osx-x86_64.zip",
-        "count": 77,
-        "size": 1840783
-      },
-      {
-        "name": "protoc-22.0-rc-3-win32.zip",
-        "count": 69,
-        "size": 2719458
-      },
-      {
-        "name": "protoc-22.0-rc-3-win64.zip",
-        "count": 999,
-        "size": 2722189
-      }
-    ]
-  },
-  {
-    "name": "v22.0-rc2",
-    "date": "2023-02-02T21:18:01Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protoc-22.0-rc-2-linux-aarch_64.zip",
-        "count": 70,
-        "size": 1963249
-      },
-      {
-        "name": "protoc-22.0-rc-2-linux-ppcle_64.zip",
-        "count": 12,
-        "size": 2153221
-      },
-      {
-        "name": "protoc-22.0-rc-2-linux-s390_64.zip",
-        "count": 9,
-        "size": 2788519
-      },
-      {
-        "name": "protoc-22.0-rc-2-linux-x86_32.zip",
-        "count": 16,
-        "size": 2194204
-      },
-      {
-        "name": "protoc-22.0-rc-2-linux-x86_64.zip",
-        "count": 302,
-        "size": 1997282
-      },
-      {
-        "name": "protoc-22.0-rc-2-osx-aarch_64.zip",
-        "count": 109,
-        "size": 1859106
-      },
-      {
-        "name": "protoc-22.0-rc-2-osx-universal_binary.zip",
-        "count": 53,
-        "size": 3655597
-      },
-      {
-        "name": "protoc-22.0-rc-2-osx-x86_64.zip",
-        "count": 111,
-        "size": 1828434
-      },
-      {
-        "name": "protoc-22.0-rc-2-win32.zip",
-        "count": 65,
-        "size": 2705926
-      },
-      {
-        "name": "protoc-22.0-rc-2-win64.zip",
-        "count": 1083,
-        "size": 2708750
-      }
-    ]
-  },
-  {
-    "name": "v22.0-rc1",
-    "date": "2023-01-31T18:24:35Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protoc-22.0-rc-1-linux-aarch_64.zip",
-        "count": 20,
-        "size": 1963249
-      },
-      {
-        "name": "protoc-22.0-rc-1-linux-ppcle_64.zip",
-        "count": 8,
-        "size": 2153221
-      },
-      {
-        "name": "protoc-22.0-rc-1-linux-s390_64.zip",
-        "count": 8,
-        "size": 2788519
-      },
-      {
-        "name": "protoc-22.0-rc-1-linux-x86_32.zip",
-        "count": 12,
-        "size": 2194204
-      },
-      {
-        "name": "protoc-22.0-rc-1-linux-x86_64.zip",
-        "count": 105,
-        "size": 1997282
-      },
-      {
-        "name": "protoc-22.0-rc-1-osx-aarch_64.zip",
-        "count": 33,
-        "size": 1859107
-      },
-      {
-        "name": "protoc-22.0-rc-1-osx-universal_binary.zip",
-        "count": 21,
-        "size": 3655604
-      },
-      {
-        "name": "protoc-22.0-rc-1-osx-x86_64.zip",
-        "count": 48,
-        "size": 1828435
-      },
-      {
-        "name": "protoc-22.0-rc-1-win32.zip",
-        "count": 28,
-        "size": 2705926
-      },
-      {
-        "name": "protoc-22.0-rc-1-win64.zip",
-        "count": 352,
-        "size": 2708749
-      }
-    ]
-  },
-  {
-    "name": "v21.12",
-    "date": "2022-12-14T14:45:50Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-all-21.12.tar.gz",
-        "count": 240473,
-        "size": 7649074
-      },
-      {
-        "name": "protobuf-all-21.12.zip",
-        "count": 10245,
-        "size": 9742002
-      },
-      {
-        "name": "protobuf-cpp-3.21.12.tar.gz",
-        "count": 93427,
-        "size": 4842303
-      },
-      {
-        "name": "protobuf-cpp-3.21.12.zip",
-        "count": 16976,
-        "size": 5891455
-      },
-      {
-        "name": "protobuf-csharp-3.21.12.tar.gz",
-        "count": 318,
-        "size": 5594486
-      },
-      {
-        "name": "protobuf-csharp-3.21.12.zip",
-        "count": 1616,
-        "size": 6897544
-      },
-      {
-        "name": "protobuf-java-3.21.12.tar.gz",
-        "count": 1788,
-        "size": 5556119
-      },
-      {
-        "name": "protobuf-java-3.21.12.zip",
-        "count": 3581,
-        "size": 6997713
-      },
-      {
-        "name": "protobuf-objectivec-3.21.12.tar.gz",
-        "count": 172,
-        "size": 5214825
-      },
-      {
-        "name": "protobuf-objectivec-3.21.12.zip",
-        "count": 442,
-        "size": 6420176
-      },
-      {
-        "name": "protobuf-php-3.21.12.tar.gz",
-        "count": 146,
-        "size": 5157772
-      },
-      {
-        "name": "protobuf-php-3.21.12.zip",
-        "count": 266,
-        "size": 6347721
-      },
-      {
-        "name": "protobuf-python-4.21.12.tar.gz",
-        "count": 2137,
-        "size": 5211420
-      },
-      {
-        "name": "protobuf-python-4.21.12.zip",
-        "count": 3165,
-        "size": 6348724
-      },
-      {
-        "name": "protobuf-ruby-3.21.12.tar.gz",
-        "count": 57,
-        "size": 5087864
-      },
-      {
-        "name": "protobuf-ruby-3.21.12.zip",
-        "count": 76,
-        "size": 6197119
-      },
-      {
-        "name": "protoc-21.12-linux-aarch_64.zip",
-        "count": 43381,
-        "size": 1582596
-      },
-      {
-        "name": "protoc-21.12-linux-ppcle_64.zip",
-        "count": 105,
-        "size": 1708193
-      },
-      {
-        "name": "protoc-21.12-linux-s390_64.zip",
-        "count": 608,
-        "size": 2029040
-      },
-      {
-        "name": "protoc-21.12-linux-x86_32.zip",
-        "count": 460,
-        "size": 1692297
-      },
-      {
-        "name": "protoc-21.12-linux-x86_64.zip",
-        "count": 481895,
-        "size": 1585982
-      },
-      {
-        "name": "protoc-21.12-osx-aarch_64.zip",
-        "count": 26004,
-        "size": 1364715
-      },
-      {
-        "name": "protoc-21.12-osx-universal_binary.zip",
-        "count": 9450,
-        "size": 2822292
-      },
-      {
-        "name": "protoc-21.12-osx-x86_64.zip",
-        "count": 54015,
-        "size": 1490613
-      },
-      {
-        "name": "protoc-21.12-win32.zip",
-        "count": 8050,
-        "size": 2306903
-      },
-      {
-        "name": "protoc-21.12-win64.zip",
-        "count": 57672,
-        "size": 2278456
-      }
-    ]
-  },
-  {
-    "name": "v21.11",
-    "date": "2022-12-08T06:34:59Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-all-21.11.tar.gz",
-        "count": 6690,
-        "size": 7669439
-      },
-      {
-        "name": "protobuf-all-21.11.zip",
-        "count": 2489,
-        "size": 9741971
-      },
-      {
-        "name": "protobuf-cpp-3.21.11.tar.gz",
-        "count": 14203,
-        "size": 4858250
-      },
-      {
-        "name": "protobuf-cpp-3.21.11.zip",
-        "count": 1056,
-        "size": 5891458
-      },
-      {
-        "name": "protobuf-csharp-3.21.11.tar.gz",
-        "count": 48,
-        "size": 5609189
-      },
-      {
-        "name": "protobuf-csharp-3.21.11.zip",
-        "count": 235,
-        "size": 6897547
-      },
-      {
-        "name": "protobuf-java-3.21.11.tar.gz",
-        "count": 97,
-        "size": 5577675
-      },
-      {
-        "name": "protobuf-java-3.21.11.zip",
-        "count": 442,
-        "size": 6997710
-      },
-      {
-        "name": "protobuf-objectivec-3.21.11.tar.gz",
-        "count": 26,
-        "size": 5231852
-      },
-      {
-        "name": "protobuf-objectivec-3.21.11.zip",
-        "count": 94,
-        "size": 6420178
-      },
-      {
-        "name": "protobuf-php-3.21.11.tar.gz",
-        "count": 28,
-        "size": 5176543
-      },
-      {
-        "name": "protobuf-php-3.21.11.zip",
-        "count": 56,
-        "size": 6347711
-      },
-      {
-        "name": "protobuf-python-4.21.11.tar.gz",
-        "count": 331,
-        "size": 5228514
-      },
-      {
-        "name": "protobuf-python-4.21.11.zip",
-        "count": 414,
-        "size": 6348727
-      },
-      {
-        "name": "protobuf-ruby-3.21.11.tar.gz",
-        "count": 6,
-        "size": 5105163
-      },
-      {
-        "name": "protobuf-ruby-3.21.11.zip",
-        "count": 24,
-        "size": 6197108
-      },
-      {
-        "name": "protoc-21.11-linux-aarch_64.zip",
-        "count": 813,
-        "size": 1582596
-      },
-      {
-        "name": "protoc-21.11-linux-ppcle_64.zip",
-        "count": 56,
-        "size": 1708194
-      },
-      {
-        "name": "protoc-21.11-linux-s390_64.zip",
-        "count": 28,
-        "size": 2029040
-      },
-      {
-        "name": "protoc-21.11-linux-x86_32.zip",
-        "count": 92,
-        "size": 1692298
-      },
-      {
-        "name": "protoc-21.11-linux-x86_64.zip",
-        "count": 69636,
-        "size": 1585984
-      },
-      {
-        "name": "protoc-21.11-osx-aarch_64.zip",
-        "count": 427,
-        "size": 1364713
-      },
-      {
-        "name": "protoc-21.11-osx-universal_binary.zip",
-        "count": 132,
-        "size": 2822287
-      },
-      {
-        "name": "protoc-21.11-osx-x86_64.zip",
-        "count": 8162,
-        "size": 1490613
-      },
-      {
-        "name": "protoc-21.11-win32.zip",
-        "count": 259,
-        "size": 2306898
-      },
-      {
-        "name": "protoc-21.11-win64.zip",
-        "count": 9609,
-        "size": 2278459
-      }
-    ]
-  },
-  {
-    "name": "v21.10",
-    "date": "2022-11-30T19:15:02Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-all-21.10.tar.gz",
-        "count": 6189,
-        "size": 7632779
-      },
-      {
-        "name": "protobuf-all-21.10.zip",
-        "count": 1372,
-        "size": 9713562
-      },
-      {
-        "name": "protobuf-cpp-3.21.10.tar.gz",
-        "count": 2628,
-        "size": 4852077
-      },
-      {
-        "name": "protobuf-cpp-3.21.10.zip",
-        "count": 717,
-        "size": 5891418
-      },
-      {
-        "name": "protobuf-csharp-3.21.10.tar.gz",
-        "count": 53,
-        "size": 5600361
-      },
-      {
-        "name": "protobuf-csharp-3.21.10.zip",
-        "count": 289,
-        "size": 6897506
-      },
-      {
-        "name": "protobuf-java-3.21.10.tar.gz",
-        "count": 193,
-        "size": 5563055
-      },
-      {
-        "name": "protobuf-java-3.21.10.zip",
-        "count": 512,
-        "size": 6997663
-      },
-      {
-        "name": "protobuf-objectivec-3.21.10.tar.gz",
-        "count": 41,
-        "size": 5225773
-      },
-      {
-        "name": "protobuf-objectivec-3.21.10.zip",
-        "count": 67,
-        "size": 6420136
-      },
-      {
-        "name": "protobuf-php-3.21.10.tar.gz",
-        "count": 147,
-        "size": 5157065
-      },
-      {
-        "name": "protobuf-php-3.21.10.zip",
-        "count": 52,
-        "size": 6333117
-      },
-      {
-        "name": "protobuf-python-4.21.10.tar.gz",
-        "count": 192,
-        "size": 5223461
-      },
-      {
-        "name": "protobuf-python-4.21.10.zip",
-        "count": 345,
-        "size": 6348687
-      },
-      {
-        "name": "protobuf-ruby-3.21.10.tar.gz",
-        "count": 14,
-        "size": 5084817
-      },
-      {
-        "name": "protobuf-ruby-3.21.10.zip",
-        "count": 21,
-        "size": 6183263
-      },
-      {
-        "name": "protoc-21.10-linux-aarch_64.zip",
-        "count": 361,
-        "size": 1582563
-      },
-      {
-        "name": "protoc-21.10-linux-ppcle_64.zip",
-        "count": 26,
-        "size": 1708281
-      },
-      {
-        "name": "protoc-21.10-linux-s390_64.zip",
-        "count": 27,
-        "size": 2029077
-      },
-      {
-        "name": "protoc-21.10-linux-x86_32.zip",
-        "count": 48,
-        "size": 1692270
-      },
-      {
-        "name": "protoc-21.10-linux-x86_64.zip",
-        "count": 340667,
-        "size": 1585931
-      },
-      {
-        "name": "protoc-21.10-osx-aarch_64.zip",
-        "count": 47002,
-        "size": 1364759
-      },
-      {
-        "name": "protoc-21.10-osx-universal_binary.zip",
-        "count": 268,
-        "size": 2822192
-      },
-      {
-        "name": "protoc-21.10-osx-x86_64.zip",
-        "count": 48164,
-        "size": 1490596
-      },
-      {
-        "name": "protoc-21.10-win32.zip",
-        "count": 283,
-        "size": 2306898
-      },
-      {
-        "name": "protoc-21.10-win64.zip",
-        "count": 4441,
-        "size": 2278455
-      }
-    ]
-  },
-  {
-    "name": "v21.9",
-    "date": "2022-10-26T20:28:55Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-all-21.9.tar.gz",
-        "count": 34954,
-        "size": 7622643
-      },
-      {
-        "name": "protobuf-all-21.9.zip",
-        "count": 12391,
-        "size": 9707395
-      },
-      {
-        "name": "protobuf-cpp-3.21.9.tar.gz",
-        "count": 51803,
-        "size": 4836811
-      },
-      {
-        "name": "protobuf-cpp-3.21.9.zip",
-        "count": 14326,
-        "size": 5886906
-      },
-      {
-        "name": "protobuf-csharp-3.21.9.tar.gz",
-        "count": 6088,
-        "size": 5586130
-      },
-      {
-        "name": "protobuf-csharp-3.21.9.zip",
-        "count": 6969,
-        "size": 6892496
-      },
-      {
-        "name": "protobuf-java-3.21.9.tar.gz",
-        "count": 6842,
-        "size": 5552050
-      },
-      {
-        "name": "protobuf-java-3.21.9.zip",
-        "count": 7920,
-        "size": 6991932
-      },
-      {
-        "name": "protobuf-objectivec-3.21.9.tar.gz",
-        "count": 6006,
-        "size": 5210074
-      },
-      {
-        "name": "protobuf-objectivec-3.21.9.zip",
-        "count": 6138,
-        "size": 6415230
-      },
-      {
-        "name": "protobuf-php-3.21.9.tar.gz",
-        "count": 5952,
-        "size": 5142706
-      },
-      {
-        "name": "protobuf-php-3.21.9.zip",
-        "count": 6017,
-        "size": 6329491
-      },
-      {
-        "name": "protobuf-python-4.21.9.tar.gz",
-        "count": 6878,
-        "size": 5208173
-      },
-      {
-        "name": "protobuf-python-4.21.9.zip",
-        "count": 7338,
-        "size": 6343922
-      },
-      {
-        "name": "protobuf-ruby-3.21.9.tar.gz",
-        "count": 5906,
-        "size": 5069126
-      },
-      {
-        "name": "protobuf-ruby-3.21.9.zip",
-        "count": 5906,
-        "size": 6178570
-      },
-      {
-        "name": "protoc-21.9-linux-aarch_64.zip",
-        "count": 19815,
-        "size": 1579779
-      },
-      {
-        "name": "protoc-21.9-linux-ppcle_64.zip",
-        "count": 6054,
-        "size": 1706832
-      },
-      {
-        "name": "protoc-21.9-linux-s390_64.zip",
-        "count": 6063,
-        "size": 2029231
-      },
-      {
-        "name": "protoc-21.9-linux-x86_32.zip",
-        "count": 6840,
-        "size": 1687783
-      },
-      {
-        "name": "protoc-21.9-linux-x86_64.zip",
-        "count": 284914,
-        "size": 1583990
-      },
-      {
-        "name": "protoc-21.9-osx-aarch_64.zip",
-        "count": 8280,
-        "size": 1363586
-      },
-      {
-        "name": "protoc-21.9-osx-universal_binary.zip",
-        "count": 7327,
-        "size": 2819563
-      },
-      {
-        "name": "protoc-21.9-osx-x86_64.zip",
-        "count": 29679,
-        "size": 1489880
-      },
-      {
-        "name": "protoc-21.9-win32.zip",
-        "count": 7392,
-        "size": 2305181
-      },
-      {
-        "name": "protoc-21.9-win64.zip",
-        "count": 21486,
-        "size": 2276159
-      }
-    ]
-  },
-  {
-    "name": "v21.8",
-    "date": "2022-10-18T18:18:56Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-all-21.8.tar.gz",
-        "count": 4508,
-        "size": 7631179
-      },
-      {
-        "name": "protobuf-all-21.8.zip",
-        "count": 4624,
-        "size": 9707084
-      },
-      {
-        "name": "protobuf-cpp-3.21.8.tar.gz",
-        "count": 5471,
-        "size": 4850122
-      },
-      {
-        "name": "protobuf-cpp-3.21.8.zip",
-        "count": 16864,
-        "size": 5886644
-      },
-      {
-        "name": "protobuf-csharp-3.21.8.tar.gz",
-        "count": 89,
-        "size": 5602258
-      },
-      {
-        "name": "protobuf-csharp-3.21.8.zip",
-        "count": 310,
-        "size": 6892234
-      },
-      {
-        "name": "protobuf-java-3.21.8.tar.gz",
-        "count": 235,
-        "size": 5558249
-      },
-      {
-        "name": "protobuf-java-3.21.8.zip",
-        "count": 612,
-        "size": 6991669
-      },
-      {
-        "name": "protobuf-objectivec-3.21.8.tar.gz",
-        "count": 55,
-        "size": 5224153
-      },
-      {
-        "name": "protobuf-objectivec-3.21.8.zip",
-        "count": 116,
-        "size": 6414970
-      },
-      {
-        "name": "protobuf-php-3.21.8.tar.gz",
-        "count": 43,
-        "size": 5152832
-      },
-      {
-        "name": "protobuf-php-3.21.8.zip",
-        "count": 50,
-        "size": 6329209
-      },
-      {
-        "name": "protobuf-python-4.21.8.tar.gz",
-        "count": 794,
-        "size": 5220228
-      },
-      {
-        "name": "protobuf-python-4.21.8.zip",
-        "count": 490,
-        "size": 6343660
-      },
-      {
-        "name": "protobuf-ruby-3.21.8.tar.gz",
-        "count": 37,
-        "size": 5083625
-      },
-      {
-        "name": "protobuf-ruby-3.21.8.zip",
-        "count": 33,
-        "size": 6178278
-      },
-      {
-        "name": "protoc-21.8-linux-aarch_64.zip",
-        "count": 7061,
-        "size": 1579779
-      },
-      {
-        "name": "protoc-21.8-linux-ppcle_64.zip",
-        "count": 46,
-        "size": 1706829
-      },
-      {
-        "name": "protoc-21.8-linux-s390_64.zip",
-        "count": 46,
-        "size": 2029229
-      },
-      {
-        "name": "protoc-21.8-linux-x86_32.zip",
-        "count": 63,
-        "size": 1687785
-      },
-      {
-        "name": "protoc-21.8-linux-x86_64.zip",
-        "count": 91786,
-        "size": 1583986
-      },
-      {
-        "name": "protoc-21.8-osx-aarch_64.zip",
-        "count": 683,
-        "size": 1363556
-      },
-      {
-        "name": "protoc-21.8-osx-universal_binary.zip",
-        "count": 6378,
-        "size": 2830422
-      },
-      {
-        "name": "protoc-21.8-osx-x86_64.zip",
-        "count": 7872,
-        "size": 1500574
-      },
-      {
-        "name": "protoc-21.8-win32.zip",
-        "count": 1943,
-        "size": 2305181
-      },
-      {
-        "name": "protoc-21.8-win64.zip",
-        "count": 8962,
-        "size": 2276161
-      }
-    ]
-  },
-  {
-    "name": "v21.7",
-    "date": "2022-09-29T22:22:53Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "protobuf-all-21.7.tar.gz",
-        "count": 170057,
-        "size": 7639434
-      },
-      {
-        "name": "protobuf-all-21.7.zip",
-        "count": 173811,
-        "size": 9706485
-      },
-      {
-        "name": "protobuf-cpp-3.21.7.tar.gz",
-        "count": 12738,
-        "size": 4855915
-      },
-      {
-        "name": "protobuf-cpp-3.21.7.zip",
-        "count": 1557,
-        "size": 5886525
-      },
-      {
-        "name": "protobuf-csharp-3.21.7.tar.gz",
-        "count": 145,
-        "size": 5605283
-      },
-      {
-        "name": "protobuf-csharp-3.21.7.zip",
-        "count": 560,
-        "size": 6892115
-      },
-      {
-        "name": "protobuf-java-3.21.7.tar.gz",
-        "count": 482,
-        "size": 5572967
-      },
-      {
-        "name": "protobuf-java-3.21.7.zip",
-        "count": 1076,
-        "size": 6991413
-      },
-      {
-        "name": "protobuf-objectivec-3.21.7.tar.gz",
-        "count": 74,
-        "size": 5228480
-      },
-      {
-        "name": "protobuf-objectivec-3.21.7.zip",
-        "count": 153,
-        "size": 6414847
-      },
-      {
-        "name": "protobuf-php-3.21.7.tar.gz",
-        "count": 71,
-        "size": 5160527
-      },
-      {
-        "name": "protobuf-php-3.21.7.zip",
-        "count": 98,
-        "size": 6329075
-      },
-      {
-        "name": "protobuf-python-4.21.7.tar.gz",
-        "count": 392,
-        "size": 5225429
-      },
-      {
-        "name": "protobuf-python-4.21.7.zip",
-        "count": 733,
-        "size": 6343542
-      },
-      {
-        "name": "protobuf-ruby-3.21.7.tar.gz",
-        "count": 46,
-        "size": 5088443
-      },
-      {
-        "name": "protobuf-ruby-3.21.7.zip",
-        "count": 56,
-        "size": 6177834
-      },
-      {
-        "name": "protoc-21.7-linux-aarch_64.zip",
-        "count": 30928,
-        "size": 1579781
-      },
-      {
-        "name": "protoc-21.7-linux-ppcle_64.zip",
-        "count": 83,
-        "size": 1706892
-      },
-      {
-        "name": "protoc-21.7-linux-s390_64.zip",
-        "count": 89,
-        "size": 2029227
-      },
-      {
-        "name": "protoc-21.7-linux-x86_32.zip",
-        "count": 120,
-        "size": 1687785
-      },
-      {
-        "name": "protoc-21.7-linux-x86_64.zip",
-        "count": 217135,
-        "size": 1583990
-      },
-      {
-        "name": "protoc-21.7-osx-aarch_64.zip",
-        "count": 11661,
-        "size": 1359646
-      },
-      {
-        "name": "protoc-21.7-osx-universal_binary.zip",
-        "count": 1674,
-        "size": 2821296
-      },
-      {
-        "name": "protoc-21.7-osx-x86_64.zip",
-        "count": 40699,
-        "size": 1495633
-      },
-      {
-        "name": "protoc-21.7-win32.zip",
-        "count": 526,
-        "size": 2304421
-      },
-      {
-        "name": "protoc-21.7-win64.zip",
-        "count": 20422,
-        "size": 2275730
       }
     ]
   }

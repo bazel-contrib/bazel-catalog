@@ -1,11 +1,14 @@
 {
-  "health_percentage": 25,
+  "health_percentage": 37,
   "description": "Bazel support for Robolectric (https://github.com/robolectric/robolectric)",
   "documentation": null,
   "files": {
     "code_of_conduct": null,
     "code_of_conduct_file": null,
-    "contributing": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/robolectric/robolectric-bazel/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/robolectric/robolectric-bazel/blob/master/CONTRIBUTING.md"
+    },
     "issue_template": null,
     "pull_request_template": null,
     "license": null,

@@ -1,0 +1,217 @@
+[
+  {
+    "name": "v1.16.2",
+    "date": "2024-08-01T13:15:32Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.16.1",
+    "date": "2024-05-23T17:50:05Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.16.0",
+    "date": "2024-03-25T15:40:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.15.0",
+    "date": "2023-10-31T17:04:56Z",
+    "mentions": 24,
+    "downloads": []
+  },
+  {
+    "name": "v1.14.1",
+    "date": "2023-08-25T21:00:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.14.0",
+    "date": "2023-05-05T16:35:02Z",
+    "mentions": 17,
+    "downloads": []
+  },
+  {
+    "name": "v1.13.1",
+    "date": "2023-02-22T18:47:36Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.13.0",
+    "date": "2022-12-12T14:38:36Z",
+    "mentions": 33,
+    "downloads": []
+  },
+  {
+    "name": "v1.12.0",
+    "date": "2022-06-18T02:58:18Z",
+    "mentions": 14,
+    "downloads": []
+  },
+  {
+    "name": "v1.11.0",
+    "date": "2022-02-17T21:58:59Z",
+    "mentions": 24,
+    "downloads": []
+  },
+  {
+    "name": "v1.10.2",
+    "date": "2021-10-26T17:29:47Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.10.1",
+    "date": "2021-08-02T20:22:19Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.10.0",
+    "date": "2021-07-31T00:56:50Z",
+    "mentions": 26,
+    "downloads": []
+  },
+  {
+    "name": "v1.9.0",
+    "date": "2021-04-19T10:24:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.8.1",
+    "date": "2021-01-30T01:25:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.8.0",
+    "date": "2020-11-07T00:55:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "onnx-1.8.0.tar.gz",
+        "count": 238,
+        "size": 5231652
+      },
+      {
+        "name": "onnx-1.8.0.zip",
+        "count": 273,
+        "size": 5212018
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0",
+    "date": "2020-05-09T02:44:51Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.6.0",
+    "date": "2019-09-28T01:28:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "onnx-1.6.0.tar.gz",
+        "count": 19172,
+        "size": 3132813
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0",
+    "date": "2019-04-24T05:33:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.4.1",
+    "date": "2019-01-23T23:12:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "onnx-1.4.1.tar.gz",
+        "count": 363,
+        "size": 2943698
+      }
+    ]
+  },
+  {
+    "name": "v1.4.0",
+    "date": "2019-01-23T01:55:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "onnx-1.4.0.tar.gz",
+        "count": 149,
+        "size": 2785449
+      }
+    ]
+  },
+  {
+    "name": "v1.2.3",
+    "date": "2018-09-10T17:59:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.3.0",
+    "date": "2018-08-30T18:56:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "onnx-1.3.0.tar.gz",
+        "count": 1148,
+        "size": 2904476
+      }
+    ]
+  },
+  {
+    "name": "v1.2.2",
+    "date": "2018-06-18T23:18:07Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.2.1",
+    "date": "2018-05-25T02:05:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.2",
+    "date": "2018-04-25T23:46:59Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2018-03-21T06:08:42Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2018-01-26T22:14:50Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0",
+    "date": "2017-12-06T21:56:28Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2",
+    "date": "2017-10-10T04:53:12Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

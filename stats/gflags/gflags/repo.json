@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/gflags/gflags/releases{/id}",
   "deployments_url": "https://api.github.com/repos/gflags/gflags/deployments",
   "created_at": "2013-04-20T22:21:20Z",
-  "updated_at": "2023-09-16T08:25:05Z",
-  "pushed_at": "2023-09-16T10:54:30Z",
+  "updated_at": "2024-08-05T22:46:13Z",
+  "pushed_at": "2024-06-09T21:38:04Z",
   "git_url": "git://github.com/gflags/gflags.git",
   "ssh_url": "git@github.com:gflags/gflags.git",
   "clone_url": "https://github.com/gflags/gflags.git",
   "svn_url": "https://github.com/gflags/gflags",
   "homepage": "https://gflags.github.io/gflags/",
-  "size": 1563,
-  "stargazers_count": 2672,
-  "watchers_count": 2672,
+  "size": 1575,
+  "stargazers_count": 2841,
+  "watchers_count": 2841,
   "language": "C++",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 835,
+  "forks_count": 839,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 46,
+  "open_issues_count": 45,
   "license": {
     "key": "bsd-3-clause",
     "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 835,
-  "open_issues": 46,
-  "watchers": 2672,
+  "forks": 839,
+  "open_issues": 45,
+  "watchers": 2841,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "gflags",
     "id": 11634238,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 835,
-  "subscribers_count": 111
+  "network_count": 839,
+  "subscribers_count": 112
 }

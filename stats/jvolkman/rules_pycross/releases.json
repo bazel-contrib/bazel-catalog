@@ -1,0 +1,110 @@
+[
+  {
+    "name": "v0.6.1",
+    "date": "2024-07-17T19:21:31Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.6.1.tar.gz",
+        "count": 269,
+        "size": 282783
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2024-06-12T19:15:23Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.6.0.tar.gz",
+        "count": 747,
+        "size": 247836
+      }
+    ]
+  },
+  {
+    "name": "v0.5.4",
+    "date": "2024-04-29T17:28:34Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.5.4.tar.gz",
+        "count": 16367,
+        "size": 246959
+      }
+    ]
+  },
+  {
+    "name": "v0.5.3",
+    "date": "2024-04-15T15:29:31Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.5.3.tar.gz",
+        "count": 258,
+        "size": 247832
+      }
+    ]
+  },
+  {
+    "name": "v0.5.2",
+    "date": "2024-02-02T23:40:54Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.5.2.tar.gz",
+        "count": 6690,
+        "size": 192437
+      }
+    ]
+  },
+  {
+    "name": "v0.5.1",
+    "date": "2024-01-31T07:54:13Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.5.1.tar.gz",
+        "count": 295,
+        "size": 148954
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2024-01-29T22:20:52Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_pycross-v0.5.0.tar.gz",
+        "count": 1569,
+        "size": 148927
+      }
+    ]
+  },
+  {
+    "name": "v0.4",
+    "date": "2023-11-25T14:58:18Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.3",
+    "date": "2023-11-23T02:00:47Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "v0.2",
+    "date": "2023-10-16T22:28:48Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "0.1",
+    "date": "2022-10-18T17:47:36Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "v1.3.0",
+    "date": "2024-06-16T19:34:32Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.3.0.tar.gz",
+        "count": 21624,
+        "size": 53342
+      }
+    ]
+  },
+  {
+    "name": "v1.2.3",
+    "date": "2024-02-28T21:41:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.2.3.tar.gz",
+        "count": 144470,
+        "size": 47562
+      }
+    ]
+  },
+  {
+    "name": "v1.2.2",
+    "date": "2024-02-27T22:33:16Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.2.2.tar.gz",
+        "count": 5956,
+        "size": 47544
+      }
+    ]
+  },
+  {
+    "name": "v1.2.1",
+    "date": "2024-01-08T17:43:21Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.2.1.tar.gz",
+        "count": 71891,
+        "size": 47514
+      }
+    ]
+  },
+  {
+    "name": "v1.2.0",
+    "date": "2024-01-02T01:27:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.2.0.tar.gz",
+        "count": 24968,
+        "size": 47531
+      }
+    ]
+  },
+  {
+    "name": "v1.1.1",
+    "date": "2023-11-30T16:13:26Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.1.1.tar.gz",
+        "count": 1977,
+        "size": 46141
+      }
+    ]
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2023-11-30T16:04:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.1.0.tar.gz",
+        "count": 2,
+        "size": 46144
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2023-10-26T21:40:15Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.0.0.tar.gz",
+        "count": 3630,
+        "size": 43769
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0-rc1",
+    "date": "2023-10-20T18:17:24Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apko-v1.0.0-rc1.tar.gz",
+        "count": 478,
+        "size": 44075
+      }
+    ]
+  },
+  {
+    "name": "v0.2.3",
+    "date": "2023-10-17T21:23:12Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apko-v0.2.3.tar.gz",
+        "count": 468,
+        "size": 44057
+      }
+    ]
+  },
+  {
+    "name": "v0.2.2",
+    "date": "2023-10-17T21:13:11Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apko-v0.2.2.tar.gz",
+        "count": 10,
+        "size": 44050
+      }
+    ]
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2023-10-17T20:12:02Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_apko-v0.2.1.tar.gz",
+        "count": 2,
+        "size": 43956
+      }
+    ]
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2023-09-16T19:25:57Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apko-v0.1.1.tar.gz",
+        "count": 6,
+        "size": 69800
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-09-16T15:02:48Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apko-v0.1.0.tar.gz",
+        "count": 2,
+        "size": 69790
+      }
+    ]
+  }
+]

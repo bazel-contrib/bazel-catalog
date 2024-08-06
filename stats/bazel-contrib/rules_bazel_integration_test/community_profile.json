@@ -1,11 +1,14 @@
 {
-  "health_percentage": 37,
+  "health_percentage": 50,
   "description": "Rules and macros for executing integration tests that use Bazel. Supports running integration tests with multiple versions of Bazel.",
   "documentation": null,
   "files": {
     "code_of_conduct": null,
     "code_of_conduct_file": null,
-    "contributing": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazel-contrib/rules_bazel_integration_test/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazel-contrib/.github/blob/master/CONTRIBUTING.md"
+    },
     "issue_template": null,
     "pull_request_template": null,
     "license": {

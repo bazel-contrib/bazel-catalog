@@ -1,5 +1,33 @@
 [
   {
+    "name": "v1.33.0",
+    "sha": "caffa5ffb3826cf0926405793361bbad11db3268"
+  },
+  {
+    "name": "v1.32.3",
+    "sha": "5899dea2b1f8e78f311aaed7db98b82b5537c9f9"
+  },
+  {
+    "name": "v1.32.2",
+    "sha": "80c2648f0a2ff0a934e1a8e119fb155ee0aebdd4"
+  },
+  {
+    "name": "v1.32.1",
+    "sha": "bf162a7feb58d51fa47928f13b356274ae368f68"
+  },
+  {
+    "name": "v1.32.0",
+    "sha": "4b653744b4026373536a16a2a9f3c4af642664ef"
+  },
+  {
+    "name": "v1.31.0",
+    "sha": "5899e96ec9d846480545af46fdb7aa392db55f74"
+  },
+  {
+    "name": "v1.30.0",
+    "sha": "f90e73304a2d9f5c56d2255c19f9efaaa5b2c16c"
+  },
+  {
     "name": "curl-7_20_0",
     "sha": "8b6f71ce9522d0199a00c8021e8ab2d08c799dbf"
   },
@@ -90,33 +118,5 @@
   {
     "name": "curl-7_15_1",
     "sha": "513f4480614b06f32365262cc03dfb232fbefa4b"
-  },
-  {
-    "name": "curl-7_15_0",
-    "sha": "876ea69745fcc3f9e38cb54175eacc571afda198"
-  },
-  {
-    "name": "curl-7_14_1",
-    "sha": "7885baf74d87df32b5f644d46a7873e32c704f60"
-  },
-  {
-    "name": "curl-7_14_0",
-    "sha": "a6f7820033f0528cc6b7d32e7515a7d4d520238e"
-  },
-  {
-    "name": "curl-7_13_2",
-    "sha": "784cc294b15482f04cac61f7ff91c9f1e6a409b6"
-  },
-  {
-    "name": "curl-7_13_1",
-    "sha": "e1290d34107e2a13ae211d7f5f8755c1bc2514de"
-  },
-  {
-    "name": "curl-7_13_0",
-    "sha": "994f16d733b6000c2b14acb07aa01721a7be5928"
-  },
-  {
-    "name": "curl-7_12_2",
-    "sha": "3e748f4b50224e43b916dda5de438c785bdcd49d"
   }
 ]

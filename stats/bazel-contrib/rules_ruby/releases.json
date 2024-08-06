@@ -1,0 +1,218 @@
+[
+  {
+    "name": "v0.12.1",
+    "date": "2024-07-24T03:38:14Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.12.1.tar.gz",
+        "count": 111,
+        "size": 72361
+      }
+    ]
+  },
+  {
+    "name": "v0.12.0",
+    "date": "2024-07-17T22:59:25Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.12.0.tar.gz",
+        "count": 39,
+        "size": 72349
+      }
+    ]
+  },
+  {
+    "name": "v0.11.0",
+    "date": "2024-06-03T22:36:40Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.11.0.tar.gz",
+        "count": 12491,
+        "size": 71589
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2024-05-07T00:13:26Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.10.0.tar.gz",
+        "count": 309,
+        "size": 80326
+      }
+    ]
+  },
+  {
+    "name": "v0.9.1",
+    "date": "2024-03-22T02:04:44Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.9.1.tar.gz",
+        "count": 800,
+        "size": 78724
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2024-03-21T21:43:55Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.9.0.tar.gz",
+        "count": 11,
+        "size": 78755
+      }
+    ]
+  },
+  {
+    "name": "v0.8.1",
+    "date": "2024-03-06T17:28:15Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.8.1.tar.gz",
+        "count": 22344,
+        "size": 78743
+      }
+    ]
+  },
+  {
+    "name": "v0.8.0",
+    "date": "2024-03-05T19:26:42Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.8.0.tar.gz",
+        "count": 227,
+        "size": 78690
+      }
+    ]
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2024-03-03T03:25:48Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.7.0.tar.gz",
+        "count": 4,
+        "size": 78617
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2024-01-23T01:48:14Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.6.0.tar.gz",
+        "count": 374,
+        "size": 54805
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2024-01-17T22:14:50Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.5.0.tar.gz",
+        "count": 11949,
+        "size": 54469
+      }
+    ]
+  },
+  {
+    "name": "v0.4.1",
+    "date": "2023-12-04T00:15:49Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.4.1.tar.gz",
+        "count": 3556,
+        "size": 35745
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2023-12-02T00:58:35Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.4.0.tar.gz",
+        "count": 21,
+        "size": 35745
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2023-11-30T19:49:07Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.3.0.tar.gz",
+        "count": 1343,
+        "size": 35133
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-11-24T18:54:08Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.2.0.tar.gz",
+        "count": 873,
+        "size": 32732
+      }
+    ]
+  },
+  {
+    "name": "v0.1.2",
+    "date": "2023-11-24T02:29:43Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.1.2.tar.gz",
+        "count": 9,
+        "size": 32502
+      }
+    ]
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2023-11-23T14:39:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.1.1.tar.gz",
+        "count": 7,
+        "size": 24714
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-11-21T20:09:30Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_ruby-v0.1.0.tar.gz",
+        "count": 5,
+        "size": 24722
+      }
+    ]
+  }
+]

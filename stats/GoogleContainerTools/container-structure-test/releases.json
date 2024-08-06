@@ -1,37 +1,308 @@
 [
   {
+    "name": "v1.19.1",
+    "date": "2024-07-22T18:56:33Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "checksums.txt",
+        "count": 23,
+        "size": 731
+      },
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 4,
+        "size": 17278096
+      },
+      {
+        "name": "container-structure-test-darwin-arm64",
+        "count": 5,
+        "size": 16660898
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 2793,
+        "size": 17152862
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 209,
+        "size": 16456213
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 6,
+        "size": 16795096
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 5,
+        "size": 17673223
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 171,
+        "size": 17680384
+      }
+    ]
+  },
+  {
+    "name": "v1.19.0",
+    "date": "2024-07-17T17:15:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "checksums.txt",
+        "count": 11,
+        "size": 731
+      },
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 7,
+        "size": 17278096
+      },
+      {
+        "name": "container-structure-test-darwin-arm64",
+        "count": 35,
+        "size": 16660898
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 1114,
+        "size": 17152862
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 586,
+        "size": 16456213
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 0,
+        "size": 16795096
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 3,
+        "size": 17673223
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 75,
+        "size": 17680384
+      }
+    ]
+  },
+  {
+    "name": "v1.18.1",
+    "date": "2024-05-03T22:33:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "checksums.txt",
+        "count": 33,
+        "size": 731
+      },
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 29,
+        "size": 17278176
+      },
+      {
+        "name": "container-structure-test-darwin-arm64",
+        "count": 53,
+        "size": 16660962
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 10254,
+        "size": 17163350
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 1033,
+        "size": 16450821
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 10,
+        "size": 16793744
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 9,
+        "size": 17677671
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 799,
+        "size": 17669632
+      }
+    ]
+  },
+  {
+    "name": "v1.18.0",
+    "date": "2024-05-03T21:21:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "checksums.txt",
+        "count": 4,
+        "size": 731
+      },
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 238,
+        "size": 17278176
+      },
+      {
+        "name": "container-structure-test-darwin-arm64",
+        "count": 26,
+        "size": 16660962
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 72499,
+        "size": 17163350
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 81,
+        "size": 16450821
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 4,
+        "size": 16793744
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 76,
+        "size": 17677671
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 77,
+        "size": 17669632
+      }
+    ]
+  },
+  {
+    "name": "v1.17.0",
+    "date": "2024-03-06T14:57:14Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "container-structure-test-darwin-amd64",
+        "count": 25,
+        "size": 17268992
+      },
+      {
+        "name": "container-structure-test-darwin-amd64.sha256",
+        "count": 16,
+        "size": 108
+      },
+      {
+        "name": "container-structure-test-darwin-arm64",
+        "count": 76,
+        "size": 16643410
+      },
+      {
+        "name": "container-structure-test-darwin-arm64.sha256",
+        "count": 27,
+        "size": 108
+      },
+      {
+        "name": "container-structure-test-linux-amd64",
+        "count": 10073,
+        "size": 17145430
+      },
+      {
+        "name": "container-structure-test-linux-amd64.sha256",
+        "count": 142,
+        "size": 107
+      },
+      {
+        "name": "container-structure-test-linux-arm64",
+        "count": 877,
+        "size": 16378221
+      },
+      {
+        "name": "container-structure-test-linux-arm64.sha256",
+        "count": 23,
+        "size": 107
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le",
+        "count": 12,
+        "size": 16804720
+      },
+      {
+        "name": "container-structure-test-linux-ppc64le.sha256",
+        "count": 13,
+        "size": 109
+      },
+      {
+        "name": "container-structure-test-linux-s390x",
+        "count": 12,
+        "size": 17675063
+      },
+      {
+        "name": "container-structure-test-linux-s390x.sha256",
+        "count": 11,
+        "size": 107
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe",
+        "count": 495,
+        "size": 17654784
+      },
+      {
+        "name": "container-structure-test-windows-amd64.exe.sha256",
+        "count": 22,
+        "size": 113
+      }
+    ]
+  },
+  {
+    "name": "v1.16.1",
+    "date": "2023-11-21T20:39:31Z",
+    "mentions": 6,
+    "downloads": []
+  },
+  {
     "name": "v1.16.0",
     "date": "2023-08-01T17:06:03Z",
     "mentions": 3,
     "downloads": [
       {
         "name": "container-structure-test-darwin-amd64",
-        "count": 77,
+        "count": 2756,
         "size": 15448576
       },
       {
         "name": "container-structure-test-linux-amd64",
-        "count": 1926,
+        "count": 222299,
         "size": 15669292
       },
       {
         "name": "container-structure-test-linux-arm64",
-        "count": 283,
+        "count": 12337,
         "size": 14973883
       },
       {
         "name": "container-structure-test-linux-ppc64le",
-        "count": 5,
+        "count": 18,
         "size": 15073982
       },
       {
         "name": "container-structure-test-linux-s390x",
-        "count": 9,
+        "count": 304,
         "size": 16127521
       },
       {
         "name": "container-structure-test-windows-amd64.exe",
-        "count": 238,
+        "count": 2894,
         "size": 16152064
       }
     ]
@@ -43,32 +314,32 @@
     "downloads": [
       {
         "name": "container-structure-test-darwin-amd64",
-        "count": 416,
+        "count": 1681,
         "size": 14847792
       },
       {
         "name": "container-structure-test-linux-amd64",
-        "count": 22719,
+        "count": 83612,
         "size": 15069690
       },
       {
         "name": "container-structure-test-linux-arm64",
-        "count": 2652,
+        "count": 10317,
         "size": 14415842
       },
       {
         "name": "container-structure-test-linux-ppc64le",
-        "count": 1,
+        "count": 10,
         "size": 14507568
       },
       {
         "name": "container-structure-test-linux-s390x",
-        "count": 22,
+        "count": 146,
         "size": 15497181
       },
       {
         "name": "container-structure-test-windows-amd64.exe",
-        "count": 1248,
+        "count": 1413,
         "size": 15546880
       }
     ]
@@ -80,32 +351,32 @@
     "downloads": [
       {
         "name": "container-structure-test-darwin-amd64",
-        "count": 287,
+        "count": 321,
         "size": 14795696
       },
       {
         "name": "container-structure-test-linux-amd64",
-        "count": 7278,
+        "count": 11829,
         "size": 15018074
       },
       {
         "name": "container-structure-test-linux-arm64",
-        "count": 846,
+        "count": 871,
         "size": 14328098
       },
       {
         "name": "container-structure-test-linux-ppc64le",
-        "count": 12,
+        "count": 20,
         "size": 14491998
       },
       {
         "name": "container-structure-test-linux-s390x",
-        "count": 30,
+        "count": 53,
         "size": 15470299
       },
       {
         "name": "container-structure-test-windows-amd64.exe",
-        "count": 1262,
+        "count": 1285,
         "size": 15490560
       }
     ]
@@ -117,32 +388,32 @@
     "downloads": [
       {
         "name": "container-structure-test-darwin-amd64",
-        "count": 18,
+        "count": 25,
         "size": 16467664
       },
       {
         "name": "container-structure-test-linux-amd64",
-        "count": 436,
+        "count": 446,
         "size": 16677900
       },
       {
         "name": "container-structure-test-linux-arm64",
-        "count": 145,
+        "count": 157,
         "size": 16161227
       },
       {
         "name": "container-structure-test-linux-ppc64le",
-        "count": 2,
+        "count": 9,
         "size": 16190158
       },
       {
         "name": "container-structure-test-linux-s390x",
-        "count": 2,
+        "count": 10,
         "size": 16855247
       },
       {
         "name": "container-structure-test-windows-amd64.exe",
-        "count": 210,
+        "count": 218,
         "size": 17127424
       }
     ]
@@ -154,62 +425,62 @@
     "downloads": [
       {
         "name": "container-structure-test-darwin-amd64",
-        "count": 95,
+        "count": 106,
         "size": 16266912
       },
       {
         "name": "container-structure-test-darwin-amd64.sha256",
-        "count": 18,
+        "count": 25,
         "size": 104
       },
       {
         "name": "container-structure-test-linux-amd64",
-        "count": 8219,
+        "count": 8774,
         "size": 16474078
       },
       {
         "name": "container-structure-test-linux-amd64.sha256",
-        "count": 2309,
+        "count": 2666,
         "size": 103
       },
       {
         "name": "container-structure-test-linux-arm64",
-        "count": 2095,
+        "count": 2178,
         "size": 15981440
       },
       {
         "name": "container-structure-test-linux-arm64.sha256",
-        "count": 812,
+        "count": 989,
         "size": 103
       },
       {
         "name": "container-structure-test-linux-ppc64le",
-        "count": 7,
+        "count": 16,
         "size": 16014893
       },
       {
         "name": "container-structure-test-linux-ppc64le.sha256",
-        "count": 4,
+        "count": 12,
         "size": 105
       },
       {
         "name": "container-structure-test-linux-s390x",
-        "count": 7,
+        "count": 17,
         "size": 16670726
       },
       {
         "name": "container-structure-test-linux-s390x.sha256",
-        "count": 4,
+        "count": 11,
         "size": 103
       },
       {
         "name": "container-structure-test-windows-amd64.exe",
-        "count": 2036,
+        "count": 2046,
         "size": 16927744
       },
       {
         "name": "container-structure-test-windows-amd64.exe.sha256",
-        "count": 9,
+        "count": 16,
         "size": 109
       }
     ]
@@ -325,18 +596,6 @@
   {
     "name": "v0.1.2",
     "date": "2017-12-27T19:01:45Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.1.1",
-    "date": "2017-10-26T18:18:54Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.1.0",
-    "date": "2017-10-24T22:27:07Z",
     "mentions": null,
     "downloads": []
   }

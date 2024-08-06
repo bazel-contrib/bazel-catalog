@@ -1,0 +1,40 @@
+{
+  "health_percentage": 100,
+  "description": "Open standard for machine learning interoperability",
+  "documentation": "https://onnx.ai/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/onnx/onnx/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/onnx/onnx/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/onnx/onnx/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/onnx/onnx/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/onnx/onnx/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/onnx/onnx/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/onnx/onnx/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/onnx/onnx/blob/main/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/onnx/onnx/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/onnx/onnx/contents/README.md",
+      "html_url": "https://github.com/onnx/onnx/blob/main/README.md"
+    }
+  },
+  "updated_at": "2024-05-23T17:07:08Z",
+  "content_reports_enabled": true
+}

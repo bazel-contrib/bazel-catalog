@@ -1,12 +1,168 @@
 [
   {
+    "name": "v0.49.0",
+    "date": "2024-07-13T04:06:15Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "rules_go-v0.49.0.zip",
+        "count": 117135,
+        "size": 2171881
+      }
+    ]
+  },
+  {
+    "name": "v0.48.1",
+    "date": "2024-06-19T19:57:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_go-v0.48.1.zip",
+        "count": 82284,
+        "size": 2159012
+      }
+    ]
+  },
+  {
+    "name": "v0.48.0",
+    "date": "2024-05-22T03:03:31Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_go-v0.48.0.zip",
+        "count": 515004,
+        "size": 2159780
+      }
+    ]
+  },
+  {
+    "name": "v0.47.1",
+    "date": "2024-05-06T19:32:36Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_go-v0.47.1.zip",
+        "count": 77972,
+        "size": 2142626
+      }
+    ]
+  },
+  {
+    "name": "v0.47.0",
+    "date": "2024-04-23T14:37:27Z",
+    "mentions": 17,
+    "downloads": [
+      {
+        "name": "rules_go-v0.47.0.zip",
+        "count": 263343,
+        "size": 2142198
+      }
+    ]
+  },
+  {
+    "name": "v0.46.0",
+    "date": "2024-02-10T00:31:48Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_go-v0.46.0.zip",
+        "count": 1048791,
+        "size": 2034867
+      }
+    ]
+  },
+  {
+    "name": "v0.45.1",
+    "date": "2024-01-19T14:58:35Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_go-v0.45.1.zip",
+        "count": 167643,
+        "size": 2034987
+      }
+    ]
+  },
+  {
+    "name": "v0.45.0",
+    "date": "2024-01-12T19:59:12Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_go-v0.45.0.zip",
+        "count": 7514,
+        "size": 2034143
+      }
+    ]
+  },
+  {
+    "name": "v0.44.2",
+    "date": "2024-01-03T19:42:02Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_go-v0.44.2.zip",
+        "count": 54217,
+        "size": 2028707
+      }
+    ]
+  },
+  {
+    "name": "v0.44.1",
+    "date": "2023-12-29T22:06:36Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_go-v0.44.1.zip",
+        "count": 8775,
+        "size": 2025608
+      }
+    ]
+  },
+  {
+    "name": "v0.44.0",
+    "date": "2023-12-19T19:47:10Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_go-v0.44.0.zip",
+        "count": 264977,
+        "size": 2020181
+      }
+    ]
+  },
+  {
+    "name": "v0.43.0",
+    "date": "2023-11-20T17:13:57Z",
+    "mentions": 12,
+    "downloads": [
+      {
+        "name": "rules_go-v0.43.0.zip",
+        "count": 364694,
+        "size": 2007597
+      }
+    ]
+  },
+  {
+    "name": "v0.42.0",
+    "date": "2023-09-27T23:14:16Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "rules_go-v0.42.0.zip",
+        "count": 308483,
+        "size": 1865166
+      }
+    ]
+  },
+  {
     "name": "v0.41.0",
     "date": "2023-07-10T21:54:32Z",
     "mentions": 6,
     "downloads": [
       {
         "name": "rules_go-v0.41.0.zip",
-        "count": 126940,
+        "count": 1335487,
         "size": 1813797
       }
     ]
@@ -18,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.40.1.zip",
-        "count": 59303,
+        "count": 142004,
         "size": 2105366
       }
     ]
@@ -30,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.40.0.zip",
-        "count": 8461,
+        "count": 14751,
         "size": 2105117
       }
     ]
@@ -42,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.39.1.zip",
-        "count": 380802,
+        "count": 1084499,
         "size": 2090781
       }
     ]
@@ -54,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.39.0.zip",
-        "count": 84592,
+        "count": 150838,
         "size": 2088828
       }
     ]
@@ -66,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.38.1.zip",
-        "count": 246567,
+        "count": 300557,
         "size": 2045396
       }
     ]
@@ -78,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.38.0.zip",
-        "count": 24576,
+        "count": 33020,
         "size": 2049040
       }
     ]
@@ -90,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.37.0.zip",
-        "count": 379514,
+        "count": 483124,
         "size": 1275072
       }
     ]
@@ -102,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.36.0.zip",
-        "count": 93232,
+        "count": 110257,
         "size": 1254060
       }
     ]
@@ -114,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.35.0.zip",
-        "count": 197736,
+        "count": 241819,
         "size": 1236226
       }
     ]
@@ -126,7 +282,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.34.0.zip",
-        "count": 642194,
+        "count": 698065,
         "size": 1210403
       }
     ]
@@ -138,7 +294,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.33.0.zip",
-        "count": 128505,
+        "count": 156392,
         "size": 1155459
       }
     ]
@@ -150,7 +306,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.32.0.zip",
-        "count": 184080,
+        "count": 184638,
         "size": 1146122
       }
     ]
@@ -162,7 +318,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.31.0.zip",
-        "count": 122102,
+        "count": 130950,
         "size": 1057103
       }
     ]
@@ -174,7 +330,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.30.0.zip",
-        "count": 146394,
+        "count": 291839,
         "size": 1048681
       }
     ]
@@ -186,7 +342,7 @@
     "downloads": [
       {
         "name": "rules_go-v0.29.0.zip",
-        "count": 281232,
+        "count": 284627,
         "size": 975014
       }
     ]
@@ -198,164 +354,8 @@
     "downloads": [
       {
         "name": "rules_go-v0.28.0.zip",
-        "count": 79670,
+        "count": 99471,
         "size": 946145
-      }
-    ]
-  },
-  {
-    "name": "v0.27.0",
-    "date": "2021-03-18T15:02:42Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.27.0.tar.gz",
-        "count": 285989,
-        "size": 633704
-      }
-    ]
-  },
-  {
-    "name": "v0.24.14",
-    "date": "2021-03-17T18:22:49Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.14.tar.gz",
-        "count": 28673,
-        "size": 524840
-      }
-    ]
-  },
-  {
-    "name": "v0.26.0",
-    "date": "2021-03-08T20:39:08Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.26.0.tar.gz",
-        "count": 39080,
-        "size": 607393
-      }
-    ]
-  },
-  {
-    "name": "v0.24.13",
-    "date": "2021-02-16T23:18:59Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.13.tar.gz",
-        "count": 73820,
-        "size": 523067
-      }
-    ]
-  },
-  {
-    "name": "v0.24.12",
-    "date": "2021-02-05T00:58:17Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.12.tar.gz",
-        "count": 1773,
-        "size": 522699
-      }
-    ]
-  },
-  {
-    "name": "v0.24.11",
-    "date": "2021-01-19T23:30:11Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.11.tar.gz",
-        "count": 25532,
-        "size": 521593
-      }
-    ]
-  },
-  {
-    "name": "v0.25.1",
-    "date": "2020-12-23T21:33:43Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.25.1.tar.gz",
-        "count": 7324,
-        "size": 565923
-      }
-    ]
-  },
-  {
-    "name": "v0.24.10",
-    "date": "2020-12-23T21:33:36Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.10.tar.gz",
-        "count": 1413,
-        "size": 520592
-      }
-    ]
-  },
-  {
-    "name": "v0.24.9",
-    "date": "2020-12-03T22:50:01Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.9.tar.gz",
-        "count": 12858,
-        "size": 519875
-      }
-    ]
-  },
-  {
-    "name": "v0.25.0",
-    "date": "2020-12-02T20:56:57Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.25.0.tar.gz",
-        "count": 112113,
-        "size": 564714
-      }
-    ]
-  },
-  {
-    "name": "v0.24.8",
-    "date": "2020-12-02T19:57:36Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.8.tar.gz",
-        "count": 33,
-        "size": 518710
-      }
-    ]
-  },
-  {
-    "name": "v0.24.7",
-    "date": "2020-11-12T23:28:23Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.24.7.tar.gz",
-        "count": 3215,
-        "size": 517804
-      }
-    ]
-  },
-  {
-    "name": "v0.23.15",
-    "date": "2020-11-12T23:28:19Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_go-v0.23.15.tar.gz",
-        "count": 34,
-        "size": 488330
       }
     ]
   }

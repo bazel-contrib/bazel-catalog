@@ -1,7 +1,7 @@
 {
   "health_percentage": 75,
   "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
-  "documentation": "https://google.github.io/re2/",
+  "documentation": null,
   "files": {
     "code_of_conduct": {
       "key": "other",

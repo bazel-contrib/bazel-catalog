@@ -1,5 +1,53 @@
 [
   {
+    "name": "0.9.0",
+    "date": "2024-03-21T23:57:03Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_multirun.0.9.0.tar.gz",
+        "count": 311053,
+        "size": 14452
+      }
+    ]
+  },
+  {
+    "name": "0.8.1",
+    "date": "2024-02-28T18:01:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_multirun.0.8.1.tar.gz",
+        "count": 155157,
+        "size": 14319
+      }
+    ]
+  },
+  {
+    "name": "0.8.0",
+    "date": "2024-02-28T17:48:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_multirun.0.8.0.tar.gz",
+        "count": 19,
+        "size": 14313
+      }
+    ]
+  },
+  {
+    "name": "0.7.0",
+    "date": "2024-02-23T23:35:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_multirun-0.7.0.tar.gz",
+        "count": 4016,
+        "size": 15050
+      }
+    ]
+  },
+  {
     "name": "0.6.1",
     "date": "2023-06-22T19:37:01Z",
     "mentions": 1,

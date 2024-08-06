@@ -1,5 +1,21 @@
 [
   {
+    "name": "0.55.1",
+    "sha": "b515723b16eba33f15c4677ee65f3fef2ce8c255"
+  },
+  {
+    "name": "0.55.0",
+    "sha": "460d88c036163ee2f7cb5e32c180d9143ac332ae"
+  },
+  {
+    "name": "0.54.0",
+    "sha": "f17a4f9dfb6a6afb0408426354e4180daaf49cee"
+  },
+  {
+    "name": "0.53.0",
+    "sha": "6d2e58271ebc14c37bf76d7c9f4082cc15bad718"
+  },
+  {
     "name": "0.52.4",
     "sha": "9eaecbedce469a51bd8487effbd4ab46ec8384ae"
   },
@@ -102,21 +118,5 @@
   {
     "name": "0.47.0-rc.2",
     "sha": "67da5a0b5b93a203118830971c2a13f4879b64ad"
-  },
-  {
-    "name": "0.47.0-rc.1",
-    "sha": "fe8aa19d0936cd2f17b0db1b207efee63eceebbb"
-  },
-  {
-    "name": "0.46.5",
-    "sha": "e8ef21fef61f12536964c4e3cf6d5a6e3ad81e49"
-  },
-  {
-    "name": "0.46.4",
-    "sha": "f3712b2b9377e5de899001aedc0ad0561c5ec686"
-  },
-  {
-    "name": "0.46.3",
-    "sha": "9c81e1a93a367db773f50c85229d942d0bb9aeaf"
   }
 ]

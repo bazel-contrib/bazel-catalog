@@ -1,27 +1,189 @@
 [
   {
+    "name": "v3.6.0",
+    "date": "2024-05-05T19:10:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "catch_amalgamated.cpp",
+        "count": 692,
+        "size": 415028
+      },
+      {
+        "name": "catch_amalgamated.cpp.asc",
+        "count": 78,
+        "size": 833
+      },
+      {
+        "name": "catch_amalgamated.hpp",
+        "count": 906,
+        "size": 521249
+      },
+      {
+        "name": "catch_amalgamated.hpp.asc",
+        "count": 56,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.5.4",
+    "date": "2024-04-10T10:23:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "catch_amalgamated.cpp",
+        "count": 225,
+        "size": 409632
+      },
+      {
+        "name": "catch_amalgamated.cpp.asc",
+        "count": 19,
+        "size": 833
+      },
+      {
+        "name": "catch_amalgamated.hpp",
+        "count": 275,
+        "size": 516777
+      },
+      {
+        "name": "catch_amalgamated.hpp.asc",
+        "count": 12,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.5.3",
+    "date": "2024-03-01T21:16:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "catch_amalgamated.cpp",
+        "count": 296,
+        "size": 409326
+      },
+      {
+        "name": "catch_amalgamated.cpp.asc",
+        "count": 42,
+        "size": 833
+      },
+      {
+        "name": "catch_amalgamated.hpp",
+        "count": 395,
+        "size": 516067
+      },
+      {
+        "name": "catch_amalgamated.hpp.asc",
+        "count": 34,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.5.2",
+    "date": "2024-01-15T13:15:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "catch_amalgamated.cpp",
+        "count": 402,
+        "size": 408271
+      },
+      {
+        "name": "catch_amalgamated.cpp.asc",
+        "count": 47,
+        "size": 833
+      },
+      {
+        "name": "catch_amalgamated.hpp",
+        "count": 581,
+        "size": 510438
+      },
+      {
+        "name": "catch_amalgamated.hpp.asc",
+        "count": 40,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.5.1",
+    "date": "2023-12-31T14:18:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "catch_amalgamated.cpp",
+        "count": 158,
+        "size": 408808
+      },
+      {
+        "name": "catch_amalgamated.cpp.asc",
+        "count": 25,
+        "size": 833
+      },
+      {
+        "name": "catch_amalgamated.hpp",
+        "count": 203,
+        "size": 510772
+      },
+      {
+        "name": "catch_amalgamated.hpp.asc",
+        "count": 19,
+        "size": 833
+      }
+    ]
+  },
+  {
+    "name": "v3.5.0",
+    "date": "2023-12-10T23:57:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "catch_amalgamated.cpp",
+        "count": 188,
+        "size": 407967
+      },
+      {
+        "name": "catch_amalgamated.cpp.asc",
+        "count": 26,
+        "size": 833
+      },
+      {
+        "name": "catch_amalgamated.hpp",
+        "count": 259,
+        "size": 508162
+      },
+      {
+        "name": "catch_amalgamated.hpp.asc",
+        "count": 26,
+        "size": 833
+      }
+    ]
+  },
+  {
     "name": "v3.4.0",
     "date": "2023-07-13T11:58:57Z",
     "mentions": null,
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 803,
+        "count": 1830,
         "size": 382038
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 48,
+        "count": 156,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 956,
+        "count": 2298,
         "size": 487988
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 45,
+        "count": 110,
         "size": 833
       }
     ]
@@ -33,22 +195,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 1824,
+        "count": 1877,
         "size": 374916
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 169,
+        "count": 176,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 2269,
+        "count": 2328,
         "size": 481779
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 150,
+        "count": 155,
         "size": 833
       }
     ]
@@ -60,22 +222,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 802,
+        "count": 824,
         "size": 375210
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 40,
+        "count": 42,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 892,
+        "count": 913,
         "size": 473804
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 28,
+        "count": 30,
         "size": 833
       }
     ]
@@ -87,22 +249,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 103,
+        "count": 123,
         "size": 373807
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 24,
+        "count": 26,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 116,
+        "count": 142,
         "size": 472593
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 19,
+        "count": 21,
         "size": 833
       }
     ]
@@ -114,22 +276,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 365,
+        "count": 384,
         "size": 368375
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 50,
+        "count": 53,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 424,
+        "count": 451,
         "size": 464259
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 42,
+        "count": 46,
         "size": 833
       }
     ]
@@ -141,22 +303,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 199,
+        "count": 217,
         "size": 368375
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 37,
+        "count": 39,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 313,
+        "count": 335,
         "size": 463906
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 32,
+        "count": 34,
         "size": 833
       }
     ]
@@ -168,22 +330,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 350,
+        "count": 378,
         "size": 365372
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 44,
+        "count": 46,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 447,
+        "count": 480,
         "size": 452220
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 34,
+        "count": 37,
         "size": 833
       }
     ]
@@ -195,52 +357,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 15957,
+        "count": 39312,
         "size": 657411
       },
       {
         "name": "catch.hpp.asc",
-        "count": 44,
+        "count": 70,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 28,
+        "count": 57,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 14,
+        "count": 18,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 27,
+        "count": 49,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 13,
+        "count": 17,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 26,
+        "count": 50,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 12,
+        "count": 17,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 34,
+        "count": 61,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 13,
+        "count": 19,
         "size": 833
       }
     ]
@@ -252,22 +414,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 814,
+        "count": 832,
         "size": 364655
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 123,
+        "count": 124,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 1072,
+        "count": 1092,
         "size": 450658
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 85,
+        "count": 86,
         "size": 833
       }
     ]
@@ -279,22 +441,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 331,
+        "count": 353,
         "size": 379817
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 56,
+        "count": 61,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 436,
+        "count": 462,
         "size": 459266
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 47,
+        "count": 51,
         "size": 833
       }
     ]
@@ -306,22 +468,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 37,
+        "count": 54,
         "size": 362562
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 15,
+        "count": 16,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 46,
+        "count": 64,
         "size": 440889
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 13,
+        "count": 15,
         "size": 833
       }
     ]
@@ -333,52 +495,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 116202,
+        "count": 245853,
         "size": 657276
       },
       {
         "name": "catch.hpp.asc",
-        "count": 84,
+        "count": 91,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 68,
+        "count": 80,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 29,
+        "count": 33,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 160,
+        "count": 172,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 24,
+        "count": 29,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 62,
+        "count": 73,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 26,
+        "count": 30,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 68,
+        "count": 79,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 24,
+        "count": 29,
         "size": 833
       }
     ]
@@ -390,22 +552,22 @@
     "downloads": [
       {
         "name": "catch_amalgamated.cpp",
-        "count": 73,
+        "count": 89,
         "size": 350586
       },
       {
         "name": "catch_amalgamated.cpp.asc",
-        "count": 18,
+        "count": 20,
         "size": 833
       },
       {
         "name": "catch_amalgamated.hpp",
-        "count": 96,
+        "count": 115,
         "size": 430903
       },
       {
         "name": "catch_amalgamated.hpp.asc",
-        "count": 16,
+        "count": 17,
         "size": 833
       }
     ]
@@ -417,52 +579,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 17777,
+        "count": 38059,
         "size": 657174
       },
       {
         "name": "catch.hpp.asc",
-        "count": 114,
+        "count": 122,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 151,
+        "count": 159,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 31,
+        "count": 35,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 45,
+        "count": 53,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 25,
+        "count": 29,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 139,
+        "count": 146,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 22,
+        "count": 25,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 140,
+        "count": 148,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 21,
+        "count": 24,
         "size": 833
       }
     ]
@@ -474,52 +636,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 108000,
+        "count": 245339,
         "size": 657891
       },
       {
         "name": "catch.hpp.asc",
-        "count": 412,
+        "count": 414,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 187,
+        "count": 191,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 30,
+        "count": 32,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 75,
+        "count": 80,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 29,
+        "count": 31,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 172,
+        "count": 175,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 28,
+        "count": 29,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 177,
+        "count": 181,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 29,
+        "count": 30,
         "size": 833
       }
     ]
@@ -531,52 +693,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 8759,
+        "count": 13359,
         "size": 656886
       },
       {
         "name": "catch.hpp.asc",
-        "count": 209,
+        "count": 211,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 63,
+        "count": 67,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 29,
+        "count": 30,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 76,
+        "count": 81,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 32,
+        "count": 33,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 59,
+        "count": 64,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 27,
+        "count": 29,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 68,
+        "count": 73,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 35,
+        "count": 36,
         "size": 833
       }
     ]
@@ -588,52 +750,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 31816,
+        "count": 33791,
         "size": 656876
       },
       {
         "name": "catch.hpp.asc",
-        "count": 29,
+        "count": 32,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 30,
+        "count": 37,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 18,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp",
-        "count": 28,
-        "size": 7270
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp.asc",
         "count": 19,
         "size": 833
       },
       {
+        "name": "catch_reporter_sonarqube.hpp",
+        "count": 33,
+        "size": 7270
+      },
+      {
+        "name": "catch_reporter_sonarqube.hpp.asc",
+        "count": 20,
+        "size": 833
+      },
+      {
         "name": "catch_reporter_tap.hpp",
-        "count": 29,
+        "count": 35,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 15,
+        "count": 16,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 32,
+        "count": 41,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 17,
+        "count": 19,
         "size": 833
       }
     ]
@@ -645,52 +807,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 8035,
+        "count": 8394,
         "size": 653349
       },
       {
         "name": "catch.hpp.asc",
-        "count": 73,
+        "count": 77,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 159,
+        "count": 163,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 27,
+        "count": 28,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 55,
+        "count": 59,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 31,
+        "count": 33,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 141,
+        "count": 144,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 34,
+        "count": 36,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 133,
+        "count": 138,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 30,
+        "count": 31,
         "size": 833
       }
     ]
@@ -702,52 +864,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 7647,
+        "count": 7957,
         "size": 653118
       },
       {
         "name": "catch.hpp.asc",
-        "count": 69,
+        "count": 70,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 55,
+        "count": 58,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 35,
+        "count": 36,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 50,
+        "count": 55,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 32,
+        "count": 33,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 50,
+        "count": 54,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 32,
+        "count": 34,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 45,
+        "count": 48,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 29,
+        "count": 31,
         "size": 833
       }
     ]
@@ -765,52 +927,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 97918,
+        "count": 131331,
         "size": 650809
       },
       {
         "name": "catch.hpp.asc",
-        "count": 42,
+        "count": 45,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 42,
+        "count": 46,
         "size": 2206
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 30,
+        "count": 31,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 39,
+        "count": 44,
         "size": 7090
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 30,
+        "count": 31,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 39,
+        "count": 43,
         "size": 9581
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 28,
+        "count": 30,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 38,
+        "count": 42,
         "size": 8692
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 29,
+        "count": 30,
         "size": 833
       }
     ]
@@ -822,52 +984,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 6030,
+        "count": 6058,
         "size": 650094
       },
       {
         "name": "catch.hpp.asc",
-        "count": 39,
+        "count": 40,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 292,
+        "count": 298,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 29,
+        "count": 32,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 30,
+        "count": 36,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 24,
+        "count": 27,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 286,
+        "count": 291,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 25,
+        "count": 28,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 290,
+        "count": 295,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 25,
+        "count": 27,
         "size": 833
       }
     ]
@@ -879,52 +1041,52 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 60178,
+        "count": 61515,
         "size": 650013
       },
       {
         "name": "catch.hpp.asc",
-        "count": 47,
+        "count": 49,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 58,
+        "count": 61,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
-        "count": 26,
+        "count": 28,
         "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 43,
+        "count": 47,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 27,
+        "count": 28,
         "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
-        "count": 53,
+        "count": 58,
         "size": 9835
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 24,
+        "count": 25,
         "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 455,
+        "count": 459,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 25,
+        "count": 26,
         "size": 833
       }
     ]
@@ -936,210 +1098,33 @@
     "downloads": [
       {
         "name": "catch.hpp",
-        "count": 913,
+        "count": 943,
         "size": 648029
       },
       {
         "name": "catch.hpp.asc",
-        "count": 34,
+        "count": 37,
         "size": 833
       },
       {
         "name": "catch_reporter_automake.hpp",
-        "count": 32,
-        "size": 2268
-      },
-      {
-        "name": "catch_reporter_automake.hpp.asc",
-        "count": 27,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp",
-        "count": 30,
-        "size": 7270
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 25,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_tap.hpp",
-        "count": 32,
-        "size": 9836
-      },
-      {
-        "name": "catch_reporter_tap.hpp.asc",
-        "count": 25,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp",
-        "count": 28,
-        "size": 8911
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 26,
-        "size": 833
-      }
-    ]
-  },
-  {
-    "name": "v2.12.3",
-    "date": "2020-06-29T19:00:21Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "catch.hpp",
-        "count": 281,
-        "size": 647876
-      },
-      {
-        "name": "catch.hpp.asc",
-        "count": 27,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_automake.hpp",
-        "count": 32,
-        "size": 2268
-      },
-      {
-        "name": "catch_reporter_automake.hpp.asc",
-        "count": 25,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp",
-        "count": 32,
-        "size": 7270
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 27,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_tap.hpp",
-        "count": 28,
-        "size": 9836
-      },
-      {
-        "name": "catch_reporter_tap.hpp.asc",
-        "count": 24,
-        "size": 833
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp",
-        "count": 29,
-        "size": 8911
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 24,
-        "size": 833
-      }
-    ]
-  },
-  {
-    "name": "v2.12.2",
-    "date": "2020-05-25T13:15:29Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "catch.hpp",
-        "count": 4563,
-        "size": 645058
-      },
-      {
-        "name": "catch.hpp.asc",
-        "count": 50,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_automake.hpp",
-        "count": 55,
+        "count": 38,
         "size": 2268
       },
       {
         "name": "catch_reporter_automake.hpp.asc",
         "count": 31,
-        "size": 819
+        "size": 833
       },
       {
         "name": "catch_reporter_sonarqube.hpp",
-        "count": 46,
+        "count": 37,
         "size": 7270
       },
       {
         "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 33,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_tap.hpp",
-        "count": 58,
-        "size": 9836
-      },
-      {
-        "name": "catch_reporter_tap.hpp.asc",
-        "count": 32,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp",
-        "count": 52,
-        "size": 8911
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 28,
-        "size": 819
-      }
-    ]
-  },
-  {
-    "name": "v3.0.0-preview2",
-    "date": "2020-05-14T14:25:43Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v2.12.1",
-    "date": "2020-04-21T17:34:22Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "catch.hpp",
-        "count": 2465,
-        "size": 644926
-      },
-      {
-        "name": "catch.hpp.asc",
-        "count": 39,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_automake.hpp",
-        "count": 43,
-        "size": 2268
-      },
-      {
-        "name": "catch_reporter_automake.hpp.asc",
-        "count": 21,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp",
-        "count": 36,
-        "size": 7270
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 21,
-        "size": 819
+        "count": 29,
+        "size": 833
       },
       {
         "name": "catch_reporter_tap.hpp",
@@ -1148,132 +1133,18 @@
       },
       {
         "name": "catch_reporter_tap.hpp.asc",
-        "count": 22,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp",
-        "count": 40,
-        "size": 8911
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 23,
-        "size": 819
-      }
-    ]
-  },
-  {
-    "name": "v2.12.0",
-    "date": "2020-04-21T14:37:51Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "catch.hpp",
-        "count": 64,
-        "size": 644648
-      },
-      {
-        "name": "catch.hpp.asc",
-        "count": 21,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_automake.hpp",
-        "count": 21,
-        "size": 2268
-      },
-      {
-        "name": "catch_reporter_automake.hpp.asc",
-        "count": 18,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp",
-        "count": 21,
-        "size": 7270
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 17,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_tap.hpp",
-        "count": 23,
-        "size": 9836
-      },
-      {
-        "name": "catch_reporter_tap.hpp.asc",
-        "count": 18,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp",
-        "count": 21,
-        "size": 8911
-      },
-      {
-        "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 17,
-        "size": 819
-      }
-    ]
-  },
-  {
-    "name": "v2.11.3",
-    "date": "2020-03-19T13:49:49Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "catch.hpp",
-        "count": 11499,
-        "size": 640971
-      },
-      {
-        "name": "catch.hpp.asc",
-        "count": 35,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_automake.hpp",
-        "count": 33,
-        "size": 2268
-      },
-      {
-        "name": "catch_reporter_automake.hpp.asc",
-        "count": 18,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp",
-        "count": 28,
-        "size": 7270
-      },
-      {
-        "name": "catch_reporter_sonarqube.hpp.asc",
-        "count": 18,
-        "size": 819
-      },
-      {
-        "name": "catch_reporter_tap.hpp",
         "count": 29,
-        "size": 9836
-      },
-      {
-        "name": "catch_reporter_tap.hpp.asc",
-        "count": 19,
-        "size": 819
+        "size": 833
       },
       {
         "name": "catch_reporter_teamcity.hpp",
-        "count": 29,
+        "count": 34,
         "size": 8911
       },
       {
         "name": "catch_reporter_teamcity.hpp.asc",
-        "count": 20,
-        "size": 819
+        "count": 29,
+        "size": 833
       }
     ]
   }

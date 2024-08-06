@@ -1,0 +1,356 @@
+[
+  {
+    "name": "1.10.0",
+    "date": "2024-06-10T17:18:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.10.0.tar.gz",
+        "count": 8114,
+        "size": 727713
+      }
+    ]
+  },
+  {
+    "name": "1.9.1",
+    "date": "2024-01-10T00:18:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.9.1.tar.gz",
+        "count": 73762,
+        "size": 612652
+      }
+    ]
+  },
+  {
+    "name": "1.9.0",
+    "date": "2024-01-09T19:42:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.9.0.tar.gz",
+        "count": 140,
+        "size": 612558
+      }
+    ]
+  },
+  {
+    "name": "1.8.0",
+    "date": "2023-11-07T18:22:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.8.0.tar.gz",
+        "count": 25578,
+        "size": 612176
+      }
+    ]
+  },
+  {
+    "name": "1.7.1",
+    "date": "2022-09-30T21:52:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.7.1.tar.gz",
+        "count": 348750,
+        "size": 609542
+      }
+    ]
+  },
+  {
+    "name": "1.7.0",
+    "date": "2022-09-28T21:32:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.7.0.tar.gz",
+        "count": 379,
+        "size": 609484
+      }
+    ]
+  },
+  {
+    "name": "1.6.0",
+    "date": "2021-04-29T17:12:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.6.0.tar.gz",
+        "count": 338907,
+        "size": 605099
+      }
+    ]
+  },
+  {
+    "name": "1.5.2",
+    "date": "2021-02-18T17:05:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.5.2.tar.gz",
+        "count": 21056,
+        "size": 604683
+      }
+    ]
+  },
+  {
+    "name": "1.5.1",
+    "date": "2021-02-18T15:23:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.5.1.tar.gz",
+        "count": 351,
+        "size": 604454
+      }
+    ]
+  },
+  {
+    "name": "1.5.0",
+    "date": "2021-01-05T22:57:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.5.0.tar.gz",
+        "count": 75603,
+        "size": 603923
+      }
+    ]
+  },
+  {
+    "name": "1.4.3",
+    "date": "2020-08-06T16:28:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.4.3.tar.gz",
+        "count": 47225,
+        "size": 602272
+      }
+    ]
+  },
+  {
+    "name": "1.4.2",
+    "date": "2019-11-02T16:00:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.4.2.tar.gz",
+        "count": 2038746,
+        "size": 600664
+      }
+    ]
+  },
+  {
+    "name": "1.4.1",
+    "date": "2019-11-01T22:42:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.4.1.tar.gz",
+        "count": 137,
+        "size": 600406
+      }
+    ]
+  },
+  {
+    "name": "1.4.0",
+    "date": "2019-11-01T21:37:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.4.0.tar.gz",
+        "count": 74,
+        "size": 599699
+      }
+    ]
+  },
+  {
+    "name": "1.3.2",
+    "date": "2018-01-17T21:39:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.3.2.tar.gz",
+        "count": 716735,
+        "size": 619009
+      }
+    ]
+  },
+  {
+    "name": "1.3.1",
+    "date": "2017-11-24T19:17:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.3.1.tar.gz",
+        "count": 3027,
+        "size": 610031
+      }
+    ]
+  },
+  {
+    "name": "1.3.0",
+    "date": "2017-11-10T20:55:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.3.0.tar.gz",
+        "count": 1101,
+        "size": 608946
+      }
+    ]
+  },
+  {
+    "name": "1.2.1",
+    "date": "2017-05-15T16:37:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.2.1.tar.gz",
+        "count": 347840,
+        "size": 614448
+      }
+    ]
+  },
+  {
+    "name": "1.2.0",
+    "date": "2016-03-23T17:02:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.2.0.tar.gz",
+        "count": 89151,
+        "size": 658820
+      }
+    ]
+  },
+  {
+    "name": "1.1.5",
+    "date": "2016-03-20T22:59:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.1.5.tar.gz",
+        "count": 334,
+        "size": 672677
+      }
+    ]
+  },
+  {
+    "name": "1.1.4",
+    "date": "2016-01-06T15:44:49Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.1.4.tar.gz",
+        "count": 7256,
+        "size": 657648
+      }
+    ]
+  },
+  {
+    "name": "1.1.3",
+    "date": "2016-01-05T21:40:05Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.2",
+    "date": "2015-11-16T17:41:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.1.2.tar.gz",
+        "count": 1830,
+        "size": 646557
+      }
+    ]
+  },
+  {
+    "name": "1.1.1",
+    "date": "2015-07-22T00:43:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.1.1.tar.gz",
+        "count": 22542,
+        "size": 649467
+      }
+    ]
+  },
+  {
+    "name": "1.1.0",
+    "date": "2015-07-21T22:08:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.1.0.tar.gz",
+        "count": 87,
+        "size": 1657274
+      }
+    ]
+  },
+  {
+    "name": "1.0.4",
+    "date": "2015-01-02T21:27:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.0.4.tar.gz",
+        "count": 5577,
+        "size": 471911
+      }
+    ]
+  },
+  {
+    "name": "1.0.3",
+    "date": "2014-12-02T18:54:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.0.3.tar.gz",
+        "count": 1720,
+        "size": 494377
+      }
+    ]
+  },
+  {
+    "name": "1.0.2",
+    "date": "2014-09-22T19:35:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.0.2.tar.gz",
+        "count": 10970,
+        "size": 1222883
+      }
+    ]
+  },
+  {
+    "name": "1.0.1",
+    "date": "2014-09-03T14:01:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.0.1.tar.gz",
+        "count": 1248,
+        "size": 456256
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2014-09-02T17:06:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libmaxminddb-1.0.0.tar.gz",
+        "count": 83479,
+        "size": 452513
+      }
+    ]
+  }
+]

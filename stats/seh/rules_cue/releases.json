@@ -1,12 +1,48 @@
 [
   {
+    "name": "v0.7.0",
+    "date": "2024-06-03T14:45:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "vcs-archive-v0.7.0.tar.gz",
+        "count": 698,
+        "size": 146092
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2024-03-15T13:28:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "vcs-archive-v0.6.0.tar.gz",
+        "count": 4,
+        "size": 144743
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2023-12-17T18:40:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "vcs-archive-v0.5.0.tar.gz",
+        "count": 1400,
+        "size": 145588
+      }
+    ]
+  },
+  {
     "name": "v0.4.2",
     "date": "2023-08-11T15:16:17Z",
     "mentions": null,
     "downloads": [
       {
         "name": "vcs-archive-v0.4.2.tar.gz",
-        "count": 21,
+        "count": 1832,
         "size": 133291
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "vcs-archive-v0.4.1.tar.gz",
-        "count": 16,
+        "count": 424,
         "size": 134270
       }
     ]
@@ -30,7 +66,7 @@
     "downloads": [
       {
         "name": "vcs-archive-v0.4.0.tar.gz",
-        "count": 128,
+        "count": 927,
         "size": 133786
       }
     ]

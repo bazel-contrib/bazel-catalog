@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/apple/swift-argument-parser/releases{/id}",
   "deployments_url": "https://api.github.com/repos/apple/swift-argument-parser/deployments",
   "created_at": "2020-02-20T16:07:00Z",
-  "updated_at": "2023-09-19T19:54:09Z",
-  "pushed_at": "2023-09-16T05:11:43Z",
+  "updated_at": "2024-08-04T02:25:01Z",
+  "pushed_at": "2024-07-29T20:55:30Z",
   "git_url": "git://github.com/apple/swift-argument-parser.git",
   "ssh_url": "git@github.com:apple/swift-argument-parser.git",
   "clone_url": "https://github.com/apple/swift-argument-parser.git",
   "svn_url": "https://github.com/apple/swift-argument-parser",
   "homepage": "",
-  "size": 3055,
-  "stargazers_count": 3047,
-  "watchers_count": 3047,
+  "size": 2899,
+  "stargazers_count": 3279,
+  "watchers_count": 3279,
   "language": "Swift",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 290,
+  "forks_count": 312,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 85,
+  "open_issues_count": 87,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["cli", "command-line", "flag", "option"],
   "visibility": "public",
-  "forks": 290,
-  "open_issues": 85,
-  "watchers": 3047,
+  "forks": 312,
+  "open_issues": 87,
+  "watchers": 3279,
   "default_branch": "main",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "apple",
     "id": 10639145,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 290,
-  "subscribers_count": 152
+  "network_count": 312,
+  "subscribers_count": 149
 }

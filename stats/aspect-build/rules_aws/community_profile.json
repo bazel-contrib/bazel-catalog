@@ -1,0 +1,40 @@
+{
+  "health_percentage": 75,
+  "description": "EXPERIMENTAL: Bazel Integration for Amazon Web Services",
+  "documentation": "https://github.com/aspect-build/rules_aws/tree/master/docs",
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/aspect-build/rules_aws/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/aspect-build/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/aspect-build/rules_aws/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/aspect-build/rules_aws/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/aspect-build/.github/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/aspect-build/.github/blob/main/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/aspect-build/rules_aws/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/aspect-build/rules_aws/contents/README.md",
+      "html_url": "https://github.com/aspect-build/rules_aws/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": false
+}

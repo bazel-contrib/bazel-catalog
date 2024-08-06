@@ -1,0 +1,62 @@
+[
+  {
+    "name": "v0.2.3",
+    "date": "2024-03-14T17:50:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_mjml-v0.2.3.tar.gz",
+        "count": 205,
+        "size": 73149
+      }
+    ]
+  },
+  {
+    "name": "v0.2.2",
+    "date": "2024-03-12T17:51:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_mjml-v0.2.2.tar.gz",
+        "count": 210,
+        "size": 73122
+      }
+    ]
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2024-03-12T17:31:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_mjml-v0.2.1.tar.gz",
+        "count": 205,
+        "size": 73125
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2024-03-12T13:06:51Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_mjml-v0.2.0.tar.gz",
+        "count": 207,
+        "size": 73088
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2024-03-11T22:37:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_mjml-v0.1.0.tar.gz",
+        "count": 220,
+        "size": 71894
+      }
+    ]
+  }
+]

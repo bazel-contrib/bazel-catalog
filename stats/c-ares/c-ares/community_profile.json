@@ -12,11 +12,11 @@
     "issue_template": null,
     "pull_request_template": null,
     "license": {
-      "key": "other",
-      "name": "Other",
-      "spdx_id": "NOASSERTION",
-      "url": null,
-      "node_id": "MDc6TGljZW5zZTA=",
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
       "html_url": "https://github.com/c-ares/c-ares/blob/main/LICENSE.md"
     },
     "readme": {

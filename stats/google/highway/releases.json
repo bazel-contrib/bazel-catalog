@@ -1,0 +1,175 @@
+[
+  {
+    "name": "1.2.0",
+    "date": "2024-05-31T17:04:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "highway-1.2.0.tar.gz",
+        "count": 430,
+        "size": 2233645
+      },
+      {
+        "name": "highway-1.2.0.tar.gz.asc",
+        "count": 61,
+        "size": 659
+      }
+    ]
+  },
+  {
+    "name": "1.1.0",
+    "date": "2024-02-18T01:33:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "highway-1.1.0.tar.gz.asc",
+        "count": 92,
+        "size": 659
+      }
+    ]
+  },
+  {
+    "name": "1.0.7",
+    "date": "2023-08-30T07:06:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "highway-1.0.7.tar.gz.asc",
+        "count": 76,
+        "size": 659
+      }
+    ]
+  },
+  {
+    "name": "1.0.6",
+    "date": "2023-08-11T15:01:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "highway-1.0.6.tar.gz.asc",
+        "count": 37,
+        "size": 659
+      }
+    ]
+  },
+  {
+    "name": "1.0.5",
+    "date": "2023-07-19T16:10:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "highway-1.0.5.tar.gz.asc",
+        "count": 28,
+        "size": 659
+      }
+    ]
+  },
+  {
+    "name": "1.0.4",
+    "date": "2023-03-17T15:33:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "highway-1.0.4.tar.gz.asc",
+        "count": 44,
+        "size": 659
+      }
+    ]
+  },
+  {
+    "name": "1.0.3",
+    "date": "2023-01-19T15:20:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.2",
+    "date": "2022-10-28T11:05:42Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.1",
+    "date": "2022-08-24T16:43:43Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.0",
+    "date": "2022-07-27T14:56:47Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.17.0",
+    "date": "2022-06-02T17:45:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.16.0",
+    "date": "2022-02-18T10:04:16Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.15.0",
+    "date": "2021-11-11T12:43:48Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.14.2",
+    "date": "2021-08-24T13:26:52Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.14.1",
+    "date": "2021-08-17T13:45:53Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.14.0",
+    "date": "2021-07-29T13:16:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.12.2",
+    "date": "2021-05-31T15:11:45Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.12.1",
+    "date": "2021-05-21T10:44:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.12.0",
+    "date": "2021-04-15T17:55:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.11.1",
+    "date": "2021-03-03T17:59:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.11.0",
+    "date": "2021-02-19T14:08:08Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2021-01-06T19:49:47Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

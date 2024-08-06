@@ -1,0 +1,341 @@
+[
+  {
+    "name": "5.0.0",
+    "date": "2024-07-31T14:57:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-5.0.0.tar.gz",
+        "count": 326,
+        "size": 13987
+      },
+      {
+        "name": "rules_proto_grpc_buf-5.0.0.tar.gz",
+        "count": 21,
+        "size": 3926
+      },
+      {
+        "name": "rules_proto_grpc_c-5.0.0.tar.gz",
+        "count": 17,
+        "size": 1261
+      },
+      {
+        "name": "rules_proto_grpc_cpp-5.0.0.tar.gz",
+        "count": 48,
+        "size": 1660
+      },
+      {
+        "name": "rules_proto_grpc_doc-5.0.0.tar.gz",
+        "count": 162,
+        "size": 2348
+      },
+      {
+        "name": "rules_proto_grpc_go-5.0.0.tar.gz",
+        "count": 191,
+        "size": 2183
+      },
+      {
+        "name": "rules_proto_grpc_grpc_gateway-5.0.0.tar.gz",
+        "count": 39,
+        "size": 3966
+      },
+      {
+        "name": "rules_proto_grpc_java-5.0.0.tar.gz",
+        "count": 20,
+        "size": 2217
+      },
+      {
+        "name": "rules_proto_grpc_objc-5.0.0.tar.gz",
+        "count": 17,
+        "size": 1614
+      },
+      {
+        "name": "rules_proto_grpc_python-5.0.0.tar.gz",
+        "count": 140,
+        "size": 9234
+      }
+    ]
+  },
+  {
+    "name": "5.0.0-alpha3",
+    "date": "2024-01-17T13:49:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-5.0.0-alpha3.tar.gz",
+        "count": 163099,
+        "size": 14278
+      },
+      {
+        "name": "rules_proto_grpc_buf-5.0.0-alpha3.tar.gz",
+        "count": 5,
+        "size": 3915
+      },
+      {
+        "name": "rules_proto_grpc_c-5.0.0-alpha3.tar.gz",
+        "count": 3,
+        "size": 1282
+      },
+      {
+        "name": "rules_proto_grpc_cpp-5.0.0-alpha3.tar.gz",
+        "count": 15,
+        "size": 1679
+      },
+      {
+        "name": "rules_proto_grpc_doc-5.0.0-alpha3.tar.gz",
+        "count": 9,
+        "size": 2361
+      },
+      {
+        "name": "rules_proto_grpc_go-5.0.0-alpha3.tar.gz",
+        "count": 3,
+        "size": 2187
+      },
+      {
+        "name": "rules_proto_grpc_grpc_gateway-5.0.0-alpha3.tar.gz",
+        "count": 3,
+        "size": 3758
+      },
+      {
+        "name": "rules_proto_grpc_objc-5.0.0-alpha3.tar.gz",
+        "count": 3,
+        "size": 1635
+      },
+      {
+        "name": "rules_proto_grpc_python-5.0.0-alpha3.tar.gz",
+        "count": 163019,
+        "size": 8340
+      }
+    ]
+  },
+  {
+    "name": "5.0.0-alpha2",
+    "date": "2023-12-20T11:58:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-5.0.0-alpha2.tar.gz",
+        "count": 114544,
+        "size": 14248
+      },
+      {
+        "name": "rules_proto_grpc_buf-5.0.0-alpha2.tar.gz",
+        "count": 708,
+        "size": 3705
+      },
+      {
+        "name": "rules_proto_grpc_c-5.0.0-alpha2.tar.gz",
+        "count": 333,
+        "size": 1271
+      },
+      {
+        "name": "rules_proto_grpc_cpp-5.0.0-alpha2.tar.gz",
+        "count": 19705,
+        "size": 1668
+      },
+      {
+        "name": "rules_proto_grpc_doc-5.0.0-alpha2.tar.gz",
+        "count": 1641,
+        "size": 2345
+      },
+      {
+        "name": "rules_proto_grpc_go-5.0.0-alpha2.tar.gz",
+        "count": 5751,
+        "size": 2180
+      },
+      {
+        "name": "rules_proto_grpc_grpc_gateway-5.0.0-alpha2.tar.gz",
+        "count": 896,
+        "size": 3748
+      },
+      {
+        "name": "rules_proto_grpc_objc-5.0.0-alpha2.tar.gz",
+        "count": 336,
+        "size": 1610
+      },
+      {
+        "name": "rules_proto_grpc_python-5.0.0-alpha2.tar.gz",
+        "count": 44954,
+        "size": 8318
+      }
+    ]
+  },
+  {
+    "name": "5.0.0-alpha1",
+    "date": "2023-12-14T19:47:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-5.0.0-alpha1.tar.gz",
+        "count": 25,
+        "size": 14194
+      },
+      {
+        "name": "rules_proto_grpc_buf-5.0.0-alpha1.tar.gz",
+        "count": 13,
+        "size": 3637
+      },
+      {
+        "name": "rules_proto_grpc_c-5.0.0-alpha1.tar.gz",
+        "count": 16,
+        "size": 1272
+      },
+      {
+        "name": "rules_proto_grpc_cpp-5.0.0-alpha1.tar.gz",
+        "count": 13,
+        "size": 1667
+      },
+      {
+        "name": "rules_proto_grpc_doc-5.0.0-alpha1.tar.gz",
+        "count": 16,
+        "size": 2344
+      },
+      {
+        "name": "rules_proto_grpc_go-5.0.0-alpha1.tar.gz",
+        "count": 17,
+        "size": 2179
+      },
+      {
+        "name": "rules_proto_grpc_grpc_gateway-5.0.0-alpha1.tar.gz",
+        "count": 13,
+        "size": 3749
+      },
+      {
+        "name": "rules_proto_grpc_objc-5.0.0-alpha1.tar.gz",
+        "count": 16,
+        "size": 1610
+      },
+      {
+        "name": "rules_proto_grpc_python-5.0.0-alpha1.tar.gz",
+        "count": 11,
+        "size": 8296
+      }
+    ]
+  },
+  {
+    "name": "4.6.0",
+    "date": "2023-12-14T17:24:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-4.6.0.tar.gz",
+        "count": 790331,
+        "size": 334001
+      }
+    ]
+  },
+  {
+    "name": "4.5.0",
+    "date": "2023-09-12T12:01:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-4.5.0.tar.gz",
+        "count": 697101,
+        "size": 333836
+      }
+    ]
+  },
+  {
+    "name": "4.4.0",
+    "date": "2023-05-03T14:38:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_proto_grpc-4.4.0.tar.gz",
+        "count": 839105,
+        "size": 315304
+      }
+    ]
+  },
+  {
+    "name": "4.3.0",
+    "date": "2022-12-04T23:01:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "4.2.0",
+    "date": "2022-08-24T16:54:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "4.1.1",
+    "date": "2021-12-30T22:37:36Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "4.1.0",
+    "date": "2021-12-12T20:41:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "4.0.1",
+    "date": "2021-10-04T14:02:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "4.0.0",
+    "date": "2021-09-21T23:32:43Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "3.1.1",
+    "date": "2021-04-05T23:52:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "3.1.0",
+    "date": "2021-03-03T00:15:20Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "3.0.0",
+    "date": "2021-02-21T23:26:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.0.0",
+    "date": "2020-10-11T23:14:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.2",
+    "date": "2020-01-21T21:04:44Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.1",
+    "date": "2019-12-18T18:18:29Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.0.0",
+    "date": "2019-12-10T22:38:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.2.0",
+    "date": "2019-07-25T15:51:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.0",
+    "date": "2019-07-24T22:20:19Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

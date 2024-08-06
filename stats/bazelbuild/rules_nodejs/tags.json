@@ -1,5 +1,41 @@
 [
   {
+    "name": "v6.2.0",
+    "sha": "111e65bae042391dce0422af83b0c8c384655f0b"
+  },
+  {
+    "name": "v6.1.3",
+    "sha": "c17217b172912a6e71fd9ead83b05b528694211e"
+  },
+  {
+    "name": "v6.1.2",
+    "sha": "153cd204f25d5961097c920bf17170fa57a1c708"
+  },
+  {
+    "name": "v6.1.1",
+    "sha": "c4515ce8ef2037f1ddbcef93de75d0ae5052832a"
+  },
+  {
+    "name": "v6.1.0",
+    "sha": "113efd11503a0c622887e945c237089c54938b77"
+  },
+  {
+    "name": "v6.0.5",
+    "sha": "5af115dac3c59cb69f63a25f745eeceac11b21a2"
+  },
+  {
+    "name": "v6.0.4",
+    "sha": "5af115dac3c59cb69f63a25f745eeceac11b21a2"
+  },
+  {
+    "name": "v6.0.3",
+    "sha": "ccac2348e9d6e0458f47b12afb0aca99c69349be"
+  },
+  {
+    "name": "v6.0.2",
+    "sha": "8d8180e214dacd3a4137ec1187df0ea62f0fb32f"
+  },
+  {
     "name": "v6.0.1",
     "sha": "78e0bf92f40e94eb49b2cade860d2ff2bc2d5094"
   },
@@ -82,41 +118,5 @@
   {
     "name": "rules_typescript/0.20.0",
     "sha": "ed3fba1b56f527973497a6b237e133e91a2d232f"
-  },
-  {
-    "name": "rules_typescript/0.19.1",
-    "sha": "613b4ca8df9bf9407456fa91296674f4ab3625e0"
-  },
-  {
-    "name": "rules_typescript/0.19.0",
-    "sha": "9a17dc0c4956aa7aa9740dd9c61b2bdfcfd4e9f9"
-  },
-  {
-    "name": "rules_typescript/0.18.0",
-    "sha": "60785e4133ef5067c68ff945feb2f10d1289cb33"
-  },
-  {
-    "name": "rules_typescript/0.17.0",
-    "sha": "78f779a46a3393f2d91778124028d3932149802d"
-  },
-  {
-    "name": "rules_typescript/0.16.2",
-    "sha": "78a0d35e7f486e74db5545b259686b2c2e08b18b"
-  },
-  {
-    "name": "rules_typescript/0.16.1",
-    "sha": "4f2e93d0e8b32a1163e5345f84a57885b4d3ec67"
-  },
-  {
-    "name": "rules_typescript/0.16.0",
-    "sha": "80201ab179d9afa8bc614d21023e3f8ccea67077"
-  },
-  {
-    "name": "rules_typescript/0.15.3",
-    "sha": "9c83406c6e976d831a060c2d1e0a5be25b09e52d"
-  },
-  {
-    "name": "rules_typescript/0.15.2",
-    "sha": "754f8a2bd882c779d8cddebd32c138b9c475e576"
   }
 ]

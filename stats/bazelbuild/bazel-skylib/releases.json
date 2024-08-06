@@ -1,17 +1,102 @@
 [
   {
+    "name": "1.7.1",
+    "date": "2024-06-03T13:36:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-skylib-1.7.1.tar.gz",
+        "count": 448758,
+        "size": 43566
+      },
+      {
+        "name": "bazel-skylib-gazelle-plugin-1.7.1.tar.gz",
+        "count": 8629,
+        "size": 11042
+      }
+    ]
+  },
+  {
+    "name": "1.7.0",
+    "date": "2024-05-31T08:47:27Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-skylib-1.7.0.tar.gz",
+        "count": 47566,
+        "size": 38918
+      },
+      {
+        "name": "bazel-skylib-gazelle-plugin-1.7.0.tar.gz",
+        "count": 166,
+        "size": 11041
+      }
+    ]
+  },
+  {
+    "name": "1.6.1",
+    "date": "2024-04-25T15:42:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-skylib-1.6.1.tar.gz",
+        "count": 1110271,
+        "size": 38112
+      },
+      {
+        "name": "bazel-skylib-gazelle-plugin-1.6.1.tar.gz",
+        "count": 5597,
+        "size": 10871
+      }
+    ]
+  },
+  {
+    "name": "1.6.0",
+    "date": "2024-04-24T22:03:29Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "bazel-skylib-1.6.0.tar.gz",
+        "count": 6066,
+        "size": 38095
+      },
+      {
+        "name": "bazel-skylib-gazelle-plugin-1.6.0.tar.gz",
+        "count": 2735,
+        "size": 10871
+      }
+    ]
+  },
+  {
+    "name": "1.5.0",
+    "date": "2023-11-06T16:56:24Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "bazel-skylib-1.5.0.tar.gz",
+        "count": 2772373,
+        "size": 36876
+      },
+      {
+        "name": "bazel-skylib-gazelle-plugin-1.5.0.tar.gz",
+        "count": 32333,
+        "size": 10870
+      }
+    ]
+  },
+  {
     "name": "1.4.2",
     "date": "2023-05-31T19:32:45Z",
     "mentions": null,
     "downloads": [
       {
         "name": "bazel-skylib-1.4.2.tar.gz",
-        "count": 186562,
+        "count": 2288539,
         "size": 36248
       },
       {
         "name": "bazel-skylib-gazelle-plugin-1.4.2.tar.gz",
-        "count": 10902,
+        "count": 75074,
         "size": 10866
       }
     ]
@@ -23,12 +108,12 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.4.1.tar.gz",
-        "count": 540702,
+        "count": 1528900,
         "size": 36047
       },
       {
         "name": "bazel-skylib-gazelle-plugin-1.4.1.tar.gz",
-        "count": 49750,
+        "count": 400238,
         "size": 10869
       }
     ]
@@ -40,12 +125,12 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.4.0.tar.gz",
-        "count": 65894,
+        "count": 126940,
         "size": 36047
       },
       {
         "name": "bazel-skylib-gazelle-plugin-1.4.0.tar.gz",
-        "count": 214,
+        "count": 671,
         "size": 10842
       }
     ]
@@ -57,7 +142,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.3.0.tar.gz",
-        "count": 897797,
+        "count": 3327558,
         "size": 36103
       }
     ]
@@ -69,7 +154,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.2.1.tar.gz",
-        "count": 1125530,
+        "count": 1731364,
         "size": 32000
       }
     ]
@@ -81,7 +166,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.2.0.tar.gz",
-        "count": 582283,
+        "count": 738047,
         "size": 32003
       }
     ]
@@ -93,7 +178,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.1.1.tar.gz",
-        "count": 2285638,
+        "count": 3382432,
         "size": 31155
       }
     ]
@@ -105,7 +190,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.0.3.tar.gz",
-        "count": 3281146,
+        "count": 4595390,
         "size": 30711
       }
     ]
@@ -117,7 +202,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.0.2.tar.gz",
-        "count": 2183743,
+        "count": 2905040,
         "size": 30704
       }
     ]
@@ -129,7 +214,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.0.1.tar.gz",
-        "count": 72370,
+        "count": 76525,
         "size": 30678
       }
     ]
@@ -141,7 +226,7 @@
     "downloads": [
       {
         "name": "bazel-skylib-1.0.0.tar.gz",
-        "count": 9313,
+        "count": 9341,
         "size": 27331
       }
     ]
@@ -153,7 +238,7 @@
     "downloads": [
       {
         "name": "bazel_skylib-0.9.0.tar.gz",
-        "count": 2008047,
+        "count": 2109575,
         "size": 84644
       }
     ]
@@ -165,7 +250,7 @@
     "downloads": [
       {
         "name": "bazel-skylib.0.8.0.tar.gz",
-        "count": 4674792,
+        "count": 4762715,
         "size": 72941
       }
     ]

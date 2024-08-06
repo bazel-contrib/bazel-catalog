@@ -1,7 +1,7 @@
 {
   "health_percentage": 87,
   "description": "Bazel Python Rules",
-  "documentation": "https://github.com/bazelbuild/rules_python/tree/master/docs",
+  "documentation": "https://rules-python.readthedocs.io",
   "files": {
     "code_of_conduct": {
       "key": "contributor_covenant",
@@ -35,6 +35,6 @@
       "html_url": "https://github.com/bazelbuild/rules_python/blob/main/README.md"
     }
   },
-  "updated_at": "2023-08-08T15:50:13Z",
+  "updated_at": "2024-08-01T23:00:23Z",
   "content_reports_enabled": false
 }

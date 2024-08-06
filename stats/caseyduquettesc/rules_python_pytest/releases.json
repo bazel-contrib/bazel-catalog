@@ -1,0 +1,122 @@
+[
+  {
+    "name": "v1.1.1",
+    "date": "2024-07-13T00:24:33Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.1.1.tar.gz",
+        "count": 84694,
+        "size": 51252
+      }
+    ]
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2023-11-09T23:04:24Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.1.0.tar.gz",
+        "count": 264233,
+        "size": 51231
+      }
+    ]
+  },
+  {
+    "name": "v1.0.9",
+    "date": "2023-08-17T19:23:20Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.0.9.tar.gz",
+        "count": 1052101,
+        "size": 50730
+      }
+    ]
+  },
+  {
+    "name": "v1.0.8",
+    "date": "2023-08-07T18:14:52Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.0.8.tar.gz",
+        "count": 145,
+        "size": 43696
+      }
+    ]
+  },
+  {
+    "name": "v1.0.7",
+    "date": "2023-07-31T00:54:33Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.0.7.tar.gz",
+        "count": 6684,
+        "size": 43415
+      }
+    ]
+  },
+  {
+    "name": "v1.0.6",
+    "date": "2023-07-28T07:22:59Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.0.6.tar.gz",
+        "count": 152,
+        "size": 43332
+      }
+    ]
+  },
+  {
+    "name": "v1.0.5",
+    "date": "2023-07-28T06:12:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.0.5.tar.gz",
+        "count": 8,
+        "size": 29400
+      }
+    ]
+  },
+  {
+    "name": "v1.0.4",
+    "date": "2023-07-28T05:15:26Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_python_pytest-v1.0.4.tar.gz",
+        "count": 6,
+        "size": 29414
+      }
+    ]
+  },
+  {
+    "name": "v1.0.3",
+    "date": "2023-06-16T22:56:08Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.2",
+    "date": "2023-01-10T02:23:14Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2022-01-18T07:28:18Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2022-01-18T07:02:34Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

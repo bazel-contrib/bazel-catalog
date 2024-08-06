@@ -1,0 +1,46 @@
+[
+  {
+    "name": "v1.2.5",
+    "sha": "58c5c8ef24111072fc21fb723f8ab45d23395809"
+  },
+  {
+    "name": "v1.2.4",
+    "sha": "c7cbdcbc4d56560f73efc387d1f8cef07912f893"
+  },
+  {
+    "name": "v1.2.3",
+    "sha": "38062c72ebd42cf9ecdb4e5c0bf319f775d1e1f8"
+  },
+  {
+    "name": "v1.2.2",
+    "sha": "ec3ddcfe41b0544a4551a57439b6b3682fe31479"
+  },
+  {
+    "name": "tclap-1-2-1",
+    "sha": "febbb86d9d3f7f43957dce2a230d3afc7e1cfbda"
+  },
+  {
+    "name": "tclap-1-2-1-release-final",
+    "sha": "3627d9402e529770df9b0edf2aa8c0e0d6c6bb41"
+  },
+  {
+    "name": "tclap-1-2-1-release",
+    "sha": "122b50e26dcea38bcb7814a0846a528d8b23732a"
+  },
+  {
+    "name": "start",
+    "sha": "13ad6238bfe3df96b8e78b08b64a4ace49dc8682"
+  },
+  {
+    "name": "rel-1-1-0",
+    "sha": "8bd9b8c0f22e05d2151d7880196ca6d266b3777a"
+  },
+  {
+    "name": "rel-1-0-5",
+    "sha": "c61cb1b21dfc2522c86c289794d1f6cf4ac7e0f5"
+  },
+  {
+    "name": "1.4.0-rc1",
+    "sha": "799a8b1f99818e39fee19d0601030770af1221e1"
+  }
+]

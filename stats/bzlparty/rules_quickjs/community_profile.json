@@ -1,0 +1,26 @@
+{
+  "health_percentage": 50,
+  "description": "Bazel Rules for QuickJS",
+  "documentation": "https://github.com/bzlparty/rules_quickjs/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "lgpl-3.0",
+      "name": "GNU Lesser General Public License v3.0",
+      "spdx_id": "LGPL-3.0",
+      "url": "https://api.github.com/licenses/lgpl-3.0",
+      "node_id": "MDc6TGljZW5zZTEy",
+      "html_url": "https://github.com/bzlparty/rules_quickjs/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bzlparty/rules_quickjs/contents/README.md",
+      "html_url": "https://github.com/bzlparty/rules_quickjs/blob/main/README.md"
+    }
+  },
+  "updated_at": null,
+  "content_reports_enabled": true
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "v1.0.3",
+    "date": "2024-07-30T17:37:13Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "toolchains_arm_gnu-v1.0.3.tar.gz",
+        "count": 35,
+        "size": 58931
+      }
+    ]
+  },
+  {
+    "name": "v1.0.2",
+    "date": "2024-06-18T15:25:58Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "toolchains_arm_gnu-v1.0.2.tar.gz",
+        "count": 271,
+        "size": 58922
+      }
+    ]
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2024-04-23T04:34:49Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel-arm-none-eabi-v1.0.1.tar.gz",
+        "count": 488,
+        "size": 60670
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2024-04-05T21:55:00Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "bazel-arm-none-eabi-v1.0.0.tar.gz",
+        "count": 192,
+        "size": 51275
+      }
+    ]
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2024-03-30T03:27:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazel-arm-none-eabi-v0.0.1.tar.gz",
+        "count": 225,
+        "size": 36494
+      }
+    ]
+  }
+]

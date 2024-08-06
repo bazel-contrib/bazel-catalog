@@ -1,0 +1,170 @@
+[
+  {
+    "name": "v1.8.2",
+    "date": "2024-06-26T13:46:24Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "osiris-1.8.2.tar.gz",
+        "count": 1272,
+        "size": 170425
+      }
+    ]
+  },
+  {
+    "name": "v1.8.1",
+    "date": "2024-03-21T14:21:25Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.8.1.tar.gz",
+        "count": 10894,
+        "size": 169981
+      }
+    ]
+  },
+  {
+    "name": "v1.8.0",
+    "date": "2024-02-21T12:53:56Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "osiris-1.8.0.tar.gz",
+        "count": 1029,
+        "size": 169272
+      }
+    ]
+  },
+  {
+    "name": "v1.7.2",
+    "date": "2023-12-06T16:24:26Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.7.2.tar.gz",
+        "count": 2284,
+        "size": 168827
+      }
+    ]
+  },
+  {
+    "name": "v1.7.1",
+    "date": "2023-12-04T10:05:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "osiris-1.7.1.tar.gz",
+        "count": 394,
+        "size": 168645
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0",
+    "date": "2023-12-01T21:55:24Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.7.0.tar.gz",
+        "count": 26,
+        "size": 168639
+      }
+    ]
+  },
+  {
+    "name": "v1.7.0-rc.1",
+    "date": "2023-10-26T12:51:40Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.7.0-rc.1.tar.gz",
+        "count": 411,
+        "size": 168175
+      }
+    ]
+  },
+  {
+    "name": "v1.6.9",
+    "date": "2023-10-13T10:59:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.6.9.tar.gz",
+        "count": 2010,
+        "size": 166362
+      }
+    ]
+  },
+  {
+    "name": "v1.6.8",
+    "date": "2023-10-11T10:15:02Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "osiris-1.6.8.tar.gz",
+        "count": 463,
+        "size": 166352
+      }
+    ]
+  },
+  {
+    "name": "v1.6.7",
+    "date": "2023-09-15T10:24:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "osiris-1.6.7.tar.gz",
+        "count": 1151,
+        "size": 164725
+      }
+    ]
+  },
+  {
+    "name": "v1.6.6",
+    "date": "2023-09-13T13:42:57Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.6.6.tar.gz",
+        "count": 417,
+        "size": 164808
+      }
+    ]
+  },
+  {
+    "name": "v1.6.5",
+    "date": "2023-09-06T12:51:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "osiris-1.6.5.tar.gz",
+        "count": 439,
+        "size": 164752
+      }
+    ]
+  },
+  {
+    "name": "v1.6.4",
+    "date": "2023-08-30T10:24:08Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "osiris-1.6.4.tar.gz",
+        "count": 1264,
+        "size": 164119
+      }
+    ]
+  },
+  {
+    "name": "v1.6.3",
+    "date": "2023-08-15T12:31:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "osiris-1.6.3.tar.gz",
+        "count": 1546,
+        "size": 163878
+      }
+    ]
+  }
+]

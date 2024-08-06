@@ -1,12 +1,144 @@
 [
   {
+    "name": "3.7.0",
+    "date": "2024-07-23T15:22:38Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_apple.3.7.0.tar.gz",
+        "count": 6810,
+        "size": 2367770
+      }
+    ]
+  },
+  {
+    "name": "3.6.0",
+    "date": "2024-06-27T14:20:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_apple.3.6.0.tar.gz",
+        "count": 61145,
+        "size": 2371787
+      }
+    ]
+  },
+  {
+    "name": "3.5.1",
+    "date": "2024-04-09T13:41:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_apple.3.5.1.tar.gz",
+        "count": 260320,
+        "size": 2404029
+      }
+    ]
+  },
+  {
+    "name": "3.5.0",
+    "date": "2024-04-05T15:49:34Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apple.3.5.0.tar.gz",
+        "count": 3540,
+        "size": 2404006
+      }
+    ]
+  },
+  {
+    "name": "3.4.0",
+    "date": "2024-03-28T13:22:19Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "rules_apple.3.4.0.tar.gz",
+        "count": 9822,
+        "size": 2367138
+      }
+    ]
+  },
+  {
+    "name": "3.3.0",
+    "date": "2024-02-20T20:39:55Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_apple.3.3.0.tar.gz",
+        "count": 63313,
+        "size": 2371139
+      }
+    ]
+  },
+  {
+    "name": "3.2.1",
+    "date": "2024-01-22T18:54:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_apple.3.2.1.tar.gz",
+        "count": 292227,
+        "size": 2379493
+      }
+    ]
+  },
+  {
+    "name": "3.2.0",
+    "date": "2024-01-21T16:05:54Z",
+    "mentions": 17,
+    "downloads": [
+      {
+        "name": "rules_apple.3.2.0.tar.gz",
+        "count": 390,
+        "size": 2380042
+      }
+    ]
+  },
+  {
+    "name": "3.1.1",
+    "date": "2023-10-19T21:33:26Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_apple.3.1.1.tar.gz",
+        "count": 876186,
+        "size": 2367938
+      }
+    ]
+  },
+  {
+    "name": "3.1.0",
+    "date": "2023-10-19T21:00:07Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "rules_apple.3.1.0.tar.gz",
+        "count": 470,
+        "size": 2367926
+      }
+    ]
+  },
+  {
+    "name": "3.0.0",
+    "date": "2023-09-20T21:41:52Z",
+    "mentions": 10,
+    "downloads": [
+      {
+        "name": "rules_apple.3.0.0.tar.gz",
+        "count": 38222,
+        "size": 2389932
+      }
+    ]
+  },
+  {
     "name": "3.0.0-rc2",
     "date": "2023-09-07T19:51:27Z",
     "mentions": 10,
     "downloads": [
       {
         "name": "rules_apple.3.0.0-rc2.tar.gz",
-        "count": 191,
+        "count": 998,
         "size": 2375044
       }
     ]
@@ -18,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_apple.3.0.0-rc1.tar.gz",
-        "count": 10802,
+        "count": 63086,
         "size": 2344617
       }
     ]
@@ -30,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.5.0.tar.gz",
-        "count": 34414,
+        "count": 74859,
         "size": 2228530
       }
     ]
@@ -42,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.4.1.tar.gz",
-        "count": 30605,
+        "count": 77893,
         "size": 2228675
       }
     ]
@@ -54,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.4.0.tar.gz",
-        "count": 3490,
+        "count": 4004,
         "size": 2240567
       }
     ]
@@ -66,7 +198,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.3.0.tar.gz",
-        "count": 120712,
+        "count": 127497,
         "size": 2222651
       }
     ]
@@ -78,7 +210,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.2.0.tar.gz",
-        "count": 21873,
+        "count": 26846,
         "size": 2243950
       }
     ]
@@ -90,7 +222,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.1.0.tar.gz",
-        "count": 132275,
+        "count": 204582,
         "size": 2194425
       }
     ]
@@ -102,7 +234,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.0.0.tar.gz",
-        "count": 113743,
+        "count": 133500,
         "size": 2182662
       }
     ]
@@ -114,7 +246,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.0.0-rc2.tar.gz",
-        "count": 133017,
+        "count": 176351,
         "size": 2197797
       }
     ]
@@ -126,7 +258,7 @@
     "downloads": [
       {
         "name": "rules_apple.2.0.0-rc1.tar.gz",
-        "count": 111,
+        "count": 517,
         "size": 2247554
       }
     ]
@@ -138,7 +270,7 @@
     "downloads": [
       {
         "name": "rules_apple.1.1.3.tar.gz",
-        "count": 255830,
+        "count": 1166106,
         "size": 2205749
       }
     ]
@@ -150,7 +282,7 @@
     "downloads": [
       {
         "name": "rules_apple.1.1.2.tar.gz",
-        "count": 839002,
+        "count": 983752,
         "size": 2201488
       }
     ]
@@ -162,7 +294,7 @@
     "downloads": [
       {
         "name": "rules_apple.1.1.1.tar.gz",
-        "count": 7032,
+        "count": 7126,
         "size": 2202714
       }
     ]
@@ -174,7 +306,7 @@
     "downloads": [
       {
         "name": "rules_apple.1.1.0.tar.gz",
-        "count": 14381,
+        "count": 14487,
         "size": 2201641
       }
     ]
@@ -186,7 +318,7 @@
     "downloads": [
       {
         "name": "rules_apple.1.0.1.tar.gz",
-        "count": 466637,
+        "count": 512816,
         "size": 2198467
       }
     ]
@@ -198,7 +330,7 @@
     "downloads": [
       {
         "name": "rules_apple.1.0.0.tar.gz",
-        "count": 67,
+        "count": 72,
         "size": 2198440
       }
     ]
@@ -210,7 +342,7 @@
     "downloads": [
       {
         "name": "rules_apple.0.34.2.tar.gz",
-        "count": 127855,
+        "count": 143415,
         "size": 2181227
       }
     ]
@@ -222,140 +354,8 @@
     "downloads": [
       {
         "name": "rules_apple.0.34.0.tar.gz",
-        "count": 358579,
+        "count": 661573,
         "size": 2180881
-      }
-    ]
-  },
-  {
-    "name": "0.33.0",
-    "date": "2022-01-22T02:41:35Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "rules_apple.0.33.0.tar.gz",
-        "count": 150055,
-        "size": 2168079
-      }
-    ]
-  },
-  {
-    "name": "0.32.0",
-    "date": "2021-10-29T20:38:24Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "rules_apple.0.32.0.tar.gz",
-        "count": 310101,
-        "size": 2092453
-      }
-    ]
-  },
-  {
-    "name": "0.31.3",
-    "date": "2021-08-08T18:26:34Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.31.3.tar.gz",
-        "count": 408218,
-        "size": 2065370
-      }
-    ]
-  },
-  {
-    "name": "0.31.2",
-    "date": "2021-05-07T20:37:58Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.31.2.tar.gz",
-        "count": 247845,
-        "size": 2107409
-      }
-    ]
-  },
-  {
-    "name": "0.31.1",
-    "date": "2021-04-08T16:45:03Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.31.1.tar.gz",
-        "count": 2930,
-        "size": 2070934
-      }
-    ]
-  },
-  {
-    "name": "0.31.0",
-    "date": "2021-04-07T01:36:57Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.31.0.tar.gz",
-        "count": 136,
-        "size": 2069660
-      }
-    ]
-  },
-  {
-    "name": "0.30.0",
-    "date": "2021-03-12T21:41:58Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.30.0.tar.gz",
-        "count": 7239,
-        "size": 2069691
-      }
-    ]
-  },
-  {
-    "name": "0.21.2",
-    "date": "2020-12-02T01:43:56Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.21.2.tar.gz",
-        "count": 104902,
-        "size": 2043713
-      }
-    ]
-  },
-  {
-    "name": "0.21.1",
-    "date": "2020-11-10T01:13:43Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.21.1.tar.gz",
-        "count": 6554,
-        "size": 2038875
-      }
-    ]
-  },
-  {
-    "name": "0.21.0",
-    "date": "2020-11-04T21:43:13Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.21.0.tar.gz",
-        "count": 129,
-        "size": 2039767
-      }
-    ]
-  },
-  {
-    "name": "0.20.0",
-    "date": "2020-08-11T23:05:10Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "rules_apple.0.20.0.tar.gz",
-        "count": 32361,
-        "size": 2010842
       }
     ]
   }

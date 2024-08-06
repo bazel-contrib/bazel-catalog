@@ -1,5 +1,21 @@
 [
   {
+    "name": "1.0.1",
+    "sha": "6a44f01087cf504eeee7dffce7cabe042a2f0bac"
+  },
+  {
+    "name": "1.0.0",
+    "sha": "b4ac7e3197bc03d70d0d8d6af02c1d91ad0866e2"
+  },
+  {
+    "name": "0.10.1",
+    "sha": "d7ff3e6e52937fdeefbd41d91c54806488ef1c5f"
+  },
+  {
+    "name": "0.10.0",
+    "sha": "39ab08d68025550f9bd61010c7dd049496191eb2"
+  },
+  {
     "name": "0.9.1",
     "sha": "6c2e32553b740aec1d6fb540fb224487b5ce26a2"
   },

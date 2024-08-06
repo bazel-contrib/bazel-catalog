@@ -2,17 +2,104 @@
   "$schema": "./rulesets.schema.json",
   "rulesets": [
     {
+      "repository": "github:AcademySoftwareFoundation/Imath",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ]
+    },
+    {
+      "repository": "github:AcademySoftwareFoundation/openexr",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ]
+    },
+    {
       "repository": "github:BLAKE3-team/BLAKE3",
       "maintainers": [],
-      "stargazers_count": 4146
+      "stargazers_count": 4972
+    },
+    {
+      "repository": "github:BYVoid/OpenCC",
+      "maintainers": [
+        {
+          "email": "byvoid@byvoid.com",
+          "github": "BYVoid",
+          "name": "Carbo Kuo"
+        }
+      ]
     },
     {
       "repository": "github:BalderOdinson/rules_cuda",
       "stargazers_count": 7
     },
     {
+      "repository": "github:Blosc/c-blosc2",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ]
+    },
+    {
+      "repository": "github:CLIUtils/CLI11",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:Cyan4973/xxHash",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
       "repository": "github:DataDog/rules_oci_bootstrap",
       "stargazers_count": 5
+    },
+    {
+      "repository": "github:DrTimothyAldenDavis/SuiteSparse",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ]
+    },
+    {
+      "repository": "github:ERGO-Code/HiGHS",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:FreeRTOS/FreeRTOS-Kernel",
+      "maintainers": [
+        {
+          "email": "tpudlik@google.com",
+          "github": "tpudlik",
+          "name": "Ted Pudlik"
+        }
+      ]
     },
     {
       "repository": "github:GZGavinZhao/gzgz_rules_sass",
@@ -23,7 +110,7 @@
           "name": "Gavin Zhao"
         }
       ],
-      "stargazers_count": 0
+      "stargazers_count": 1
     },
     {
       "repository": "github:GoogleContainerTools/container-structure-test",
@@ -39,7 +126,41 @@
           "name": "Şahin Yort"
         }
       ],
-      "stargazers_count": 2105
+      "stargazers_count": 2302
+    },
+    {
+      "repository": "github:GoogleContainerTools/rules_distroless",
+      "maintainers": [
+        {
+          "email": "appu@google.com",
+          "github": "loosebazooka",
+          "name": "Appu Goundan"
+        },
+        {
+          "email": "sahin@aspect.dev",
+          "github": "thesayyn",
+          "name": "Şahin Yort"
+        }
+      ]
+    },
+    {
+      "repository": "github:HdrHistogram/HdrHistogram_c",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:JasonSteving99/claro-lang",
+      "maintainers": [
+        {
+          "email": "jasonmail99+bcr@gmail.com",
+          "github": "JasonSteving99",
+          "name": "Jason Steving"
+        }
+      ]
     },
     {
       "repository": "github:LMDB/lmdb",
@@ -50,7 +171,54 @@
           "name": "Gavin Zhao"
         }
       ],
-      "stargazers_count": 2294
+      "stargazers_count": 2518
+    },
+    {
+      "repository": "github:Maratyszcza/FP16",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:Maratyszcza/FXdiv",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:Maratyszcza/pthreadpool",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:Mbed-TLS/mbedtls",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
+    },
+    {
+      "repository": "github:Megakuul/SimpleHTTP",
+      "maintainers": [
+        {
+          "email": "linus.moser@megakuul.ch",
+          "github": "Megakuul",
+          "name": "Linus Moser"
+        }
+      ]
     },
     {
       "repository": "github:MobileNativeFoundation/rules_xcodeproj",
@@ -66,31 +234,165 @@
           "name": "Patrick Balestra"
         }
       ],
-      "stargazers_count": 381
+      "stargazers_count": 511
+    },
+    {
+      "repository": "github:MobileNativeFoundation/swift-index-store",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
+    },
+    {
+      "repository": "github:NVlabs/flip",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ]
+    },
+    {
+      "repository": "github:Neargye/magic_enum",
+      "maintainers": [
+        {
+          "email": "ezekiel@seaube.com",
+          "github": "zaucy",
+          "name": "Ezekiel Warren"
+        }
+      ]
+    },
+    {
+      "repository": "github:NixOS/patchelf",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "name": "Keith Smiley"
+        }
+      ]
+    },
+    {
+      "repository": "github:PCRE2Project/pcre2",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:RobertoRojas/TextForge",
+      "maintainers": [
+        {
+          "github": "RobertoRojas",
+          "name": "Roberto Rojas"
+        }
+      ]
     },
     {
       "repository": "github:Tencent/rapidjson",
       "maintainers": [],
-      "stargazers_count": 13373
+      "stargazers_count": 14074
+    },
+    {
+      "repository": "github:TendTo/rules_doxygen",
+      "maintainers": [
+        {
+          "name": "Ernesto Casablanca",
+          "email": "casablancaernesto@gmail.com",
+          "github": "TendTo"
+        }
+      ]
     },
     {
       "repository": "github:Tessil/robin-map",
       "maintainers": [],
-      "stargazers_count": 1049
+      "stargazers_count": 1230
+    },
+    {
+      "repository": "github:Zetten/bazel-sonarqube",
+      "maintainers": [
+        {
+          "email": "peter.vanzetten@gmail.com",
+          "github": "zetten",
+          "name": "Peter van Zetten"
+        },
+        {
+          "email": "cebic.ad@gmail.com",
+          "github": "adincebic",
+          "name": "Adin Ćebić"
+        }
+      ]
+    },
+    {
+      "repository": "github:abrisco/rules_helm",
+      "maintainers": [
+        {
+          "name": "Andre Brisco",
+          "email": "91817010+abrisco@users.noreply.github.com",
+          "github": "abrisco"
+        }
+      ]
     },
     {
       "repository": "github:abseil/abseil-cpp",
       "maintainers": [],
-      "stargazers_count": 12740
+      "stargazers_count": 14568
     },
     {
       "repository": "github:abseil/abseil-py",
       "maintainers": [],
-      "stargazers_count": 2136
+      "stargazers_count": 2258
     },
     {
       "repository": "github:acqio/rules_microsoft_azure",
-      "stargazers_count": 5
+      "stargazers_count": 6
+    },
+    {
+      "repository": "github:aherrmann/rules_zig",
+      "maintainers": [
+        {
+          "email": "andreash87@gmx.ch",
+          "github": "aherrmann",
+          "name": "Andreas Herrmann"
+        }
+      ]
+    },
+    {
+      "repository": "github:aignas/rules_shellcheck",
+      "maintainers": [
+        {
+          "email": "240938+aignas@users.noreply.github.com",
+          "github": "aignas",
+          "name": "Ignas Anikevicius"
+        }
+      ]
+    },
+    {
+      "repository": "github:anrieff/libcpuid",
+      "maintainers": []
+    },
+    {
+      "repository": "github:antlr/antlr4",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
+    },
+    {
+      "repository": "github:apache/skywalking-data-collect-protocol",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ]
     },
     {
       "repository": "github:apple/apple_rules_lint",
@@ -101,7 +403,16 @@
           "name": "Simon Stewart"
         }
       ],
-      "stargazers_count": 131
+      "stargazers_count": 139
+    },
+    {
+      "repository": "github:apple/rules_pkl",
+      "maintainers": [
+        {
+          "email": "pkl-oss@group.apple.com",
+          "name": "The Pkl Project"
+        }
+      ]
     },
     {
       "repository": "github:apple/swift-argument-parser",
@@ -117,7 +428,28 @@
           "name": "JP Simard"
         }
       ],
-      "stargazers_count": 3047
+      "stargazers_count": 3279
+    },
+    {
+      "repository": "github:swiftlang/swift-syntax",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ]
+    },
+    {
+      "repository": "github:artem-ogre/CDT",
+      "maintainers": [
+        {
+          "email": "",
+          "github": "phaedon",
+          "name": "Phaedon Sinis"
+        }
+      ],
+      "stargazers_count": 970
     },
     {
       "repository": "github:aspect-build/bazel-lib",
@@ -128,7 +460,21 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 90
+      "stargazers_count": 130
+    },
+    {
+      "repository": "github:aspect-build/rules_aws",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        },
+        {
+          "github": "CaerusKaru"
+        }
+      ],
+      "stargazers_count": 10
     },
     {
       "repository": "github:aspect-build/rules_esbuild",
@@ -139,7 +485,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 21
+      "stargazers_count": 27
     },
     {
       "repository": "github:aspect-build/rules_jasmine",
@@ -150,7 +496,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 3
+      "stargazers_count": 5
     },
     {
       "repository": "github:aspect-build/rules_jest",
@@ -161,7 +507,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 11
+      "stargazers_count": 22
     },
     {
       "repository": "github:aspect-build/rules_js",
@@ -172,7 +518,18 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 224
+      "stargazers_count": 295
+    },
+    {
+      "repository": "github:aspect-build/rules_lint",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        }
+      ],
+      "stargazers_count": 67
     },
     {
       "repository": "github:aspect-build/rules_py",
@@ -183,7 +540,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 38
+      "stargazers_count": 76
     },
     {
       "repository": "github:aspect-build/rules_rollup",
@@ -194,7 +551,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 4
+      "stargazers_count": 5
     },
     {
       "repository": "github:aspect-build/rules_swc",
@@ -205,7 +562,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 34
+      "stargazers_count": 44
     },
     {
       "repository": "github:aspect-build/rules_terser",
@@ -216,7 +573,7 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 5
+      "stargazers_count": 7
     },
     {
       "repository": "github:aspect-build/rules_ts",
@@ -227,7 +584,40 @@
           "name": "Aspect team"
         }
       ],
-      "stargazers_count": 68
+      "stargazers_count": 98
+    },
+    {
+      "repository": "github:aspect-build/rules_webpack",
+      "maintainers": [
+        {
+          "name": "Greg Magolan",
+          "email": "greg@aspect.dev",
+          "github": "gregmagolan"
+        }
+      ],
+      "stargazers_count": 31
+    },
+    {
+      "repository": "github:aspect-build/toolchains_protoc",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        }
+      ],
+      "stargazers_count": 13
+    },
+    {
+      "repository": "github:axboe/liburing",
+      "maintainers": [
+        {
+          "email": "maennich@google.com",
+          "github": "metti",
+          "name": "Matthias Maennich"
+        }
+      ],
+      "stargazers_count": 2727
     },
     {
       "repository": "github:bazel-contrib/bazel_features",
@@ -247,7 +637,7 @@
           "name": "Fabian Meumertzheim"
         }
       ],
-      "stargazers_count": 7
+      "stargazers_count": 17
     },
     {
       "repository": "github:bazel-contrib/rules_bazel_integration_test",
@@ -258,7 +648,18 @@
           "name": "Chuck Grindel"
         }
       ],
-      "stargazers_count": 28
+      "stargazers_count": 40
+    },
+    {
+      "repository": "github:bazel-contrib/rules_cuda",
+      "maintainers": [
+        {
+          "email": "james.sharpe@zenotech.com",
+          "github": "jsharpe",
+          "name": "James Sharpe"
+        }
+      ],
+      "stargazers_count": 81
     },
     {
       "repository": "github:bazel-contrib/rules_jvm",
@@ -274,7 +675,7 @@
           "name": "Daniel Wagner-Hall"
         }
       ],
-      "stargazers_count": 34
+      "stargazers_count": 45
     },
     {
       "repository": "github:bazel-contrib/rules_oci",
@@ -290,7 +691,53 @@
           "name": "Şahin Yort"
         }
       ],
-      "stargazers_count": 148
+      "stargazers_count": 264
+    },
+    {
+      "repository": "github:bazel-contrib/rules_ruby",
+      "maintainers": [
+        {
+          "github": "p0deje",
+          "name": "Alex Rodionov"
+        }
+      ],
+      "stargazers_count": 22
+    },
+    {
+      "repository": "github:bazel-contrib/toolchains_llvm",
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        },
+        {
+          "email": "james.sharpe@zenotech.com",
+          "github": "jsharpe",
+          "name": "James Sharpe"
+        },
+        {
+          "email": "rrbutani@users.noreply.github.com",
+          "github": "rrbutani",
+          "name": "Rahul Butani"
+        }
+      ],
+      "stargazers_count": 284
+    },
+    {
+      "repository": "github:bazel-ios/rules_ios",
+      "maintainers": [
+        {
+          "email": "rules_ios@squareup.com",
+          "name": "rules_ios Maintainers"
+        },
+        {
+          "email": "heyluispadron@gmail.com",
+          "github": "luispadron",
+          "name": "Luis Padron"
+        }
+      ],
+      "stargazers_count": 272
     },
     {
       "repository": "github:bazelbuild/apple_support",
@@ -306,7 +753,7 @@
           "name": "Patrick Balestra"
         }
       ],
-      "stargazers_count": 65
+      "stargazers_count": 76
     },
     {
       "repository": "github:bazelbuild/bazel-gazelle",
@@ -317,7 +764,7 @@
           "name": "Fabian Meumertzheim"
         }
       ],
-      "stargazers_count": 1050
+      "stargazers_count": 1161
     },
     {
       "repository": "github:bazelbuild/bazel-skylib",
@@ -328,7 +775,17 @@
         }
       ],
       "bazel-recommended": true,
-      "stargazers_count": 324
+      "stargazers_count": 379
+    },
+    {
+      "repository": "github:bazelbuild/continuous-integration",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 255
     },
     {
       "repository": "github:bazelbuild/platforms",
@@ -338,16 +795,30 @@
           "name": "The Bazel Team"
         }
       ],
-      "stargazers_count": 87
+      "stargazers_count": 108
     },
     {
       "repository": "github:bazelbuild/rules_android",
       "maintainers": [],
-      "stargazers_count": 161
+      "stargazers_count": 175
+    },
+    {
+      "repository": "github:bazelbuild/rules_android_ndk",
+      "maintainers": [
+        {
+          "email": "tedx@google.com",
+          "name": "Ted Xie"
+        },
+        {
+          "email": "ahumesky@google.com",
+          "name": "Alex Humesky"
+        }
+      ],
+      "stargazers_count": 29
     },
     {
       "repository": "github:bazelbuild/rules_appengine",
-      "stargazers_count": 29
+      "stargazers_count": 30
     },
     {
       "repository": "github:bazelbuild/rules_apple",
@@ -374,30 +845,37 @@
         }
       ],
       "bazel-recommended": true,
-      "stargazers_count": 442
+      "stargazers_count": 496
     },
     {
       "repository": "github:bazelbuild/rules_cc",
       "maintainers": [],
-      "stargazers_count": 144
+      "stargazers_count": 179
     },
     {
       "repository": "github:bazelbuild/rules_closure",
-      "stargazers_count": 146
+      "stargazers_count": 153
     },
     {
       "repository": "github:bazelbuild/rules_d",
-      "stargazers_count": 25
+      "stargazers_count": 24
     },
     {
       "repository": "github:bazelbuild/rules_docker",
       "bazel-recommended": true,
-      "stargazers_count": 1056
+      "stargazers_count": 1070
     },
     {
       "repository": "github:bazelbuild/rules_dotnet",
+      "maintainers": [
+        {
+          "name": "Daníel Poul Purkhús",
+          "email": "purkhusid@gmail.com",
+          "github": "purkhusid"
+        }
+      ],
       "shortname": ".NET",
-      "stargazers_count": 164
+      "stargazers_count": 185
     },
     {
       "repository": "github:bazelbuild/rules_foreign_cc",
@@ -407,11 +885,18 @@
           "name": "James Sharpe"
         }
       ],
-      "stargazers_count": 612
+      "stargazers_count": 654
     },
     {
       "repository": "github:bazelbuild/rules_fuzzing",
-      "stargazers_count": 70
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ],
+      "stargazers_count": 83
     },
     {
       "repository": "github:bazelbuild/rules_go",
@@ -423,11 +908,11 @@
         }
       ],
       "bazel-recommended": true,
-      "stargazers_count": 1280
+      "stargazers_count": 1357
     },
     {
       "repository": "github:bazelbuild/rules_groovy",
-      "stargazers_count": 10
+      "stargazers_count": 11
     },
     {
       "repository": "github:bazelbuild/rules_gwt",
@@ -436,11 +921,18 @@
     {
       "repository": "github:bazelbuild/rules_java",
       "maintainers": [],
-      "stargazers_count": 55
+      "stargazers_count": 67
     },
     {
       "repository": "github:bazelbuild/rules_jsonnet",
-      "stargazers_count": 60
+      "maintainers": [
+        {
+          "email": "ed@nuxi.nl",
+          "github": "EdSchouten",
+          "name": "Ed Schouten"
+        }
+      ],
+      "stargazers_count": 67
     },
     {
       "repository": "github:bazelbuild/rules_jvm_external",
@@ -462,16 +954,33 @@
         }
       ],
       "bazel-recommended": true,
-      "stargazers_count": 286
+      "stargazers_count": 320
     },
     {
       "repository": "github:bazelbuild/rules_k8s",
       "bazel-recommended": true,
-      "stargazers_count": 287
+      "stargazers_count": 289
     },
     {
       "repository": "github:bazelbuild/rules_kotlin",
-      "stargazers_count": 311
+      "maintainers": [
+        {
+          "email": "ben@ben.cm",
+          "github": "Bencodes",
+          "name": "Ben Lee"
+        },
+        {
+          "email": "corbin@mcneely-smith.com",
+          "github": "restingbull",
+          "name": "Corbin McNeely-Smith"
+        },
+        {
+          "email": "nk@snap.com",
+          "github": "nkoroste",
+          "name": "Nick Korostelev"
+        }
+      ],
+      "stargazers_count": 329
     },
     {
       "repository": "github:bazelbuild/rules_license",
@@ -482,7 +991,7 @@
           "name": "Tony Aiuto"
         }
       ],
-      "stargazers_count": 58
+      "stargazers_count": 72
     },
     {
       "repository": "github:bazelbuild/rules_nodejs",
@@ -494,18 +1003,40 @@
         }
       ],
       "bazel-recommended": true,
-      "stargazers_count": 707
+      "stargazers_count": 722
     },
     {
       "repository": "github:bazelbuild/rules_perl",
-      "stargazers_count": 22
+      "maintainers": [
+        {
+          "name": "Morten Mjelva",
+          "github": "mortenmj"
+        }
+      ],
+      "stargazers_count": 25
     },
     {
       "repository": "github:bazelbuild/rules_pkg",
       "maintainers": [],
       "shortname": "Packaging",
       "bazel-recommended": true,
-      "stargazers_count": 180
+      "stargazers_count": 216
+    },
+    {
+      "repository": "github:bazelbuild/rules_platform",
+      "maintainers": [
+        {
+          "email": "aranguyen@google.com",
+          "github": "aranguyen",
+          "name": "Ara Nguyen"
+        },
+        {
+          "email": "gregce@google.com",
+          "github": "gregestren",
+          "name": "Greg Estren"
+        }
+      ],
+      "stargazers_count": 4
     },
     {
       "repository": "github:bazelbuild/rules_postcss",
@@ -516,7 +1047,7 @@
       "maintainers": [],
       "shortname": "Protocol Buffers",
       "bazel-recommended": true,
-      "stargazers_count": 146
+      "stargazers_count": 162
     },
     {
       "repository": "github:bazelbuild/rules_python",
@@ -533,20 +1064,37 @@
         }
       ],
       "bazel-recommended": true,
-      "stargazers_count": 462
+      "stargazers_count": 514
     },
     {
       "repository": "github:bazelbuild/rules_rust",
-      "stargazers_count": 543
+      "maintainers": [
+        {
+          "email": "26427366+UebelAndre@users.noreply.github.com",
+          "github": "UebelAndre",
+          "name": "UebelAndre"
+        },
+        {
+          "email": "1131704+illicitonion@users.noreply.github.com",
+          "github": "illicitonion",
+          "name": "Daniel Wagner-Hall"
+        },
+        {
+          "email": "11149636+scentini@users.noreply.github.com",
+          "github": "scentini",
+          "name": "Rosica Dejanovska"
+        }
+      ],
+      "stargazers_count": 643
     },
     {
       "repository": "github:bazelbuild/rules_sass",
-      "stargazers_count": 48
+      "stargazers_count": 51
     },
     {
       "repository": "github:bazelbuild/rules_scala",
       "bazel-recommended": true,
-      "stargazers_count": 339
+      "stargazers_count": 360
     },
     {
       "repository": "github:bazelbuild/rules_swift",
@@ -572,7 +1120,7 @@
           "name": "Thi Doãn"
         }
       ],
-      "stargazers_count": 280
+      "stargazers_count": 309
     },
     {
       "repository": "github:bazelbuild/rules_testing",
@@ -583,30 +1131,165 @@
           "name": "Richard Levasseur"
         }
       ],
-      "stargazers_count": 15
+      "stargazers_count": 20
     },
     {
       "repository": "github:bazelbuild/rules_webtesting",
       "bazel-recommended": true,
-      "stargazers_count": 89
+      "stargazers_count": 95
     },
     {
       "repository": "github:bazelbuild/stardoc",
       "maintainers": [],
-      "stargazers_count": 88
+      "stargazers_count": 105
     },
     {
       "repository": "github:bazelruby/rules_ruby",
-      "stargazers_count": 92
+      "stargazers_count": 99
+    },
+    {
+      "repository": "github:bazeltools/bazel_jar_jar",
+      "maintainers": [
+        {
+          "email": "eed3si9n@gmail.com",
+          "github": "eed3si9n",
+          "name": "Eugene Yokota"
+        }
+      ],
+      "stargazers_count": 18
+    },
+    {
+      "repository": "github:boostorg/config",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 70
+    },
+    {
+      "repository": "github:boostorg/static_assert",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 14
+    },
+    {
+      "repository": "github:bufbuild/protoc-gen-validate",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 3723
+    },
+    {
+      "repository": "github:bufbuild/rules_buf",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        }
+      ],
+      "stargazers_count": 42
     },
     {
       "repository": "github:buildfoundation/bazel_rules_detekt",
-      "stargazers_count": 28
+      "maintainers": [
+        {
+          "email": "ben@ben.cm",
+          "github": "Bencodes",
+          "name": "Ben Lee"
+        },
+        {
+          "email": "ceo@artemzin.com",
+          "github": "artem-zinnatullin ",
+          "name": "Artem Zinnatullin"
+        }
+      ],
+      "stargazers_count": 29
+    },
+    {
+      "repository": "github:buildfoundation/bazel_rules_pmd",
+      "maintainers": [
+        {
+          "email": "ben@ben.cm",
+          "github": "Bencodes",
+          "name": "Ben Lee"
+        },
+        {
+          "email": "ceo@artemzin.com",
+          "github": "artem-zinnatullin ",
+          "name": "Artem Zinnatullin"
+        }
+      ],
+      "stargazers_count": 3
+    },
+    {
+      "repository": "github:bzlparty/rules_quickjs",
+      "maintainers": [
+        {
+          "email": "dev@mgred.dev",
+          "github": "mgred",
+          "name": "Marc Redemske"
+        }
+      ],
+      "stargazers_count": 1
+    },
+    {
+      "repository": "github:bzlparty/tools",
+      "maintainers": [
+        {
+          "email": "dev@mgred.dev",
+          "github": "mgred",
+          "name": "Marc Redemske"
+        }
+      ],
+      "stargazers_count": 1
     },
     {
       "repository": "github:c-ares/c-ares",
       "maintainers": [],
-      "stargazers_count": 1657
+      "stargazers_count": 1818
+    },
+    {
+      "repository": "github:c42f/tinyformat",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 527
+    },
+    {
+      "repository": "github:cameron314/readerwriterqueue",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 3608
+    },
+    {
+      "repository": "github:caseyduquettesc/rules_python_pytest",
+      "maintainers": [
+        {
+          "github": "caseyduquettesc",
+          "name": "Casey Duquette"
+        }
+      ],
+      "stargazers_count": 14
     },
     {
       "repository": "github:catchorg/Catch2",
@@ -617,7 +1300,27 @@
           "name": "curoky"
         }
       ],
-      "stargazers_count": 17059
+      "stargazers_count": 18340
+    },
+    {
+      "repository": "github:census-instrumentation/opencensus-proto",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 79
+    },
+    {
+      "repository": "github:ceres-solver/ceres-solver",
+      "maintainers": [
+        {
+          "email": "Sudhanva Sreesha",
+          "name": "ssreesha@google.com"
+        }
+      ],
+      "stargazers_count": 3746
     },
     {
       "repository": "github:cgrindel/bazel-starlib",
@@ -628,7 +1331,7 @@
           "name": "Chuck Grindel"
         }
       ],
-      "stargazers_count": 15
+      "stargazers_count": 17
     },
     {
       "repository": "github:cgrindel/rules_swift_package_manager",
@@ -639,7 +1342,28 @@
           "name": "Chuck Grindel"
         }
       ],
-      "stargazers_count": 46
+      "stargazers_count": 70
+    },
+    {
+      "repository": "github:chainguard-dev/rules_apko",
+      "maintainers": [
+        {
+          "email": "alex@aspect.dev",
+          "github": "alexeagle",
+          "name": "Alex Eagle"
+        },
+        {
+          "email": "sahin@aspect.dev",
+          "github": "thesayyn",
+          "name": "Şahin Yort"
+        },
+        {
+          "email": "jason@chainguard.dev",
+          "github": "imjasonh",
+          "name": "Jason Hall"
+        }
+      ],
+      "stargazers_count": 21
     },
     {
       "repository": "github:chriskohlhoff/asio",
@@ -650,11 +1374,86 @@
           "name": "Lukasz Tekieli"
         }
       ],
-      "stargazers_count": 4237
+      "stargazers_count": 4774
+    },
+    {
+      "repository": "github:civetweb/civetweb",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 2770
+    },
+    {
+      "repository": "github:cncf/xds",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 194
     },
     {
       "repository": "github:coinbase/rules_ruby",
-      "stargazers_count": 23
+      "stargazers_count": 24
+    },
+    {
+      "repository": "github:cpplint/cpplint",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 1517
+    },
+    {
+      "repository": "github:curl/curl",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ],
+      "stargazers_count": 35012
+    },
+    {
+      "repository": "github:ddiakopoulos/tinyply",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 596
+    },
+    {
+      "repository": "github:delfrrr/delaunator-cpp",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 489
+    },
+    {
+      "repository": "github:doctest/doctest",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 5759
     },
     {
       "repository": "github:drmohundro/SWXMLHash",
@@ -670,56 +1469,332 @@
           "name": "JP Simard"
         }
       ],
-      "stargazers_count": 1340
+      "stargazers_count": 1389
     },
     {
       "repository": "github:dropbox/dbx_build_tools",
-      "stargazers_count": 194
+      "stargazers_count": 207
+    },
+    {
+      "repository": "github:dzbarsky/aws-in-a-box",
+      "maintainers": [
+        {
+          "email": "dzbarsky@gmail.com",
+          "github": "dzbarsky",
+          "name": "David Zbarsky"
+        }
+      ],
+      "stargazers_count": 7
+    },
+    {
+      "repository": "github:dzbarsky/rules_itest",
+      "maintainers": [
+        {
+          "name": "David Zbarsky",
+          "email": "dzbarsky@gmail.com",
+          "github": "dzbarsky"
+        }
+      ],
+      "stargazers_count": 12
+    },
+    {
+      "repository": "github:eProsima/Fast-CDR",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 138
+    },
+    {
+      "repository": "github:eProsima/Fast-DDS",
+      "maintainers": [
+        {
+          "email": "daohu527@gmail.com",
+          "name": "daohu527"
+        }
+      ],
+      "stargazers_count": 2091
+    },
+    {
+      "repository": "github:ebiggers/libdeflate",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 975
+    },
+    {
+      "repository": "github:RenderKit/embree",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 2339
+    },
+    {
+      "repository": "github:facebook/zstd",
+      "maintainers": [
+        {
+          "email": "aaronyu@google.com",
+          "github": "afq984",
+          "name": "Li-Yu Yu"
+        }
+      ],
+      "stargazers_count": 22920
+    },
+    {
+      "repository": "github:fmeum/buildozer",
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ],
+      "stargazers_count": 3
+    },
+    {
+      "repository": "github:fmeum/with_cfg.bzl",
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ],
+      "stargazers_count": 34
     },
     {
       "repository": "github:fmtlib/fmt",
       "maintainers": [],
-      "stargazers_count": 17743
+      "stargazers_count": 20026
+    },
+    {
+      "repository": "github:foonathan/memory",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 1474
+    },
+    {
+      "repository": "github:foxglove/mcap",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 475
+    },
+    {
+      "repository": "github:g-truc/glm",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        },
+        {
+          "github": "phaedon",
+          "name": "Phaedon (Fædon) Sinis"
+        }
+      ],
+      "stargazers_count": 8981
     },
     {
       "repository": "github:gabime/spdlog",
       "maintainers": [],
-      "stargazers_count": 19989
+      "stargazers_count": 23445
     },
     {
       "repository": "github:gflags/gflags",
       "maintainers": [],
-      "stargazers_count": 2672
+      "stargazers_count": 2841
     },
     {
       "repository": "github:google/benchmark",
       "maintainers": [],
-      "stargazers_count": 7828
+      "stargazers_count": 8799
     },
     {
       "repository": "github:google/boringssl",
       "maintainers": [],
-      "stargazers_count": 1561
+      "stargazers_count": 1778
+    },
+    {
+      "repository": "github:google/brotli",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 13384
+    },
+    {
+      "repository": "github:google/cctz",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 589
+    },
+    {
+      "repository": "github:google/cel-spec",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 2708
+    },
+    {
+      "repository": "github:google/copybara",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 2089
+    },
+    {
+      "repository": "github:google/crc32c",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 443
+    },
+    {
+      "repository": "github:google/emboss",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 68
+    },
+    {
+      "repository": "github:google/flatbuffers",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 22662
     },
     {
       "repository": "github:google/glog",
       "maintainers": [],
-      "stargazers_count": 6340
+      "stargazers_count": 6950
     },
     {
       "repository": "github:google/go-jsonnet",
       "maintainers": [],
-      "stargazers_count": 1445
+      "stargazers_count": 1581
     },
     {
       "repository": "github:google/googletest",
       "maintainers": [],
-      "stargazers_count": 30845
+      "stargazers_count": 33965
+    },
+    {
+      "repository": "github:google/highway",
+      "maintainers": [
+        {
+          "email": "janwas@google.com",
+          "github": "jan-wassenberg",
+          "name": "Jan Wassenberg"
+        },
+        {
+          "email": "eustas@google.com",
+          "github": "eustas",
+          "name": "Eugene Kliuchnikov"
+        },
+        {
+          "email": "rhettstucki@google.com",
+          "github": "rhettstucki",
+          "name": "Rhett Stucki"
+        }
+      ],
+      "stargazers_count": 4031
+    },
+    {
+      "repository": "github:google/highwayhash",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 1513
     },
     {
       "repository": "github:google/jsonnet",
       "maintainers": [],
-      "stargazers_count": 6424
+      "stargazers_count": 6877
+    },
+    {
+      "repository": "github:google/jwt_verify_lib",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 40
+    },
+    {
+      "repository": "github:google/libprotobuf-mutator",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 571
+    },
+    {
+      "repository": "github:google/nsync",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ],
+      "stargazers_count": 361
+    },
+    {
+      "repository": "github:google/osqp-cpp",
+      "maintainers": [
+        {
+          "email": "udayaprakash2899@gmail.com",
+          "github": "udaya2899",
+          "name": "Udaya Prakash Nageswaran"
+        }
+      ],
+      "stargazers_count": 236
     },
     {
       "repository": "github:google/re2",
@@ -730,7 +1805,69 @@
           "name": "Paul Wankadia"
         }
       ],
-      "stargazers_count": 8183
+      "stargazers_count": 8827
+    },
+    {
+      "repository": "github:google/riegeli",
+      "maintainers": [
+        {
+          "email": "qrczak@google.com",
+          "github": "QrczakMK",
+          "name": "Marcin Kowalczyk"
+        }
+      ],
+      "stargazers_count": 407
+    },
+    {
+      "repository": "github:google/rpmpack",
+      "maintainers": [
+        {
+          "email": "jarondl@google.com",
+          "github": "jarondl",
+          "name": "Yaron de Leeuw"
+        }
+      ],
+      "stargazers_count": 115
+    },
+    {
+      "repository": "github:google/ruy",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 298
+    },
+    {
+      "repository": "github:google/s2geometry",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 2253
+    },
+    {
+      "repository": "github:google/snappy",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 6061
+    },
+    {
+      "repository": "github:google/tcmalloc",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "name": "Keith Smiley"
+        }
+      ],
+      "stargazers_count": 4253
     },
     {
       "repository": "github:google/zopfli",
@@ -741,28 +1878,150 @@
           "name": "Alex Eagle"
         }
       ],
-      "stargazers_count": 3291
+      "stargazers_count": 3407
+    },
+    {
+      "repository": "github:googleapis/googleapis",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 6675
     },
     {
       "repository": "github:grailbio/bazel-compilation-database",
-      "stargazers_count": 426
-    },
-    {
-      "repository": "github:grailbio/bazel-toolchain",
-      "stargazers_count": 223
+      "stargazers_count": 451
     },
     {
       "repository": "github:grailbio/rules_r",
-      "stargazers_count": 39
+      "stargazers_count": 40
+    },
+    {
+      "repository": "github:grpc-ecosystem/grpc-httpjson-transcoding",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 161
+    },
+    {
+      "repository": "github:grpc-ecosystem/proto-converter",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 4
     },
     {
       "repository": "github:grpc/grpc",
       "maintainers": [],
-      "stargazers_count": 39037
+      "stargazers_count": 41377
+    },
+    {
+      "repository": "github:grpc/grpc-java",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 11321
+    },
+    {
+      "repository": "github:grpc/grpc-proto",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 251
     },
     {
       "repository": "github:hdl/bazel_rules_hdl",
-      "stargazers_count": 79
+      "stargazers_count": 108
+    },
+    {
+      "repository": "github:hexdae/toolchains_arm_gnu",
+      "maintainers": [
+        {
+          "name": "Davide Asnaghi",
+          "email": "asnaghi@me.com",
+          "github": "hexdae"
+        }
+      ],
+      "stargazers_count": 99
+    },
+    {
+      "repository": "github:hexdae/toolchains_riscv_gnu",
+      "maintainers": [
+        {
+          "name": "Davide Asnaghi",
+          "email": "asnaghi@me.com",
+          "github": "hexdae"
+        }
+      ],
+      "stargazers_count": 9
+    },
+    {
+      "repository": "github:hyperrealm/libconfig",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 1103
+    },
+    {
+      "repository": "github:ihavespoons/rules_syft",
+      "maintainers": [
+        {
+          "name": "Ben Gittins",
+          "email": "ben@gittins.email",
+          "github": "ihavespoons"
+        }
+      ],
+      "stargazers_count": 1
+    },
+    {
+      "repository": "github:imneme/pcg-cpp",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 723
+    },
+    {
+      "repository": "github:inazarenko/protobuf-matchers",
+      "maintainers": [
+        {
+          "email": "igor.n.nazarenko@gmail.com",
+          "github": "inazarenko",
+          "name": "Igor Nazarenko"
+        }
+      ],
+      "stargazers_count": 8
+    },
+    {
+      "repository": "github:jlblancoc/nanoflann",
+      "maintainers": [
+        {
+          "email": "git@van-opdenbosch.net",
+          "github": "d-vo",
+          "name": "Dominik Van Opdenbosch"
+        }
+      ],
+      "stargazers_count": 2169
     },
     {
       "repository": "github:jmillikin/rules_bison",
@@ -773,7 +2032,7 @@
           "name": "John Millikin"
         }
       ],
-      "stargazers_count": 13
+      "stargazers_count": 15
     },
     {
       "repository": "github:jmillikin/rules_flex",
@@ -784,7 +2043,7 @@
           "name": "John Millikin"
         }
       ],
-      "stargazers_count": 13
+      "stargazers_count": 15
     },
     {
       "repository": "github:jmillikin/rules_m4",
@@ -795,11 +2054,22 @@
           "name": "John Millikin"
         }
       ],
-      "stargazers_count": 13
+      "stargazers_count": 15
     },
     {
       "repository": "github:jmillikin/rules_ragel",
-      "stargazers_count": 8
+      "stargazers_count": 10
+    },
+    {
+      "repository": "github:jmmv/rules_shtk",
+      "maintainers": [
+        {
+          "email": "julio@meroh.net",
+          "github": "jmmv",
+          "name": "Julio Merino"
+        }
+      ],
+      "stargazers_count": 2
     },
     {
       "repository": "github:jpsim/SourceKitten",
@@ -815,7 +2085,7 @@
           "name": "Keith Smiley"
         }
       ],
-      "stargazers_count": 2224
+      "stargazers_count": 2291
     },
     {
       "repository": "github:jpsim/Yams",
@@ -826,7 +2096,34 @@
           "name": "JP Simard"
         }
       ],
-      "stargazers_count": 1013
+      "stargazers_count": 1089
+    },
+    {
+      "repository": "github:jupp0r/prometheus-cpp",
+      "maintainers": [
+        {
+          "email": "gjasny@googlemail.com",
+          "github": "gjasny",
+          "name": "Gregor Jasny"
+        },
+        {
+          "email": "jupp0r@gmail.com",
+          "github": "jupp0r",
+          "name": "Jupp Mueller"
+        }
+      ],
+      "stargazers_count": 910
+    },
+    {
+      "repository": "github:jvolkman/rules_pycross",
+      "maintainers": [
+        {
+          "email": "jeremy@jvolkman.com",
+          "github": "jvolkman",
+          "name": "Jeremy Volkman"
+        }
+      ],
+      "stargazers_count": 54
     },
     {
       "repository": "github:keith/buildifier-prebuilt",
@@ -837,7 +2134,7 @@
           "name": "Keith Smiley"
         }
       ],
-      "stargazers_count": 25
+      "stargazers_count": 31
     },
     {
       "repository": "github:keith/rules_apple_linker",
@@ -848,7 +2145,7 @@
           "name": "Keith Smiley"
         }
       ],
-      "stargazers_count": 52
+      "stargazers_count": 60
     },
     {
       "repository": "github:keith/rules_multirun",
@@ -859,16 +2156,111 @@
           "name": "Keith Smiley"
         }
       ],
-      "stargazers_count": 37
+      "stargazers_count": 67
     },
     {
       "repository": "github:kkiningh/rules_verilator",
-      "stargazers_count": 18
+      "stargazers_count": 22
+    },
+    {
+      "repository": "github:kthohr/gcem",
+      "maintainers": [
+        {
+          "email": "caleb.zulawski@gmail.com",
+          "github": "calebzulawski",
+          "name": "Caleb Zulawski"
+        }
+      ],
+      "stargazers_count": 692
+    },
+    {
+      "repository": "github:lalten/rules_appimage",
+      "maintainers": [
+        {
+          "email": "bcr@laure.nz",
+          "github": "lalten",
+          "name": "lalten"
+        }
+      ],
+      "stargazers_count": 25
+    },
+    {
+      "repository": "github:lalten/zsync",
+      "maintainers": [
+        {
+          "email": "bcr@laure.nz",
+          "github": "lalten",
+          "name": "lalten"
+        }
+      ],
+      "stargazers_count": 1
+    },
+    {
+      "repository": "github:leethomason/tinyxml2",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 4987
+    },
+    {
+      "repository": "github:libfuse/libfuse",
+      "maintainers": [
+        {
+          "email": "bcr@laure.nz",
+          "github": "lalten",
+          "name": "lalten"
+        }
+      ],
+      "stargazers_count": 5164
+    },
+    {
+      "repository": "github:libjpeg-turbo/libjpeg-turbo",
+      "maintainers": [
+        {
+          "email": "eustas.ru@gmail.com",
+          "github": "eustas",
+          "name": "Evgenii Kliuchnikov"
+        }
+      ],
+      "stargazers_count": 3679
+    },
+    {
+      "repository": "github:libuv/libuv",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 23720
+    },
+    {
+      "repository": "github:llvm/llvm-project",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 27308
     },
     {
       "repository": "github:luben/zstd-jni",
       "maintainers": [],
-      "stargazers_count": 717
+      "stargazers_count": 823
+    },
+    {
+      "repository": "github:lz4/lz4",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 10078
     },
     {
       "repository": "github:madler/zlib",
@@ -878,12 +2270,182 @@
           "name": "The Bazel Team"
         }
       ],
-      "stargazers_count": 4663
+      "stargazers_count": 5506
+    },
+    {
+      "repository": "github:maliput/maliput",
+      "maintainers": [
+        {
+          "name": "Daniel Stonier",
+          "email": "d.stonier@gmail.com",
+          "github": "stonier"
+        }
+      ],
+      "stargazers_count": 11
+    },
+    {
+      "repository": "github:maliput/maliput_malidrive",
+      "maintainers": [
+        {
+          "name": "Daniel Stonier",
+          "email": "d.stonier@gmail.com",
+          "github": "stonier"
+        }
+      ],
+      "stargazers_count": 0
+    },
+    {
+      "repository": "github:martis42/depend_on_what_you_use",
+      "maintainers": [
+        {
+          "email": "martis42.dev@gmail.com",
+          "github": "martis42",
+          "name": "Martin Medler"
+        }
+      ],
+      "stargazers_count": 63
+    },
+    {
+      "repository": "github:marzer/tomlplusplus",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 1497
+    },
+    {
+      "repository": "github:mathematic-inc/rules_mjml",
+      "maintainers": [
+        {
+          "name": "Randolf J.",
+          "email": "rjung@mathematic.io",
+          "github": "jun-sheaf"
+        }
+      ],
+      "stargazers_count": 0
+    },
+    {
+      "repository": "github:mattrobmattrob/swift-bep-parser",
+      "maintainers": [
+        {
+          "email": "mattrob@hey.com",
+          "name": "Matt Robinson",
+          "github": "mattrobmattrob"
+        }
+      ],
+      "stargazers_count": 9
+    },
+    {
+      "repository": "github:matts1/rules_directory",
+      "maintainers": [
+        {
+          "name": "Matt Stark",
+          "email": "mattstark75@gmail.com",
+          "github": "matts1"
+        }
+      ],
+      "stargazers_count": 1
+    },
+    {
+      "repository": "github:maxmind/libmaxminddb",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 899
+    },
+    {
+      "repository": "github:microsoft/mimalloc",
+      "maintainers": [
+        {
+          "email": "fabian@meumertzhe.im",
+          "github": "fmeum",
+          "name": "Fabian Meumertzheim"
+        }
+      ],
+      "stargazers_count": 9844
+    },
+    {
+      "repository": "github:mirror/ncurses",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 434
+    },
+    {
+      "repository": "github:mirror/tclap",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 83
+    },
+    {
+      "repository": "github:msgpack/msgpack-c",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 2973
+    },
+    {
+      "repository": "github:ncopa/su-exec",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 965
     },
     {
       "repository": "github:nelhage/rules_boost",
       "bazel-recommended": true,
-      "stargazers_count": 257
+      "stargazers_count": 283
+    },
+    {
+      "repository": "github:nicholasjng/nanobind-bazel",
+      "maintainers": [
+        {
+          "email": "nicho.junge@gmail.com",
+          "github": "nicholasjng",
+          "name": "Nicholas Junge"
+        }
+      ],
+      "stargazers_count": 6
+    },
+    {
+      "repository": "github:nigels-com/glew",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 2599
+    },
+    {
+      "repository": "github:nih-at/libzip",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 819
     },
     {
       "repository": "github:nlohmann/json",
@@ -894,7 +2456,157 @@
           "name": "Keith Smiley"
         }
       ],
-      "stargazers_count": 36642
+      "stargazers_count": 41737
+    },
+    {
+      "repository": "github:nya3jp/rules_contest",
+      "maintainers": [
+        {
+          "email": "takahashi.shuhei@gmail.com",
+          "github": "nya3jp",
+          "name": "Shuhei Takahashi"
+        }
+      ],
+      "stargazers_count": 7
+    },
+    {
+      "repository": "github:odygrd/quill",
+      "maintainers": [
+        {
+          "email": "odygrd@gmail.com",
+          "github": "odygrd",
+          "name": "Odysseas Georgoudis"
+        }
+      ],
+      "stargazers_count": 1158
+    },
+    {
+      "repository": "github:oneapi-src/oneTBB",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 5520
+    },
+    {
+      "repository": "github:onnx/onnx",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 17402
+    },
+    {
+      "repository": "github:open-source-parsers/jsoncpp",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 8015
+    },
+    {
+      "repository": "github:open-telemetry/opentelemetry-cpp",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ],
+      "stargazers_count": 832
+    },
+    {
+      "repository": "github:open-telemetry/opentelemetry-proto",
+      "maintainers": [
+        {
+          "email": "keithbsmiley@gmail.com",
+          "github": "keith",
+          "name": "Keith Smiley"
+        }
+      ],
+      "stargazers_count": 552
+    },
+    {
+      "repository": "github:openhistogram/libcircllhist",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 113
+    },
+    {
+      "repository": "github:opentracing/opentracing-cpp",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 321
+    },
+    {
+      "repository": "github:openzipkin/zipkin-api",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 59
+    },
+    {
+      "repository": "github:opicaud/rules_pact",
+      "maintainers": [
+        {
+          "email": "olivier.picaud@trackclear.be",
+          "github": "opicaud",
+          "name": "Olivier Picaud"
+        }
+      ],
+      "stargazers_count": 2
+    },
+    {
+      "repository": "github:osqp/osqp",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 1644
+    },
+    {
+      "repository": "github:osqp/qdldl",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 77
+    },
+    {
+      "repository": "github:oxidase/ofiuco",
+      "maintainers": [
+        {
+          "email": "michael.krasnyk@gmail.com",
+          "github": "oxidase",
+          "name": "Michael Krasnyk"
+        }
+      ],
+      "stargazers_count": 15
     },
     {
       "repository": "github:oxidase/rules_poetry",
@@ -905,17 +2617,99 @@
           "name": "Michael Krasnyk"
         }
       ],
-      "stargazers_count": 4
+      "stargazers_count": 0
+    },
+    {
+      "repository": "github:p-ranav/argparse",
+      "maintainers": [
+        {
+          "email": "casablancaernesto@gmail.com",
+          "github": "TendTo",
+          "name": "Ernesto Casablanca"
+        }
+      ],
+      "stargazers_count": 2535
+    },
+    {
+      "repository": "github:plougher/squashfs-tools",
+      "maintainers": [
+        {
+          "email": "bcr@laure.nz",
+          "github": "lalten",
+          "name": "lalten"
+        }
+      ],
+      "stargazers_count": 750
     },
     {
       "repository": "github:protocolbuffers/protobuf",
       "maintainers": [],
-      "stargazers_count": 60814
+      "stargazers_count": 64828
     },
     {
       "repository": "github:protocolbuffers/upb",
       "maintainers": [],
-      "stargazers_count": 1470
+      "stargazers_count": 1505
+    },
+    {
+      "repository": "github:psalvaggio/cppregpattern",
+      "maintainers": [
+        {
+          "email": "udayaprakash2899@gmail.com",
+          "github": "udaya2899",
+          "name": "Udaya Prakash Nageswaran"
+        }
+      ],
+      "stargazers_count": 40
+    },
+    {
+      "repository": "github:pybind/pybind11_abseil",
+      "maintainers": [
+        {
+          "email": "jankuehle@google.com",
+          "github": "frigus02",
+          "name": "Jan Kühle"
+        }
+      ],
+      "stargazers_count": 24
+    },
+    {
+      "repository": "github:pybind/pybind11_bazel",
+      "maintainers": [
+        {
+          "email": "junyer@google.com",
+          "github": "junyer",
+          "name": "Paul Wankadia"
+        },
+        {
+          "email": "rwgk@google.com",
+          "github": "rwgk",
+          "name": "Ralf W. Grosse-Kunstleve"
+        }
+      ],
+      "stargazers_count": 96
+    },
+    {
+      "repository": "github:pybind/pybind11_protobuf",
+      "maintainers": [
+        {
+          "email": "jankuehle@google.com",
+          "github": "frigus02",
+          "name": "Jan Kühle"
+        }
+      ],
+      "stargazers_count": 54
+    },
+    {
+      "repository": "github:pytorch/cpuinfo",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 977
     },
     {
       "repository": "github:rabbitmq/looking_glass",
@@ -926,7 +2720,7 @@
           "name": "Rin Kuryloski"
         }
       ],
-      "stargazers_count": 137
+      "stargazers_count": 139
     },
     {
       "repository": "github:rabbitmq/lz4-erlang",
@@ -937,7 +2731,39 @@
           "name": "Rin Kuryloski"
         }
       ],
-      "stargazers_count": 17
+      "stargazers_count": 19
+    },
+    {
+      "repository": "github:rabbitmq/osiris",
+      "maintainers": [
+        {
+          "email": "nkarl@vmware.com",
+          "github": "kjnilsson",
+          "name": "Karl Nilsson"
+        },
+        {
+          "email": "kuryloskip@vmware.com",
+          "github": "pjk25",
+          "name": "Rin Kuryloski"
+        }
+      ],
+      "stargazers_count": 45
+    },
+    {
+      "repository": "github:rabbitmq/ra",
+      "maintainers": [
+        {
+          "email": "nkarl@vmware.com",
+          "github": "kjnilsson",
+          "name": "Karl Nilsson"
+        },
+        {
+          "email": "kuryloskip@vmware.com",
+          "github": "pjk25",
+          "name": "Rin Kuryloski"
+        }
+      ],
+      "stargazers_count": 800
     },
     {
       "repository": "github:rabbitmq/rules_erlang",
@@ -948,7 +2774,45 @@
           "name": "Rin Kuryloski"
         }
       ],
-      "stargazers_count": 30
+      "stargazers_count": 38
+    },
+    {
+      "repository": "github:rabbitmq/seshat",
+      "maintainers": [
+        {
+          "email": "nkarl@vmware.com",
+          "github": "kjnilsson",
+          "name": "Karl Nilsson"
+        },
+        {
+          "email": "kuryloskip@vmware.com",
+          "github": "pjk25",
+          "name": "Rin Kuryloski"
+        }
+      ],
+      "stargazers_count": 13
+    },
+    {
+      "repository": "github:raspberrypi/pico-sdk",
+      "maintainers": [
+        {
+          "github": "armandomontanez",
+          "name": "Armando Montanez"
+        },
+        {
+          "github": "kilograham",
+          "name": "Graham Sanderson"
+        },
+        {
+          "github": "tpudlik",
+          "name": "Ted Pudlik"
+        },
+        {
+          "email": "pigweed-team@googlegroups.com",
+          "name": "The Pigweed Team"
+        }
+      ],
+      "stargazers_count": 3300
     },
     {
       "repository": "github:realm/SwiftLint",
@@ -959,7 +2823,7 @@
           "name": "JP Simard"
         }
       ],
-      "stargazers_count": 17756
+      "stargazers_count": 18524
     },
     {
       "repository": "github:robolectric/robolectric-bazel",
@@ -970,11 +2834,37 @@
           "name": "Ben Lee"
         }
       ],
-      "stargazers_count": 13
+      "stargazers_count": 15
+    },
+    {
+      "repository": "github:rules-proto-grpc/rules_proto_grpc",
+      "maintainers": [
+        {
+          "email": "adam@rules-proto-grpc.com",
+          "github": "aaliddell",
+          "name": "Adam Liddell"
+        }
+      ],
+      "stargazers_count": 248
+    },
+    {
+      "repository": "github:s-yata/marisa-trie",
+      "maintainers": [],
+      "stargazers_count": 500
     },
     {
       "repository": "github:salesforce/rules_spring",
-      "stargazers_count": 188
+      "stargazers_count": 221
+    },
+    {
+      "repository": "github:scipopt/scip",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 377
     },
     {
       "repository": "github:seh/rules_cue",
@@ -985,7 +2875,7 @@
           "name": "Steven E. Harris"
         }
       ],
-      "stargazers_count": 13
+      "stargazers_count": 17
     },
     {
       "repository": "github:seh/rules_kustomize",
@@ -996,11 +2886,55 @@
           "name": "Steven E. Harris"
         }
       ],
-      "stargazers_count": 0
+      "stargazers_count": 2
+    },
+    {
+      "repository": "github:sergeykhliustin/BazelPods",
+      "maintainers": [
+        {
+          "email": "sergey.khliustin@gmail.com",
+          "github": "sergeykhliustin",
+          "name": "Sergii Khliustin"
+        }
+      ],
+      "stargazers_count": 27
+    },
+    {
+      "repository": "github:sgammon/rules_graalvm",
+      "maintainers": [
+        {
+          "email": "sam@elide.dev",
+          "github": "sgammon",
+          "name": "Sam Gammon"
+        }
+      ],
+      "stargazers_count": 44
+    },
+    {
+      "repository": "github:shabanzd/debian_dependency_bazelizer",
+      "maintainers": [
+        {
+          "email": "shaban_ziad@hotmail.com",
+          "github": "shabanzd",
+          "name": "Ziad Shaban"
+        }
+      ],
+      "stargazers_count": 17
     },
     {
       "repository": "github:simuons/rules_clojure",
-      "stargazers_count": 31
+      "stargazers_count": 34
+    },
+    {
+      "repository": "github:skystrife/cpptoml",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 581
     },
     {
       "repository": "github:slamdev/rules_helm",
@@ -1008,20 +2942,156 @@
     },
     {
       "repository": "github:spietras/rules_conda",
-      "stargazers_count": 24
+      "stargazers_count": 26
+    },
+    {
+      "repository": "github:sqids/sqids-bazel",
+      "maintainers": [
+        {
+          "email": "dev@mgred.dev",
+          "github": "mgred",
+          "name": "Marc Redemske"
+        }
+      ],
+      "stargazers_count": 4
+    },
+    {
+      "repository": "github:stonier/yaml-cpp",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 0
+    },
+    {
+      "repository": "github:strasdat/Sophus",
+      "maintainers": [
+        {
+          "email": "git@van-opdenbosch.net",
+          "github": "d-vo",
+          "name": "Dominik Van Opdenbosch"
+        }
+      ],
+      "stargazers_count": 1984
+    },
+    {
+      "repository": "github:swig/swig",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 5632
+    },
+    {
+      "repository": "github:theoremlp/rules_multitool",
+      "maintainers": [
+        {
+          "email": "123787712+mark-thm@users.noreply.github.com",
+          "github": "mark-thm",
+          "name": "Mark Elliot"
+        },
+        {
+          "email": "bazel-maintainers@theoremlp.com",
+          "github": "theoremlp",
+          "name": "Theorem Bazel Maintainers"
+        }
+      ],
+      "stargazers_count": 18
+    },
+    {
+      "repository": "github:theoremlp/rules_uv",
+      "maintainers": [
+        {
+          "email": "123787712+mark-thm@users.noreply.github.com",
+          "github": "mark-thm",
+          "name": "Mark Elliot"
+        },
+        {
+          "email": "bazel-maintainers@theoremlp.com",
+          "github": "theoremlp",
+          "name": "Theorem Bazel Maintainers"
+        }
+      ],
+      "stargazers_count": 22
+    },
+    {
+      "repository": "github:tink-crypto/tink-cc",
+      "maintainers": [
+        {
+          "email": "ambrosin@google.com",
+          "github": "morambro",
+          "name": "Moreno Ambrosin"
+        }
+      ],
+      "stargazers_count": 52
+    },
+    {
+      "repository": "github:tinyobjloader/tinyobjloader",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 3241
+    },
+    {
+      "repository": "github:tukaani-project/xz",
+      "maintainers": [
+        {
+          "email": "dev@rdxip.com",
+          "github": "Attempt3035",
+          "name": "Luke Aguilar"
+        },
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 522
     },
     {
       "repository": "github:tweag/gazelle_cabal",
-      "stargazers_count": 11
+      "stargazers_count": 13
     },
     {
       "repository": "github:tweag/rules_haskell",
+      "maintainers": [
+        {
+          "email": "claudio.bley@tweag.io",
+          "github": "avdv",
+          "name": "Claudio Bley"
+        },
+        {
+          "email": "andreas.herrmann@tweag.io",
+          "github": "aherrmann",
+          "name": "Andreas Herrmann"
+        }
+      ],
       "bazel-recommended": true,
-      "stargazers_count": 254
+      "stargazers_count": 262
     },
     {
       "repository": "github:tweag/rules_nixpkgs",
-      "stargazers_count": 225
+      "maintainers": [
+        {
+          "email": "benjamin.radford@tweag.io ",
+          "github": "benradf",
+          "name": "Benjamin Radford"
+        },
+        {
+          "email": "andreas.herrmann@tweag.io",
+          "github": "aherrmann",
+          "name": "Andreas Herrmann"
+        }
+      ],
+      "stargazers_count": 278
     },
     {
       "repository": "github:tweag/rules_sh",
@@ -1037,20 +3107,414 @@
           "name": "Claudio Bley"
         }
       ],
-      "stargazers_count": 31
+      "stargazers_count": 42
+    },
+    {
+      "repository": "github:uber/hermetic_cc_toolchain",
+      "maintainers": [
+        {
+          "email": "sungyoon@uber.com",
+          "github": "sywhang",
+          "name": "Sung Yoon Whang"
+        },
+        {
+          "email": "zplin@uber.com",
+          "github": "linzhp",
+          "name": "Zhongpeng Lin"
+        }
+      ],
+      "stargazers_count": 273
     },
     {
       "repository": "github:ubiquitoustech/rules_vite",
       "stargazers_count": 11
     },
     {
-      "repository": "github:vmware/rules_oss_audit",
-      "stargazers_count": 26
+      "repository": "github:util-linux/util-linux",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 2591
+    },
+    {
+      "repository": "github:vasi/squashfuse",
+      "maintainers": [
+        {
+          "email": "bcr@laure.nz",
+          "github": "lalten",
+          "name": "lalten"
+        }
+      ],
+      "stargazers_count": 289
+    },
+    {
+      "repository": "github:vmware-archive/rules_oss_audit",
+      "stargazers_count": 31
+    },
+    {
+      "repository": "github:webmproject/libwebp",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 1971
+    },
+    {
+      "repository": "github:wep21/cmake_configure_file",
+      "maintainers": [
+        {
+          "email": "daisuke.nishimatsu1021@gmail.com",
+          "github": "wep21",
+          "name": "Daisuke Nishimatsu"
+        }
+      ],
+      "stargazers_count": 3
+    },
+    {
+      "repository": "github:wheelos/common_msgs",
+      "maintainers": [
+        {
+          "email": "daohu527@google.com",
+          "github": "daohu527",
+          "name": "daohu527"
+        }
+      ],
+      "stargazers_count": 2
+    },
+    {
+      "repository": "github:wjakob/hypothesis",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 9
     },
     {
       "repository": "github:wjakob/nanobind",
       "maintainers": [],
-      "stargazers_count": 1621
+      "stargazers_count": 2194
+    },
+    {
+      "repository": "github:wolftype/versor",
+      "maintainers": [
+        {
+          "email": "udayaprakash2899@gmail.com",
+          "github": "udaya2899",
+          "name": "Udaya Prakash Nageswaran"
+        }
+      ],
+      "stargazers_count": 291
+    },
+    {
+      "repository": "github:xtensor-stack/xtl",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 200
+    },
+    {
+      "repository": "github:yaml/libyaml",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 930
+    },
+    {
+      "repository": "github:yanndegat/rules_tf",
+      "maintainers": [
+        {
+          "email": "yann@2kmail.net",
+          "github": "yanndegat",
+          "name": "Yann DEGAT"
+        }
+      ],
+      "stargazers_count": 8
+    },
+    {
+      "repository": "github:yhirose/cpp-httplib",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 12462
+    },
+    {
+      "repository": "github:yuyawk/rules_build_error",
+      "maintainers": [
+        {
+          "name": "yuyawk",
+          "email": "h1gh5peedne6ula@gmail.com",
+          "github": "yuyawk"
+        }
+      ],
+      "stargazers_count": 2
+    },
+    {
+      "repository": "github:zadlg/tree-sitter-bazel",
+      "maintainers": [
+        {
+          "github": "zadlg",
+          "name": "zadig"
+        }
+      ],
+      "stargazers_count": 3
+    },
+    {
+      "repository": "github:zadlg/tree-sitter-c-bazel",
+      "maintainers": [
+        {
+          "github": "zadlg",
+          "name": "zadig"
+        }
+      ],
+      "stargazers_count": 1
+    },
+    {
+      "repository": "github:zaphoyd/websocketpp",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 6909
+    },
+    {
+      "repository": "github:zaucy/bzlws",
+      "maintainers": [
+        {
+          "email": "ezekiel@seaube.com",
+          "github": "zaucy",
+          "name": "Ezekiel Warren"
+        }
+      ],
+      "stargazers_count": 8
+    },
+    {
+      "repository": "github:zegl/rules_codeowners",
+      "maintainers": [
+        {
+          "email": "gustav@westling.dev",
+          "github": "zegl",
+          "name": "Gustav Westling"
+        }
+      ],
+      "stargazers_count": 56
+    },
+    {
+      "repository": "github:zeromq/cppzmq",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 1911
+    },
+    {
+      "repository": "github:zeromq/libzmq",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 9535
+    },
+    {
+      "repository": "github:zeux/pugixml",
+      "maintainers": [
+        {
+          "email": "bcr-maintainers@bazel.build",
+          "name": "No Maintainer Specified"
+        }
+      ],
+      "stargazers_count": 3914
+    },
+    {
+      "repository": "github:zlib-ng/zlib-ng",
+      "maintainers": [
+        {
+          "email": "julian.amann@tum.de",
+          "github": "Vertexwahn",
+          "name": "Julian Amann"
+        }
+      ],
+      "stargazers_count": 1497
+    },
+    {
+      "repository": "https://github.com/benchsci/rules_nodejs_gazelle",
+      "maintainers": [
+        {
+          "name": "Elvis Wianda",
+          "email": "elvis@benchsci.com",
+          "github": "ewianda"
+        },
+        {
+          "name": "Colin Heathman",
+          "email": "cheathman@benchsci.com",
+          "github": "ColinHeathman"
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/mapbox/earcut.hpp",
+      "maintainers": [
+        {
+          "email": "shaban_ziad@hotmail.com",
+          "github": "shabanzd",
+          "name": "Ziad Shaban"
+        }
+      ]
+    },
+    {
+      "repository": "https://github.com/microsoft/GSL",
+      "maintainers": [
+        {
+          "email": "shaban_ziad@hotmail.com",
+          "github": "shabanzd",
+          "name": "Ziad Shaban"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/ape",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/download_utils",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_bzip2",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_coreutils",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_curl",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_diff",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_gzip",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_squashfs",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_tar",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_xz",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/rules_zstd",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
+    },
+    {
+      "repository": "https://gitlab.arm.com/bazel/toolchain_utils",
+      "maintainers": [
+        {
+          "email": "matthew.clarkson@arm.com",
+          "name": "Matt Clarkson",
+          "github": "mattyclarkson"
+        }
+      ]
     }
   ]
 }

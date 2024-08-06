@@ -1,0 +1,74 @@
+[
+  {
+    "name": "0.0.6",
+    "date": "2024-07-16T21:22:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "swift-bep-parser.0.0.6.tar.gz",
+        "count": 168,
+        "size": 19381
+      }
+    ]
+  },
+  {
+    "name": "0.0.5",
+    "date": "2024-02-23T14:02:55Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "swift-bep-parser.0.0.5.tar.gz",
+        "count": 652,
+        "size": 16485
+      }
+    ]
+  },
+  {
+    "name": "0.0.4",
+    "date": "2024-02-23T03:35:02Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "swift-bep-parser.0.0.4.tar.gz",
+        "count": 251,
+        "size": 16494
+      }
+    ]
+  },
+  {
+    "name": "0.0.3",
+    "date": "2024-02-23T00:18:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "swift-bep-parser.0.0.3.tar.gz",
+        "count": 4,
+        "size": 16494
+      }
+    ]
+  },
+  {
+    "name": "0.0.2",
+    "date": "2023-12-23T18:19:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "swift-bep-parser.0.0.2.tar.gz",
+        "count": 20,
+        "size": 23586
+      }
+    ]
+  },
+  {
+    "name": "0.0.1",
+    "date": "2023-12-23T18:03:02Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "swift-bep-parser.0.0.1.tar.gz",
+        "count": 0,
+        "size": 31487
+      }
+    ]
+  }
+]

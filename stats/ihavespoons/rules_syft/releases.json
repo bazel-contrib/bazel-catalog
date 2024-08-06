@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v0.1.0",
+    "date": "2024-07-04T07:36:32Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_syft-v0.1.0.tar.gz",
+        "count": 10,
+        "size": 93730
+      }
+    ]
+  },
+  {
+    "name": "v0.0.2",
+    "date": "2024-05-29T06:37:58Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_syft-v0.0.2.tar.gz",
+        "count": 107,
+        "size": 56073
+      }
+    ]
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2023-11-13T11:12:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_syft-v0.0.1.tar.gz",
+        "count": 393,
+        "size": 18449
+      }
+    ]
+  }
+]

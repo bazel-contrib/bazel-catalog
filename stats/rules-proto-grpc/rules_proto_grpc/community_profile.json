@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets",
+  "documentation": "https://rules-proto-grpc.com",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/rules-proto-grpc/rules_proto_grpc/contents/docs/contributing.rst",
+      "html_url": "https://github.com/rules-proto-grpc/rules_proto_grpc/blob/master/docs/contributing.rst"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/rules-proto-grpc/rules_proto_grpc/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/rules-proto-grpc/rules_proto_grpc/contents/README.md",
+      "html_url": "https://github.com/rules-proto-grpc/rules_proto_grpc/blob/master/README.md"
+    }
+  },
+  "updated_at": "2021-02-21T23:39:51Z",
+  "content_reports_enabled": false
+}

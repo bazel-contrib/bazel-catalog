@@ -1,0 +1,86 @@
+[
+  {
+    "name": "yaml-cpp-0.7.0",
+    "sha": "0579ae3d976091d7d664aa9d2527e0d0cff25763"
+  },
+  {
+    "name": "yaml-cpp-0.6.3",
+    "sha": "9a3624205e8774953ef18f57067b3426c1c5ada6"
+  },
+  {
+    "name": "yaml-cpp-0.6.2",
+    "sha": "562aefc114938e388457e6a531ed7b54d9dc1b62"
+  },
+  {
+    "name": "yaml-cpp-0.6.1",
+    "sha": "5d5bb52ec2825eb4c0c932a9c2d50dc3699f932f"
+  },
+  {
+    "name": "yaml-cpp-0.6.0",
+    "sha": "aac4df342b5c3563ee9dfc8038ef8a00f6212d32"
+  },
+  {
+    "name": "yaml-cpp-0.5.3",
+    "sha": "b57efe94e7d445713c29f863adb8c23438eaa217"
+  },
+  {
+    "name": "release-0.5.3",
+    "sha": "b57efe94e7d445713c29f863adb8c23438eaa217"
+  },
+  {
+    "name": "release-0.5.2",
+    "sha": "998d7bf31e1bab4e45221c28fad8e00ddcf8855e"
+  },
+  {
+    "name": "release-0.5.1",
+    "sha": "fa6a71e37f5e3c37f78d581076d15fd9e68f9c2e"
+  },
+  {
+    "name": "release-0.5.0",
+    "sha": "627618971621a5047500a68bc8307bd3e2a48fc0"
+  },
+  {
+    "name": "release-0.3.0",
+    "sha": "572e940c83f34dfcae0280351a6b5f4c0e2256dc"
+  },
+  {
+    "name": "release-0.2.7",
+    "sha": "976e8b184cd4a57e5449d9cdc218b9b0f9a1e62d"
+  },
+  {
+    "name": "release-0.2.6",
+    "sha": "f42580be4172ddaa6591b6d94fc68f3eb24da35d"
+  },
+  {
+    "name": "release-0.2.5",
+    "sha": "326899815ff129d1bfa6a687c89dce76721e5fcd"
+  },
+  {
+    "name": "release-0.2.4",
+    "sha": "22410f46f5065cc7c729446983dc3845b944ef32"
+  },
+  {
+    "name": "release-0.2.3",
+    "sha": "beb524489ce8f36729bf58d23a6ed79e8639621f"
+  },
+  {
+    "name": "release-0.2.2",
+    "sha": "7c4cc9bf5fad5bb6dc2aa62b14eae14ab3681c77"
+  },
+  {
+    "name": "release-0.2.1",
+    "sha": "5217149ed44cf826329108be336d084b52d6265d"
+  },
+  {
+    "name": "release-0.2.0",
+    "sha": "729fb4d30b658ccc4d0ba8d89b52d06146e02f7f"
+  },
+  {
+    "name": "0.8.0",
+    "sha": "f7320141120f720aecc4c32be25586e7da9eb978"
+  },
+  {
+    "name": "0.8.0-1",
+    "sha": "0ed499b892cb7b2578ace8cfca5a3ca99bec99b6"
+  }
+]

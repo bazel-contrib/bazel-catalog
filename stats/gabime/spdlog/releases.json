@@ -1,5 +1,23 @@
 [
   {
+    "name": "v1.14.1",
+    "date": "2024-04-30T12:34:26Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.14.0",
+    "date": "2024-04-25T23:34:34Z",
+    "mentions": 14,
+    "downloads": []
+  },
+  {
+    "name": "v1.13.0",
+    "date": "2024-01-12T10:55:56Z",
+    "mentions": 14,
+    "downloads": []
+  },
+  {
     "name": "v1.12.0",
     "date": "2023-07-08T16:29:56Z",
     "mentions": 40,
@@ -158,24 +176,6 @@
   {
     "name": "v0.16.3",
     "date": "2018-01-12T12:39:59Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.16.2",
-    "date": "2017-12-22T17:02:17Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.16.1",
-    "date": "2017-12-20T08:29:31Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.16.0",
-    "date": "2017-12-19T22:59:19Z",
     "mentions": null,
     "downloads": []
   }

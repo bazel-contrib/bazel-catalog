@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write.",
+  "documentation": "https://memory.foonathan.net",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "zlib",
+      "name": "zlib License",
+      "spdx_id": "Zlib",
+      "url": "https://api.github.com/licenses/zlib",
+      "node_id": "MDc6TGljZW5zZTI3",
+      "html_url": "https://github.com/foonathan/memory/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/foonathan/memory/contents/README.md",
+      "html_url": "https://github.com/foonathan/memory/blob/main/README.md"
+    }
+  },
+  "updated_at": "2022-03-30T07:34:52Z"
+}

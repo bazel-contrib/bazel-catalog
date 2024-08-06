@@ -1,0 +1,170 @@
+[
+  {
+    "name": "v3.1.0",
+    "date": "2024-05-13T23:08:45Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v3.1.0.tar.gz",
+        "count": 133594,
+        "size": 14885
+      }
+    ]
+  },
+  {
+    "name": "v3.0.1",
+    "date": "2024-02-22T09:01:31Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v3.0.1.tar.gz",
+        "count": 78010,
+        "size": 14897
+      }
+    ]
+  },
+  {
+    "name": "v3.0.0",
+    "date": "2024-02-15T12:16:39Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v3.0.0.tar.gz",
+        "count": 733,
+        "size": 14629
+      }
+    ]
+  },
+  {
+    "name": "v2.2.3",
+    "date": "2024-02-07T09:39:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.2.3.tar.gz",
+        "count": 443,
+        "size": 14443
+      }
+    ]
+  },
+  {
+    "name": "v2.2.1",
+    "date": "2024-01-12T07:48:11Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.2.1.tar.gz",
+        "count": 141184,
+        "size": 14263
+      }
+    ]
+  },
+  {
+    "name": "v2.2.0",
+    "date": "2024-01-11T08:22:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.2.0.tar.gz",
+        "count": 192867,
+        "size": 14327
+      }
+    ]
+  },
+  {
+    "name": "v2.1.3",
+    "date": "2023-11-09T13:38:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.1.3.tar.gz",
+        "count": 14156,
+        "size": 14164
+      }
+    ]
+  },
+  {
+    "name": "v2.1.2",
+    "date": "2023-09-25T04:17:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.1.2.tar.gz",
+        "count": 9607,
+        "size": 14100
+      }
+    ]
+  },
+  {
+    "name": "v2.1.1",
+    "date": "2023-09-05T00:00:38Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.1.1.tar.gz",
+        "count": 117343,
+        "size": 24716
+      }
+    ]
+  },
+  {
+    "name": "v2.1.0",
+    "date": "2023-09-02T23:55:39Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.1.0.tar.gz",
+        "count": 73,
+        "size": 14100
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0",
+    "date": "2023-05-30T11:21:51Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.0.0.tar.gz",
+        "count": 1671,
+        "size": 14036
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc2",
+    "date": "2023-05-11T10:48:13Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.0.0-rc2.tar.gz",
+        "count": 117,
+        "size": 14233
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc1",
+    "date": "2023-04-24T13:47:39Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "hermetic_cc_toolchain-v2.0.0-rc1.tar.gz",
+        "count": 1605,
+        "size": 20268
+      }
+    ]
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2023-03-23T20:48:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "v1.0.1.tar.gz",
+        "count": 9029,
+        "size": 34094
+      }
+    ]
+  }
+]

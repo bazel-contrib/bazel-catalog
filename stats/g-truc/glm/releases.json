@@ -1,0 +1,512 @@
+[
+  {
+    "name": "1.0.1",
+    "date": "2024-02-26T14:49:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-1.0.1-light.7z",
+        "count": 3597,
+        "size": 170061
+      },
+      {
+        "name": "glm-1.0.1-light.zip",
+        "count": 13324,
+        "size": 427680
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2024-01-24T13:30:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-1.0.0-light.7z",
+        "count": 2910,
+        "size": 169229
+      },
+      {
+        "name": "glm-1.0.0-light.zip",
+        "count": 3630,
+        "size": 426201
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.8",
+    "date": "2020-04-13T18:10:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.8.7z",
+        "count": 74986,
+        "size": 3428631
+      },
+      {
+        "name": "glm-0.9.9.8.zip",
+        "count": 277297,
+        "size": 5670692
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.7",
+    "date": "2020-01-05T14:55:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.7.7z",
+        "count": 3076,
+        "size": 3346653
+      },
+      {
+        "name": "glm-0.9.9.7.zip",
+        "count": 93816,
+        "size": 5622728
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.6",
+    "date": "2019-09-08T11:30:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.6.7z",
+        "count": 3154,
+        "size": 3356554
+      },
+      {
+        "name": "glm-0.9.9.6.zip",
+        "count": 44463,
+        "size": 5617353
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.5",
+    "date": "2019-04-02T09:31:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.5.7z",
+        "count": 10332,
+        "size": 3374307
+      },
+      {
+        "name": "glm-0.9.9.5.zip",
+        "count": 57977,
+        "size": 5963606
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.4",
+    "date": "2019-03-19T17:28:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.4.7z",
+        "count": 7167,
+        "size": 3374292
+      },
+      {
+        "name": "glm-0.9.9.4.zip",
+        "count": 2539,
+        "size": 5963059
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.3",
+    "date": "2018-10-31T13:31:07Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.3.7z",
+        "count": 3388,
+        "size": 3374474
+      },
+      {
+        "name": "glm-0.9.9.3.zip",
+        "count": 22858,
+        "size": 5961267
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.2",
+    "date": "2018-09-14T11:16:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.2.7z",
+        "count": 6124,
+        "size": 3371741
+      },
+      {
+        "name": "glm-0.9.9.2.zip",
+        "count": 8851,
+        "size": 5954536
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.1",
+    "date": "2018-09-03T21:25:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.1.7z",
+        "count": 1167,
+        "size": 3369798
+      },
+      {
+        "name": "glm-0.9.9.1.zip",
+        "count": 1897,
+        "size": 5954033
+      }
+    ]
+  },
+  {
+    "name": "0.9.9.0",
+    "date": "2018-05-22T08:38:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.9.0.7z",
+        "count": 4516,
+        "size": 1857564
+      },
+      {
+        "name": "glm-0.9.9.0.zip",
+        "count": 12650,
+        "size": 3477490
+      }
+    ]
+  },
+  {
+    "name": "0.9.8.5",
+    "date": "2017-08-16T18:43:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.8.5.7z",
+        "count": 7396,
+        "size": 3200288
+      },
+      {
+        "name": "glm-0.9.8.5.zip",
+        "count": 68050,
+        "size": 4344454
+      }
+    ]
+  },
+  {
+    "name": "0.9.8.4",
+    "date": "2017-01-22T11:22:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.8.4.7z",
+        "count": 5863,
+        "size": 3208152
+      },
+      {
+        "name": "glm-0.9.8.4.zip",
+        "count": 31528,
+        "size": 4358524
+      }
+    ]
+  },
+  {
+    "name": "0.9.8.3",
+    "date": "2016-11-12T11:12:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.8.3.7z",
+        "count": 2226,
+        "size": 3207175
+      },
+      {
+        "name": "glm-0.9.8.3.zip",
+        "count": 10321,
+        "size": 4356864
+      }
+    ]
+  },
+  {
+    "name": "0.9.8.2",
+    "date": "2016-11-01T08:25:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.8.2.7z",
+        "count": 361,
+        "size": 3210930
+      },
+      {
+        "name": "glm-0.9.8.2.zip",
+        "count": 3847,
+        "size": 4356557
+      }
+    ]
+  },
+  {
+    "name": "0.9.8.1",
+    "date": "2016-09-25T10:06:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.8.1.7z",
+        "count": 1489,
+        "size": 3210688
+      },
+      {
+        "name": "glm-0.9.8.1.zip",
+        "count": 6966,
+        "size": 4355299
+      }
+    ]
+  },
+  {
+    "name": "0.9.8.0",
+    "date": "2016-09-11T11:03:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.8.0.7z",
+        "count": 2705,
+        "size": 3209003
+      },
+      {
+        "name": "glm-0.9.8.0.zip",
+        "count": 124439,
+        "size": 4349363
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.6",
+    "date": "2016-07-16T18:49:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.6.7z",
+        "count": 2104,
+        "size": 2833555
+      },
+      {
+        "name": "glm-0.9.7.6.zip",
+        "count": 10865,
+        "size": 4350968
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.5",
+    "date": "2016-05-24T20:38:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.5.7z",
+        "count": 1523,
+        "size": 2831567
+      },
+      {
+        "name": "glm-0.9.7.5.zip",
+        "count": 10431,
+        "size": 4347932
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.4",
+    "date": "2016-03-19T13:23:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.4.7z",
+        "count": 2467,
+        "size": 2831562
+      },
+      {
+        "name": "glm-0.9.7.4.zip",
+        "count": 10881,
+        "size": 4347932
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.3",
+    "date": "2016-02-21T13:45:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.3.7z",
+        "count": 935,
+        "size": 2831243
+      },
+      {
+        "name": "glm-0.9.7.3.zip",
+        "count": 5299,
+        "size": 4347565
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.2",
+    "date": "2016-01-03T18:00:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.2.7z",
+        "count": 1515,
+        "size": 2830748
+      },
+      {
+        "name": "glm-0.9.7.2.zip",
+        "count": 7110,
+        "size": 4347333
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.1",
+    "date": "2015-09-07T17:42:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.1.7z",
+        "count": 3618,
+        "size": 2830021
+      },
+      {
+        "name": "glm-0.9.7.1.zip",
+        "count": 16312,
+        "size": 4346322
+      }
+    ]
+  },
+  {
+    "name": "0.9.7.0",
+    "date": "2015-08-02T08:39:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.7.0.7z",
+        "count": 1285,
+        "size": 2830290
+      },
+      {
+        "name": "glm-0.9.7.0.zip",
+        "count": 4354,
+        "size": 4351189
+      }
+    ]
+  },
+  {
+    "name": "0.9.6.3",
+    "date": "2015-05-01T19:54:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.6.3.7z",
+        "count": 147,
+        "size": 2730341
+      },
+      {
+        "name": "glm-0.9.6.3.zip",
+        "count": 3414,
+        "size": 4233404
+      }
+    ]
+  },
+  {
+    "name": "0.9.6.2",
+    "date": "2015-08-02T08:47:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.6.2.7z",
+        "count": 43,
+        "size": 2730213
+      },
+      {
+        "name": "glm-0.9.6.2.zip",
+        "count": 150,
+        "size": 4233382
+      }
+    ]
+  },
+  {
+    "name": "0.9.6.1",
+    "date": "2015-08-02T08:46:40Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.6.1.7z",
+        "count": 60,
+        "size": 2729572
+      },
+      {
+        "name": "glm-0.9.6.1.zip",
+        "count": 170,
+        "size": 4232099
+      }
+    ]
+  },
+  {
+    "name": "0.9.6.0",
+    "date": "2015-08-02T08:44:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.6.0.7z",
+        "count": 75,
+        "size": 2722576
+      },
+      {
+        "name": "glm-0.9.6.0.zip",
+        "count": 241,
+        "size": 4219782
+      }
+    ]
+  },
+  {
+    "name": "0.9.5.4",
+    "date": "2015-05-01T20:03:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.5.4.7z",
+        "count": 218,
+        "size": 2704052
+      },
+      {
+        "name": "glm-0.9.5.4.zip",
+        "count": 8122,
+        "size": 4081182
+      }
+    ]
+  },
+  {
+    "name": "0.9.5.3",
+    "date": "2015-08-02T08:49:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glm-0.9.5.3.7z",
+        "count": 52,
+        "size": 2700116
+      },
+      {
+        "name": "glm-0.9.5.3.zip",
+        "count": 133,
+        "size": 4077373
+      }
+    ]
+  }
+]

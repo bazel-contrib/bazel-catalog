@@ -1,0 +1,206 @@
+[
+  {
+    "name": "v1.10.1",
+    "date": "2023-08-23T10:58:22Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.10.1.tar.gz",
+        "count": 32914,
+        "size": 1272152
+      },
+      {
+        "name": "libzip-1.10.1.tar.xz",
+        "count": 31982,
+        "size": 774144
+      }
+    ]
+  },
+  {
+    "name": "v1.10.0",
+    "date": "2023-06-23T14:41:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.10.0.tar.gz",
+        "count": 947,
+        "size": 1268582
+      },
+      {
+        "name": "libzip-1.10.0.tar.xz",
+        "count": 8715,
+        "size": 771676
+      }
+    ]
+  },
+  {
+    "name": "v1.9.2",
+    "date": "2022-06-28T14:22:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.9.2.tar.gz",
+        "count": 18043,
+        "size": 1256390
+      },
+      {
+        "name": "libzip-1.9.2.tar.xz",
+        "count": 21181,
+        "size": 763980
+      }
+    ]
+  },
+  {
+    "name": "v1.9.1",
+    "date": "2022-06-28T11:30:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.9.1.tar.gz",
+        "count": 81,
+        "size": 1256358
+      },
+      {
+        "name": "libzip-1.9.1.tar.xz",
+        "count": 60,
+        "size": 763904
+      }
+    ]
+  },
+  {
+    "name": "v1.9.0",
+    "date": "2022-06-13T15:28:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.9.0.tar.gz",
+        "count": 146,
+        "size": 1256152
+      },
+      {
+        "name": "libzip-1.9.0.tar.xz",
+        "count": 390,
+        "size": 763704
+      }
+    ]
+  },
+  {
+    "name": "v1.8.0",
+    "date": "2021-06-18T16:43:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.8.0.tar.gz",
+        "count": 11428,
+        "size": 1252451
+      },
+      {
+        "name": "libzip-1.8.0.tar.xz",
+        "count": 5467,
+        "size": 760604
+      }
+    ]
+  },
+  {
+    "name": "v1.7.3",
+    "date": "2020-07-15T08:12:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.7.3.tar.gz",
+        "count": 111995,
+        "size": 1231618
+      },
+      {
+        "name": "libzip-1.7.3.tar.xz",
+        "count": 8796,
+        "size": 747372
+      }
+    ]
+  },
+  {
+    "name": "v1.7.2",
+    "date": "2020-07-11T09:11:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.7.2.tar.gz",
+        "count": 75,
+        "size": 1220996
+      },
+      {
+        "name": "libzip-1.7.2.tar.xz",
+        "count": 85,
+        "size": 737992
+      }
+    ]
+  },
+  {
+    "name": "v1.7.1",
+    "date": "2020-06-13T10:18:19Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.7.1.tar.gz",
+        "count": 3082,
+        "size": 1220469
+      },
+      {
+        "name": "libzip-1.7.1.tar.xz",
+        "count": 69,
+        "size": 737496
+      }
+    ]
+  },
+  {
+    "name": "rel-1-7-0",
+    "date": "2020-06-05T10:42:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.7.0.tar.gz",
+        "count": 421,
+        "size": 1220216
+      },
+      {
+        "name": "libzip-1.7.0.tar.xz",
+        "count": 45,
+        "size": 737184
+      }
+    ]
+  },
+  {
+    "name": "rel-1-6-1",
+    "date": "2020-02-03T14:27:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.6.1.tar.gz",
+        "count": 5585,
+        "size": 1214227
+      },
+      {
+        "name": "libzip-1.6.1.tar.xz",
+        "count": 146,
+        "size": 732932
+      }
+    ]
+  },
+  {
+    "name": "rel-1-6-0",
+    "date": "2020-01-24T11:45:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "libzip-1.6.0.tar.gz",
+        "count": 414,
+        "size": 1214206
+      },
+      {
+        "name": "libzip-1.6.0.tar.xz",
+        "count": 81,
+        "size": 732812
+      }
+    ]
+  }
+]

@@ -1,0 +1,7687 @@
+[
+  {
+    "name": "llvmorg-19.1.0-rc2",
+    "date": "2024-08-05T08:52:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-19.1.0-rc2.src.tar.xz",
+        "count": 2,
+        "size": 890344
+      },
+      {
+        "name": "bolt-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "clang-19.1.0-rc2.src.tar.xz",
+        "count": 3,
+        "size": 23503156
+      },
+      {
+        "name": "clang-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-19.1.0-rc2.src.tar.xz",
+        "count": 2,
+        "size": 3416516
+      },
+      {
+        "name": "clang-tools-extra-19.1.0-rc2.src.tar.xz.sig",
+        "count": 2,
+        "size": 438
+      },
+      {
+        "name": "cmake-19.1.0-rc2.src.tar.xz",
+        "count": 2,
+        "size": 9292
+      },
+      {
+        "name": "cmake-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-19.1.0-rc2.src.tar.xz",
+        "count": 2,
+        "size": 2527220
+      },
+      {
+        "name": "compiler-rt-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "flang-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 3347328
+      },
+      {
+        "name": "flang-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libclc-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 128920
+      },
+      {
+        "name": "libclc-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libcxx-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 4715636
+      },
+      {
+        "name": "libcxx-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 583288
+      },
+      {
+        "name": "libcxxabi-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libunwind-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 119456
+      },
+      {
+        "name": "libunwind-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "lld-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 1644704
+      },
+      {
+        "name": "lld-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "lldb-19.1.0-rc2.src.tar.xz",
+        "count": 2,
+        "size": 10689592
+      },
+      {
+        "name": "lldb-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "llvm-19.1.0-rc2.src.tar.xz",
+        "count": 4,
+        "size": 67759456
+      },
+      {
+        "name": "llvm-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-19.1.0-rc2.src.tar.xz",
+        "count": 36,
+        "size": 141264388
+      },
+      {
+        "name": "llvm-project-19.1.0-rc2.src.tar.xz.sig",
+        "count": 11,
+        "size": 438
+      },
+      {
+        "name": "mlir-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 6485140
+      },
+      {
+        "name": "mlir-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "openmp-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 1089432
+      },
+      {
+        "name": "openmp-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "polly-19.1.0-rc2.src.tar.xz",
+        "count": 2,
+        "size": 9161864
+      },
+      {
+        "name": "polly-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "runtimes-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 7224
+      },
+      {
+        "name": "runtimes-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "sources-attestation.jsonl",
+        "count": 1,
+        "size": 205596
+      },
+      {
+        "name": "test-suite-19.1.0-rc2.src.tar.xz",
+        "count": 3,
+        "size": 171193084
+      },
+      {
+        "name": "test-suite-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "third-party-19.1.0-rc2.src.tar.xz",
+        "count": 1,
+        "size": 454772
+      },
+      {
+        "name": "third-party-19.1.0-rc2.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-19.1.0-rc1",
+    "date": "2024-07-26T15:00:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "attestation.jsonl",
+        "count": 15,
+        "size": 205761
+      },
+      {
+        "name": "bolt-19.1.0-rc1.src.tar.xz",
+        "count": 9,
+        "size": 890420
+      },
+      {
+        "name": "bolt-19.1.0-rc1.src.tar.xz.sig",
+        "count": 3,
+        "size": 438
+      },
+      {
+        "name": "clang-19.1.0-rc1.src.tar.xz",
+        "count": 46,
+        "size": 23499588
+      },
+      {
+        "name": "clang-19.1.0-rc1.src.tar.xz.sig",
+        "count": 8,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-19.1.0-rc1.src.tar.xz",
+        "count": 22,
+        "size": 3416388
+      },
+      {
+        "name": "clang-tools-extra-19.1.0-rc1.src.tar.xz.sig",
+        "count": 5,
+        "size": 438
+      },
+      {
+        "name": "cmake-19.1.0-rc1.src.tar.xz",
+        "count": 22,
+        "size": 9300
+      },
+      {
+        "name": "cmake-19.1.0-rc1.src.tar.xz.sig",
+        "count": 6,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-19.1.0-rc1.src.tar.xz",
+        "count": 15,
+        "size": 2530788
+      },
+      {
+        "name": "compiler-rt-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "flang-19.1.0-rc1.src.tar.xz",
+        "count": 5,
+        "size": 3347272
+      },
+      {
+        "name": "flang-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libclc-19.1.0-rc1.src.tar.xz",
+        "count": 6,
+        "size": 128940
+      },
+      {
+        "name": "libclc-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libcxx-19.1.0-rc1.src.tar.xz",
+        "count": 8,
+        "size": 4713604
+      },
+      {
+        "name": "libcxx-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-19.1.0-rc1.src.tar.xz",
+        "count": 5,
+        "size": 583288
+      },
+      {
+        "name": "libcxxabi-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "libunwind-19.1.0-rc1.src.tar.xz",
+        "count": 6,
+        "size": 119484
+      },
+      {
+        "name": "libunwind-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "lld-19.1.0-rc1.src.tar.xz",
+        "count": 12,
+        "size": 1640504
+      },
+      {
+        "name": "lld-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "lldb-19.1.0-rc1.src.tar.xz",
+        "count": 7,
+        "size": 10689452
+      },
+      {
+        "name": "lldb-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "LLVM-19.1.0-rc1-Linux-X64.tar.xz",
+        "count": 5,
+        "size": 1655055532
+      },
+      {
+        "name": "LLVM-19.1.0-rc1-Linux-X64.tar.xz.jsonl",
+        "count": 1,
+        "size": 10370
+      },
+      {
+        "name": "LLVM-19.1.0-rc1-Linux-X64.tar.xz.sig",
+        "count": 1,
+        "size": 566
+      },
+      {
+        "name": "LLVM-19.1.0-rc1-macOS-ARM64.tar.xz",
+        "count": 0,
+        "size": 1405168312
+      },
+      {
+        "name": "LLVM-19.1.0-rc1-macOS-ARM64.tar.xz.jsonl",
+        "count": 0,
+        "size": 10233
+      },
+      {
+        "name": "LLVM-19.1.0-rc1-macOS-ARM64.tar.xz.sig",
+        "count": 0,
+        "size": 566
+      },
+      {
+        "name": "llvm-19.1.0-rc1.src.tar.xz",
+        "count": 38,
+        "size": 67740668
+      },
+      {
+        "name": "llvm-19.1.0-rc1.src.tar.xz.sig",
+        "count": 7,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-19.1.0-rc1.src.tar.xz",
+        "count": 134,
+        "size": 141259912
+      },
+      {
+        "name": "llvm-project-19.1.0-rc1.src.tar.xz.sig",
+        "count": 25,
+        "size": 438
+      },
+      {
+        "name": "mlir-19.1.0-rc1.src.tar.xz",
+        "count": 5,
+        "size": 6485528
+      },
+      {
+        "name": "mlir-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "openmp-19.1.0-rc1.src.tar.xz",
+        "count": 11,
+        "size": 1089256
+      },
+      {
+        "name": "openmp-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "polly-19.1.0-rc1.src.tar.xz",
+        "count": 5,
+        "size": 9163576
+      },
+      {
+        "name": "polly-19.1.0-rc1.src.tar.xz.sig",
+        "count": 1,
+        "size": 438
+      },
+      {
+        "name": "runtimes-19.1.0-rc1.src.tar.xz",
+        "count": 5,
+        "size": 7228
+      },
+      {
+        "name": "runtimes-19.1.0-rc1.src.tar.xz.sig",
+        "count": 0,
+        "size": 438
+      },
+      {
+        "name": "test-suite-19.1.0-rc1.src.tar.xz",
+        "count": 5,
+        "size": 171425288
+      },
+      {
+        "name": "test-suite-19.1.0-rc1.src.tar.xz.sig",
+        "count": 0,
+        "size": 438
+      },
+      {
+        "name": "third-party-19.1.0-rc1.src.tar.xz",
+        "count": 18,
+        "size": 454864
+      },
+      {
+        "name": "third-party-19.1.0-rc1.src.tar.xz.sig",
+        "count": 5,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.8",
+    "date": "2024-06-19T00:29:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.8.src.tar.xz",
+        "count": 618,
+        "size": 764696
+      },
+      {
+        "name": "bolt-18.1.8.src.tar.xz.sig",
+        "count": 110,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.8-aarch64-linux-gnu.tar.xz",
+        "count": 1711,
+        "size": 1051625508
+      },
+      {
+        "name": "clang+llvm-18.1.8-armv7a-linux-gnueabihf.tar.gz",
+        "count": 310,
+        "size": 1413107159
+      },
+      {
+        "name": "clang+llvm-18.1.8-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 152,
+        "size": 735297296
+      },
+      {
+        "name": "clang+llvm-18.1.8-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 187,
+        "size": 922334644
+      },
+      {
+        "name": "clang+llvm-18.1.8-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
+        "count": 3053,
+        "size": 1044930068
+      },
+      {
+        "name": "clang+llvm-18.1.8-x86_64-pc-windows-msvc.tar.xz",
+        "count": 10774,
+        "size": 981666720
+      },
+      {
+        "name": "clang-18.1.8.src.tar.xz",
+        "count": 3632,
+        "size": 22155252
+      },
+      {
+        "name": "clang-18.1.8.src.tar.xz.sig",
+        "count": 840,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.8.src.tar.xz",
+        "count": 1840,
+        "size": 3340400
+      },
+      {
+        "name": "clang-tools-extra-18.1.8.src.tar.xz.sig",
+        "count": 730,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.8.src.tar.xz",
+        "count": 11865,
+        "size": 8708
+      },
+      {
+        "name": "cmake-18.1.8.src.tar.xz.sig",
+        "count": 1858,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.8.src.tar.xz",
+        "count": 1709,
+        "size": 2469712
+      },
+      {
+        "name": "compiler-rt-18.1.8.src.tar.xz.sig",
+        "count": 746,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.8.src.tar.xz",
+        "count": 241,
+        "size": 3074072
+      },
+      {
+        "name": "flang-18.1.8.src.tar.xz.sig",
+        "count": 107,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.8.src.tar.xz",
+        "count": 583,
+        "size": 126572
+      },
+      {
+        "name": "libclc-18.1.8.src.tar.xz.sig",
+        "count": 99,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.8.src.tar.xz",
+        "count": 1162,
+        "size": 4028732
+      },
+      {
+        "name": "libcxx-18.1.8.src.tar.xz.sig",
+        "count": 484,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.8.src.tar.xz",
+        "count": 720,
+        "size": 582748
+      },
+      {
+        "name": "libcxxabi-18.1.8.src.tar.xz.sig",
+        "count": 478,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.8.src.tar.xz",
+        "count": 915,
+        "size": 119316
+      },
+      {
+        "name": "libunwind-18.1.8.src.tar.xz.sig",
+        "count": 534,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.8.src.tar.xz",
+        "count": 1439,
+        "size": 1563500
+      },
+      {
+        "name": "lld-18.1.8.src.tar.xz.sig",
+        "count": 666,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.8.src.tar.xz",
+        "count": 429,
+        "size": 10598652
+      },
+      {
+        "name": "lldb-18.1.8.src.tar.xz.sig",
+        "count": 120,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.8-win32.exe",
+        "count": 1554,
+        "size": 348379223
+      },
+      {
+        "name": "LLVM-18.1.8-win64.exe",
+        "count": 42772,
+        "size": 374335885
+      },
+      {
+        "name": "LLVM-18.1.8-woa64.exe",
+        "count": 701,
+        "size": 345225147
+      },
+      {
+        "name": "llvm-18.1.8.src.tar.xz",
+        "count": 4406,
+        "size": 61986468
+      },
+      {
+        "name": "llvm-18.1.8.src.tar.xz.sig",
+        "count": 1593,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.8.src.tar.xz",
+        "count": 87062,
+        "size": 132067260
+      },
+      {
+        "name": "llvm-project-18.1.8.src.tar.xz.sig",
+        "count": 540,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.8.src.tar.xz",
+        "count": 300,
+        "size": 5898700
+      },
+      {
+        "name": "mlir-18.1.8.src.tar.xz.sig",
+        "count": 163,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.8.src.tar.xz",
+        "count": 8264,
+        "size": 1320200
+      },
+      {
+        "name": "openmp-18.1.8.src.tar.xz.sig",
+        "count": 120,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.8.src.tar.xz",
+        "count": 197,
+        "size": 9159676
+      },
+      {
+        "name": "polly-18.1.8.src.tar.xz.sig",
+        "count": 99,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.8.src.tar.xz",
+        "count": 856,
+        "size": 6788
+      },
+      {
+        "name": "runtimes-18.1.8.src.tar.xz.sig",
+        "count": 466,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.8.src.tar.xz",
+        "count": 142,
+        "size": 165773832
+      },
+      {
+        "name": "test-suite-18.1.8.src.tar.xz.sig",
+        "count": 58,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.8.src.tar.xz",
+        "count": 2003,
+        "size": 402272
+      },
+      {
+        "name": "third-party-18.1.8.src.tar.xz.sig",
+        "count": 1007,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.7",
+    "date": "2024-06-06T01:01:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.7.src.tar.xz",
+        "count": 162,
+        "size": 764752
+      },
+      {
+        "name": "bolt-18.1.7.src.tar.xz.sig",
+        "count": 43,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.7-aarch64-linux-gnu.tar.xz",
+        "count": 365,
+        "size": 1052720704
+      },
+      {
+        "name": "clang+llvm-18.1.7-armv7a-linux-gnueabihf.tar.gz",
+        "count": 85,
+        "size": 1413095090
+      },
+      {
+        "name": "clang+llvm-18.1.7-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 41,
+        "size": 736240588
+      },
+      {
+        "name": "clang+llvm-18.1.7-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 44,
+        "size": 922608196
+      },
+      {
+        "name": "clang+llvm-18.1.7-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
+        "count": 180,
+        "size": 967787124
+      },
+      {
+        "name": "clang+llvm-18.1.7-x86_64-pc-windows-msvc.tar.xz",
+        "count": 1207,
+        "size": 981675624
+      },
+      {
+        "name": "clang-18.1.7.src.tar.xz",
+        "count": 1284,
+        "size": 22154612
+      },
+      {
+        "name": "clang-18.1.7.src.tar.xz.sig",
+        "count": 207,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.7.src.tar.xz",
+        "count": 744,
+        "size": 3340104
+      },
+      {
+        "name": "clang-tools-extra-18.1.7.src.tar.xz.sig",
+        "count": 197,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.7.src.tar.xz",
+        "count": 3229,
+        "size": 8708
+      },
+      {
+        "name": "cmake-18.1.7.src.tar.xz.sig",
+        "count": 364,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.7.src.tar.xz",
+        "count": 817,
+        "size": 2467848
+      },
+      {
+        "name": "compiler-rt-18.1.7.src.tar.xz.sig",
+        "count": 301,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.7.src.tar.xz",
+        "count": 103,
+        "size": 3074112
+      },
+      {
+        "name": "flang-18.1.7.src.tar.xz.sig",
+        "count": 37,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.7.src.tar.xz",
+        "count": 416,
+        "size": 126468
+      },
+      {
+        "name": "libclc-18.1.7.src.tar.xz.sig",
+        "count": 43,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.7.src.tar.xz",
+        "count": 613,
+        "size": 4031640
+      },
+      {
+        "name": "libcxx-18.1.7.src.tar.xz.sig",
+        "count": 252,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.7.src.tar.xz",
+        "count": 352,
+        "size": 582768
+      },
+      {
+        "name": "libcxxabi-18.1.7.src.tar.xz.sig",
+        "count": 251,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.7.src.tar.xz",
+        "count": 396,
+        "size": 119300
+      },
+      {
+        "name": "libunwind-18.1.7.src.tar.xz.sig",
+        "count": 308,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.7.src.tar.xz",
+        "count": 524,
+        "size": 1563372
+      },
+      {
+        "name": "lld-18.1.7.src.tar.xz.sig",
+        "count": 184,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.7.src.tar.xz",
+        "count": 175,
+        "size": 10600648
+      },
+      {
+        "name": "lldb-18.1.7.src.tar.xz.sig",
+        "count": 43,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.7-win32.exe",
+        "count": 869,
+        "size": 348393022
+      },
+      {
+        "name": "LLVM-18.1.7-win64.exe",
+        "count": 11816,
+        "size": 374322003
+      },
+      {
+        "name": "LLVM-18.1.7-woa64.exe",
+        "count": 343,
+        "size": 345200676
+      },
+      {
+        "name": "llvm-18.1.7.src.tar.xz",
+        "count": 1582,
+        "size": 61988228
+      },
+      {
+        "name": "llvm-18.1.7.src.tar.xz.sig",
+        "count": 360,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.7.src.tar.xz",
+        "count": 31522,
+        "size": 132063384
+      },
+      {
+        "name": "llvm-project-18.1.7.src.tar.xz.sig",
+        "count": 236,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.7.src.tar.xz",
+        "count": 98,
+        "size": 5898316
+      },
+      {
+        "name": "mlir-18.1.7.src.tar.xz.sig",
+        "count": 37,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.7.src.tar.xz",
+        "count": 2070,
+        "size": 1320368
+      },
+      {
+        "name": "openmp-18.1.7.src.tar.xz.sig",
+        "count": 44,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.7.src.tar.xz",
+        "count": 85,
+        "size": 9159680
+      },
+      {
+        "name": "polly-18.1.7.src.tar.xz.sig",
+        "count": 40,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.7.src.tar.xz",
+        "count": 386,
+        "size": 6792
+      },
+      {
+        "name": "runtimes-18.1.7.src.tar.xz.sig",
+        "count": 290,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.7.src.tar.xz",
+        "count": 96,
+        "size": 165806512
+      },
+      {
+        "name": "test-suite-18.1.7.src.tar.xz.sig",
+        "count": 39,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.7.src.tar.xz",
+        "count": 746,
+        "size": 402268
+      },
+      {
+        "name": "third-party-18.1.7.src.tar.xz.sig",
+        "count": 203,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.6",
+    "date": "2024-05-18T14:29:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.6.src.tar.xz",
+        "count": 543,
+        "size": 764560
+      },
+      {
+        "name": "bolt-18.1.6.src.tar.xz.sig",
+        "count": 78,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.6-aarch64-linux-gnu.tar.xz",
+        "count": 1682,
+        "size": 1051317828
+      },
+      {
+        "name": "clang+llvm-18.1.6-amd64-pc-solaris2.11.tar.xz",
+        "count": 857,
+        "size": 1261654132
+      },
+      {
+        "name": "clang+llvm-18.1.6-armv7a-linux-gnueabihf.tar.gz",
+        "count": 434,
+        "size": 1413094351
+      },
+      {
+        "name": "clang+llvm-18.1.6-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 125,
+        "size": 949526512
+      },
+      {
+        "name": "clang+llvm-18.1.6-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 97,
+        "size": 1158448568
+      },
+      {
+        "name": "clang+llvm-18.1.6-x86_64-pc-windows-msvc.tar.xz",
+        "count": 8550,
+        "size": 981522908
+      },
+      {
+        "name": "clang-18.1.6.src.tar.xz",
+        "count": 2508,
+        "size": 22154228
+      },
+      {
+        "name": "clang-18.1.6.src.tar.xz.sig",
+        "count": 324,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.6.src.tar.xz",
+        "count": 1243,
+        "size": 3340140
+      },
+      {
+        "name": "clang-tools-extra-18.1.6.src.tar.xz.sig",
+        "count": 257,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.6.src.tar.xz",
+        "count": 5250,
+        "size": 8708
+      },
+      {
+        "name": "cmake-18.1.6.src.tar.xz.sig",
+        "count": 933,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.6.src.tar.xz",
+        "count": 871,
+        "size": 2469304
+      },
+      {
+        "name": "compiler-rt-18.1.6.src.tar.xz.sig",
+        "count": 257,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.6.src.tar.xz",
+        "count": 241,
+        "size": 3074008
+      },
+      {
+        "name": "flang-18.1.6.src.tar.xz.sig",
+        "count": 66,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.6.src.tar.xz",
+        "count": 410,
+        "size": 126440
+      },
+      {
+        "name": "libclc-18.1.6.src.tar.xz.sig",
+        "count": 68,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.6.src.tar.xz",
+        "count": 1136,
+        "size": 4030580
+      },
+      {
+        "name": "libcxx-18.1.6.src.tar.xz.sig",
+        "count": 491,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.6.src.tar.xz",
+        "count": 679,
+        "size": 582764
+      },
+      {
+        "name": "libcxxabi-18.1.6.src.tar.xz.sig",
+        "count": 485,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.6.src.tar.xz",
+        "count": 809,
+        "size": 119320
+      },
+      {
+        "name": "libunwind-18.1.6.src.tar.xz.sig",
+        "count": 554,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.6.src.tar.xz",
+        "count": 701,
+        "size": 1563616
+      },
+      {
+        "name": "lld-18.1.6.src.tar.xz.sig",
+        "count": 229,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.6.src.tar.xz",
+        "count": 299,
+        "size": 10599956
+      },
+      {
+        "name": "lldb-18.1.6.src.tar.xz.sig",
+        "count": 85,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.6-win32.exe",
+        "count": 1218,
+        "size": 348439710
+      },
+      {
+        "name": "LLVM-18.1.6-win64.exe",
+        "count": 47969,
+        "size": 374313064
+      },
+      {
+        "name": "LLVM-18.1.6-woa64.exe",
+        "count": 672,
+        "size": 345217833
+      },
+      {
+        "name": "llvm-18.1.6.src.tar.xz",
+        "count": 2829,
+        "size": 61987068
+      },
+      {
+        "name": "llvm-18.1.6.src.tar.xz.sig",
+        "count": 884,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.6.src.tar.xz",
+        "count": 43802,
+        "size": 132064976
+      },
+      {
+        "name": "llvm-project-18.1.6.src.tar.xz.sig",
+        "count": 263,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.6.src.tar.xz",
+        "count": 217,
+        "size": 5899100
+      },
+      {
+        "name": "mlir-18.1.6.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.6.src.tar.xz",
+        "count": 3262,
+        "size": 1320476
+      },
+      {
+        "name": "openmp-18.1.6.src.tar.xz.sig",
+        "count": 73,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.6.src.tar.xz",
+        "count": 180,
+        "size": 9159444
+      },
+      {
+        "name": "polly-18.1.6.src.tar.xz.sig",
+        "count": 71,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.6.src.tar.xz",
+        "count": 635,
+        "size": 6784
+      },
+      {
+        "name": "runtimes-18.1.6.src.tar.xz.sig",
+        "count": 490,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.6.src.tar.xz",
+        "count": 155,
+        "size": 165594572
+      },
+      {
+        "name": "test-suite-18.1.6.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.6.src.tar.xz",
+        "count": 1292,
+        "size": 402236
+      },
+      {
+        "name": "third-party-18.1.6.src.tar.xz.sig",
+        "count": 423,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.5",
+    "date": "2024-05-02T04:37:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.5.src.tar.xz",
+        "count": 231,
+        "size": 764556
+      },
+      {
+        "name": "bolt-18.1.5.src.tar.xz.sig",
+        "count": 83,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.5-aarch64-linux-gnu.tar.xz",
+        "count": 749,
+        "size": 1051352352
+      },
+      {
+        "name": "clang+llvm-18.1.5-armv7a-linux-gnueabihf.tar.gz",
+        "count": 172,
+        "size": 1413088672
+      },
+      {
+        "name": "clang+llvm-18.1.5-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 122,
+        "size": 735650996
+      },
+      {
+        "name": "clang+llvm-18.1.5-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 123,
+        "size": 949685388
+      },
+      {
+        "name": "clang+llvm-18.1.5-x86_64-pc-windows-msvc.tar.xz",
+        "count": 3011,
+        "size": 981595068
+      },
+      {
+        "name": "clang-18.1.5.src.tar.xz",
+        "count": 1413,
+        "size": 22152920
+      },
+      {
+        "name": "clang-18.1.5.src.tar.xz.sig",
+        "count": 210,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.5.src.tar.xz",
+        "count": 716,
+        "size": 3340156
+      },
+      {
+        "name": "clang-tools-extra-18.1.5.src.tar.xz.sig",
+        "count": 117,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.5.src.tar.xz",
+        "count": 3959,
+        "size": 8704
+      },
+      {
+        "name": "cmake-18.1.5.src.tar.xz.sig",
+        "count": 384,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.5.src.tar.xz",
+        "count": 530,
+        "size": 2470120
+      },
+      {
+        "name": "compiler-rt-18.1.5.src.tar.xz.sig",
+        "count": 139,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.5.src.tar.xz",
+        "count": 114,
+        "size": 3074220
+      },
+      {
+        "name": "flang-18.1.5.src.tar.xz.sig",
+        "count": 48,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.5.src.tar.xz",
+        "count": 227,
+        "size": 126544
+      },
+      {
+        "name": "libclc-18.1.5.src.tar.xz.sig",
+        "count": 56,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.5.src.tar.xz",
+        "count": 700,
+        "size": 4030416
+      },
+      {
+        "name": "libcxx-18.1.5.src.tar.xz.sig",
+        "count": 78,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.5.src.tar.xz",
+        "count": 260,
+        "size": 582836
+      },
+      {
+        "name": "libcxxabi-18.1.5.src.tar.xz.sig",
+        "count": 78,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.5.src.tar.xz",
+        "count": 303,
+        "size": 119312
+      },
+      {
+        "name": "libunwind-18.1.5.src.tar.xz.sig",
+        "count": 121,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.5.src.tar.xz",
+        "count": 424,
+        "size": 1563228
+      },
+      {
+        "name": "lld-18.1.5.src.tar.xz.sig",
+        "count": 104,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.5.src.tar.xz",
+        "count": 215,
+        "size": 10600268
+      },
+      {
+        "name": "lldb-18.1.5.src.tar.xz.sig",
+        "count": 63,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.5-win32.exe",
+        "count": 822,
+        "size": 348387669
+      },
+      {
+        "name": "LLVM-18.1.5-win64.exe",
+        "count": 25380,
+        "size": 374416573
+      },
+      {
+        "name": "LLVM-18.1.5-woa64.exe",
+        "count": 333,
+        "size": 345203703
+      },
+      {
+        "name": "llvm-18.1.5.src.tar.xz",
+        "count": 1680,
+        "size": 61988244
+      },
+      {
+        "name": "llvm-18.1.5.src.tar.xz.sig",
+        "count": 272,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.5.src.tar.xz",
+        "count": 51339,
+        "size": 132061072
+      },
+      {
+        "name": "llvm-project-18.1.5.src.tar.xz.sig",
+        "count": 229,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.5.src.tar.xz",
+        "count": 145,
+        "size": 5898380
+      },
+      {
+        "name": "mlir-18.1.5.src.tar.xz.sig",
+        "count": 42,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.5.src.tar.xz",
+        "count": 2624,
+        "size": 1320464
+      },
+      {
+        "name": "openmp-18.1.5.src.tar.xz.sig",
+        "count": 55,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.5.src.tar.xz",
+        "count": 145,
+        "size": 9151916
+      },
+      {
+        "name": "polly-18.1.5.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.5.src.tar.xz",
+        "count": 236,
+        "size": 6788
+      },
+      {
+        "name": "runtimes-18.1.5.src.tar.xz.sig",
+        "count": 86,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.5.src.tar.xz",
+        "count": 83,
+        "size": 165597244
+      },
+      {
+        "name": "test-suite-18.1.5.src.tar.xz.sig",
+        "count": 34,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.5.src.tar.xz",
+        "count": 1065,
+        "size": 402224
+      },
+      {
+        "name": "third-party-18.1.5.src.tar.xz.sig",
+        "count": 208,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.4",
+    "date": "2024-04-17T00:28:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.4.src.tar.xz",
+        "count": 276,
+        "size": 764728
+      },
+      {
+        "name": "bolt-18.1.4.src.tar.xz.sig",
+        "count": 49,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.4-aarch64-linux-gnu.tar.xz",
+        "count": 1026,
+        "size": 1051373564
+      },
+      {
+        "name": "clang+llvm-18.1.4-armv7a-linux-gnueabihf.tar.gz",
+        "count": 332,
+        "size": 1413058380
+      },
+      {
+        "name": "clang+llvm-18.1.4-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 110,
+        "size": 735661956
+      },
+      {
+        "name": "clang+llvm-18.1.4-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 135,
+        "size": 949551296
+      },
+      {
+        "name": "clang+llvm-18.1.4-x86_64-linux-gnu-ubuntu-18.04.tar.xz",
+        "count": 7020,
+        "size": 1119638268
+      },
+      {
+        "name": "clang+llvm-18.1.4-x86_64-pc-windows-msvc.tar.xz",
+        "count": 3417,
+        "size": 982060244
+      },
+      {
+        "name": "clang-18.1.4.src.tar.xz",
+        "count": 1349,
+        "size": 22150224
+      },
+      {
+        "name": "clang-18.1.4.src.tar.xz.sig",
+        "count": 111,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.4.src.tar.xz",
+        "count": 732,
+        "size": 3340100
+      },
+      {
+        "name": "clang-tools-extra-18.1.4.src.tar.xz.sig",
+        "count": 98,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.4.src.tar.xz",
+        "count": 3962,
+        "size": 8708
+      },
+      {
+        "name": "cmake-18.1.4.src.tar.xz.sig",
+        "count": 279,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.4.src.tar.xz",
+        "count": 494,
+        "size": 2467772
+      },
+      {
+        "name": "compiler-rt-18.1.4.src.tar.xz.sig",
+        "count": 95,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.4.src.tar.xz",
+        "count": 129,
+        "size": 3073724
+      },
+      {
+        "name": "flang-18.1.4.src.tar.xz.sig",
+        "count": 53,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.4.src.tar.xz",
+        "count": 253,
+        "size": 126384
+      },
+      {
+        "name": "libclc-18.1.4.src.tar.xz.sig",
+        "count": 59,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.4.src.tar.xz",
+        "count": 681,
+        "size": 4031032
+      },
+      {
+        "name": "libcxx-18.1.4.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.4.src.tar.xz",
+        "count": 196,
+        "size": 582676
+      },
+      {
+        "name": "libcxxabi-18.1.4.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.4.src.tar.xz",
+        "count": 245,
+        "size": 119264
+      },
+      {
+        "name": "libunwind-18.1.4.src.tar.xz.sig",
+        "count": 73,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.4.src.tar.xz",
+        "count": 370,
+        "size": 1563244
+      },
+      {
+        "name": "lld-18.1.4.src.tar.xz.sig",
+        "count": 70,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.4.src.tar.xz",
+        "count": 232,
+        "size": 10599148
+      },
+      {
+        "name": "lldb-18.1.4.src.tar.xz.sig",
+        "count": 59,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.4-win32.exe",
+        "count": 1087,
+        "size": 348294933
+      },
+      {
+        "name": "LLVM-18.1.4-win64.exe",
+        "count": 21339,
+        "size": 374288391
+      },
+      {
+        "name": "LLVM-18.1.4-woa64.exe",
+        "count": 364,
+        "size": 345160422
+      },
+      {
+        "name": "llvm-18.1.4.src.tar.xz",
+        "count": 1751,
+        "size": 61991952
+      },
+      {
+        "name": "llvm-18.1.4.src.tar.xz.sig",
+        "count": 211,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.4.src.tar.xz",
+        "count": 14570,
+        "size": 132054668
+      },
+      {
+        "name": "llvm-project-18.1.4.src.tar.xz.sig",
+        "count": 390,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.4.src.tar.xz",
+        "count": 140,
+        "size": 5898956
+      },
+      {
+        "name": "mlir-18.1.4.src.tar.xz.sig",
+        "count": 48,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.4.src.tar.xz",
+        "count": 2798,
+        "size": 1320244
+      },
+      {
+        "name": "openmp-18.1.4.src.tar.xz.sig",
+        "count": 52,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.4.src.tar.xz",
+        "count": 170,
+        "size": 9152524
+      },
+      {
+        "name": "polly-18.1.4.src.tar.xz.sig",
+        "count": 56,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.4.src.tar.xz",
+        "count": 138,
+        "size": 6788
+      },
+      {
+        "name": "runtimes-18.1.4.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.4.src.tar.xz",
+        "count": 105,
+        "size": 165885040
+      },
+      {
+        "name": "test-suite-18.1.4.src.tar.xz.sig",
+        "count": 43,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.4.src.tar.xz",
+        "count": 1008,
+        "size": 402252
+      },
+      {
+        "name": "third-party-18.1.4.src.tar.xz.sig",
+        "count": 173,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.3",
+    "date": "2024-04-04T03:56:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.3.src.tar.xz",
+        "count": 133,
+        "size": 764712
+      },
+      {
+        "name": "bolt-18.1.3.src.tar.xz.sig",
+        "count": 45,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.3-aarch64-linux-gnu.tar.xz",
+        "count": 431,
+        "size": 1050772468
+      },
+      {
+        "name": "clang+llvm-18.1.3-armv7a-linux-gnueabihf.tar.gz",
+        "count": 97,
+        "size": 1413100131
+      },
+      {
+        "name": "clang+llvm-18.1.3-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 105,
+        "size": 736057824
+      },
+      {
+        "name": "clang+llvm-18.1.3-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 138,
+        "size": 949628508
+      },
+      {
+        "name": "clang-18.1.3.src.tar.xz",
+        "count": 1181,
+        "size": 22150476
+      },
+      {
+        "name": "clang-18.1.3.src.tar.xz.sig",
+        "count": 166,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.3.src.tar.xz",
+        "count": 418,
+        "size": 3340200
+      },
+      {
+        "name": "clang-tools-extra-18.1.3.src.tar.xz.sig",
+        "count": 147,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.3.src.tar.xz",
+        "count": 3963,
+        "size": 8704
+      },
+      {
+        "name": "cmake-18.1.3.src.tar.xz.sig",
+        "count": 360,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.3.src.tar.xz",
+        "count": 629,
+        "size": 2469252
+      },
+      {
+        "name": "compiler-rt-18.1.3.src.tar.xz.sig",
+        "count": 139,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.3.src.tar.xz",
+        "count": 105,
+        "size": 3074116
+      },
+      {
+        "name": "flang-18.1.3.src.tar.xz.sig",
+        "count": 58,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.3.src.tar.xz",
+        "count": 191,
+        "size": 126616
+      },
+      {
+        "name": "libclc-18.1.3.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.3.src.tar.xz",
+        "count": 840,
+        "size": 4029392
+      },
+      {
+        "name": "libcxx-18.1.3.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.3.src.tar.xz",
+        "count": 355,
+        "size": 582756
+      },
+      {
+        "name": "libcxxabi-18.1.3.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.3.src.tar.xz",
+        "count": 451,
+        "size": 119320
+      },
+      {
+        "name": "libunwind-18.1.3.src.tar.xz.sig",
+        "count": 87,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.3.src.tar.xz",
+        "count": 443,
+        "size": 1563156
+      },
+      {
+        "name": "lld-18.1.3.src.tar.xz.sig",
+        "count": 101,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.3.src.tar.xz",
+        "count": 141,
+        "size": 10598560
+      },
+      {
+        "name": "lldb-18.1.3.src.tar.xz.sig",
+        "count": 53,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.3-win32.exe",
+        "count": 824,
+        "size": 348249487
+      },
+      {
+        "name": "LLVM-18.1.3-win64.exe",
+        "count": 16688,
+        "size": 374297571
+      },
+      {
+        "name": "LLVM-18.1.3-woa64.exe",
+        "count": 353,
+        "size": 345181560
+      },
+      {
+        "name": "llvm-18.1.3.src.tar.xz",
+        "count": 2103,
+        "size": 61985780
+      },
+      {
+        "name": "llvm-18.1.3.src.tar.xz.sig",
+        "count": 250,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.3.src.tar.xz",
+        "count": 95101,
+        "size": 132049300
+      },
+      {
+        "name": "llvm-project-18.1.3.src.tar.xz.sig",
+        "count": 219,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.3.src.tar.xz",
+        "count": 118,
+        "size": 5899012
+      },
+      {
+        "name": "mlir-18.1.3.src.tar.xz.sig",
+        "count": 50,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.3.src.tar.xz",
+        "count": 2629,
+        "size": 1320216
+      },
+      {
+        "name": "openmp-18.1.3.src.tar.xz.sig",
+        "count": 53,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.3.src.tar.xz",
+        "count": 104,
+        "size": 9155392
+      },
+      {
+        "name": "polly-18.1.3.src.tar.xz.sig",
+        "count": 53,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.3.src.tar.xz",
+        "count": 374,
+        "size": 6792
+      },
+      {
+        "name": "runtimes-18.1.3.src.tar.xz.sig",
+        "count": 52,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.3.src.tar.xz",
+        "count": 102,
+        "size": 165530776
+      },
+      {
+        "name": "test-suite-18.1.3.src.tar.xz.sig",
+        "count": 37,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.3.src.tar.xz",
+        "count": 1066,
+        "size": 402228
+      },
+      {
+        "name": "third-party-18.1.3.src.tar.xz.sig",
+        "count": 190,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.2",
+    "date": "2024-03-20T00:13:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.2.src.tar.xz",
+        "count": 167,
+        "size": 764616
+      },
+      {
+        "name": "bolt-18.1.2.src.tar.xz.sig",
+        "count": 53,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.2-aarch64-linux-gnu.tar.xz",
+        "count": 538,
+        "size": 1051341668
+      },
+      {
+        "name": "clang+llvm-18.1.2-amd64-pc-solaris2.11.tar.xz",
+        "count": 370,
+        "size": 1263767344
+      },
+      {
+        "name": "clang+llvm-18.1.2-armv7a-linux-gnueabihf.tar.gz",
+        "count": 133,
+        "size": 1412982422
+      },
+      {
+        "name": "clang+llvm-18.1.2-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 63,
+        "size": 736331340
+      },
+      {
+        "name": "clang+llvm-18.1.2-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 79,
+        "size": 949687000
+      },
+      {
+        "name": "clang+llvm-18.1.2-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 52,
+        "size": 1157684584
+      },
+      {
+        "name": "clang+llvm-18.1.2-x86_64-pc-windows-msvc.tar.xz",
+        "count": 2002,
+        "size": 981746032
+      },
+      {
+        "name": "clang-18.1.2.src.tar.xz",
+        "count": 1352,
+        "size": 22152648
+      },
+      {
+        "name": "clang-18.1.2.src.tar.xz.sig",
+        "count": 124,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.2.src.tar.xz",
+        "count": 705,
+        "size": 3339980
+      },
+      {
+        "name": "clang-tools-extra-18.1.2.src.tar.xz.sig",
+        "count": 114,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.2.src.tar.xz",
+        "count": 5098,
+        "size": 8704
+      },
+      {
+        "name": "cmake-18.1.2.src.tar.xz.sig",
+        "count": 407,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.2.src.tar.xz",
+        "count": 724,
+        "size": 2468612
+      },
+      {
+        "name": "compiler-rt-18.1.2.src.tar.xz.sig",
+        "count": 133,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.2.src.tar.xz",
+        "count": 152,
+        "size": 3073896
+      },
+      {
+        "name": "flang-18.1.2.src.tar.xz.sig",
+        "count": 53,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.2.src.tar.xz",
+        "count": 411,
+        "size": 126536
+      },
+      {
+        "name": "libclc-18.1.2.src.tar.xz.sig",
+        "count": 41,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.2.src.tar.xz",
+        "count": 925,
+        "size": 4035464
+      },
+      {
+        "name": "libcxx-18.1.2.src.tar.xz.sig",
+        "count": 199,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.2.src.tar.xz",
+        "count": 375,
+        "size": 582792
+      },
+      {
+        "name": "libcxxabi-18.1.2.src.tar.xz.sig",
+        "count": 196,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.2.src.tar.xz",
+        "count": 430,
+        "size": 119316
+      },
+      {
+        "name": "libunwind-18.1.2.src.tar.xz.sig",
+        "count": 207,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.2.src.tar.xz",
+        "count": 458,
+        "size": 1562992
+      },
+      {
+        "name": "lld-18.1.2.src.tar.xz.sig",
+        "count": 99,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.2.src.tar.xz",
+        "count": 148,
+        "size": 10598724
+      },
+      {
+        "name": "lldb-18.1.2.src.tar.xz.sig",
+        "count": 57,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.2-win32.exe",
+        "count": 569,
+        "size": 348198118
+      },
+      {
+        "name": "LLVM-18.1.2-win64.exe",
+        "count": 20990,
+        "size": 374283655
+      },
+      {
+        "name": "LLVM-18.1.2-woa64.exe",
+        "count": 323,
+        "size": 345141094
+      },
+      {
+        "name": "llvm-18.1.2.src.tar.xz",
+        "count": 2333,
+        "size": 61973516
+      },
+      {
+        "name": "llvm-18.1.2.src.tar.xz.sig",
+        "count": 310,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.2.src.tar.xz",
+        "count": 19011,
+        "size": 132060436
+      },
+      {
+        "name": "llvm-project-18.1.2.src.tar.xz.sig",
+        "count": 199,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.2.src.tar.xz",
+        "count": 230,
+        "size": 5898424
+      },
+      {
+        "name": "mlir-18.1.2.src.tar.xz.sig",
+        "count": 52,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.2.src.tar.xz",
+        "count": 3597,
+        "size": 1318944
+      },
+      {
+        "name": "openmp-18.1.2.src.tar.xz.sig",
+        "count": 58,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.2.src.tar.xz",
+        "count": 93,
+        "size": 9154812
+      },
+      {
+        "name": "polly-18.1.2.src.tar.xz.sig",
+        "count": 55,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.2.src.tar.xz",
+        "count": 354,
+        "size": 6784
+      },
+      {
+        "name": "runtimes-18.1.2.src.tar.xz.sig",
+        "count": 192,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.2.src.tar.xz",
+        "count": 74,
+        "size": 165641668
+      },
+      {
+        "name": "test-suite-18.1.2.src.tar.xz.sig",
+        "count": 38,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.2.src.tar.xz",
+        "count": 868,
+        "size": 402276
+      },
+      {
+        "name": "third-party-18.1.2.src.tar.xz.sig",
+        "count": 128,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.1",
+    "date": "2024-03-08T21:50:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.1.src.tar.xz",
+        "count": 316,
+        "size": 764752
+      },
+      {
+        "name": "bolt-18.1.1.src.tar.xz.sig",
+        "count": 65,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.1-aarch64-linux-gnu.tar.xz",
+        "count": 954,
+        "size": 1052288948
+      },
+      {
+        "name": "clang+llvm-18.1.1-armv7a-linux-gnueabihf.tar.gz",
+        "count": 160,
+        "size": 1412928913
+      },
+      {
+        "name": "clang+llvm-18.1.1-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 96,
+        "size": 735726748
+      },
+      {
+        "name": "clang+llvm-18.1.1-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 143,
+        "size": 949695440
+      },
+      {
+        "name": "clang+llvm-18.1.1-x86_64-pc-windows-msvc.tar.xz",
+        "count": 3477,
+        "size": 981874332
+      },
+      {
+        "name": "clang-18.1.1.src.tar.xz",
+        "count": 1348,
+        "size": 22148548
+      },
+      {
+        "name": "clang-18.1.1.src.tar.xz.sig",
+        "count": 158,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.1.src.tar.xz",
+        "count": 474,
+        "size": 3339080
+      },
+      {
+        "name": "clang-tools-extra-18.1.1.src.tar.xz.sig",
+        "count": 133,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.1.src.tar.xz",
+        "count": 3410,
+        "size": 8700
+      },
+      {
+        "name": "cmake-18.1.1.src.tar.xz.sig",
+        "count": 421,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.1.src.tar.xz",
+        "count": 553,
+        "size": 2468548
+      },
+      {
+        "name": "compiler-rt-18.1.1.src.tar.xz.sig",
+        "count": 150,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.1.src.tar.xz",
+        "count": 124,
+        "size": 3074212
+      },
+      {
+        "name": "flang-18.1.1.src.tar.xz.sig",
+        "count": 56,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.1.src.tar.xz",
+        "count": 178,
+        "size": 126668
+      },
+      {
+        "name": "libclc-18.1.1.src.tar.xz.sig",
+        "count": 40,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.1.src.tar.xz",
+        "count": 848,
+        "size": 4032784
+      },
+      {
+        "name": "libcxx-18.1.1.src.tar.xz.sig",
+        "count": 113,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.1.src.tar.xz",
+        "count": 241,
+        "size": 582760
+      },
+      {
+        "name": "libcxxabi-18.1.1.src.tar.xz.sig",
+        "count": 108,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.1.src.tar.xz",
+        "count": 358,
+        "size": 119312
+      },
+      {
+        "name": "libunwind-18.1.1.src.tar.xz.sig",
+        "count": 117,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.1.src.tar.xz",
+        "count": 439,
+        "size": 1562068
+      },
+      {
+        "name": "lld-18.1.1.src.tar.xz.sig",
+        "count": 112,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.1.src.tar.xz",
+        "count": 187,
+        "size": 10599612
+      },
+      {
+        "name": "lldb-18.1.1.src.tar.xz.sig",
+        "count": 67,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.1-win32.exe",
+        "count": 857,
+        "size": 348234871
+      },
+      {
+        "name": "LLVM-18.1.1-win64.exe",
+        "count": 11987,
+        "size": 374257130
+      },
+      {
+        "name": "LLVM-18.1.1-woa64.exe",
+        "count": 390,
+        "size": 345147876
+      },
+      {
+        "name": "llvm-18.1.1.src.tar.xz",
+        "count": 1569,
+        "size": 61972792
+      },
+      {
+        "name": "llvm-18.1.1.src.tar.xz.sig",
+        "count": 296,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.1.src.tar.xz",
+        "count": 20396,
+        "size": 132031108
+      },
+      {
+        "name": "llvm-project-18.1.1.src.tar.xz.sig",
+        "count": 119,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.1.src.tar.xz",
+        "count": 119,
+        "size": 5898540
+      },
+      {
+        "name": "mlir-18.1.1.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.1.src.tar.xz",
+        "count": 2281,
+        "size": 1319104
+      },
+      {
+        "name": "openmp-18.1.1.src.tar.xz.sig",
+        "count": 71,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.1.src.tar.xz",
+        "count": 129,
+        "size": 9156976
+      },
+      {
+        "name": "polly-18.1.1.src.tar.xz.sig",
+        "count": 71,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.1.src.tar.xz",
+        "count": 234,
+        "size": 6792
+      },
+      {
+        "name": "runtimes-18.1.1.src.tar.xz.sig",
+        "count": 112,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.1.src.tar.xz",
+        "count": 111,
+        "size": 165765780
+      },
+      {
+        "name": "test-suite-18.1.1.src.tar.xz.sig",
+        "count": 45,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.1.src.tar.xz",
+        "count": 986,
+        "size": 402236
+      },
+      {
+        "name": "third-party-18.1.1.src.tar.xz.sig",
+        "count": 198,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.0",
+    "date": "2024-03-06T05:33:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.0.src.tar.xz",
+        "count": 138,
+        "size": 764664
+      },
+      {
+        "name": "bolt-18.1.0.src.tar.xz.sig",
+        "count": 45,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.0-aarch64-linux-gnu.tar.xz",
+        "count": 389,
+        "size": 1053289152
+      },
+      {
+        "name": "clang+llvm-18.1.0-amd64-pc-solaris2.11.tar.xz",
+        "count": 236,
+        "size": 1262324740
+      },
+      {
+        "name": "clang+llvm-18.1.0-armv7a-linux-gnueabihf.tar.gz",
+        "count": 54,
+        "size": 1412890153
+      },
+      {
+        "name": "clang+llvm-18.1.0-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 29,
+        "size": 735663520
+      },
+      {
+        "name": "clang+llvm-18.1.0-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 59,
+        "size": 949658256
+      },
+      {
+        "name": "clang+llvm-18.1.0-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 49,
+        "size": 1170523880
+      },
+      {
+        "name": "clang+llvm-18.1.0-sparcv9-unknown-linux-gnu.tar.xz",
+        "count": 107,
+        "size": 899489468
+      },
+      {
+        "name": "clang+llvm-18.1.0-x86_64-pc-windows-msvc.tar.xz",
+        "count": 1336,
+        "size": 981808392
+      },
+      {
+        "name": "clang-18.1.0.src.tar.xz",
+        "count": 874,
+        "size": 22151424
+      },
+      {
+        "name": "clang-18.1.0.src.tar.xz.sig",
+        "count": 144,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.0.src.tar.xz",
+        "count": 328,
+        "size": 3339096
+      },
+      {
+        "name": "clang-tools-extra-18.1.0.src.tar.xz.sig",
+        "count": 121,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.0.src.tar.xz",
+        "count": 2565,
+        "size": 8696
+      },
+      {
+        "name": "cmake-18.1.0.src.tar.xz.sig",
+        "count": 270,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.0.src.tar.xz",
+        "count": 427,
+        "size": 2468488
+      },
+      {
+        "name": "compiler-rt-18.1.0.src.tar.xz.sig",
+        "count": 118,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.0.src.tar.xz",
+        "count": 96,
+        "size": 3074032
+      },
+      {
+        "name": "flang-18.1.0.src.tar.xz.sig",
+        "count": 51,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.0.src.tar.xz",
+        "count": 161,
+        "size": 126568
+      },
+      {
+        "name": "libclc-18.1.0.src.tar.xz.sig",
+        "count": 50,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.0.src.tar.xz",
+        "count": 785,
+        "size": 4033044
+      },
+      {
+        "name": "libcxx-18.1.0.src.tar.xz.sig",
+        "count": 117,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.0.src.tar.xz",
+        "count": 191,
+        "size": 582812
+      },
+      {
+        "name": "libcxxabi-18.1.0.src.tar.xz.sig",
+        "count": 116,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.0.src.tar.xz",
+        "count": 211,
+        "size": 119292
+      },
+      {
+        "name": "libunwind-18.1.0.src.tar.xz.sig",
+        "count": 119,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.0.src.tar.xz",
+        "count": 287,
+        "size": 1562036
+      },
+      {
+        "name": "lld-18.1.0.src.tar.xz.sig",
+        "count": 105,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.0.src.tar.xz",
+        "count": 172,
+        "size": 10599436
+      },
+      {
+        "name": "lldb-18.1.0.src.tar.xz.sig",
+        "count": 55,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.0-win32.exe",
+        "count": 511,
+        "size": 348225988
+      },
+      {
+        "name": "LLVM-18.1.0-win64.exe",
+        "count": 14432,
+        "size": 374195650
+      },
+      {
+        "name": "LLVM-18.1.0-woa64.exe",
+        "count": 83,
+        "size": 345185402
+      },
+      {
+        "name": "llvm-18.1.0.src.tar.xz",
+        "count": 1154,
+        "size": 61978744
+      },
+      {
+        "name": "llvm-18.1.0.src.tar.xz.sig",
+        "count": 215,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.0.src.tar.xz",
+        "count": 24352,
+        "size": 132034208
+      },
+      {
+        "name": "llvm-project-18.1.0.src.tar.xz.sig",
+        "count": 359,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.0.src.tar.xz",
+        "count": 120,
+        "size": 5898420
+      },
+      {
+        "name": "mlir-18.1.0.src.tar.xz.sig",
+        "count": 47,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.0.src.tar.xz",
+        "count": 2030,
+        "size": 1318876
+      },
+      {
+        "name": "openmp-18.1.0.src.tar.xz.sig",
+        "count": 55,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.0.src.tar.xz",
+        "count": 127,
+        "size": 9158184
+      },
+      {
+        "name": "polly-18.1.0.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.0.src.tar.xz",
+        "count": 156,
+        "size": 6780
+      },
+      {
+        "name": "runtimes-18.1.0.src.tar.xz.sig",
+        "count": 112,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.0.src.tar.xz",
+        "count": 77,
+        "size": 165766260
+      },
+      {
+        "name": "test-suite-18.1.0.src.tar.xz.sig",
+        "count": 40,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.0.src.tar.xz",
+        "count": 470,
+        "size": 402288
+      },
+      {
+        "name": "third-party-18.1.0.src.tar.xz.sig",
+        "count": 119,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.0-rc4",
+    "date": "2024-02-27T21:18:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.0rc4.src.tar.xz",
+        "count": 24,
+        "size": 764620
+      },
+      {
+        "name": "bolt-18.1.0rc4.src.tar.xz.sig",
+        "count": 7,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-aarch64-linux-gnu.tar.xz",
+        "count": 272,
+        "size": 1053429856
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-amd64-pc-solaris2.11.tar.xz",
+        "count": 43,
+        "size": 1262800872
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-armv7a-linux-gnueabihf.tar.gz",
+        "count": 25,
+        "size": 1412978980
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 12,
+        "size": 736280396
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 15,
+        "size": 949731824
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 21,
+        "size": 1174910476
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-sparcv9-unknown-linux-gnu.tar.xz",
+        "count": 26,
+        "size": 904559312
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc4-x86_64-pc-windows-msvc.tar.xz",
+        "count": 170,
+        "size": 982040828
+      },
+      {
+        "name": "clang-18.1.0rc4.src.tar.xz",
+        "count": 60,
+        "size": 22148808
+      },
+      {
+        "name": "clang-18.1.0rc4.src.tar.xz.sig",
+        "count": 21,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc4.src.tar.xz",
+        "count": 41,
+        "size": 3339344
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc4.src.tar.xz.sig",
+        "count": 22,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.0rc4.src.tar.xz",
+        "count": 95,
+        "size": 8692
+      },
+      {
+        "name": "cmake-18.1.0rc4.src.tar.xz.sig",
+        "count": 73,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.0rc4.src.tar.xz",
+        "count": 41,
+        "size": 2468796
+      },
+      {
+        "name": "compiler-rt-18.1.0rc4.src.tar.xz.sig",
+        "count": 21,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.0rc4.src.tar.xz",
+        "count": 29,
+        "size": 3073512
+      },
+      {
+        "name": "flang-18.1.0rc4.src.tar.xz.sig",
+        "count": 14,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.0rc4.src.tar.xz",
+        "count": 21,
+        "size": 126436
+      },
+      {
+        "name": "libclc-18.1.0rc4.src.tar.xz.sig",
+        "count": 8,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.0rc4.src.tar.xz",
+        "count": 43,
+        "size": 4031748
+      },
+      {
+        "name": "libcxx-18.1.0rc4.src.tar.xz.sig",
+        "count": 18,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.0rc4.src.tar.xz",
+        "count": 33,
+        "size": 582636
+      },
+      {
+        "name": "libcxxabi-18.1.0rc4.src.tar.xz.sig",
+        "count": 17,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.0rc4.src.tar.xz",
+        "count": 36,
+        "size": 119296
+      },
+      {
+        "name": "libunwind-18.1.0rc4.src.tar.xz.sig",
+        "count": 19,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.0rc4.src.tar.xz",
+        "count": 38,
+        "size": 1562092
+      },
+      {
+        "name": "lld-18.1.0rc4.src.tar.xz.sig",
+        "count": 20,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.0rc4.src.tar.xz",
+        "count": 35,
+        "size": 10600068
+      },
+      {
+        "name": "lldb-18.1.0rc4.src.tar.xz.sig",
+        "count": 18,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.0-rc4-win32.exe",
+        "count": 33,
+        "size": 348190303
+      },
+      {
+        "name": "LLVM-18.1.0-rc4-win64.exe",
+        "count": 330,
+        "size": 374184025
+      },
+      {
+        "name": "LLVM-18.1.0-rc4-woa64.exe",
+        "count": 21,
+        "size": 345128744
+      },
+      {
+        "name": "llvm-18.1.0rc4.src.tar.xz",
+        "count": 80,
+        "size": 61967620
+      },
+      {
+        "name": "llvm-18.1.0rc4.src.tar.xz.sig",
+        "count": 38,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.0rc4.src.tar.xz",
+        "count": 332,
+        "size": 132041940
+      },
+      {
+        "name": "llvm-project-18.1.0rc4.src.tar.xz.sig",
+        "count": 31,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.0rc4.src.tar.xz",
+        "count": 27,
+        "size": 5898228
+      },
+      {
+        "name": "mlir-18.1.0rc4.src.tar.xz.sig",
+        "count": 13,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.0rc4.src.tar.xz",
+        "count": 39,
+        "size": 1318776
+      },
+      {
+        "name": "openmp-18.1.0rc4.src.tar.xz.sig",
+        "count": 17,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.0rc4.src.tar.xz",
+        "count": 31,
+        "size": 9159268
+      },
+      {
+        "name": "polly-18.1.0rc4.src.tar.xz.sig",
+        "count": 17,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.0rc4.src.tar.xz",
+        "count": 27,
+        "size": 6780
+      },
+      {
+        "name": "runtimes-18.1.0rc4.src.tar.xz.sig",
+        "count": 14,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.0rc4.src.tar.xz",
+        "count": 23,
+        "size": 165639428
+      },
+      {
+        "name": "test-suite-18.1.0rc4.src.tar.xz.sig",
+        "count": 6,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.0rc4.src.tar.xz",
+        "count": 42,
+        "size": 402228
+      },
+      {
+        "name": "third-party-18.1.0rc4.src.tar.xz.sig",
+        "count": 28,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.0-rc3",
+    "date": "2024-02-21T06:11:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.0rc3.src.tar.xz",
+        "count": 24,
+        "size": 764524
+      },
+      {
+        "name": "bolt-18.1.0rc3.src.tar.xz.sig",
+        "count": 7,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-aarch64-linux-gnu.tar.xz",
+        "count": 27,
+        "size": 1067623328
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-amd64-pc-solaris2.11.tar.xz",
+        "count": 38,
+        "size": 1274610760
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-armv7a-linux-gnueabihf.tar.gz",
+        "count": 14,
+        "size": 1412905644
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 18,
+        "size": 736290312
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 14,
+        "size": 949833412
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 22,
+        "size": 1173833672
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-sparcv9-unknown-linux-gnu.tar.xz",
+        "count": 24,
+        "size": 912992048
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc3-x86_64-pc-windows-msvc.tar.xz",
+        "count": 272,
+        "size": 981879596
+      },
+      {
+        "name": "clang-18.1.0rc3.src.tar.xz",
+        "count": 74,
+        "size": 22147888
+      },
+      {
+        "name": "clang-18.1.0rc3.src.tar.xz.sig",
+        "count": 27,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc3.src.tar.xz",
+        "count": 62,
+        "size": 3339288
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc3.src.tar.xz.sig",
+        "count": 27,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.0rc3.src.tar.xz",
+        "count": 99,
+        "size": 8696
+      },
+      {
+        "name": "cmake-18.1.0rc3.src.tar.xz.sig",
+        "count": 70,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.0rc3.src.tar.xz",
+        "count": 48,
+        "size": 2469976
+      },
+      {
+        "name": "compiler-rt-18.1.0rc3.src.tar.xz.sig",
+        "count": 23,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.0rc3.src.tar.xz",
+        "count": 19,
+        "size": 3073816
+      },
+      {
+        "name": "flang-18.1.0rc3.src.tar.xz.sig",
+        "count": 9,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.0rc3.src.tar.xz",
+        "count": 20,
+        "size": 126536
+      },
+      {
+        "name": "libclc-18.1.0rc3.src.tar.xz.sig",
+        "count": 8,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.0rc3.src.tar.xz",
+        "count": 38,
+        "size": 4029296
+      },
+      {
+        "name": "libcxx-18.1.0rc3.src.tar.xz.sig",
+        "count": 21,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.0rc3.src.tar.xz",
+        "count": 32,
+        "size": 582696
+      },
+      {
+        "name": "libcxxabi-18.1.0rc3.src.tar.xz.sig",
+        "count": 21,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.0rc3.src.tar.xz",
+        "count": 36,
+        "size": 119228
+      },
+      {
+        "name": "libunwind-18.1.0rc3.src.tar.xz.sig",
+        "count": 22,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.0rc3.src.tar.xz",
+        "count": 36,
+        "size": 1562284
+      },
+      {
+        "name": "lld-18.1.0rc3.src.tar.xz.sig",
+        "count": 19,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.0rc3.src.tar.xz",
+        "count": 27,
+        "size": 10600968
+      },
+      {
+        "name": "lldb-18.1.0rc3.src.tar.xz.sig",
+        "count": 14,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.0-rc3-win32.exe",
+        "count": 33,
+        "size": 348152082
+      },
+      {
+        "name": "LLVM-18.1.0-rc3-win64.exe",
+        "count": 332,
+        "size": 374277535
+      },
+      {
+        "name": "LLVM-18.1.0-rc3-woa64.exe",
+        "count": 16,
+        "size": 344971777
+      },
+      {
+        "name": "llvm-18.1.0rc3.src.tar.xz",
+        "count": 94,
+        "size": 61948984
+      },
+      {
+        "name": "llvm-18.1.0rc3.src.tar.xz.sig",
+        "count": 50,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.0rc3.src.tar.xz",
+        "count": 186,
+        "size": 132011280
+      },
+      {
+        "name": "llvm-project-18.1.0rc3.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.0rc3.src.tar.xz",
+        "count": 20,
+        "size": 5898804
+      },
+      {
+        "name": "mlir-18.1.0rc3.src.tar.xz.sig",
+        "count": 9,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.0rc3.src.tar.xz",
+        "count": 25,
+        "size": 1318972
+      },
+      {
+        "name": "openmp-18.1.0rc3.src.tar.xz.sig",
+        "count": 14,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.0rc3.src.tar.xz",
+        "count": 24,
+        "size": 9159500
+      },
+      {
+        "name": "polly-18.1.0rc3.src.tar.xz.sig",
+        "count": 12,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.0rc3.src.tar.xz",
+        "count": 31,
+        "size": 6792
+      },
+      {
+        "name": "runtimes-18.1.0rc3.src.tar.xz.sig",
+        "count": 20,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.0rc3.src.tar.xz",
+        "count": 20,
+        "size": 165757484
+      },
+      {
+        "name": "test-suite-18.1.0rc3.src.tar.xz.sig",
+        "count": 9,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.0rc3.src.tar.xz",
+        "count": 46,
+        "size": 402260
+      },
+      {
+        "name": "third-party-18.1.0rc3.src.tar.xz.sig",
+        "count": 33,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.0-rc2",
+    "date": "2024-02-07T07:30:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.0rc2.src.tar.xz",
+        "count": 20,
+        "size": 764484
+      },
+      {
+        "name": "bolt-18.1.0rc2.src.tar.xz.sig",
+        "count": 6,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-aarch64-linux-gnu.tar.xz",
+        "count": 154,
+        "size": 1066138300
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-amd64-pc-solaris2.11.tar.xz",
+        "count": 122,
+        "size": 1269476776
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-armv7a-linux-gnueabihf.tar.gz",
+        "count": 119,
+        "size": 1412703228
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 22,
+        "size": 736514644
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 18,
+        "size": 949690844
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 20,
+        "size": 1163891320
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc2-sparcv9-unknown-linux-gnu.tar.xz",
+        "count": 16,
+        "size": 901274996
+      },
+      {
+        "name": "clang-18.1.0rc2.src.tar.xz",
+        "count": 65,
+        "size": 22146396
+      },
+      {
+        "name": "clang-18.1.0rc2.src.tar.xz.sig",
+        "count": 27,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc2.src.tar.xz",
+        "count": 53,
+        "size": 3339664
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc2.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.0rc2.src.tar.xz",
+        "count": 138,
+        "size": 8692
+      },
+      {
+        "name": "cmake-18.1.0rc2.src.tar.xz.sig",
+        "count": 107,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.0rc2.src.tar.xz",
+        "count": 46,
+        "size": 2466848
+      },
+      {
+        "name": "compiler-rt-18.1.0rc2.src.tar.xz.sig",
+        "count": 30,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.0rc2.src.tar.xz",
+        "count": 22,
+        "size": 3073356
+      },
+      {
+        "name": "flang-18.1.0rc2.src.tar.xz.sig",
+        "count": 15,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.0rc2.src.tar.xz",
+        "count": 20,
+        "size": 126456
+      },
+      {
+        "name": "libclc-18.1.0rc2.src.tar.xz.sig",
+        "count": 11,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.0rc2.src.tar.xz",
+        "count": 48,
+        "size": 4033216
+      },
+      {
+        "name": "libcxx-18.1.0rc2.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.0rc2.src.tar.xz",
+        "count": 33,
+        "size": 582496
+      },
+      {
+        "name": "libcxxabi-18.1.0rc2.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.0rc2.src.tar.xz",
+        "count": 35,
+        "size": 119056
+      },
+      {
+        "name": "libunwind-18.1.0rc2.src.tar.xz.sig",
+        "count": 26,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.0rc2.src.tar.xz",
+        "count": 30,
+        "size": 1551900
+      },
+      {
+        "name": "lld-18.1.0rc2.src.tar.xz.sig",
+        "count": 19,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.0rc2.src.tar.xz",
+        "count": 39,
+        "size": 10598908
+      },
+      {
+        "name": "lldb-18.1.0rc2.src.tar.xz.sig",
+        "count": 22,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.0-rc2-win32.exe",
+        "count": 44,
+        "size": 348142880
+      },
+      {
+        "name": "LLVM-18.1.0-rc2-win64.exe",
+        "count": 456,
+        "size": 374219584
+      },
+      {
+        "name": "LLVM-18.1.0-rc2-woa64.exe",
+        "count": 41,
+        "size": 344953480
+      },
+      {
+        "name": "llvm-18.1.0rc2.src.tar.xz",
+        "count": 118,
+        "size": 61940008
+      },
+      {
+        "name": "llvm-18.1.0rc2.src.tar.xz.sig",
+        "count": 66,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.0rc2.src.tar.xz",
+        "count": 291,
+        "size": 131993176
+      },
+      {
+        "name": "llvm-project-18.1.0rc2.src.tar.xz.sig",
+        "count": 56,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.0rc2.src.tar.xz",
+        "count": 19,
+        "size": 5898020
+      },
+      {
+        "name": "mlir-18.1.0rc2.src.tar.xz.sig",
+        "count": 12,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.0rc2.src.tar.xz",
+        "count": 28,
+        "size": 1317096
+      },
+      {
+        "name": "openmp-18.1.0rc2.src.tar.xz.sig",
+        "count": 19,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.0rc2.src.tar.xz",
+        "count": 23,
+        "size": 9158264
+      },
+      {
+        "name": "polly-18.1.0rc2.src.tar.xz.sig",
+        "count": 16,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.0rc2.src.tar.xz",
+        "count": 31,
+        "size": 6788
+      },
+      {
+        "name": "runtimes-18.1.0rc2.src.tar.xz.sig",
+        "count": 21,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.0rc2.src.tar.xz",
+        "count": 18,
+        "size": 165869436
+      },
+      {
+        "name": "test-suite-18.1.0rc2.src.tar.xz.sig",
+        "count": 11,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.0rc2.src.tar.xz",
+        "count": 53,
+        "size": 402252
+      },
+      {
+        "name": "third-party-18.1.0rc2.src.tar.xz.sig",
+        "count": 40,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-18.1.0-rc1",
+    "date": "2024-01-30T00:03:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-18.1.0rc1.src.tar.xz",
+        "count": 55,
+        "size": 764440
+      },
+      {
+        "name": "bolt-18.1.0rc1.src.tar.xz.sig",
+        "count": 7,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc1-aarch64-linux-gnu.tar.xz",
+        "count": 25,
+        "size": 1066201584
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc1-amd64-pc-solaris2.11.tar.xz",
+        "count": 42,
+        "size": 1256404284
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc1-armv7a-linux-gnueabihf.tar.gz",
+        "count": 28,
+        "size": 1412165427
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc1-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 16,
+        "size": 736336348
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc1-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 12,
+        "size": 949746896
+      },
+      {
+        "name": "clang+llvm-18.1.0-rc1-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 15,
+        "size": 1173131072
+      },
+      {
+        "name": "clang-18.1.0rc1.src.tar.xz",
+        "count": 96,
+        "size": 22139508
+      },
+      {
+        "name": "clang-18.1.0rc1.src.tar.xz.sig",
+        "count": 24,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc1.src.tar.xz",
+        "count": 70,
+        "size": 3339560
+      },
+      {
+        "name": "clang-tools-extra-18.1.0rc1.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "cmake-18.1.0rc1.src.tar.xz",
+        "count": 122,
+        "size": 8696
+      },
+      {
+        "name": "cmake-18.1.0rc1.src.tar.xz.sig",
+        "count": 67,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-18.1.0rc1.src.tar.xz",
+        "count": 64,
+        "size": 2469332
+      },
+      {
+        "name": "compiler-rt-18.1.0rc1.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "flang-18.1.0rc1.src.tar.xz",
+        "count": 58,
+        "size": 3073256
+      },
+      {
+        "name": "flang-18.1.0rc1.src.tar.xz.sig",
+        "count": 24,
+        "size": 566
+      },
+      {
+        "name": "libclc-18.1.0rc1.src.tar.xz",
+        "count": 38,
+        "size": 126492
+      },
+      {
+        "name": "libclc-18.1.0rc1.src.tar.xz.sig",
+        "count": 6,
+        "size": 566
+      },
+      {
+        "name": "libcxx-18.1.0rc1.src.tar.xz",
+        "count": 68,
+        "size": 4029248
+      },
+      {
+        "name": "libcxx-18.1.0rc1.src.tar.xz.sig",
+        "count": 28,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-18.1.0rc1.src.tar.xz",
+        "count": 62,
+        "size": 582628
+      },
+      {
+        "name": "libcxxabi-18.1.0rc1.src.tar.xz.sig",
+        "count": 27,
+        "size": 566
+      },
+      {
+        "name": "libunwind-18.1.0rc1.src.tar.xz",
+        "count": 60,
+        "size": 119032
+      },
+      {
+        "name": "libunwind-18.1.0rc1.src.tar.xz.sig",
+        "count": 27,
+        "size": 566
+      },
+      {
+        "name": "lld-18.1.0rc1.src.tar.xz",
+        "count": 61,
+        "size": 1550840
+      },
+      {
+        "name": "lld-18.1.0rc1.src.tar.xz.sig",
+        "count": 24,
+        "size": 566
+      },
+      {
+        "name": "lldb-18.1.0rc1.src.tar.xz",
+        "count": 45,
+        "size": 10599892
+      },
+      {
+        "name": "lldb-18.1.0rc1.src.tar.xz.sig",
+        "count": 8,
+        "size": 566
+      },
+      {
+        "name": "LLVM-18.1.0-rc1-win32.exe",
+        "count": 33,
+        "size": 348123609
+      },
+      {
+        "name": "LLVM-18.1.0-rc1-win64.exe",
+        "count": 313,
+        "size": 374081927
+      },
+      {
+        "name": "LLVM-18.1.0-rc1-woa64.exe",
+        "count": 13,
+        "size": 344904953
+      },
+      {
+        "name": "llvm-18.1.0rc1.src.tar.xz",
+        "count": 108,
+        "size": 61915968
+      },
+      {
+        "name": "llvm-18.1.0rc1.src.tar.xz.sig",
+        "count": 44,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-18.1.0rc1.src.tar.xz",
+        "count": 329,
+        "size": 131969632
+      },
+      {
+        "name": "llvm-project-18.1.0rc1.src.tar.xz.sig",
+        "count": 25,
+        "size": 566
+      },
+      {
+        "name": "mlir-18.1.0rc1.src.tar.xz",
+        "count": 42,
+        "size": 5898116
+      },
+      {
+        "name": "mlir-18.1.0rc1.src.tar.xz.sig",
+        "count": 10,
+        "size": 566
+      },
+      {
+        "name": "openmp-18.1.0rc1.src.tar.xz",
+        "count": 40,
+        "size": 1316936
+      },
+      {
+        "name": "openmp-18.1.0rc1.src.tar.xz.sig",
+        "count": 8,
+        "size": 566
+      },
+      {
+        "name": "polly-18.1.0rc1.src.tar.xz",
+        "count": 36,
+        "size": 9159304
+      },
+      {
+        "name": "polly-18.1.0rc1.src.tar.xz.sig",
+        "count": 8,
+        "size": 566
+      },
+      {
+        "name": "runtimes-18.1.0rc1.src.tar.xz",
+        "count": 46,
+        "size": 6784
+      },
+      {
+        "name": "runtimes-18.1.0rc1.src.tar.xz.sig",
+        "count": 11,
+        "size": 566
+      },
+      {
+        "name": "test-suite-18.1.0rc1.src.tar.xz",
+        "count": 35,
+        "size": 165833208
+      },
+      {
+        "name": "test-suite-18.1.0rc1.src.tar.xz.sig",
+        "count": 6,
+        "size": 566
+      },
+      {
+        "name": "third-party-18.1.0rc1.src.tar.xz",
+        "count": 54,
+        "size": 402232
+      },
+      {
+        "name": "third-party-18.1.0rc1.src.tar.xz.sig",
+        "count": 23,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.6",
+    "date": "2023-11-28T10:32:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.6.src.tar.xz",
+        "count": 1373,
+        "size": 712520
+      },
+      {
+        "name": "bolt-17.0.6.src.tar.xz.sig",
+        "count": 182,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.6-aarch64-linux-gnu.tar.xz",
+        "count": 8862,
+        "size": 962230808
+      },
+      {
+        "name": "clang+llvm-17.0.6-amd64-pc-solaris2.11.tar.xz",
+        "count": 1148,
+        "size": 1115190004
+      },
+      {
+        "name": "clang+llvm-17.0.6-arm64-apple-darwin22.0.tar.xz",
+        "count": 5856,
+        "size": 804335844
+      },
+      {
+        "name": "clang+llvm-17.0.6-armv7a-linux-gnueabihf.tar.gz",
+        "count": 627,
+        "size": 1332555760
+      },
+      {
+        "name": "clang+llvm-17.0.6-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 281,
+        "size": 731169888
+      },
+      {
+        "name": "clang+llvm-17.0.6-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 250,
+        "size": 857075508
+      },
+      {
+        "name": "clang+llvm-17.0.6-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 123,
+        "size": 1030643944
+      },
+      {
+        "name": "clang+llvm-17.0.6-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 90033,
+        "size": 997521960
+      },
+      {
+        "name": "clang-17.0.6.src.tar.xz",
+        "count": 14378,
+        "size": 21577596
+      },
+      {
+        "name": "clang-17.0.6.src.tar.xz.sig",
+        "count": 1396,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.6.src.tar.xz",
+        "count": 6079,
+        "size": 3269980
+      },
+      {
+        "name": "clang-tools-extra-17.0.6.src.tar.xz.sig",
+        "count": 831,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.6.tar.xz",
+        "count": 220,
+        "size": 6023488
+      },
+      {
+        "name": "clang_doxygen-17.0.6.tar.xz",
+        "count": 259,
+        "size": 51253428
+      },
+      {
+        "name": "cmake-17.0.6.src.tar.xz",
+        "count": 53027,
+        "size": 8712
+      },
+      {
+        "name": "cmake-17.0.6.src.tar.xz.sig",
+        "count": 3479,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.6.src.tar.xz",
+        "count": 4744,
+        "size": 2421808
+      },
+      {
+        "name": "compiler-rt-17.0.6.src.tar.xz.sig",
+        "count": 1061,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.6.src.tar.xz",
+        "count": 492,
+        "size": 2762700
+      },
+      {
+        "name": "flang-17.0.6.src.tar.xz.sig",
+        "count": 239,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.6.tar.xz",
+        "count": 161,
+        "size": 2324344
+      },
+      {
+        "name": "libclc-17.0.6.src.tar.xz",
+        "count": 917,
+        "size": 126360
+      },
+      {
+        "name": "libclc-17.0.6.src.tar.xz.sig",
+        "count": 136,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.6.src.tar.xz",
+        "count": 137985,
+        "size": 3946532
+      },
+      {
+        "name": "libcxx-17.0.6.src.tar.xz.sig",
+        "count": 159,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.6.src.tar.xz",
+        "count": 96877,
+        "size": 575744
+      },
+      {
+        "name": "libcxxabi-17.0.6.src.tar.xz.sig",
+        "count": 149,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.6.src.tar.xz",
+        "count": 2152,
+        "size": 115088
+      },
+      {
+        "name": "libunwind-17.0.6.src.tar.xz.sig",
+        "count": 273,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.6.src.tar.xz",
+        "count": 5223,
+        "size": 1506048
+      },
+      {
+        "name": "lld-17.0.6.src.tar.xz.sig",
+        "count": 454,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.6.src.tar.xz",
+        "count": 882,
+        "size": 10493512
+      },
+      {
+        "name": "lldb-17.0.6.src.tar.xz.sig",
+        "count": 221,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.6-win32.exe",
+        "count": 3570,
+        "size": 327115082
+      },
+      {
+        "name": "LLVM-17.0.6-win64.exe",
+        "count": 197733,
+        "size": 349078329
+      },
+      {
+        "name": "LLVM-17.0.6-woa64.exe",
+        "count": 1152,
+        "size": 314615395
+      },
+      {
+        "name": "llvm-17.0.6.src.tar.xz",
+        "count": 15900,
+        "size": 59298244
+      },
+      {
+        "name": "llvm-17.0.6.src.tar.xz.sig",
+        "count": 2728,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.6.src.tar.xz",
+        "count": 327647,
+        "size": 127838860
+      },
+      {
+        "name": "llvm-project-17.0.6.src.tar.xz.sig",
+        "count": 2201,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.6.tar.xz",
+        "count": 293,
+        "size": 106059652
+      },
+      {
+        "name": "mlir-17.0.6.src.tar.xz",
+        "count": 579,
+        "size": 5336028
+      },
+      {
+        "name": "mlir-17.0.6.src.tar.xz.sig",
+        "count": 309,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.6.src.tar.xz",
+        "count": 40256,
+        "size": 1273412
+      },
+      {
+        "name": "openmp-17.0.6.src.tar.xz.sig",
+        "count": 209,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.6.src.tar.xz",
+        "count": 389,
+        "size": 9219324
+      },
+      {
+        "name": "polly-17.0.6.src.tar.xz.sig",
+        "count": 171,
+        "size": 438
+      },
+      {
+        "name": "runtimes-17.0.6.src.tar.xz",
+        "count": 1255,
+        "size": 6240
+      },
+      {
+        "name": "runtimes-17.0.6.src.tar.xz.sig",
+        "count": 96,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.6.src.tar.xz",
+        "count": 319,
+        "size": 165965368
+      },
+      {
+        "name": "test-suite-17.0.6.src.tar.xz.sig",
+        "count": 93,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.6.src.tar.xz",
+        "count": 9556,
+        "size": 383752
+      },
+      {
+        "name": "third-party-17.0.6.src.tar.xz.sig",
+        "count": 1977,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.5",
+    "date": "2023-11-14T09:48:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.5.src.tar.xz",
+        "count": 267,
+        "size": 712660
+      },
+      {
+        "name": "bolt-17.0.5.src.tar.xz.sig",
+        "count": 75,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.5-aarch64-linux-gnu.tar.xz",
+        "count": 619,
+        "size": 960782748
+      },
+      {
+        "name": "clang+llvm-17.0.5-arm64-apple-darwin22.0.tar.xz",
+        "count": 1255,
+        "size": 803546512
+      },
+      {
+        "name": "clang+llvm-17.0.5-armv7a-linux-gnueabihf.tar.gz",
+        "count": 144,
+        "size": 1332410802
+      },
+      {
+        "name": "clang+llvm-17.0.5-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 85,
+        "size": 730915344
+      },
+      {
+        "name": "clang+llvm-17.0.5-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 68,
+        "size": 856823948
+      },
+      {
+        "name": "clang+llvm-17.0.5-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 2422,
+        "size": 1005608540
+      },
+      {
+        "name": "clang-17.0.5.src.tar.xz",
+        "count": 2487,
+        "size": 21574748
+      },
+      {
+        "name": "clang-17.0.5.src.tar.xz.sig",
+        "count": 112,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.5.src.tar.xz",
+        "count": 1129,
+        "size": 3270140
+      },
+      {
+        "name": "clang-tools-extra-17.0.5.src.tar.xz.sig",
+        "count": 81,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.5.tar.xz",
+        "count": 98,
+        "size": 6019996
+      },
+      {
+        "name": "clang_doxygen-17.0.5.tar.xz",
+        "count": 99,
+        "size": 51263280
+      },
+      {
+        "name": "cmake-17.0.5.src.tar.xz",
+        "count": 6807,
+        "size": 8712
+      },
+      {
+        "name": "cmake-17.0.5.src.tar.xz.sig",
+        "count": 298,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.5.src.tar.xz",
+        "count": 473,
+        "size": 2420936
+      },
+      {
+        "name": "compiler-rt-17.0.5.src.tar.xz.sig",
+        "count": 83,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.5.src.tar.xz",
+        "count": 114,
+        "size": 2762656
+      },
+      {
+        "name": "flang-17.0.5.src.tar.xz.sig",
+        "count": 60,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.5.tar.xz",
+        "count": 90,
+        "size": 2316196
+      },
+      {
+        "name": "libclc-17.0.5.src.tar.xz",
+        "count": 16823,
+        "size": 126440
+      },
+      {
+        "name": "libclc-17.0.5.src.tar.xz.sig",
+        "count": 61,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.5.src.tar.xz",
+        "count": 304,
+        "size": 3955896
+      },
+      {
+        "name": "libcxx-17.0.5.src.tar.xz.sig",
+        "count": 68,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.5.src.tar.xz",
+        "count": 160,
+        "size": 575600
+      },
+      {
+        "name": "libcxxabi-17.0.5.src.tar.xz.sig",
+        "count": 61,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.5.src.tar.xz",
+        "count": 174,
+        "size": 115092
+      },
+      {
+        "name": "libunwind-17.0.5.src.tar.xz.sig",
+        "count": 63,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.5.src.tar.xz",
+        "count": 646,
+        "size": 1506168
+      },
+      {
+        "name": "lld-17.0.5.src.tar.xz.sig",
+        "count": 69,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.5.src.tar.xz",
+        "count": 219,
+        "size": 10494184
+      },
+      {
+        "name": "lldb-17.0.5.src.tar.xz.sig",
+        "count": 69,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.5-win32.exe",
+        "count": 1678,
+        "size": 327046452
+      },
+      {
+        "name": "LLVM-17.0.5-win64.exe",
+        "count": 23134,
+        "size": 349065336
+      },
+      {
+        "name": "LLVM-17.0.5-woa64.exe",
+        "count": 561,
+        "size": 314567570
+      },
+      {
+        "name": "llvm-17.0.5.src.tar.xz",
+        "count": 2962,
+        "size": 59298032
+      },
+      {
+        "name": "llvm-17.0.5.src.tar.xz.sig",
+        "count": 297,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.5.src.tar.xz",
+        "count": 69050,
+        "size": 127842560
+      },
+      {
+        "name": "llvm-project-17.0.5.src.tar.xz.sig",
+        "count": 213,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.5.tar.xz",
+        "count": 92,
+        "size": 105927308
+      },
+      {
+        "name": "mlir-17.0.5.src.tar.xz",
+        "count": 118,
+        "size": 5335868
+      },
+      {
+        "name": "mlir-17.0.5.src.tar.xz.sig",
+        "count": 49,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.5.src.tar.xz",
+        "count": 4711,
+        "size": 1273408
+      },
+      {
+        "name": "openmp-17.0.5.src.tar.xz.sig",
+        "count": 62,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.5.src.tar.xz",
+        "count": 109,
+        "size": 9215772
+      },
+      {
+        "name": "polly-17.0.5.src.tar.xz.sig",
+        "count": 53,
+        "size": 438
+      },
+      {
+        "name": "runtimes-17.0.5.src.tar.xz",
+        "count": 129,
+        "size": 6244
+      },
+      {
+        "name": "runtimes-17.0.5.src.tar.xz.sig",
+        "count": 51,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.5.src.tar.xz",
+        "count": 111,
+        "size": 165743424
+      },
+      {
+        "name": "test-suite-17.0.5.src.tar.xz.sig",
+        "count": 55,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.5.src.tar.xz",
+        "count": 1956,
+        "size": 383700
+      },
+      {
+        "name": "third-party-17.0.5.src.tar.xz.sig",
+        "count": 265,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.4",
+    "date": "2023-10-31T08:31:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.4.src.tar.xz",
+        "count": 290,
+        "size": 712664
+      },
+      {
+        "name": "bolt-17.0.4.src.tar.xz.sig",
+        "count": 64,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.4-aarch64-linux-gnu.tar.xz",
+        "count": 542,
+        "size": 961043032
+      },
+      {
+        "name": "clang+llvm-17.0.4-arm64-apple-darwin22.0.tar.xz",
+        "count": 277,
+        "size": 804312212
+      },
+      {
+        "name": "clang+llvm-17.0.4-armv7a-linux-gnueabihf.tar.gz",
+        "count": 133,
+        "size": 1332375963
+      },
+      {
+        "name": "clang+llvm-17.0.4-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 81,
+        "size": 730934676
+      },
+      {
+        "name": "clang+llvm-17.0.4-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 83,
+        "size": 856918720
+      },
+      {
+        "name": "clang+llvm-17.0.4-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 48103,
+        "size": 1000807336
+      },
+      {
+        "name": "clang-17.0.4.src.tar.xz",
+        "count": 1586,
+        "size": 21576540
+      },
+      {
+        "name": "clang-17.0.4.src.tar.xz.sig",
+        "count": 148,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.4.src.tar.xz",
+        "count": 651,
+        "size": 3269996
+      },
+      {
+        "name": "clang-tools-extra-17.0.4.src.tar.xz.sig",
+        "count": 106,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.4.tar.xz",
+        "count": 79,
+        "size": 6018420
+      },
+      {
+        "name": "clang_doxygen-17.0.4.tar.xz",
+        "count": 95,
+        "size": 51237172
+      },
+      {
+        "name": "cmake-17.0.4.src.tar.xz",
+        "count": 8275,
+        "size": 8712
+      },
+      {
+        "name": "cmake-17.0.4.src.tar.xz.sig",
+        "count": 223,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.4.src.tar.xz",
+        "count": 436,
+        "size": 2419208
+      },
+      {
+        "name": "compiler-rt-17.0.4.src.tar.xz.sig",
+        "count": 102,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.4.src.tar.xz",
+        "count": 134,
+        "size": 2762368
+      },
+      {
+        "name": "flang-17.0.4.src.tar.xz.sig",
+        "count": 69,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.4.tar.xz",
+        "count": 70,
+        "size": 2331400
+      },
+      {
+        "name": "libclc-17.0.4.src.tar.xz",
+        "count": 18157,
+        "size": 126400
+      },
+      {
+        "name": "libclc-17.0.4.src.tar.xz.sig",
+        "count": 52,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.4.src.tar.xz",
+        "count": 212,
+        "size": 3947524
+      },
+      {
+        "name": "libcxx-17.0.4.src.tar.xz.sig",
+        "count": 76,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.4.src.tar.xz",
+        "count": 153,
+        "size": 575700
+      },
+      {
+        "name": "libcxxabi-17.0.4.src.tar.xz.sig",
+        "count": 74,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.4.src.tar.xz",
+        "count": 165,
+        "size": 115104
+      },
+      {
+        "name": "libunwind-17.0.4.src.tar.xz.sig",
+        "count": 69,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.4.src.tar.xz",
+        "count": 447,
+        "size": 1505900
+      },
+      {
+        "name": "lld-17.0.4.src.tar.xz.sig",
+        "count": 77,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.4.src.tar.xz",
+        "count": 207,
+        "size": 10492916
+      },
+      {
+        "name": "lldb-17.0.4.src.tar.xz.sig",
+        "count": 69,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.4-win32.exe",
+        "count": 791,
+        "size": 327042015
+      },
+      {
+        "name": "LLVM-17.0.4-win64.exe",
+        "count": 22547,
+        "size": 331041635
+      },
+      {
+        "name": "LLVM-17.0.4-woa64.exe",
+        "count": 545,
+        "size": 314544774
+      },
+      {
+        "name": "llvm-17.0.4.src.tar.xz",
+        "count": 2007,
+        "size": 59299192
+      },
+      {
+        "name": "llvm-17.0.4.src.tar.xz.sig",
+        "count": 135,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.4.src.tar.xz",
+        "count": 63979,
+        "size": 127828636
+      },
+      {
+        "name": "llvm-project-17.0.4.src.tar.xz.sig",
+        "count": 183,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.4.tar.xz",
+        "count": 79,
+        "size": 106001036
+      },
+      {
+        "name": "mlir-17.0.4.src.tar.xz",
+        "count": 121,
+        "size": 5335820
+      },
+      {
+        "name": "mlir-17.0.4.src.tar.xz.sig",
+        "count": 57,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.4.src.tar.xz",
+        "count": 6820,
+        "size": 1273372
+      },
+      {
+        "name": "openmp-17.0.4.src.tar.xz.sig",
+        "count": 73,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.4.src.tar.xz",
+        "count": 120,
+        "size": 9220960
+      },
+      {
+        "name": "polly-17.0.4.src.tar.xz.sig",
+        "count": 73,
+        "size": 438
+      },
+      {
+        "name": "runtimes-17.0.4.src.tar.xz",
+        "count": 111,
+        "size": 6244
+      },
+      {
+        "name": "runtimes-17.0.4.src.tar.xz.sig",
+        "count": 43,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.4.src.tar.xz",
+        "count": 85,
+        "size": 165758596
+      },
+      {
+        "name": "test-suite-17.0.4.src.tar.xz.sig",
+        "count": 46,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.4.src.tar.xz",
+        "count": 1023,
+        "size": 383756
+      },
+      {
+        "name": "third-party-17.0.4.src.tar.xz.sig",
+        "count": 103,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.3",
+    "date": "2023-10-17T06:37:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.3.src.tar.xz",
+        "count": 406,
+        "size": 712508
+      },
+      {
+        "name": "bolt-17.0.3.src.tar.xz.sig",
+        "count": 177,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.3-aarch64-linux-gnu.tar.xz",
+        "count": 110,
+        "size": 960493348
+      },
+      {
+        "name": "clang+llvm-17.0.3-arm64-apple-darwin22.0.tar.xz",
+        "count": 618,
+        "size": 803440504
+      },
+      {
+        "name": "clang+llvm-17.0.3-armv7a-linux-gnueabihf.tar.gz",
+        "count": 23,
+        "size": 1332335880
+      },
+      {
+        "name": "clang+llvm-17.0.3-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 18,
+        "size": 731600304
+      },
+      {
+        "name": "clang+llvm-17.0.3-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 176,
+        "size": 856960740
+      },
+      {
+        "name": "clang-17.0.3.src.tar.xz",
+        "count": 2454,
+        "size": 21575716
+      },
+      {
+        "name": "clang-17.0.3.src.tar.xz.sig",
+        "count": 205,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.3.src.tar.xz",
+        "count": 945,
+        "size": 3269936
+      },
+      {
+        "name": "clang-tools-extra-17.0.3.src.tar.xz.sig",
+        "count": 185,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.3.tar.xz",
+        "count": 210,
+        "size": 6000112
+      },
+      {
+        "name": "clang_doxygen-17.0.3.tar.xz",
+        "count": 235,
+        "size": 51421380
+      },
+      {
+        "name": "cmake-17.0.3.src.tar.xz",
+        "count": 9924,
+        "size": 8712
+      },
+      {
+        "name": "cmake-17.0.3.src.tar.xz.sig",
+        "count": 191,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.3.src.tar.xz",
+        "count": 538,
+        "size": 2419124
+      },
+      {
+        "name": "compiler-rt-17.0.3.src.tar.xz.sig",
+        "count": 171,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.3.src.tar.xz",
+        "count": 228,
+        "size": 2762092
+      },
+      {
+        "name": "flang-17.0.3.src.tar.xz.sig",
+        "count": 160,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.3.tar.xz",
+        "count": 195,
+        "size": 2311792
+      },
+      {
+        "name": "libclc-17.0.3.src.tar.xz",
+        "count": 19794,
+        "size": 126416
+      },
+      {
+        "name": "libclc-17.0.3.src.tar.xz.sig",
+        "count": 155,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.3.src.tar.xz",
+        "count": 292,
+        "size": 3945844
+      },
+      {
+        "name": "libcxx-17.0.3.src.tar.xz.sig",
+        "count": 156,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.3.src.tar.xz",
+        "count": 253,
+        "size": 575660
+      },
+      {
+        "name": "libcxxabi-17.0.3.src.tar.xz.sig",
+        "count": 163,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.3.src.tar.xz",
+        "count": 313,
+        "size": 115056
+      },
+      {
+        "name": "libunwind-17.0.3.src.tar.xz.sig",
+        "count": 161,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.3.src.tar.xz",
+        "count": 512,
+        "size": 1506052
+      },
+      {
+        "name": "lld-17.0.3.src.tar.xz.sig",
+        "count": 162,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.3.src.tar.xz",
+        "count": 309,
+        "size": 10492900
+      },
+      {
+        "name": "lldb-17.0.3.src.tar.xz.sig",
+        "count": 151,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.3-win32.exe",
+        "count": 1236,
+        "size": 327063518
+      },
+      {
+        "name": "LLVM-17.0.3-win64.exe",
+        "count": 27259,
+        "size": 331013698
+      },
+      {
+        "name": "LLVM-17.0.3-woa64.exe",
+        "count": 357,
+        "size": 314495196
+      },
+      {
+        "name": "llvm-17.0.3.src.tar.xz",
+        "count": 3123,
+        "size": 59294480
+      },
+      {
+        "name": "llvm-17.0.3.src.tar.xz.sig",
+        "count": 83,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.3.src.tar.xz",
+        "count": 71821,
+        "size": 127843636
+      },
+      {
+        "name": "llvm-project-17.0.3.src.tar.xz.sig",
+        "count": 246,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.3.tar.xz",
+        "count": 97,
+        "size": 105971556
+      },
+      {
+        "name": "mlir-17.0.3.src.tar.xz",
+        "count": 118,
+        "size": 5334932
+      },
+      {
+        "name": "mlir-17.0.3.src.tar.xz.sig",
+        "count": 42,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.3.src.tar.xz",
+        "count": 7256,
+        "size": 1273276
+      },
+      {
+        "name": "openmp-17.0.3.src.tar.xz.sig",
+        "count": 53,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.3.src.tar.xz",
+        "count": 109,
+        "size": 9220720
+      },
+      {
+        "name": "polly-17.0.3.src.tar.xz.sig",
+        "count": 46,
+        "size": 438
+      },
+      {
+        "name": "runtimes-17.0.3.src.tar.xz",
+        "count": 119,
+        "size": 6244
+      },
+      {
+        "name": "runtimes-17.0.3.src.tar.xz.sig",
+        "count": 41,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.3.src.tar.xz",
+        "count": 105,
+        "size": 166975920
+      },
+      {
+        "name": "test-suite-17.0.3.src.tar.xz.sig",
+        "count": 45,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.3.src.tar.xz",
+        "count": 1955,
+        "size": 383788
+      },
+      {
+        "name": "third-party-17.0.3.src.tar.xz.sig",
+        "count": 56,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.2",
+    "date": "2023-10-03T06:50:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.2.src.tar.xz",
+        "count": 326,
+        "size": 712648
+      },
+      {
+        "name": "bolt-17.0.2.src.tar.xz.sig",
+        "count": 68,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.2-aarch64-linux-gnu.tar.xz",
+        "count": 1228,
+        "size": 959910628
+      },
+      {
+        "name": "clang+llvm-17.0.2-amd64-pc-solaris2.11.tar.xz",
+        "count": 325,
+        "size": 1107191528
+      },
+      {
+        "name": "clang+llvm-17.0.2-arm64-apple-darwin22.0.tar.xz",
+        "count": 575,
+        "size": 803457216
+      },
+      {
+        "name": "clang+llvm-17.0.2-armv7a-linux-gnueabihf.tar.gz",
+        "count": 106,
+        "size": 1332322990
+      },
+      {
+        "name": "clang+llvm-17.0.2-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 82,
+        "size": 731570204
+      },
+      {
+        "name": "clang+llvm-17.0.2-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 53,
+        "size": 857014864
+      },
+      {
+        "name": "clang+llvm-17.0.2-sparc64-unknown-linux-gnu.tar.xz",
+        "count": 72,
+        "size": 800402636
+      },
+      {
+        "name": "clang+llvm-17.0.2-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 48,
+        "size": 1038350372
+      },
+      {
+        "name": "clang+llvm-17.0.2-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 92600,
+        "size": 999075212
+      },
+      {
+        "name": "clang-17.0.2.src.tar.xz",
+        "count": 1365,
+        "size": 21575372
+      },
+      {
+        "name": "clang-17.0.2.src.tar.xz.sig",
+        "count": 126,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.2.src.tar.xz",
+        "count": 396,
+        "size": 3269768
+      },
+      {
+        "name": "clang-tools-extra-17.0.2.src.tar.xz.sig",
+        "count": 109,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.2.tar.xz",
+        "count": 83,
+        "size": 6000072
+      },
+      {
+        "name": "clang_doxygen-17.0.2.tar.xz",
+        "count": 98,
+        "size": 51418664
+      },
+      {
+        "name": "cmake-17.0.2.src.tar.xz",
+        "count": 7949,
+        "size": 8712
+      },
+      {
+        "name": "cmake-17.0.2.src.tar.xz.sig",
+        "count": 238,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.2.src.tar.xz",
+        "count": 387,
+        "size": 2420612
+      },
+      {
+        "name": "compiler-rt-17.0.2.src.tar.xz.sig",
+        "count": 111,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.2.src.tar.xz",
+        "count": 127,
+        "size": 2762088
+      },
+      {
+        "name": "flang-17.0.2.src.tar.xz.sig",
+        "count": 64,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.2.tar.xz",
+        "count": 74,
+        "size": 2311144
+      },
+      {
+        "name": "libclc-17.0.2.src.tar.xz",
+        "count": 21076,
+        "size": 126432
+      },
+      {
+        "name": "libclc-17.0.2.src.tar.xz.sig",
+        "count": 46,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.2.src.tar.xz",
+        "count": 229,
+        "size": 3950396
+      },
+      {
+        "name": "libcxx-17.0.2.src.tar.xz.sig",
+        "count": 74,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.2.src.tar.xz",
+        "count": 175,
+        "size": 575644
+      },
+      {
+        "name": "libcxxabi-17.0.2.src.tar.xz.sig",
+        "count": 75,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.2.src.tar.xz",
+        "count": 216,
+        "size": 115080
+      },
+      {
+        "name": "libunwind-17.0.2.src.tar.xz.sig",
+        "count": 79,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.2.src.tar.xz",
+        "count": 334,
+        "size": 1505888
+      },
+      {
+        "name": "lld-17.0.2.src.tar.xz.sig",
+        "count": 97,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.2.src.tar.xz",
+        "count": 214,
+        "size": 10493572
+      },
+      {
+        "name": "lldb-17.0.2.src.tar.xz.sig",
+        "count": 67,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.2-win32.exe",
+        "count": 987,
+        "size": 327042494
+      },
+      {
+        "name": "LLVM-17.0.2-win64.exe",
+        "count": 68941,
+        "size": 331033552
+      },
+      {
+        "name": "LLVM-17.0.2-woa64.exe",
+        "count": 562,
+        "size": 314531762
+      },
+      {
+        "name": "llvm-17.0.2.src.tar.xz",
+        "count": 2336,
+        "size": 59292048
+      },
+      {
+        "name": "llvm-17.0.2.src.tar.xz.sig",
+        "count": 156,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.2.src.tar.xz",
+        "count": 58642,
+        "size": 127833708
+      },
+      {
+        "name": "llvm-project-17.0.2.src.tar.xz.sig",
+        "count": 927,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.2.tar.xz",
+        "count": 89,
+        "size": 105962284
+      },
+      {
+        "name": "mlir-17.0.2.src.tar.xz",
+        "count": 127,
+        "size": 5335212
+      },
+      {
+        "name": "mlir-17.0.2.src.tar.xz.sig",
+        "count": 64,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.2.src.tar.xz",
+        "count": 6218,
+        "size": 1273608
+      },
+      {
+        "name": "openmp-17.0.2.src.tar.xz.sig",
+        "count": 68,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.2.src.tar.xz",
+        "count": 129,
+        "size": 9220944
+      },
+      {
+        "name": "polly-17.0.2.src.tar.xz.sig",
+        "count": 62,
+        "size": 438
+      },
+      {
+        "name": "runtimes-17.0.2.src.tar.xz",
+        "count": 118,
+        "size": 6244
+      },
+      {
+        "name": "runtimes-17.0.2.src.tar.xz.sig",
+        "count": 43,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.2.src.tar.xz",
+        "count": 114,
+        "size": 165602124
+      },
+      {
+        "name": "test-suite-17.0.2.src.tar.xz.sig",
+        "count": 48,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.2.src.tar.xz",
+        "count": 1015,
+        "size": 383748
+      },
+      {
+        "name": "third-party-17.0.2.src.tar.xz.sig",
+        "count": 113,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.1",
+    "date": "2023-09-19T09:11:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.1.src.tar.xz",
+        "count": 2029,
+        "size": 712620
+      },
+      {
+        "name": "bolt-17.0.1.src.tar.xz.sig",
+        "count": 282,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.1-aarch64-linux-gnu.tar.xz",
+        "count": 5136,
+        "size": 960688884
+      },
+      {
+        "name": "clang+llvm-17.0.1-amd64-pc-solaris2.11.tar.xz",
+        "count": 4779,
+        "size": 1109302896
+      },
+      {
+        "name": "clang+llvm-17.0.1-arm64-apple-darwin22.0.tar.xz",
+        "count": 2542,
+        "size": 803708084
+      },
+      {
+        "name": "clang+llvm-17.0.1-armv7a-linux-gnueabihf.tar.gz",
+        "count": 676,
+        "size": 1332302859
+      },
+      {
+        "name": "clang+llvm-17.0.1-final_powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 386,
+        "size": 112525312
+      },
+      {
+        "name": "clang+llvm-17.0.1-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 366,
+        "size": 857002008
+      },
+      {
+        "name": "clang+llvm-17.0.1-sparc64-unknown-linux-gnu.tar.xz",
+        "count": 290,
+        "size": 811794720
+      },
+      {
+        "name": "clang+llvm-17.0.1-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 203,
+        "size": 1040702976
+      },
+      {
+        "name": "clang-17.0.1.src.tar.xz",
+        "count": 5944,
+        "size": 21575884
+      },
+      {
+        "name": "clang-17.0.1.src.tar.xz.sig",
+        "count": 549,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.1.src.tar.xz",
+        "count": 1612,
+        "size": 3269888
+      },
+      {
+        "name": "clang-tools-extra-17.0.1.src.tar.xz.sig",
+        "count": 295,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.1.tar.xz",
+        "count": 293,
+        "size": 6020440
+      },
+      {
+        "name": "clang_doxygen-17.0.1.tar.xz",
+        "count": 345,
+        "size": 51350304
+      },
+      {
+        "name": "cmake-17.0.1.src.tar.xz",
+        "count": 3329,
+        "size": 8708
+      },
+      {
+        "name": "cmake-17.0.1.src.tar.xz.sig",
+        "count": 430,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.1.src.tar.xz",
+        "count": 1001,
+        "size": 2420404
+      },
+      {
+        "name": "compiler-rt-17.0.1.src.tar.xz.sig",
+        "count": 232,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.1.src.tar.xz",
+        "count": 302,
+        "size": 2762432
+      },
+      {
+        "name": "flang-17.0.1.src.tar.xz.sig",
+        "count": 134,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.1.tar.xz",
+        "count": 151,
+        "size": 2303292
+      },
+      {
+        "name": "libclc-17.0.1.src.tar.xz",
+        "count": 23379,
+        "size": 126340
+      },
+      {
+        "name": "libclc-17.0.1.src.tar.xz.sig",
+        "count": 143,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.1.src.tar.xz",
+        "count": 753,
+        "size": 3950816
+      },
+      {
+        "name": "libcxx-17.0.1.src.tar.xz.sig",
+        "count": 165,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.1.src.tar.xz",
+        "count": 429,
+        "size": 575704
+      },
+      {
+        "name": "libcxxabi-17.0.1.src.tar.xz.sig",
+        "count": 144,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.1.src.tar.xz",
+        "count": 430,
+        "size": 115068
+      },
+      {
+        "name": "libunwind-17.0.1.src.tar.xz.sig",
+        "count": 147,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.1.src.tar.xz",
+        "count": 704,
+        "size": 1506532
+      },
+      {
+        "name": "lld-17.0.1.src.tar.xz.sig",
+        "count": 174,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.1.src.tar.xz",
+        "count": 457,
+        "size": 10492820
+      },
+      {
+        "name": "lldb-17.0.1.src.tar.xz.sig",
+        "count": 139,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.1-win32.exe",
+        "count": 5305,
+        "size": 327080037
+      },
+      {
+        "name": "LLVM-17.0.1-win64.exe",
+        "count": 115278,
+        "size": 330956068
+      },
+      {
+        "name": "LLVM-17.0.1-woa64.exe",
+        "count": 1406,
+        "size": 314530872
+      },
+      {
+        "name": "llvm-17.0.1.src.tar.xz",
+        "count": 3672,
+        "size": 59280712
+      },
+      {
+        "name": "llvm-17.0.1.src.tar.xz.sig",
+        "count": 332,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.1.src.tar.xz",
+        "count": 68535,
+        "size": 127830376
+      },
+      {
+        "name": "llvm-project-17.0.1.src.tar.xz.sig",
+        "count": 497,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.1.tar.xz",
+        "count": 249,
+        "size": 106136864
+      },
+      {
+        "name": "mlir-17.0.1.src.tar.xz",
+        "count": 272,
+        "size": 5335288
+      },
+      {
+        "name": "mlir-17.0.1.src.tar.xz.sig",
+        "count": 146,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.1.src.tar.xz",
+        "count": 1905,
+        "size": 1273432
+      },
+      {
+        "name": "openmp-17.0.1.src.tar.xz.sig",
+        "count": 142,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.1.src.tar.xz",
+        "count": 285,
+        "size": 9220692
+      },
+      {
+        "name": "polly-17.0.1.src.tar.xz.sig",
+        "count": 130,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.1.src.tar.xz",
+        "count": 241,
+        "size": 165663092
+      },
+      {
+        "name": "test-suite-17.0.1.src.tar.xz.sig",
+        "count": 100,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.1.src.tar.xz",
+        "count": 794,
+        "size": 383780
+      },
+      {
+        "name": "third-party-17.0.1.src.tar.xz.sig",
+        "count": 200,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.0-rc4",
+    "date": "2023-09-05T12:15:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.0rc4.src.tar.xz",
+        "count": 35,
+        "size": 712620
+      },
+      {
+        "name": "bolt-17.0.0rc4.src.tar.xz.sig",
+        "count": 7,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-aarch64-linux-gnu.tar.xz",
+        "count": 107,
+        "size": 961400924
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-amd64-pc-solaris2.11.tar.xz",
+        "count": 47,
+        "size": 1111368516
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-armv7a-linux-gnueabihf.tar.gz",
+        "count": 20,
+        "size": 1332254576
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 13,
+        "size": 731223240
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 11,
+        "size": 857016764
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-sparc64-unknown-linux-gnu.tar.xz",
+        "count": 19,
+        "size": 817177428
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc4-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 11,
+        "size": 1034605920
+      },
+      {
+        "name": "clang-17.0.0rc4.src.tar.xz",
+        "count": 140,
+        "size": 21580004
+      },
+      {
+        "name": "clang-17.0.0rc4.src.tar.xz.sig",
+        "count": 43,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc4.src.tar.xz",
+        "count": 78,
+        "size": 3270204
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc4.src.tar.xz.sig",
+        "count": 22,
+        "size": 438
+      },
+      {
+        "name": "cmake-17.0.0rc4.src.tar.xz",
+        "count": 100,
+        "size": 8704
+      },
+      {
+        "name": "cmake-17.0.0rc4.src.tar.xz.sig",
+        "count": 51,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.0rc4.src.tar.xz",
+        "count": 43,
+        "size": 2420672
+      },
+      {
+        "name": "compiler-rt-17.0.0rc4.src.tar.xz.sig",
+        "count": 20,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.0rc4.src.tar.xz",
+        "count": 21,
+        "size": 2761652
+      },
+      {
+        "name": "flang-17.0.0rc4.src.tar.xz.sig",
+        "count": 11,
+        "size": 438
+      },
+      {
+        "name": "libclc-17.0.0rc4.src.tar.xz",
+        "count": 25,
+        "size": 126300
+      },
+      {
+        "name": "libclc-17.0.0rc4.src.tar.xz.sig",
+        "count": 9,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.0rc4.src.tar.xz",
+        "count": 32,
+        "size": 3958032
+      },
+      {
+        "name": "libcxx-17.0.0rc4.src.tar.xz.sig",
+        "count": 18,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.0rc4.src.tar.xz",
+        "count": 29,
+        "size": 575652
+      },
+      {
+        "name": "libcxxabi-17.0.0rc4.src.tar.xz.sig",
+        "count": 18,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.0rc4.src.tar.xz",
+        "count": 33,
+        "size": 115124
+      },
+      {
+        "name": "libunwind-17.0.0rc4.src.tar.xz.sig",
+        "count": 18,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.0rc4.src.tar.xz",
+        "count": 38,
+        "size": 1506520
+      },
+      {
+        "name": "lld-17.0.0rc4.src.tar.xz.sig",
+        "count": 20,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.0rc4.src.tar.xz",
+        "count": 42,
+        "size": 10493536
+      },
+      {
+        "name": "lldb-17.0.0rc4.src.tar.xz.sig",
+        "count": 13,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.0-rc4-win32.exe",
+        "count": 41,
+        "size": 327038218
+      },
+      {
+        "name": "LLVM-17.0.0-rc4-win64.exe",
+        "count": 578,
+        "size": 331079640
+      },
+      {
+        "name": "LLVM-17.0.0-rc4-woa64.exe",
+        "count": 58,
+        "size": 314474007
+      },
+      {
+        "name": "llvm-17.0.0rc4.src.tar.xz",
+        "count": 80,
+        "size": 59284540
+      },
+      {
+        "name": "llvm-17.0.0rc4.src.tar.xz.sig",
+        "count": 34,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.0rc4.src.tar.xz",
+        "count": 10426,
+        "size": 127838724
+      },
+      {
+        "name": "llvm-project-17.0.0rc4.src.tar.xz.sig",
+        "count": 44,
+        "size": 438
+      },
+      {
+        "name": "mlir-17.0.0rc4.src.tar.xz",
+        "count": 27,
+        "size": 5334632
+      },
+      {
+        "name": "mlir-17.0.0rc4.src.tar.xz.sig",
+        "count": 16,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.0rc4.src.tar.xz",
+        "count": 47,
+        "size": 1273292
+      },
+      {
+        "name": "openmp-17.0.0rc4.src.tar.xz.sig",
+        "count": 14,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.0rc4.src.tar.xz",
+        "count": 27,
+        "size": 9219256
+      },
+      {
+        "name": "polly-17.0.0rc4.src.tar.xz.sig",
+        "count": 15,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.0rc4.src.tar.xz",
+        "count": 14,
+        "size": 165865668
+      },
+      {
+        "name": "test-suite-17.0.0rc4.src.tar.xz.sig",
+        "count": 5,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.0rc4.src.tar.xz",
+        "count": 43,
+        "size": 383912
+      },
+      {
+        "name": "third-party-17.0.0rc4.src.tar.xz.sig",
+        "count": 27,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.0-rc3",
+    "date": "2023-08-22T08:17:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.0rc3.src.tar.xz",
+        "count": 45,
+        "size": 711116
+      },
+      {
+        "name": "bolt-17.0.0rc3.src.tar.xz.sig",
+        "count": 12,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-aarch64-linux-gnu.tar.xz",
+        "count": 59,
+        "size": 961345508
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-amd64-pc-solaris2.11.tar.xz",
+        "count": 50,
+        "size": 1117506872
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-arm64-apple-darwin22.0.tar.xz",
+        "count": 75,
+        "size": 801594032
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-armv7a-linux-gnueabihf.tar.gz",
+        "count": 35,
+        "size": 1332110636
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 14,
+        "size": 731113432
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 23,
+        "size": 856541696
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-sparc64-unknown-linux-gnu.tar.xz",
+        "count": 16,
+        "size": 811701376
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc3-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 15,
+        "size": 1042796400
+      },
+      {
+        "name": "clang-17.0.0rc3.src.tar.xz",
+        "count": 95,
+        "size": 21571508
+      },
+      {
+        "name": "clang-17.0.0rc3.src.tar.xz.sig",
+        "count": 42,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc3.src.tar.xz",
+        "count": 64,
+        "size": 3269960
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc3.src.tar.xz.sig",
+        "count": 42,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.0-rc3.tar.xz",
+        "count": 16,
+        "size": 6028600
+      },
+      {
+        "name": "clang_doxygen-17.0.0-rc3.tar.xz",
+        "count": 15,
+        "size": 51268060
+      },
+      {
+        "name": "cmake-17.0.0rc3.src.tar.xz",
+        "count": 175,
+        "size": 8712
+      },
+      {
+        "name": "cmake-17.0.0rc3.src.tar.xz.sig",
+        "count": 162,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.0rc3.src.tar.xz",
+        "count": 51,
+        "size": 2419672
+      },
+      {
+        "name": "compiler-rt-17.0.0rc3.src.tar.xz.sig",
+        "count": 38,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.0rc3.src.tar.xz",
+        "count": 43,
+        "size": 2761604
+      },
+      {
+        "name": "flang-17.0.0rc3.src.tar.xz.sig",
+        "count": 34,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.0-rc3.tar.xz",
+        "count": 15,
+        "size": 2316836
+      },
+      {
+        "name": "libclc-17.0.0rc3.src.tar.xz",
+        "count": 24,
+        "size": 126396
+      },
+      {
+        "name": "libclc-17.0.0rc3.src.tar.xz.sig",
+        "count": 13,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.0rc3.src.tar.xz",
+        "count": 51,
+        "size": 3955360
+      },
+      {
+        "name": "libcxx-17.0.0rc3.src.tar.xz.sig",
+        "count": 37,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.0rc3.src.tar.xz",
+        "count": 43,
+        "size": 575684
+      },
+      {
+        "name": "libcxxabi-17.0.0rc3.src.tar.xz.sig",
+        "count": 39,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.0rc3.src.tar.xz",
+        "count": 44,
+        "size": 115096
+      },
+      {
+        "name": "libunwind-17.0.0rc3.src.tar.xz.sig",
+        "count": 35,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.0rc3.src.tar.xz",
+        "count": 54,
+        "size": 1505776
+      },
+      {
+        "name": "lld-17.0.0rc3.src.tar.xz.sig",
+        "count": 39,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.0rc3.src.tar.xz",
+        "count": 29,
+        "size": 10492864
+      },
+      {
+        "name": "lldb-17.0.0rc3.src.tar.xz.sig",
+        "count": 17,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.0-rc3-win32.exe",
+        "count": 34,
+        "size": 327003647
+      },
+      {
+        "name": "LLVM-17.0.0-rc3-win64.exe",
+        "count": 986,
+        "size": 330910026
+      },
+      {
+        "name": "LLVM-17.0.0-rc3-woa64.exe",
+        "count": 22,
+        "size": 314426807
+      },
+      {
+        "name": "llvm-17.0.0rc3.src.tar.xz",
+        "count": 130,
+        "size": 59273680
+      },
+      {
+        "name": "llvm-17.0.0rc3.src.tar.xz.sig",
+        "count": 74,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.0rc3.src.tar.xz",
+        "count": 10575,
+        "size": 127805656
+      },
+      {
+        "name": "llvm-project-17.0.0rc3.src.tar.xz.sig",
+        "count": 50,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.0-rc3.tar.xz",
+        "count": 14,
+        "size": 105655876
+      },
+      {
+        "name": "mlir-17.0.0rc3.src.tar.xz",
+        "count": 57,
+        "size": 5333488
+      },
+      {
+        "name": "mlir-17.0.0rc3.src.tar.xz.sig",
+        "count": 56,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.0rc3.src.tar.xz",
+        "count": 33,
+        "size": 1272984
+      },
+      {
+        "name": "openmp-17.0.0rc3.src.tar.xz.sig",
+        "count": 23,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.0rc3.src.tar.xz",
+        "count": 25,
+        "size": 9220592
+      },
+      {
+        "name": "polly-17.0.0rc3.src.tar.xz.sig",
+        "count": 19,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.0rc3.src.tar.xz",
+        "count": 23,
+        "size": 165537124
+      },
+      {
+        "name": "test-suite-17.0.0rc3.src.tar.xz.sig",
+        "count": 12,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.0rc3.src.tar.xz",
+        "count": 64,
+        "size": 383744
+      },
+      {
+        "name": "third-party-17.0.0rc3.src.tar.xz.sig",
+        "count": 51,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.0-rc2",
+    "date": "2023-08-08T11:06:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.0rc2.src.tar.xz",
+        "count": 30,
+        "size": 711196
+      },
+      {
+        "name": "bolt-17.0.0rc2.src.tar.xz.sig",
+        "count": 10,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-aarch64-linux-gnu.tar.xz",
+        "count": 77,
+        "size": 960626952
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-amd64-pc-solaris2.11.tar.xz",
+        "count": 54,
+        "size": 1102401904
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-armv7a-linux-gnueabihf.tar.gz",
+        "count": 14,
+        "size": 1331858041
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 14,
+        "size": 730619616
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 17,
+        "size": 856646476
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-sparc64-unknown-linux-gnu.tar.xz",
+        "count": 16,
+        "size": 806292748
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc2-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 15,
+        "size": 1032970972
+      },
+      {
+        "name": "clang-17.0.0rc2.src.tar.xz",
+        "count": 66,
+        "size": 21570800
+      },
+      {
+        "name": "clang-17.0.0rc2.src.tar.xz.sig",
+        "count": 30,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc2.src.tar.xz",
+        "count": 57,
+        "size": 3269652
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc2.src.tar.xz.sig",
+        "count": 24,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.0-rc2.tar.xz",
+        "count": 16,
+        "size": 6037544
+      },
+      {
+        "name": "clang_doxygen-17.0.0-rc2.tar.xz",
+        "count": 69,
+        "size": 51315204
+      },
+      {
+        "name": "cmake-17.0.0rc2.src.tar.xz",
+        "count": 79,
+        "size": 8708
+      },
+      {
+        "name": "cmake-17.0.0rc2.src.tar.xz.sig",
+        "count": 59,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.0rc2.src.tar.xz",
+        "count": 38,
+        "size": 2419980
+      },
+      {
+        "name": "compiler-rt-17.0.0rc2.src.tar.xz.sig",
+        "count": 23,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.0rc2.src.tar.xz",
+        "count": 19,
+        "size": 2761872
+      },
+      {
+        "name": "flang-17.0.0rc2.src.tar.xz.sig",
+        "count": 13,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.0-rc2.tar.xz",
+        "count": 13,
+        "size": 2321844
+      },
+      {
+        "name": "libclc-17.0.0rc2.src.tar.xz",
+        "count": 22,
+        "size": 126468
+      },
+      {
+        "name": "libclc-17.0.0rc2.src.tar.xz.sig",
+        "count": 11,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.0rc2.src.tar.xz",
+        "count": 41,
+        "size": 3954136
+      },
+      {
+        "name": "libcxx-17.0.0rc2.src.tar.xz.sig",
+        "count": 23,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.0rc2.src.tar.xz",
+        "count": 32,
+        "size": 575640
+      },
+      {
+        "name": "libcxxabi-17.0.0rc2.src.tar.xz.sig",
+        "count": 23,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.0rc2.src.tar.xz",
+        "count": 31,
+        "size": 115128
+      },
+      {
+        "name": "libunwind-17.0.0rc2.src.tar.xz.sig",
+        "count": 25,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.0rc2.src.tar.xz",
+        "count": 41,
+        "size": 1505760
+      },
+      {
+        "name": "lld-17.0.0rc2.src.tar.xz.sig",
+        "count": 25,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.0rc2.src.tar.xz",
+        "count": 27,
+        "size": 10491884
+      },
+      {
+        "name": "lldb-17.0.0rc2.src.tar.xz.sig",
+        "count": 14,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.0-rc2-win32.exe",
+        "count": 41,
+        "size": 284844976
+      },
+      {
+        "name": "LLVM-17.0.0-rc2-win64.exe",
+        "count": 435,
+        "size": 330747912
+      },
+      {
+        "name": "LLVM-17.0.0-rc2-woa64.exe",
+        "count": 30,
+        "size": 314357858
+      },
+      {
+        "name": "llvm-17.0.0rc2.src.tar.xz",
+        "count": 75,
+        "size": 59264504
+      },
+      {
+        "name": "llvm-17.0.0rc2.src.tar.xz.sig",
+        "count": 41,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.0rc2.src.tar.xz",
+        "count": 674,
+        "size": 127795160
+      },
+      {
+        "name": "llvm-project-17.0.0rc2.src.tar.xz.sig",
+        "count": 44,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.0-rc2.tar.xz",
+        "count": 15,
+        "size": 105868576
+      },
+      {
+        "name": "mlir-17.0.0rc2.src.tar.xz",
+        "count": 27,
+        "size": 5330304
+      },
+      {
+        "name": "mlir-17.0.0rc2.src.tar.xz.sig",
+        "count": 21,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.0rc2.src.tar.xz",
+        "count": 27,
+        "size": 1273004
+      },
+      {
+        "name": "openmp-17.0.0rc2.src.tar.xz.sig",
+        "count": 11,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.0rc2.src.tar.xz",
+        "count": 23,
+        "size": 9215628
+      },
+      {
+        "name": "polly-17.0.0rc2.src.tar.xz.sig",
+        "count": 12,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.0rc2.src.tar.xz",
+        "count": 19,
+        "size": 165884572
+      },
+      {
+        "name": "test-suite-17.0.0rc2.src.tar.xz.sig",
+        "count": 8,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.0rc2.src.tar.xz",
+        "count": 41,
+        "size": 383760
+      },
+      {
+        "name": "third-party-17.0.0rc2.src.tar.xz.sig",
+        "count": 28,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-17.0.0-rc1",
+    "date": "2023-07-29T06:58:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-17.0.0rc1.src.tar.xz",
+        "count": 26,
+        "size": 711208
+      },
+      {
+        "name": "bolt-17.0.0rc1.src.tar.xz.sig",
+        "count": 11,
+        "size": 438
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-aarch64-linux-gnu.tar.xz",
+        "count": 25,
+        "size": 961077944
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-amd64-pc-solaris2.11.tar.xz",
+        "count": 46,
+        "size": 1110501036
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-arm64-apple-darwin22.0.tar.xz",
+        "count": 50,
+        "size": 802433808
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-armv7a-linux-gnueabihf.tar.gz",
+        "count": 14,
+        "size": 1332010413
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 11,
+        "size": 732589892
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-powerpc64le-linux-rhel-8.8.tar.xz",
+        "count": 17,
+        "size": 856730144
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-sparc64-unknown-linux-gnu.tar.xz",
+        "count": 17,
+        "size": 809678632
+      },
+      {
+        "name": "clang+llvm-17.0.0-rc1-sparcv9-sun-solaris2.11.tar.xz",
+        "count": 11,
+        "size": 1038656704
+      },
+      {
+        "name": "clang-17.0.0rc1.src.tar.xz",
+        "count": 84,
+        "size": 21569564
+      },
+      {
+        "name": "clang-17.0.0rc1.src.tar.xz.sig",
+        "count": 45,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc1.src.tar.xz",
+        "count": 87,
+        "size": 3269744
+      },
+      {
+        "name": "clang-tools-extra-17.0.0rc1.src.tar.xz.sig",
+        "count": 42,
+        "size": 438
+      },
+      {
+        "name": "clang-tools-extra_doxygen-17.0.0-rc1.tar.xz",
+        "count": 17,
+        "size": 6016088
+      },
+      {
+        "name": "clang_doxygen-17.0.0-rc1.tar.xz",
+        "count": 18,
+        "size": 51288508
+      },
+      {
+        "name": "cmake-17.0.0rc1.src.tar.xz",
+        "count": 131,
+        "size": 8704
+      },
+      {
+        "name": "cmake-17.0.0rc1.src.tar.xz.sig",
+        "count": 99,
+        "size": 438
+      },
+      {
+        "name": "compiler-rt-17.0.0rc1.src.tar.xz",
+        "count": 49,
+        "size": 2418216
+      },
+      {
+        "name": "compiler-rt-17.0.0rc1.src.tar.xz.sig",
+        "count": 37,
+        "size": 438
+      },
+      {
+        "name": "flang-17.0.0rc1.src.tar.xz",
+        "count": 26,
+        "size": 2761888
+      },
+      {
+        "name": "flang-17.0.0rc1.src.tar.xz.sig",
+        "count": 13,
+        "size": 438
+      },
+      {
+        "name": "flang_doxygen-17.0.0-rc1.tar.xz",
+        "count": 17,
+        "size": 2339388
+      },
+      {
+        "name": "libclc-17.0.0rc1.src.tar.xz",
+        "count": 25,
+        "size": 126280
+      },
+      {
+        "name": "libclc-17.0.0rc1.src.tar.xz.sig",
+        "count": 14,
+        "size": 438
+      },
+      {
+        "name": "libcxx-17.0.0rc1.src.tar.xz",
+        "count": 53,
+        "size": 3943908
+      },
+      {
+        "name": "libcxx-17.0.0rc1.src.tar.xz.sig",
+        "count": 36,
+        "size": 438
+      },
+      {
+        "name": "libcxxabi-17.0.0rc1.src.tar.xz",
+        "count": 51,
+        "size": 575648
+      },
+      {
+        "name": "libcxxabi-17.0.0rc1.src.tar.xz.sig",
+        "count": 40,
+        "size": 438
+      },
+      {
+        "name": "libunwind-17.0.0rc1.src.tar.xz",
+        "count": 50,
+        "size": 115064
+      },
+      {
+        "name": "libunwind-17.0.0rc1.src.tar.xz.sig",
+        "count": 41,
+        "size": 438
+      },
+      {
+        "name": "lld-17.0.0rc1.src.tar.xz",
+        "count": 46,
+        "size": 1505560
+      },
+      {
+        "name": "lld-17.0.0rc1.src.tar.xz.sig",
+        "count": 33,
+        "size": 438
+      },
+      {
+        "name": "lldb-17.0.0rc1.src.tar.xz",
+        "count": 26,
+        "size": 10491956
+      },
+      {
+        "name": "lldb-17.0.0rc1.src.tar.xz.sig",
+        "count": 14,
+        "size": 438
+      },
+      {
+        "name": "LLVM-17.0.0-rc1-win32.exe",
+        "count": 37,
+        "size": 284894993
+      },
+      {
+        "name": "LLVM-17.0.0-rc1-win64.exe",
+        "count": 1174,
+        "size": 288769309
+      },
+      {
+        "name": "LLVM-17.0.0-rc1-woa64.exe",
+        "count": 16,
+        "size": 314426941
+      },
+      {
+        "name": "llvm-17.0.0rc1.src.tar.xz",
+        "count": 124,
+        "size": 59270544
+      },
+      {
+        "name": "llvm-17.0.0rc1.src.tar.xz.sig",
+        "count": 85,
+        "size": 438
+      },
+      {
+        "name": "llvm-project-17.0.0rc1.src.tar.xz",
+        "count": 469,
+        "size": 127805900
+      },
+      {
+        "name": "llvm-project-17.0.0rc1.src.tar.xz.sig",
+        "count": 61,
+        "size": 438
+      },
+      {
+        "name": "llvm_doxygen-17.0.0-rc1.tar.xz",
+        "count": 20,
+        "size": 105556280
+      },
+      {
+        "name": "mlir-17.0.0rc1.src.tar.xz",
+        "count": 27,
+        "size": 5330496
+      },
+      {
+        "name": "mlir-17.0.0rc1.src.tar.xz.sig",
+        "count": 19,
+        "size": 438
+      },
+      {
+        "name": "openmp-17.0.0rc1.src.tar.xz",
+        "count": 23,
+        "size": 1273004
+      },
+      {
+        "name": "openmp-17.0.0rc1.src.tar.xz.sig",
+        "count": 14,
+        "size": 438
+      },
+      {
+        "name": "polly-17.0.0rc1.src.tar.xz",
+        "count": 23,
+        "size": 9220724
+      },
+      {
+        "name": "polly-17.0.0rc1.src.tar.xz.sig",
+        "count": 15,
+        "size": 438
+      },
+      {
+        "name": "test-suite-17.0.0rc1.src.tar.xz",
+        "count": 29,
+        "size": 166974628
+      },
+      {
+        "name": "test-suite-17.0.0rc1.src.tar.xz.sig",
+        "count": 17,
+        "size": 438
+      },
+      {
+        "name": "third-party-17.0.0rc1.src.tar.xz",
+        "count": 66,
+        "size": 383804
+      },
+      {
+        "name": "third-party-17.0.0rc1.src.tar.xz.sig",
+        "count": 58,
+        "size": 438
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-16.0.6",
+    "date": "2023-06-14T04:20:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-16.0.6.src.tar.xz",
+        "count": 541,
+        "size": 661600
+      },
+      {
+        "name": "bolt-16.0.6.src.tar.xz.sig",
+        "count": 139,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-16.0.6-aarch64-linux-gnu.tar.xz",
+        "count": 2869,
+        "size": 913706844
+      },
+      {
+        "name": "clang+llvm-16.0.6-powerpc64le-linux-rhel-8.7.tar.xz",
+        "count": 1303,
+        "size": 824145068
+      },
+      {
+        "name": "clang-16.0.6.src.tar.xz",
+        "count": 12224,
+        "size": 20356652
+      },
+      {
+        "name": "clang-16.0.6.src.tar.xz.sig",
+        "count": 1533,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-16.0.6.src.tar.xz",
+        "count": 8474,
+        "size": 3151928
+      },
+      {
+        "name": "clang-tools-extra-16.0.6.src.tar.xz.sig",
+        "count": 553,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra_doxygen-.tar.xz",
+        "count": 209,
+        "size": 10604164
+      },
+      {
+        "name": "clang_doxygen-.tar.xz",
+        "count": 226,
+        "size": 78255700
+      },
+      {
+        "name": "cmake-16.0.6.src.tar.xz",
+        "count": 31861,
+        "size": 9008
+      },
+      {
+        "name": "cmake-16.0.6.src.tar.xz.sig",
+        "count": 3537,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-16.0.6.src.tar.xz",
+        "count": 3680,
+        "size": 2358240
+      },
+      {
+        "name": "compiler-rt-16.0.6.src.tar.xz.sig",
+        "count": 1166,
+        "size": 566
+      },
+      {
+        "name": "flang-16.0.6.src.tar.xz",
+        "count": 399,
+        "size": 2369292
+      },
+      {
+        "name": "flang-16.0.6.src.tar.xz.sig",
+        "count": 195,
+        "size": 566
+      },
+      {
+        "name": "flang_doxygen-.tar.xz",
+        "count": 140,
+        "size": 2190328
+      },
+      {
+        "name": "libclc-16.0.6.src.tar.xz",
+        "count": 30739,
+        "size": 125656
+      },
+      {
+        "name": "libclc-16.0.6.src.tar.xz.sig",
+        "count": 123,
+        "size": 566
+      },
+      {
+        "name": "libcxx-16.0.6.src.tar.xz",
+        "count": 2633,
+        "size": 3655520
+      },
+      {
+        "name": "libcxx-16.0.6.src.tar.xz.sig",
+        "count": 115,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-16.0.6.src.tar.xz",
+        "count": 1010,
+        "size": 573564
+      },
+      {
+        "name": "libcxxabi-16.0.6.src.tar.xz.sig",
+        "count": 109,
+        "size": 566
+      },
+      {
+        "name": "libunwind-16.0.6.src.tar.xz",
+        "count": 2348,
+        "size": 115032
+      },
+      {
+        "name": "libunwind-16.0.6.src.tar.xz.sig",
+        "count": 894,
+        "size": 566
+      },
+      {
+        "name": "lld-16.0.6.src.tar.xz",
+        "count": 7872,
+        "size": 1455688
+      },
+      {
+        "name": "lld-16.0.6.src.tar.xz.sig",
+        "count": 935,
+        "size": 566
+      },
+      {
+        "name": "lldb-16.0.6.src.tar.xz",
+        "count": 747,
+        "size": 10378280
+      },
+      {
+        "name": "lldb-16.0.6.src.tar.xz.sig",
+        "count": 155,
+        "size": 566
+      },
+      {
+        "name": "LLVM-16.0.6-win32.exe",
+        "count": 2728,
+        "size": 304032865
+      },
+      {
+        "name": "LLVM-16.0.6-win64.exe",
+        "count": 140305,
+        "size": 307648319
+      },
+      {
+        "name": "LLVM-16.0.6-woa64.exe",
+        "count": 888,
+        "size": 290576091
+      },
+      {
+        "name": "llvm-16.0.6.src.tar.xz",
+        "count": 13842,
+        "size": 56149540
+      },
+      {
+        "name": "llvm-16.0.6.src.tar.xz.sig",
+        "count": 3073,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-16.0.6.src.tar.xz",
+        "count": 158511,
+        "size": 118013488
+      },
+      {
+        "name": "llvm-project-16.0.6.src.tar.xz.sig",
+        "count": 2420,
+        "size": 566
+      },
+      {
+        "name": "llvm_doxygen-.tar.xz",
+        "count": 194,
+        "size": 183939744
+      },
+      {
+        "name": "mlir-16.0.6.src.tar.xz",
+        "count": 333,
+        "size": 4555584
+      },
+      {
+        "name": "mlir-16.0.6.src.tar.xz.sig",
+        "count": 77,
+        "size": 566
+      },
+      {
+        "name": "openmp-16.0.6.src.tar.xz",
+        "count": 17955,
+        "size": 1278072
+      },
+      {
+        "name": "openmp-16.0.6.src.tar.xz.sig",
+        "count": 174,
+        "size": 566
+      },
+      {
+        "name": "polly-16.0.6.src.tar.xz",
+        "count": 475,
+        "size": 9356796
+      },
+      {
+        "name": "polly-16.0.6.src.tar.xz.sig",
+        "count": 143,
+        "size": 566
+      },
+      {
+        "name": "test-suite-16.0.6.src.tar.xz",
+        "count": 212,
+        "size": 164281536
+      },
+      {
+        "name": "test-suite-16.0.6.src.tar.xz.sig",
+        "count": 81,
+        "size": 566
+      },
+      {
+        "name": "third-party-16.0.6.src.tar.xz",
+        "count": 5051,
+        "size": 383512
+      },
+      {
+        "name": "third-party-16.0.6.src.tar.xz.sig",
+        "count": 2429,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-16.0.5",
+    "date": "2023-06-02T14:09:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-16.0.5.src.tar.xz",
+        "count": 166,
+        "size": 661556
+      },
+      {
+        "name": "bolt-16.0.5.src.tar.xz.sig",
+        "count": 62,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-16.0.5-aarch64-linux-gnu.tar.xz",
+        "count": 404,
+        "size": 913684800
+      },
+      {
+        "name": "clang+llvm-16.0.5-amd64-unknown-freebsd13.tar.xz",
+        "count": 307,
+        "size": 803665376
+      },
+      {
+        "name": "clang+llvm-16.0.5-arm64-apple-darwin22.0.tar.xz",
+        "count": 1637,
+        "size": 740414000
+      },
+      {
+        "name": "clang+llvm-16.0.5-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 131,
+        "size": 713344368
+      },
+      {
+        "name": "clang+llvm-16.0.5-powerpc64le-linux-rhel-8.7.tar.xz",
+        "count": 80,
+        "size": 824157584
+      },
+      {
+        "name": "clang-16.0.5.src.tar.xz",
+        "count": 2252,
+        "size": 20356416
+      },
+      {
+        "name": "clang-16.0.5.src.tar.xz.sig",
+        "count": 234,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-16.0.5.src.tar.xz",
+        "count": 473,
+        "size": 3151972
+      },
+      {
+        "name": "clang-tools-extra-16.0.5.src.tar.xz.sig",
+        "count": 219,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra_doxygen-.tar.xz",
+        "count": 90,
+        "size": 10603272
+      },
+      {
+        "name": "clang_doxygen-.tar.xz",
+        "count": 99,
+        "size": 78254596
+      },
+      {
+        "name": "cmake-16.0.5.src.tar.xz",
+        "count": 4541,
+        "size": 9000
+      },
+      {
+        "name": "cmake-16.0.5.src.tar.xz.sig",
+        "count": 508,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-16.0.5.src.tar.xz",
+        "count": 1247,
+        "size": 2357216
+      },
+      {
+        "name": "compiler-rt-16.0.5.src.tar.xz.sig",
+        "count": 215,
+        "size": 566
+      },
+      {
+        "name": "flang-16.0.5.src.tar.xz",
+        "count": 155,
+        "size": 2369396
+      },
+      {
+        "name": "flang-16.0.5.src.tar.xz.sig",
+        "count": 100,
+        "size": 566
+      },
+      {
+        "name": "flang_doxygen-.tar.xz",
+        "count": 78,
+        "size": 2190488
+      },
+      {
+        "name": "libclc-16.0.5.src.tar.xz",
+        "count": 31221,
+        "size": 125648
+      },
+      {
+        "name": "libclc-16.0.5.src.tar.xz.sig",
+        "count": 97,
+        "size": 566
+      },
+      {
+        "name": "libcxx-16.0.5.src.tar.xz",
+        "count": 1011,
+        "size": 3652428
+      },
+      {
+        "name": "libcxx-16.0.5.src.tar.xz.sig",
+        "count": 127,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-16.0.5.src.tar.xz",
+        "count": 216,
+        "size": 573532
+      },
+      {
+        "name": "libcxxabi-16.0.5.src.tar.xz.sig",
+        "count": 128,
+        "size": 566
+      },
+      {
+        "name": "libunwind-16.0.5.src.tar.xz",
+        "count": 630,
+        "size": 115036
+      },
+      {
+        "name": "libunwind-16.0.5.src.tar.xz.sig",
+        "count": 131,
+        "size": 566
+      },
+      {
+        "name": "lld-16.0.5.src.tar.xz",
+        "count": 802,
+        "size": 1455544
+      },
+      {
+        "name": "lld-16.0.5.src.tar.xz.sig",
+        "count": 197,
+        "size": 566
+      },
+      {
+        "name": "lldb-16.0.5.src.tar.xz",
+        "count": 270,
+        "size": 10378852
+      },
+      {
+        "name": "lldb-16.0.5.src.tar.xz.sig",
+        "count": 121,
+        "size": 566
+      },
+      {
+        "name": "LLVM-16.0.5-win32.exe",
+        "count": 474,
+        "size": 304030098
+      },
+      {
+        "name": "LLVM-16.0.5-win64.exe",
+        "count": 14026,
+        "size": 307687810
+      },
+      {
+        "name": "LLVM-16.0.5-woa64.exe",
+        "count": 127,
+        "size": 290598883
+      },
+      {
+        "name": "llvm-16.0.5.src.tar.xz",
+        "count": 2668,
+        "size": 56149428
+      },
+      {
+        "name": "llvm-16.0.5.src.tar.xz.sig",
+        "count": 298,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-16.0.5.src.tar.xz",
+        "count": 10035,
+        "size": 118000368
+      },
+      {
+        "name": "llvm-project-16.0.5.src.tar.xz.sig",
+        "count": 233,
+        "size": 566
+      },
+      {
+        "name": "llvm_doxygen-.tar.xz",
+        "count": 79,
+        "size": 183939568
+      },
+      {
+        "name": "mlir-16.0.5.src.tar.xz",
+        "count": 162,
+        "size": 4555632
+      },
+      {
+        "name": "mlir-16.0.5.src.tar.xz.sig",
+        "count": 101,
+        "size": 566
+      },
+      {
+        "name": "openmp-16.0.5.src.tar.xz",
+        "count": 3379,
+        "size": 1278476
+      },
+      {
+        "name": "openmp-16.0.5.src.tar.xz.sig",
+        "count": 112,
+        "size": 566
+      },
+      {
+        "name": "polly-16.0.5.src.tar.xz",
+        "count": 215,
+        "size": 9364360
+      },
+      {
+        "name": "polly-16.0.5.src.tar.xz.sig",
+        "count": 108,
+        "size": 566
+      },
+      {
+        "name": "test-suite-16.0.5.src.tar.xz",
+        "count": 94,
+        "size": 164271488
+      },
+      {
+        "name": "test-suite-16.0.5.src.tar.xz.sig",
+        "count": 57,
+        "size": 566
+      },
+      {
+        "name": "third-party-16.0.5.src.tar.xz",
+        "count": 1118,
+        "size": 383472
+      },
+      {
+        "name": "third-party-16.0.5.src.tar.xz.sig",
+        "count": 198,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-16.0.4",
+    "date": "2023-05-17T05:43:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-16.0.4.src.tar.xz",
+        "count": 1027,
+        "size": 661596
+      },
+      {
+        "name": "bolt-16.0.4.src.tar.xz.sig",
+        "count": 156,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-16.0.4-aarch64-linux-gnu.tar.xz",
+        "count": 5224,
+        "size": 913499848
+      },
+      {
+        "name": "clang+llvm-16.0.4-amd64-unknown-freebsd13.tar.xz",
+        "count": 594,
+        "size": 803581716
+      },
+      {
+        "name": "clang+llvm-16.0.4-arm64-apple-darwin22.0.tar.xz",
+        "count": 12279,
+        "size": 740049796
+      },
+      {
+        "name": "clang+llvm-16.0.4-armv7a-linux-gnueabihf.tar.xz",
+        "count": 1403,
+        "size": 681073328
+      },
+      {
+        "name": "clang+llvm-16.0.4-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 326,
+        "size": 713129988
+      },
+      {
+        "name": "clang+llvm-16.0.4-powerpc64le-linux-rhel-8.4.tar.xz",
+        "count": 171,
+        "size": 823500808
+      },
+      {
+        "name": "clang+llvm-16.0.4-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 98179,
+        "size": 965756016
+      },
+      {
+        "name": "clang-16.0.4.src.tar.xz",
+        "count": 2472,
+        "size": 20355884
+      },
+      {
+        "name": "clang-16.0.4.src.tar.xz.sig",
+        "count": 231,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-16.0.4.src.tar.xz",
+        "count": 738,
+        "size": 3152012
+      },
+      {
+        "name": "clang-tools-extra-16.0.4.src.tar.xz.sig",
+        "count": 165,
+        "size": 566
+      },
+      {
+        "name": "cmake-16.0.4.src.tar.xz",
+        "count": 12187,
+        "size": 9012
+      },
+      {
+        "name": "cmake-16.0.4.src.tar.xz.sig",
+        "count": 300,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-16.0.4.src.tar.xz",
+        "count": 754,
+        "size": 2358756
+      },
+      {
+        "name": "compiler-rt-16.0.4.src.tar.xz.sig",
+        "count": 159,
+        "size": 566
+      },
+      {
+        "name": "flang-16.0.4.src.tar.xz",
+        "count": 205,
+        "size": 2369372
+      },
+      {
+        "name": "flang-16.0.4.src.tar.xz.sig",
+        "count": 96,
+        "size": 566
+      },
+      {
+        "name": "libclc-16.0.4.src.tar.xz",
+        "count": 32238,
+        "size": 125568
+      },
+      {
+        "name": "libclc-16.0.4.src.tar.xz.sig",
+        "count": 91,
+        "size": 566
+      },
+      {
+        "name": "libcxx-16.0.4.src.tar.xz",
+        "count": 1210,
+        "size": 3644736
+      },
+      {
+        "name": "libcxx-16.0.4.src.tar.xz.sig",
+        "count": 101,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-16.0.4.src.tar.xz",
+        "count": 465,
+        "size": 573596
+      },
+      {
+        "name": "libcxxabi-16.0.4.src.tar.xz.sig",
+        "count": 100,
+        "size": 566
+      },
+      {
+        "name": "libunwind-16.0.4.src.tar.xz",
+        "count": 352,
+        "size": 115064
+      },
+      {
+        "name": "libunwind-16.0.4.src.tar.xz.sig",
+        "count": 108,
+        "size": 566
+      },
+      {
+        "name": "lld-16.0.4.src.tar.xz",
+        "count": 568,
+        "size": 1453464
+      },
+      {
+        "name": "lld-16.0.4.src.tar.xz.sig",
+        "count": 127,
+        "size": 566
+      },
+      {
+        "name": "lldb-16.0.4.src.tar.xz",
+        "count": 453,
+        "size": 10378640
+      },
+      {
+        "name": "lldb-16.0.4.src.tar.xz.sig",
+        "count": 99,
+        "size": 566
+      },
+      {
+        "name": "LLVM-16.0.4-win32.exe",
+        "count": 1423,
+        "size": 304071661
+      },
+      {
+        "name": "LLVM-16.0.4-win64.exe",
+        "count": 41835,
+        "size": 307633462
+      },
+      {
+        "name": "LLVM-16.0.4-woa64.exe",
+        "count": 357,
+        "size": 290631214
+      },
+      {
+        "name": "llvm-16.0.4.src.tar.xz",
+        "count": 7641,
+        "size": 56146220
+      },
+      {
+        "name": "llvm-16.0.4.src.tar.xz.sig",
+        "count": 291,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-16.0.4.src.tar.xz",
+        "count": 11155,
+        "size": 117996332
+      },
+      {
+        "name": "llvm-project-16.0.4.src.tar.xz.sig",
+        "count": 199,
+        "size": 566
+      },
+      {
+        "name": "mlir-16.0.4.src.tar.xz",
+        "count": 234,
+        "size": 4555708
+      },
+      {
+        "name": "mlir-16.0.4.src.tar.xz.sig",
+        "count": 97,
+        "size": 566
+      },
+      {
+        "name": "openmp-16.0.4.src.tar.xz",
+        "count": 4251,
+        "size": 1278420
+      },
+      {
+        "name": "openmp-16.0.4.src.tar.xz.sig",
+        "count": 92,
+        "size": 566
+      },
+      {
+        "name": "polly-16.0.4.src.tar.xz",
+        "count": 283,
+        "size": 9362172
+      },
+      {
+        "name": "polly-16.0.4.src.tar.xz.sig",
+        "count": 93,
+        "size": 566
+      },
+      {
+        "name": "test-suite-16.0.4.src.tar.xz",
+        "count": 131,
+        "size": 164301796
+      },
+      {
+        "name": "test-suite-16.0.4.src.tar.xz.sig",
+        "count": 68,
+        "size": 566
+      },
+      {
+        "name": "third-party-16.0.4.src.tar.xz",
+        "count": 813,
+        "size": 383512
+      },
+      {
+        "name": "third-party-16.0.4.src.tar.xz.sig",
+        "count": 144,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-16.0.3",
+    "date": "2023-05-03T03:34:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-16.0.3.src.tar.xz",
+        "count": 201,
+        "size": 661492
+      },
+      {
+        "name": "bolt-16.0.3.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-16.0.3-aarch64-linux-gnu.tar.xz",
+        "count": 680,
+        "size": 913366348
+      },
+      {
+        "name": "clang+llvm-16.0.3-arm64-apple-darwin22.0.tar.xz",
+        "count": 282,
+        "size": 741099100
+      },
+      {
+        "name": "clang+llvm-16.0.3-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 129,
+        "size": 713568008
+      },
+      {
+        "name": "clang+llvm-16.0.3-powerpc64le-linux-rhel-8.4.tar.xz",
+        "count": 67,
+        "size": 823401360
+      },
+      {
+        "name": "clang+llvm-16.0.3-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 3666,
+        "size": 961338848
+      },
+      {
+        "name": "clang-16.0.3.src.tar.xz",
+        "count": 924,
+        "size": 20355248
+      },
+      {
+        "name": "clang-16.0.3.src.tar.xz.sig",
+        "count": 101,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-16.0.3.src.tar.xz",
+        "count": 317,
+        "size": 3151820
+      },
+      {
+        "name": "clang-tools-extra-16.0.3.src.tar.xz.sig",
+        "count": 89,
+        "size": 566
+      },
+      {
+        "name": "cmake-16.0.3.src.tar.xz",
+        "count": 4587,
+        "size": 9004
+      },
+      {
+        "name": "cmake-16.0.3.src.tar.xz.sig",
+        "count": 120,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-16.0.3.src.tar.xz",
+        "count": 369,
+        "size": 2359672
+      },
+      {
+        "name": "compiler-rt-16.0.3.src.tar.xz.sig",
+        "count": 70,
+        "size": 566
+      },
+      {
+        "name": "flang-16.0.3.src.tar.xz",
+        "count": 114,
+        "size": 2369084
+      },
+      {
+        "name": "flang-16.0.3.src.tar.xz.sig",
+        "count": 51,
+        "size": 566
+      },
+      {
+        "name": "libclc-16.0.3.src.tar.xz",
+        "count": 32850,
+        "size": 125656
+      },
+      {
+        "name": "libclc-16.0.3.src.tar.xz.sig",
+        "count": 61,
+        "size": 565
+      },
+      {
+        "name": "libcxx-16.0.3.src.tar.xz",
+        "count": 1012,
+        "size": 3655980
+      },
+      {
+        "name": "libcxx-16.0.3.src.tar.xz.sig",
+        "count": 56,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-16.0.3.src.tar.xz",
+        "count": 198,
+        "size": 573640
+      },
+      {
+        "name": "libcxxabi-16.0.3.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "libunwind-16.0.3.src.tar.xz",
+        "count": 200,
+        "size": 115016
+      },
+      {
+        "name": "libunwind-16.0.3.src.tar.xz.sig",
+        "count": 59,
+        "size": 566
+      },
+      {
+        "name": "lld-16.0.3.src.tar.xz",
+        "count": 236,
+        "size": 1453536
+      },
+      {
+        "name": "lld-16.0.3.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "lldb-16.0.3.src.tar.xz",
+        "count": 180,
+        "size": 10378608
+      },
+      {
+        "name": "lldb-16.0.3.src.tar.xz.sig",
+        "count": 61,
+        "size": 566
+      },
+      {
+        "name": "LLVM-16.0.3-win32.exe",
+        "count": 431,
+        "size": 304054489
+      },
+      {
+        "name": "LLVM-16.0.3-win64.exe",
+        "count": 16090,
+        "size": 307640623
+      },
+      {
+        "name": "LLVM-16.0.3-woa64.exe",
+        "count": 139,
+        "size": 290615550
+      },
+      {
+        "name": "llvm-16.0.3.src.tar.xz",
+        "count": 1523,
+        "size": 56152600
+      },
+      {
+        "name": "llvm-16.0.3.src.tar.xz.sig",
+        "count": 114,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-16.0.3.src.tar.xz",
+        "count": 10822,
+        "size": 117998136
+      },
+      {
+        "name": "llvm-project-16.0.3.src.tar.xz.sig",
+        "count": 156,
+        "size": 566
+      },
+      {
+        "name": "mlir-16.0.3.src.tar.xz",
+        "count": 108,
+        "size": 4555724
+      },
+      {
+        "name": "mlir-16.0.3.src.tar.xz.sig",
+        "count": 47,
+        "size": 566
+      },
+      {
+        "name": "openmp-16.0.3.src.tar.xz",
+        "count": 3443,
+        "size": 1278080
+      },
+      {
+        "name": "openmp-16.0.3.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "polly-16.0.3.src.tar.xz",
+        "count": 111,
+        "size": 9364240
+      },
+      {
+        "name": "polly-16.0.3.src.tar.xz.sig",
+        "count": 54,
+        "size": 566
+      },
+      {
+        "name": "test-suite-16.0.3.src.tar.xz",
+        "count": 92,
+        "size": 164272488
+      },
+      {
+        "name": "test-suite-16.0.3.src.tar.xz.sig",
+        "count": 51,
+        "size": 566
+      },
+      {
+        "name": "third-party-16.0.3.src.tar.xz",
+        "count": 503,
+        "size": 383436
+      },
+      {
+        "name": "third-party-16.0.3.src.tar.xz.sig",
+        "count": 69,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "llvmorg-16.0.2",
+    "date": "2023-04-19T15:17:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bolt-16.0.2.src.tar.xz",
+        "count": 144,
+        "size": 661552
+      },
+      {
+        "name": "bolt-16.0.2.src.tar.xz.sig",
+        "count": 58,
+        "size": 566
+      },
+      {
+        "name": "clang+llvm-16.0.2-aarch64-linux-gnu.tar.xz",
+        "count": 153,
+        "size": 911693584
+      },
+      {
+        "name": "clang+llvm-16.0.2-amd64-unknown-freebsd13.tar.xz",
+        "count": 143,
+        "size": 803597296
+      },
+      {
+        "name": "clang+llvm-16.0.2-arm64-apple-darwin22.0.tar.xz",
+        "count": 292,
+        "size": 740607792
+      },
+      {
+        "name": "clang+llvm-16.0.2-powerpc64-ibm-aix-7.2.tar.xz",
+        "count": 56,
+        "size": 713386992
+      },
+      {
+        "name": "clang+llvm-16.0.2-powerpc64le-linux-rhel-8.4.tar.xz",
+        "count": 78,
+        "size": 785169928
+      },
+      {
+        "name": "clang+llvm-16.0.2-x86_64-linux-gnu-ubuntu-22.04.tar.xz",
+        "count": 4570,
+        "size": 964328044
+      },
+      {
+        "name": "clang-16.0.2.src.tar.xz",
+        "count": 777,
+        "size": 20354708
+      },
+      {
+        "name": "clang-16.0.2.src.tar.xz.sig",
+        "count": 116,
+        "size": 566
+      },
+      {
+        "name": "clang-tools-extra-16.0.2.src.tar.xz",
+        "count": 291,
+        "size": 3151972
+      },
+      {
+        "name": "clang-tools-extra-16.0.2.src.tar.xz.sig",
+        "count": 105,
+        "size": 566
+      },
+      {
+        "name": "cmake-16.0.2.src.tar.xz",
+        "count": 5115,
+        "size": 9000
+      },
+      {
+        "name": "cmake-16.0.2.src.tar.xz.sig",
+        "count": 221,
+        "size": 566
+      },
+      {
+        "name": "compiler-rt-16.0.2.src.tar.xz",
+        "count": 49576,
+        "size": 2357816
+      },
+      {
+        "name": "compiler-rt-16.0.2.src.tar.xz.sig",
+        "count": 114,
+        "size": 566
+      },
+      {
+        "name": "flang-16.0.2.src.tar.xz",
+        "count": 122,
+        "size": 2369156
+      },
+      {
+        "name": "flang-16.0.2.src.tar.xz.sig",
+        "count": 77,
+        "size": 566
+      },
+      {
+        "name": "libclc-16.0.2.src.tar.xz",
+        "count": 33895,
+        "size": 125680
+      },
+      {
+        "name": "libclc-16.0.2.src.tar.xz.sig",
+        "count": 64,
+        "size": 566
+      },
+      {
+        "name": "libcxx-16.0.2.src.tar.xz",
+        "count": 978,
+        "size": 3653716
+      },
+      {
+        "name": "libcxx-16.0.2.src.tar.xz.sig",
+        "count": 69,
+        "size": 566
+      },
+      {
+        "name": "libcxxabi-16.0.2.src.tar.xz",
+        "count": 176,
+        "size": 573596
+      },
+      {
+        "name": "libcxxabi-16.0.2.src.tar.xz.sig",
+        "count": 68,
+        "size": 566
+      },
+      {
+        "name": "libunwind-16.0.2.src.tar.xz",
+        "count": 2181,
+        "size": 115052
+      },
+      {
+        "name": "libunwind-16.0.2.src.tar.xz.sig",
+        "count": 67,
+        "size": 566
+      },
+      {
+        "name": "lld-16.0.2.src.tar.xz",
+        "count": 295,
+        "size": 1453092
+      },
+      {
+        "name": "lld-16.0.2.src.tar.xz.sig",
+        "count": 92,
+        "size": 566
+      },
+      {
+        "name": "lldb-16.0.2.src.tar.xz",
+        "count": 166,
+        "size": 10379116
+      },
+      {
+        "name": "lldb-16.0.2.src.tar.xz.sig",
+        "count": 67,
+        "size": 566
+      },
+      {
+        "name": "LLVM-16.0.2-win32.exe",
+        "count": 375,
+        "size": 304043442
+      },
+      {
+        "name": "LLVM-16.0.2-win64.exe",
+        "count": 11575,
+        "size": 307611655
+      },
+      {
+        "name": "LLVM-16.0.2-woa64.exe",
+        "count": 54,
+        "size": 290615974
+      },
+      {
+        "name": "llvm-16.0.2.src.tar.xz",
+        "count": 1047,
+        "size": 56146144
+      },
+      {
+        "name": "llvm-16.0.2.src.tar.xz.sig",
+        "count": 135,
+        "size": 566
+      },
+      {
+        "name": "llvm-project-16.0.2.src.tar.xz",
+        "count": 11125,
+        "size": 117995768
+      },
+      {
+        "name": "llvm-project-16.0.2.src.tar.xz.sig",
+        "count": 203,
+        "size": 566
+      },
+      {
+        "name": "mlir-16.0.2.src.tar.xz",
+        "count": 102,
+        "size": 4555732
+      },
+      {
+        "name": "mlir-16.0.2.src.tar.xz.sig",
+        "count": 59,
+        "size": 566
+      },
+      {
+        "name": "openmp-16.0.2.src.tar.xz",
+        "count": 2398,
+        "size": 1278160
+      },
+      {
+        "name": "openmp-16.0.2.src.tar.xz.sig",
+        "count": 68,
+        "size": 566
+      },
+      {
+        "name": "polly-16.0.2.src.tar.xz",
+        "count": 137,
+        "size": 9360836
+      },
+      {
+        "name": "polly-16.0.2.src.tar.xz.sig",
+        "count": 70,
+        "size": 566
+      },
+      {
+        "name": "test-suite-16.0.2.src.tar.xz",
+        "count": 94,
+        "size": 164034120
+      },
+      {
+        "name": "test-suite-16.0.2.src.tar.xz.sig",
+        "count": 48,
+        "size": 566
+      },
+      {
+        "name": "third-party-16.0.2.src.tar.xz",
+        "count": 477,
+        "size": 383456
+      },
+      {
+        "name": "third-party-16.0.2.src.tar.xz.sig",
+        "count": 86,
+        "size": 566
+      }
+    ]
+  }
+]

@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/rules_dotnet/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_dotnet/deployments",
   "created_at": "2016-03-15T15:12:53Z",
-  "updated_at": "2023-09-04T09:04:09Z",
-  "pushed_at": "2023-09-19T19:48:31Z",
+  "updated_at": "2024-07-22T10:52:27Z",
+  "pushed_at": "2024-07-09T22:02:56Z",
   "git_url": "git://github.com/bazelbuild/rules_dotnet.git",
   "ssh_url": "git@github.com:bazelbuild/rules_dotnet.git",
   "clone_url": "https://github.com/bazelbuild/rules_dotnet.git",
   "svn_url": "https://github.com/bazelbuild/rules_dotnet",
   "homepage": "",
-  "size": 2311,
-  "stargazers_count": 164,
-  "watchers_count": 164,
+  "size": 3106,
+  "stargazers_count": 185,
+  "watchers_count": 185,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 81,
+  "forks_count": 79,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 31,
+  "open_issues_count": 29,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -108,9 +108,9 @@
     "nuget"
   ],
   "visibility": "public",
-  "forks": 81,
-  "open_issues": 31,
-  "watchers": 164,
+  "forks": 79,
+  "open_issues": 29,
+  "watchers": 185,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -119,6 +119,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -139,6 +140,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 81,
-  "subscribers_count": 40
+  "network_count": 79,
+  "subscribers_count": 37
 }

@@ -1,0 +1,505 @@
+[
+  {
+    "name": "v1.1.0",
+    "date": "2024-08-05T16:07:25Z",
+    "mentions": 9,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.4",
+    "date": "2024-01-17T16:34:13Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.3",
+    "date": "2024-01-12T19:59:01Z",
+    "mentions": 7,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.2",
+    "date": "2023-06-26T16:41:08Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_1.0.2_checksums.txt",
+        "count": 34,
+        "size": 892
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_darwin_amd64.tar.gz",
+        "count": 187,
+        "size": 13999679
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_darwin_arm64.tar.gz",
+        "count": 487,
+        "size": 13561382
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_linux_386.tar.gz",
+        "count": 46,
+        "size": 12940618
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_linux_amd64.tar.gz",
+        "count": 15765,
+        "size": 13508189
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_linux_arm64.tar.gz",
+        "count": 1316,
+        "size": 12378410
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_windows_386.tar.gz",
+        "count": 41,
+        "size": 13445514
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_windows_amd64.tar.gz",
+        "count": 277,
+        "size": 13630997
+      },
+      {
+        "name": "protoc-gen-validate_1.0.2_windows_arm64.tar.gz",
+        "count": 37,
+        "size": 12566474
+      }
+    ]
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2023-05-09T19:16:32Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_1.0.1_checksums.txt",
+        "count": 14,
+        "size": 892
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_darwin_amd64.tar.gz",
+        "count": 891,
+        "size": 13982951
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_darwin_arm64.tar.gz",
+        "count": 70,
+        "size": 13543472
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_linux_386.tar.gz",
+        "count": 17,
+        "size": 12923861
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_linux_amd64.tar.gz",
+        "count": 2627,
+        "size": 13492157
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_linux_arm64.tar.gz",
+        "count": 537,
+        "size": 12364082
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_windows_386.tar.gz",
+        "count": 32,
+        "size": 13436317
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_windows_amd64.tar.gz",
+        "count": 153,
+        "size": 13618570
+      },
+      {
+        "name": "protoc-gen-validate_1.0.1_windows_arm64.tar.gz",
+        "count": 37,
+        "size": 12556661
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2023-04-24T17:11:48Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_1.0.0_checksums.txt",
+        "count": 7,
+        "size": 892
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_darwin_amd64.tar.gz",
+        "count": 20,
+        "size": 13982686
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_darwin_arm64.tar.gz",
+        "count": 61,
+        "size": 13540701
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_linux_386.tar.gz",
+        "count": 8,
+        "size": 12923496
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_linux_amd64.tar.gz",
+        "count": 3602,
+        "size": 13491166
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_linux_arm64.tar.gz",
+        "count": 7,
+        "size": 12362996
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_windows_386.tar.gz",
+        "count": 13,
+        "size": 13437615
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_windows_amd64.tar.gz",
+        "count": 40,
+        "size": 13617515
+      },
+      {
+        "name": "protoc-gen-validate_1.0.0_windows_arm64.tar.gz",
+        "count": 11,
+        "size": 12557871
+      }
+    ]
+  },
+  {
+    "name": "v0.10.1",
+    "date": "2023-03-20T19:14:18Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_0.10.1_checksums.txt",
+        "count": 33,
+        "size": 900
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_darwin_amd64.tar.gz",
+        "count": 43,
+        "size": 13972770
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_darwin_arm64.tar.gz",
+        "count": 46,
+        "size": 13534928
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_linux_386.tar.gz",
+        "count": 9,
+        "size": 12916652
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_linux_amd64.tar.gz",
+        "count": 15717,
+        "size": 13480667
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_linux_arm64.tar.gz",
+        "count": 580,
+        "size": 12356010
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_windows_386.tar.gz",
+        "count": 13,
+        "size": 13429792
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_windows_amd64.tar.gz",
+        "count": 40,
+        "size": 13607667
+      },
+      {
+        "name": "protoc-gen-validate_0.10.1_windows_arm64.tar.gz",
+        "count": 24,
+        "size": 12547786
+      }
+    ]
+  },
+  {
+    "name": "v0.10.0",
+    "date": "2023-03-20T15:30:48Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_0.10.0_checksums.txt",
+        "count": 11,
+        "size": 900
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_darwin_amd64.tar.gz",
+        "count": 8,
+        "size": 13972760
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_darwin_arm64.tar.gz",
+        "count": 9,
+        "size": 13534948
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_linux_386.tar.gz",
+        "count": 11,
+        "size": 12916642
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_linux_amd64.tar.gz",
+        "count": 4381,
+        "size": 13480615
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_linux_arm64.tar.gz",
+        "count": 8,
+        "size": 12355973
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_windows_386.tar.gz",
+        "count": 7,
+        "size": 13428282
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_windows_amd64.tar.gz",
+        "count": 8,
+        "size": 13607681
+      },
+      {
+        "name": "protoc-gen-validate_0.10.0_windows_arm64.tar.gz",
+        "count": 6,
+        "size": 12547862
+      }
+    ]
+  },
+  {
+    "name": "v0.9.1",
+    "date": "2022-12-05T16:57:01Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_0.9.1_checksums.txt",
+        "count": 40,
+        "size": 555
+      },
+      {
+        "name": "protoc-gen-validate_0.9.1_darwin_amd64.tar.gz",
+        "count": 165,
+        "size": 11651977
+      },
+      {
+        "name": "protoc-gen-validate_0.9.1_darwin_arm64.tar.gz",
+        "count": 138,
+        "size": 11235494
+      },
+      {
+        "name": "protoc-gen-validate_0.9.1_linux_386.tar.gz",
+        "count": 19,
+        "size": 10721855
+      },
+      {
+        "name": "protoc-gen-validate_0.9.1_linux_amd64.tar.gz",
+        "count": 2344,
+        "size": 11216846
+      },
+      {
+        "name": "protoc-gen-validate_0.9.1_linux_arm64.tar.gz",
+        "count": 2338,
+        "size": 10253316
+      }
+    ]
+  },
+  {
+    "name": "v0.9.0",
+    "date": "2022-11-07T21:05:03Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_0.9.0_checksums.txt",
+        "count": 10,
+        "size": 555
+      },
+      {
+        "name": "protoc-gen-validate_0.9.0_darwin_amd64.tar.gz",
+        "count": 43,
+        "size": 11651152
+      },
+      {
+        "name": "protoc-gen-validate_0.9.0_darwin_arm64.tar.gz",
+        "count": 20,
+        "size": 11235152
+      },
+      {
+        "name": "protoc-gen-validate_0.9.0_linux_386.tar.gz",
+        "count": 7,
+        "size": 10721105
+      },
+      {
+        "name": "protoc-gen-validate_0.9.0_linux_amd64.tar.gz",
+        "count": 916,
+        "size": 11216941
+      },
+      {
+        "name": "protoc-gen-validate_0.9.0_linux_arm64.tar.gz",
+        "count": 16,
+        "size": 10253384
+      }
+    ]
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2022-11-07T19:45:35Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "protoc-gen-validate_0.7.0_checksums.txt",
+        "count": 7,
+        "size": 555
+      },
+      {
+        "name": "protoc-gen-validate_0.7.0_darwin_amd64.tar.gz",
+        "count": 39,
+        "size": 3038023
+      },
+      {
+        "name": "protoc-gen-validate_0.7.0_darwin_arm64.tar.gz",
+        "count": 94,
+        "size": 2930751
+      },
+      {
+        "name": "protoc-gen-validate_0.7.0_linux_386.tar.gz",
+        "count": 4,
+        "size": 2794588
+      },
+      {
+        "name": "protoc-gen-validate_0.7.0_linux_amd64.tar.gz",
+        "count": 3451,
+        "size": 2927560
+      },
+      {
+        "name": "protoc-gen-validate_0.7.0_linux_arm64.tar.gz",
+        "count": 55,
+        "size": 2676425
+      }
+    ]
+  },
+  {
+    "name": "v0.6.13",
+    "date": "2022-10-03T19:08:07Z",
+    "mentions": 12,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.12",
+    "date": "2022-09-29T19:14:37Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.9-rc.0",
+    "date": "2022-09-29T14:29:13Z",
+    "mentions": 10,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.8",
+    "date": "2022-09-14T17:41:38Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.7",
+    "date": "2022-03-04T15:08:13Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.6",
+    "date": "2022-03-01T18:02:00Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.5",
+    "date": "2022-03-01T15:59:04Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.4",
+    "date": "2022-02-28T18:46:03Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.3",
+    "date": "2022-01-12T22:46:25Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.2",
+    "date": "2021-10-21T19:17:00Z",
+    "mentions": 6,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.1",
+    "date": "2021-04-26T14:00:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2021-04-22T19:34:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.5.1",
+    "date": "2021-04-01T17:49:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2021-03-15T19:20:13Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.4.1",
+    "date": "2020-08-11T20:48:28Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2020-06-23T18:16:55Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.3.0-java",
+    "date": "2020-02-20T02:13:50Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0-java",
+    "date": "2019-07-17T23:56:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2019-06-13T18:01:01Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

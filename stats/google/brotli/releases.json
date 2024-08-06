@@ -1,0 +1,517 @@
+[
+  {
+    "name": "dev/null",
+    "date": "2023-09-12T11:47:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "brotli-x64-windows-dynamic.zip",
+        "count": 267,
+        "size": 373194
+      },
+      {
+        "name": "brotli-x64-windows-static.zip",
+        "count": 286,
+        "size": 357086
+      },
+      {
+        "name": "brotli-x86-windows-dynamic.zip",
+        "count": 73,
+        "size": 348024
+      },
+      {
+        "name": "brotli-x86-windows-static.zip",
+        "count": 89,
+        "size": 331752
+      },
+      {
+        "name": "testdata.txz",
+        "count": 591,
+        "size": 3827820
+      }
+    ]
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2023-08-31T08:21:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "brotli-x64-windows-dynamic.zip",
+        "count": 6434,
+        "size": 373126
+      },
+      {
+        "name": "brotli-x64-windows-static.zip",
+        "count": 3101,
+        "size": 356913
+      },
+      {
+        "name": "brotli-x86-windows-dynamic.zip",
+        "count": 4192,
+        "size": 348043
+      },
+      {
+        "name": "brotli-x86-windows-static.zip",
+        "count": 687,
+        "size": 331707
+      }
+    ]
+  },
+  {
+    "name": "v1.1.0rc",
+    "date": "2023-08-21T13:52:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "brotli-x64-windows-dynamic.zip",
+        "count": 63,
+        "size": 373200
+      },
+      {
+        "name": "brotli-x64-windows-static.zip",
+        "count": 71,
+        "size": 357088
+      },
+      {
+        "name": "brotli-x86-windows-dynamic.zip",
+        "count": 26,
+        "size": 348034
+      },
+      {
+        "name": "brotli-x86-windows-static.zip",
+        "count": 24,
+        "size": 331754
+      }
+    ]
+  },
+  {
+    "name": "v1.0.9",
+    "date": "2020-08-27T14:14:11Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.8",
+    "date": "2020-08-27T14:05:02Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.7",
+    "date": "2018-10-23T11:13:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.6",
+    "date": "2018-09-19T12:36:26Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.5",
+    "date": "2018-06-27T15:09:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.4",
+    "date": "2018-04-10T12:48:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "brotli-v1.0.4-win_i686.zip",
+        "count": 5545,
+        "size": 312483
+      },
+      {
+        "name": "brotli-v1.0.4-win_x86_64.zip",
+        "count": 4066,
+        "size": 333696
+      },
+      {
+        "name": "brotli_dll-v1.0.4-win_i686.zip",
+        "count": 311,
+        "size": 315663
+      },
+      {
+        "name": "brotli_dll-v1.0.4-win_x86_64.zip",
+        "count": 1001,
+        "size": 336128
+      }
+    ]
+  },
+  {
+    "name": "v1.0.3",
+    "date": "2018-03-02T15:07:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "brotli-v1.0.3-win_i686.zip",
+        "count": 1011,
+        "size": 310980
+      },
+      {
+        "name": "brotli-v1.0.3-win_x86_64.zip",
+        "count": 308,
+        "size": 329999
+      },
+      {
+        "name": "brotli_dll-v1.0.3-win_i686.zip",
+        "count": 93,
+        "size": 313881
+      },
+      {
+        "name": "brotli_dll-v1.0.3-win_x86_64.zip",
+        "count": 158,
+        "size": 332427
+      }
+    ]
+  },
+  {
+    "name": "v1.0.2",
+    "date": "2017-11-29T13:13:00Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2017-09-22T12:10:25Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2017-09-21T08:44:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "brotli-linux-v1.0.0.zip",
+        "count": 438,
+        "size": 1351347
+      },
+      {
+        "name": "brotli-osx-v1.0.0.zip",
+        "count": 202,
+        "size": 1018654
+      },
+      {
+        "name": "brotli-win-i686-v1.0.0.zip",
+        "count": 379,
+        "size": 324501
+      },
+      {
+        "name": "brotli-win-x86_64-v1.0.0.zip",
+        "count": 1224,
+        "size": 334225
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2017-04-10T09:33:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Brotli-0.6.0-cp27-cp27m-macosx_10_6_intel.whl",
+        "count": 200,
+        "size": 706236
+      },
+      {
+        "name": "Brotli-0.6.0-cp27-cp27m-win32.whl",
+        "count": 229,
+        "size": 337596
+      },
+      {
+        "name": "Brotli-0.6.0-cp27-cp27m-win_amd64.whl",
+        "count": 238,
+        "size": 346731
+      },
+      {
+        "name": "Brotli-0.6.0-cp34-cp34m-macosx_10_6_intel.whl",
+        "count": 174,
+        "size": 706344
+      },
+      {
+        "name": "Brotli-0.6.0-cp34-cp34m-win32.whl",
+        "count": 215,
+        "size": 337699
+      },
+      {
+        "name": "Brotli-0.6.0-cp34-cp34m-win_amd64.whl",
+        "count": 225,
+        "size": 345622
+      },
+      {
+        "name": "Brotli-0.6.0-cp35-cp35m-macosx_10_6_intel.whl",
+        "count": 175,
+        "size": 706392
+      },
+      {
+        "name": "Brotli-0.6.0-cp35-cp35m-win32.whl",
+        "count": 223,
+        "size": 333702
+      },
+      {
+        "name": "Brotli-0.6.0-cp35-cp35m-win_amd64.whl",
+        "count": 272,
+        "size": 345202
+      },
+      {
+        "name": "Brotli-0.6.0.tar.gz",
+        "count": 906,
+        "size": 416444
+      },
+      {
+        "name": "Brotli-0.6.0.zip",
+        "count": 573,
+        "size": 478692
+      }
+    ]
+  },
+  {
+    "name": "v0.5.2",
+    "date": "2016-08-11T16:23:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Brotli-0.5.2-cp27-cp27m-macosx_10_6_intel.whl",
+        "count": 636,
+        "size": 649539
+      },
+      {
+        "name": "Brotli-0.5.2-cp27-cp27m-win32.whl",
+        "count": 457,
+        "size": 341999
+      },
+      {
+        "name": "Brotli-0.5.2-cp27-cp27m-win_amd64.whl",
+        "count": 437,
+        "size": 357393
+      },
+      {
+        "name": "Brotli-0.5.2-cp34-cp34m-macosx_10_6_intel.whl",
+        "count": 386,
+        "size": 649648
+      },
+      {
+        "name": "Brotli-0.5.2-cp34-cp34m-win32.whl",
+        "count": 554,
+        "size": 342439
+      },
+      {
+        "name": "Brotli-0.5.2-cp34-cp34m-win_amd64.whl",
+        "count": 423,
+        "size": 357133
+      },
+      {
+        "name": "Brotli-0.5.2-cp35-cp35m-macosx_10_6_intel.whl",
+        "count": 399,
+        "size": 649697
+      },
+      {
+        "name": "Brotli-0.5.2-cp35-cp35m-win32.whl",
+        "count": 421,
+        "size": 316683
+      },
+      {
+        "name": "Brotli-0.5.2-cp35-cp35m-win_amd64.whl",
+        "count": 479,
+        "size": 334348
+      },
+      {
+        "name": "Brotli-0.5.2.tar.gz",
+        "count": 2012,
+        "size": 434396
+      },
+      {
+        "name": "Brotli-0.5.2.zip",
+        "count": 511,
+        "size": 504952
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2016-06-14T13:39:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Brotli-0.4.0-cp27-cp27m-macosx_10_6_intel.whl",
+        "count": 172,
+        "size": 657978
+      },
+      {
+        "name": "Brotli-0.4.0-cp27-cp27m-macosx_10_9_intel.whl",
+        "count": 164,
+        "size": 636633
+      },
+      {
+        "name": "Brotli-0.4.0-cp27-cp27m-macosx_10_9_x86_64.whl",
+        "count": 226,
+        "size": 328310
+      },
+      {
+        "name": "Brotli-0.4.0-cp27-cp27m-win32.whl",
+        "count": 208,
+        "size": 314439
+      },
+      {
+        "name": "Brotli-0.4.0-cp27-cp27m-win_amd64.whl",
+        "count": 215,
+        "size": 336207
+      },
+      {
+        "name": "Brotli-0.4.0-cp34-cp34m-macosx_10_6_intel.whl",
+        "count": 192,
+        "size": 658016
+      },
+      {
+        "name": "Brotli-0.4.0-cp34-cp34m-win32.whl",
+        "count": 198,
+        "size": 307969
+      },
+      {
+        "name": "Brotli-0.4.0-cp34-cp34m-win_amd64.whl",
+        "count": 200,
+        "size": 322215
+      },
+      {
+        "name": "Brotli-0.4.0-cp35-cp35m-macosx_10_6_intel.whl",
+        "count": 163,
+        "size": 658058
+      },
+      {
+        "name": "Brotli-0.4.0-cp35-cp35m-macosx_10_9_x86_64.whl",
+        "count": 194,
+        "size": 329625
+      },
+      {
+        "name": "Brotli-0.4.0-cp35-cp35m-win32.whl",
+        "count": 203,
+        "size": 308952
+      },
+      {
+        "name": "Brotli-0.4.0-cp35-cp35m-win_amd64.whl",
+        "count": 211,
+        "size": 328021
+      },
+      {
+        "name": "Brotli-0.4.0.tar.gz",
+        "count": 1461,
+        "size": 525364
+      },
+      {
+        "name": "Brotli-0.4.0.zip",
+        "count": 287,
+        "size": 591320
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2016-01-06T09:26:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Brotli-0.3.0-cp27-none-macosx_10_6_intel.whl",
+        "count": 183,
+        "size": 632234
+      },
+      {
+        "name": "Brotli-0.3.0-cp27-none-macosx_10_9_intel.whl",
+        "count": 172,
+        "size": 610053
+      },
+      {
+        "name": "Brotli-0.3.0-cp27-none-macosx_10_9_x86_64.whl",
+        "count": 194,
+        "size": 312631
+      },
+      {
+        "name": "Brotli-0.3.0-cp27-none-win32.whl",
+        "count": 223,
+        "size": 304587
+      },
+      {
+        "name": "Brotli-0.3.0-cp27-none-win_amd64.whl",
+        "count": 210,
+        "size": 332174
+      },
+      {
+        "name": "Brotli-0.3.0-cp34-cp34m-macosx_10_6_intel.whl",
+        "count": 165,
+        "size": 632267
+      },
+      {
+        "name": "Brotli-0.3.0-cp34-none-win32.whl",
+        "count": 188,
+        "size": 294553
+      },
+      {
+        "name": "Brotli-0.3.0-cp34-none-win_amd64.whl",
+        "count": 192,
+        "size": 312038
+      },
+      {
+        "name": "Brotli-0.3.0-cp35-cp35m-macosx_10_6_intel.whl",
+        "count": 161,
+        "size": 632318
+      },
+      {
+        "name": "Brotli-0.3.0-cp35-cp35m-macosx_10_9_x86_64.whl",
+        "count": 172,
+        "size": 312928
+      },
+      {
+        "name": "Brotli-0.3.0-cp35-none-win32.whl",
+        "count": 200,
+        "size": 294794
+      },
+      {
+        "name": "Brotli-0.3.0-cp35-none-win_amd64.whl",
+        "count": 236,
+        "size": 318352
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2015-09-01T15:22:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Brotli-0.1.0-cp27-none-macosx_10_6_intel.whl",
+        "count": 307,
+        "size": 850084
+      },
+      {
+        "name": "Brotli-0.1.0-cp27-none-macosx_10_9_intel.whl",
+        "count": 217,
+        "size": 833627
+      },
+      {
+        "name": "Brotli-0.1.0-cp27-none-macosx_10_9_x86_64.whl",
+        "count": 249,
+        "size": 423073
+      },
+      {
+        "name": "Brotli-0.1.0-cp34-cp34m-macosx_10_6_intel.whl",
+        "count": 199,
+        "size": 850104
+      },
+      {
+        "name": "Brotli-0.1.0-cp34-cp34m-macosx_10_9_x86_64.whl",
+        "count": 257,
+        "size": 423311
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2015-08-11T12:06:47Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

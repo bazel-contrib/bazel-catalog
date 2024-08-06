@@ -1,12 +1,48 @@
 [
   {
+    "name": "v0.6.0rc1",
+    "date": "2024-02-20T13:18:04Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.6.0rc1.tar.gz",
+        "count": 5,
+        "size": 91331
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2024-02-20T14:10:04Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.6.0.tar.gz",
+        "count": 196170,
+        "size": 91376
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2023-10-11T05:41:27Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "rules_testing-v0.5.0.tar.gz",
+        "count": 36849,
+        "size": 86980
+      }
+    ]
+  },
+  {
     "name": "v0.4.0",
     "date": "2023-07-11T03:18:25Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_testing-v0.4.0.tar.gz",
-        "count": 9608,
+        "count": 30572,
         "size": 85635
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.3.0.tar.gz",
-        "count": 28,
+        "count": 444,
         "size": 81930
       }
     ]
@@ -30,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.2.0.tar.gz",
-        "count": 16,
+        "count": 434,
         "size": 79554
       }
     ]
@@ -42,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.1.0.tar.gz",
-        "count": 20,
+        "count": 435,
         "size": 76332
       }
     ]
@@ -54,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.0.5.tar.gz",
-        "count": 2827,
+        "count": 3183,
         "size": 75161
       }
     ]
@@ -66,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.0.4.tar.gz",
-        "count": 41890,
+        "count": 95894,
         "size": 49938
       }
     ]
@@ -78,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.0.3.tar.gz",
-        "count": 10,
+        "count": 13,
         "size": 48360
       }
     ]
@@ -90,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.0.2.tar.gz",
-        "count": 8,
+        "count": 10,
         "size": 48365
       }
     ]
@@ -102,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_testing-v0.0.1.tar.gz",
-        "count": 1704,
+        "count": 2124,
         "size": 48365
       }
     ]

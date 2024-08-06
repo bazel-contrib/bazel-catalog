@@ -1,47 +1,94 @@
 [
   {
+    "name": "v3.11.3",
+    "date": "2023-11-28T21:38:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "include.zip",
+        "count": 278575,
+        "size": 299825
+      },
+      {
+        "name": "include.zip.asc",
+        "count": 4933,
+        "size": 833
+      },
+      {
+        "name": "json.hpp",
+        "count": 44630,
+        "size": 919975
+      },
+      {
+        "name": "json.hpp.asc",
+        "count": 4975,
+        "size": 833
+      },
+      {
+        "name": "json.tar.xz",
+        "count": 393582,
+        "size": 110988
+      },
+      {
+        "name": "json.tar.xz.asc",
+        "count": 4919,
+        "size": 833
+      },
+      {
+        "name": "json_fwd.hpp",
+        "count": 9389,
+        "size": 6340
+      },
+      {
+        "name": "json_fwd.hpp.asc",
+        "count": 4876,
+        "size": 833
+      }
+    ]
+  },
+  {
     "name": "v3.11.2",
     "date": "2022-08-12T13:06:34Z",
     "mentions": null,
     "downloads": [
       {
         "name": "include.zip",
-        "count": 238301,
+        "count": 751929,
         "size": 293810
       },
       {
         "name": "include.zip.asc",
-        "count": 322,
+        "count": 392,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 62519,
+        "count": 103591,
         "size": 907858
       },
       {
         "name": "json.hpp.asc",
-        "count": 393,
+        "count": 469,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 359053,
+        "count": 876957,
         "size": 109880
       },
       {
         "name": "json.tar.xz.asc",
-        "count": 248,
+        "count": 343,
         "size": 833
       },
       {
         "name": "json_fwd.hpp",
-        "count": 6441,
+        "count": 6914,
         "size": 6268
       },
       {
         "name": "json_fwd.hpp.asc",
-        "count": 194,
+        "count": 240,
         "size": 833
       }
     ]
@@ -53,32 +100,32 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 9585,
+        "count": 10486,
         "size": 291273
       },
       {
         "name": "include.zip.asc",
-        "count": 99,
+        "count": 111,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 6333,
+        "count": 6508,
         "size": 896664
       },
       {
         "name": "json.hpp.asc",
-        "count": 108,
+        "count": 120,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 11092,
+        "count": 12412,
         "size": 108388
       },
       {
         "name": "json.tar.xz.asc",
-        "count": 90,
+        "count": 102,
         "size": 833
       }
     ]
@@ -90,32 +137,32 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 96,
+        "count": 149,
         "size": 291202
       },
       {
         "name": "include.zip.asc",
-        "count": 76,
+        "count": 84,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 252,
+        "count": 388,
         "size": 896489
       },
       {
         "name": "json.hpp.asc",
-        "count": 88,
+        "count": 96,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 1749,
+        "count": 3135,
         "size": 108392
       },
       {
         "name": "json.tar.xz.asc",
-        "count": 92,
+        "count": 99,
         "size": 833
       }
     ]
@@ -127,27 +174,27 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 645118,
+        "count": 796152,
         "size": 260679
       },
       {
         "name": "include.zip.asc",
-        "count": 261,
+        "count": 271,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 89084,
+        "count": 131868,
         "size": 804124
       },
       {
         "name": "json.hpp.asc",
-        "count": 351,
+        "count": 362,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 221697,
+        "count": 331582,
         "size": 99844
       }
     ]
@@ -159,27 +206,27 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 38587,
+        "count": 40613,
         "size": 329946
       },
       {
         "name": "include.zip.asc",
-        "count": 145,
+        "count": 153,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 99654,
+        "count": 172945,
         "size": 982896
       },
       {
         "name": "json.hpp.asc",
-        "count": 219,
+        "count": 227,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 6557,
+        "count": 7004,
         "size": 126344
       }
     ]
@@ -191,27 +238,27 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 1369,
+        "count": 1398,
         "size": 329947
       },
       {
         "name": "include.zip.asc",
-        "count": 35,
+        "count": 41,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 1185,
+        "count": 1256,
         "size": 982475
       },
       {
         "name": "json.hpp.asc",
-        "count": 45,
+        "count": 50,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 31,
+        "count": 50,
         "size": 126264
       }
     ]
@@ -223,27 +270,27 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 177992,
+        "count": 228644,
         "size": 327841
       },
       {
         "name": "include.zip.asc",
-        "count": 60,
+        "count": 64,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 10170,
+        "count": 11182,
         "size": 978532
       },
       {
         "name": "json.hpp.asc",
-        "count": 79,
+        "count": 84,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 34,
+        "count": 56,
         "size": 125540
       }
     ]
@@ -255,27 +302,27 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 51676,
+        "count": 73694,
         "size": 327811
       },
       {
         "name": "include.zip.asc",
-        "count": 35,
+        "count": 40,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 368,
+        "count": 418,
         "size": 978468
       },
       {
         "name": "json.hpp.asc",
-        "count": 33,
+        "count": 38,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 400,
+        "count": 476,
         "size": 125628
       }
     ]
@@ -287,27 +334,27 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 1267,
+        "count": 1305,
         "size": 327093
       },
       {
         "name": "include.zip.asc",
-        "count": 49,
+        "count": 54,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 1129,
+        "count": 1324,
         "size": 977364
       },
       {
         "name": "json.hpp.asc",
-        "count": 63,
+        "count": 67,
         "size": 833
       },
       {
         "name": "json.tar.xz",
-        "count": 790,
+        "count": 13420,
         "size": 125248
       }
     ]
@@ -319,22 +366,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 579100,
+        "count": 728756,
         "size": 309315
       },
       {
         "name": "include.zip.asc",
-        "count": 362,
+        "count": 368,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 193900,
+        "count": 244918,
         "size": 926233
       },
       {
         "name": "json.hpp.asc",
-        "count": 575,
+        "count": 581,
         "size": 833
       }
     ]
@@ -346,22 +393,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 38350,
+        "count": 38688,
         "size": 308887
       },
       {
         "name": "include.zip.asc",
-        "count": 60,
+        "count": 64,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 1977,
+        "count": 2059,
         "size": 923924
       },
       {
         "name": "json.hpp.asc",
-        "count": 75,
+        "count": 80,
         "size": 833
       }
     ]
@@ -373,22 +420,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 165649,
+        "count": 346609,
         "size": 297766
       },
       {
         "name": "include.zip.asc",
-        "count": 82,
+        "count": 87,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 6813,
+        "count": 7101,
         "size": 876262
       },
       {
         "name": "json.hpp.asc",
-        "count": 130,
+        "count": 137,
         "size": 833
       }
     ]
@@ -400,22 +447,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 414472,
+        "count": 514702,
         "size": 280969
       },
       {
         "name": "include.zip.asc",
-        "count": 488,
+        "count": 602,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 217085,
+        "count": 254378,
         "size": 809489
       },
       {
         "name": "json.hpp.asc",
-        "count": 735,
+        "count": 864,
         "size": 833
       }
     ]
@@ -427,22 +474,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 820,
+        "count": 941,
         "size": 280931
       },
       {
         "name": "include.zip.asc",
-        "count": 80,
+        "count": 101,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 1468,
+        "count": 1600,
         "size": 809533
       },
       {
         "name": "json.hpp.asc",
-        "count": 93,
+        "count": 115,
         "size": 833
       }
     ]
@@ -454,22 +501,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 40435,
+        "count": 40477,
         "size": 280015
       },
       {
         "name": "include.zip.asc",
-        "count": 72,
+        "count": 83,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 443,
+        "count": 515,
         "size": 807769
       },
       {
         "name": "json.hpp.asc",
-        "count": 76,
+        "count": 96,
         "size": 833
       }
     ]
@@ -481,22 +528,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 214534,
+        "count": 216434,
         "size": 146059
       },
       {
         "name": "include.zip.asc",
-        "count": 115,
+        "count": 129,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 10920,
+        "count": 11114,
         "size": 801007
       },
       {
         "name": "json.hpp.asc",
-        "count": 207,
+        "count": 215,
         "size": 833
       }
     ]
@@ -508,22 +555,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 2662751,
+        "count": 3685885,
         "size": 139220
       },
       {
         "name": "include.zip.asc",
-        "count": 242,
+        "count": 259,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 96526,
+        "count": 104495,
         "size": 728351
       },
       {
         "name": "json.hpp.asc",
-        "count": 323,
+        "count": 338,
         "size": 833
       }
     ]
@@ -535,22 +582,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 314,
+        "count": 334,
         "size": 139171
       },
       {
         "name": "include.zip.asc",
-        "count": 65,
+        "count": 71,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 812,
+        "count": 858,
         "size": 728212
       },
       {
         "name": "json.hpp.asc",
-        "count": 71,
+        "count": 78,
         "size": 833
       }
     ]
@@ -562,22 +609,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 115515,
+        "count": 115680,
         "size": 136487
       },
       {
         "name": "include.zip.asc",
-        "count": 158,
+        "count": 172,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 40816,
+        "count": 41767,
         "size": 709997
       },
       {
         "name": "json.hpp.asc",
-        "count": 208,
+        "count": 225,
         "size": 833
       }
     ]
@@ -589,22 +636,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 11156,
+        "count": 11187,
         "size": 135088
       },
       {
         "name": "include.zip.asc",
-        "count": 131,
+        "count": 145,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 498982,
+        "count": 506216,
         "size": 705920
       },
       {
         "name": "json.hpp.asc",
-        "count": 174,
+        "count": 189,
         "size": 833
       }
     ]
@@ -616,22 +663,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 3660,
+        "count": 3685,
         "size": 126222
       },
       {
         "name": "include.zip.asc",
-        "count": 115,
+        "count": 122,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 29922,
+        "count": 34245,
         "size": 650667
       },
       {
         "name": "json.hpp.asc",
-        "count": 138,
+        "count": 146,
         "size": 833
       }
     ]
@@ -643,22 +690,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 21283,
+        "count": 22643,
         "size": 126841
       },
       {
         "name": "include.zip.asc",
-        "count": 93,
+        "count": 104,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 50553,
+        "count": 52507,
         "size": 651058
       },
       {
         "name": "json.hpp.asc",
-        "count": 141,
+        "count": 151,
         "size": 833
       }
     ]
@@ -670,22 +717,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 61689,
+        "count": 62311,
         "size": 117607
       },
       {
         "name": "include.zip.asc",
-        "count": 232,
+        "count": 249,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 129282,
+        "count": 130164,
         "size": 595822
       },
       {
         "name": "json.hpp.asc",
-        "count": 334,
+        "count": 342,
         "size": 833
       }
     ]
@@ -697,22 +744,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 2010,
+        "count": 2031,
         "size": 116930
       },
       {
         "name": "include.zip.asc",
-        "count": 84,
+        "count": 93,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 4233,
+        "count": 4432,
         "size": 591107
       },
       {
         "name": "json.hpp.asc",
-        "count": 109,
+        "count": 118,
         "size": 833
       }
     ]
@@ -724,22 +771,22 @@
     "downloads": [
       {
         "name": "include.zip",
-        "count": 6993,
+        "count": 7022,
         "size": 116736
       },
       {
         "name": "include.zip.asc",
-        "count": 50,
+        "count": 56,
         "size": 833
       },
       {
         "name": "json.hpp",
-        "count": 1900,
+        "count": 1948,
         "size": 590384
       },
       {
         "name": "json.hpp.asc",
-        "count": 139,
+        "count": 146,
         "size": 833
       }
     ]
@@ -751,12 +798,12 @@
     "downloads": [
       {
         "name": "json.hpp",
-        "count": 8916,
+        "count": 8972,
         "size": 513969
       },
       {
         "name": "json.hpp.asc",
-        "count": 166,
+        "count": 176,
         "size": 833
       }
     ]
@@ -768,12 +815,12 @@
     "downloads": [
       {
         "name": "json.hpp",
-        "count": 4639,
+        "count": 4715,
         "size": 512899
       },
       {
         "name": "json.hpp.asc",
-        "count": 214,
+        "count": 226,
         "size": 833
       }
     ]
@@ -785,12 +832,12 @@
     "downloads": [
       {
         "name": "json.hpp",
-        "count": 77822,
+        "count": 78128,
         "size": 447926
       },
       {
         "name": "json.hpp.asc",
-        "count": 856,
+        "count": 865,
         "size": 801
       }
     ]
@@ -802,29 +849,12 @@
     "downloads": [
       {
         "name": "json.hpp",
-        "count": 6790,
+        "count": 6848,
         "size": 436051
       },
       {
         "name": "json.hpp.asc",
-        "count": 108,
-        "size": 801
-      }
-    ]
-  },
-  {
-    "name": "v2.0.10",
-    "date": "2017-01-02T15:39:14Z",
-    "mentions": null,
-    "downloads": [
-      {
-        "name": "json.hpp",
-        "count": 1156,
-        "size": 418409
-      },
-      {
-        "name": "json.hpp.asc",
-        "count": 40,
+        "count": 124,
         "size": 801
       }
     ]

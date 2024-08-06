@@ -1,0 +1,140 @@
+[
+  {
+    "name": "v1.1.2",
+    "date": "2024-08-01T14:31:41Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-v1.1.2.tar.gz",
+        "count": 445,
+        "size": 76476
+      }
+    ]
+  },
+  {
+    "name": "v1.1.1",
+    "date": "2024-08-01T14:04:28Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-v1.1.1.tar.gz",
+        "count": 2,
+        "size": 76470
+      }
+    ]
+  },
+  {
+    "name": "v1.1.0",
+    "date": "2024-08-01T12:05:55Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-v1.1.0.tar.gz",
+        "count": 0,
+        "size": 75548
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2024-03-14T21:58:36Z",
+    "mentions": 18,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-1.0.0.tar.gz",
+        "count": 52088,
+        "size": 73352
+      }
+    ]
+  },
+  {
+    "name": "0.10.3",
+    "date": "2023-09-19T19:35:27Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-0.10.3.tar.gz",
+        "count": 400395,
+        "size": 64119
+      }
+    ]
+  },
+  {
+    "name": "0.10.2",
+    "date": "2023-09-14T09:17:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-0.10.2.tar.gz",
+        "count": 10881,
+        "size": 63106
+      }
+    ]
+  },
+  {
+    "name": "0.10.1",
+    "date": "2023-09-14T08:07:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "toolchains_llvm-0.10.1.tar.gz",
+        "count": 40,
+        "size": 63032
+      }
+    ]
+  },
+  {
+    "name": "0.10.0",
+    "date": "2023-09-14T07:08:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.9",
+    "date": "2023-09-14T04:14:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.8",
+    "date": "2022-12-19T18:54:19Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.7",
+    "date": "2022-03-08T08:56:47Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.6.3",
+    "date": "2021-10-14T15:25:40Z",
+    "mentions": 3,
+    "downloads": []
+  },
+  {
+    "name": "0.6",
+    "date": "2021-09-23T09:52:43Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "0.5",
+    "date": "2020-02-27T08:12:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.4",
+    "date": "2019-02-19T01:03:35Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1",
+    "date": "2018-05-31T01:47:59Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

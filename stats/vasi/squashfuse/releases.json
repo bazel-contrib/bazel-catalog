@@ -1,0 +1,133 @@
+[
+  {
+    "name": "0.5.2",
+    "date": "2024-02-22T15:27:53Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.5.2.tar.gz",
+        "count": 703,
+        "size": 438619
+      }
+    ]
+  },
+  {
+    "name": "v0.5.1",
+    "date": "2024-02-19T15:06:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.5.1.tar.gz",
+        "count": 28,
+        "size": 438564
+      }
+    ]
+  },
+  {
+    "name": "0.5.0",
+    "date": "2023-09-13T14:53:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.5.0.tar.gz",
+        "count": 2680,
+        "size": 434328
+      }
+    ]
+  },
+  {
+    "name": "0.4.0",
+    "date": "2023-07-30T23:52:36Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.4.0.tar.gz",
+        "count": 1161,
+        "size": 435596
+      }
+    ]
+  },
+  {
+    "name": "0.3.0",
+    "date": "2023-07-27T18:07:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.3.0.tar.gz",
+        "count": 1193,
+        "size": 435421
+      }
+    ]
+  },
+  {
+    "name": "0.2.0",
+    "date": "2023-06-30T19:51:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.2.0.tar.gz",
+        "count": 229,
+        "size": 396494
+      }
+    ]
+  },
+  {
+    "name": "0.1.105",
+    "date": "2022-06-27T14:20:06Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "0.1.104",
+    "date": "2021-03-27T21:48:26Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.1.104.tar.gz",
+        "count": 103573,
+        "size": 411032
+      },
+      {
+        "name": "squashfuse-0.1.104.tar.zst",
+        "count": 40,
+        "size": 290106
+      }
+    ]
+  },
+  {
+    "name": "0.1.103",
+    "date": "2018-04-04T05:46:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.1.103.tar.gz",
+        "count": 6939,
+        "size": 399524
+      }
+    ]
+  },
+  {
+    "name": "0.1.102",
+    "date": "2018-03-01T00:20:23Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.101",
+    "date": "2017-12-09T18:22:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.1.100",
+    "date": "2016-03-28T04:00:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "squashfuse-0.1.100.tar.gz",
+        "count": 2871,
+        "size": 393548
+      }
+    ]
+  }
+]

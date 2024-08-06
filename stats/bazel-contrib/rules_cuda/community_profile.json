@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Starlark implementation of bazel rules for CUDA.",
+  "documentation": "https://bazel-contrib.github.io/rules_cuda/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/bazel-contrib/rules_cuda/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/bazel-contrib/.github/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/bazel-contrib/rules_cuda/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/bazel-contrib/rules_cuda/contents/README.md",
+      "html_url": "https://github.com/bazel-contrib/rules_cuda/blob/main/README.md"
+    }
+  },
+  "updated_at": "2024-05-31T22:29:42Z",
+  "content_reports_enabled": false
+}

@@ -1,5 +1,17 @@
 [
   {
+    "name": "v0.4.0",
+    "date": "2023-12-22T10:19:15Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_sh-0.4.0.tar.gz",
+        "count": 89193,
+        "size": 34968
+      }
+    ]
+  },
+  {
     "name": "v0.3.0",
     "date": "2022-07-19T12:13:31Z",
     "mentions": null,

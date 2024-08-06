@@ -1,0 +1,29 @@
+{
+  "health_percentage": 50,
+  "description": "Zipkin's language independent model and HTTP Api Definitions",
+  "documentation": "https://zipkin.io/zipkin-api/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/openzipkin/zipkin-api/contents/.github/CONTRIBUTING.md",
+      "html_url": "https://github.com/openzipkin/zipkin-api/blob/master/.github/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/openzipkin/zipkin-api/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/openzipkin/zipkin-api/contents/README.md",
+      "html_url": "https://github.com/openzipkin/zipkin-api/blob/master/README.md"
+    }
+  },
+  "updated_at": "2024-03-03T03:18:12Z",
+  "content_reports_enabled": false
+}

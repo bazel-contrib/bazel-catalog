@@ -15,7 +15,7 @@
     },
     "contributing": {
       "url": "https://api.github.com/repos/tweag/gazelle_cabal/contents/CONTRIBUTING.md",
-      "html_url": "https://github.com/tweag/.github/blob/master/CONTRIBUTING.md"
+      "html_url": "https://github.com/tweag/gazelle_cabal/blob/main/CONTRIBUTING.md"
     },
     "issue_template": null,
     "pull_request_template": null,

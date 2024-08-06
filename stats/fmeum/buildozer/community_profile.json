@@ -1,0 +1,28 @@
+{
+  "health_percentage": 57,
+  "description": "Pinned, prebuilt versions of buildozer for Bazel projects",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/fmeum/buildozer/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/fmeum/buildozer/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/fmeum/buildozer/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/fmeum/buildozer/contents/README.md",
+      "html_url": "https://github.com/fmeum/buildozer/blob/main/README.md"
+    }
+  },
+  "updated_at": null
+}

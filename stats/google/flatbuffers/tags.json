@@ -1,0 +1,122 @@
+[
+  {
+    "name": "v24.3.25",
+    "sha": "595bf0007ab1929570c7671f091313c8fc20644e"
+  },
+  {
+    "name": "v24.3.7",
+    "sha": "6ff9e90e7e399f3977e99a315856b57c8afe5b4d"
+  },
+  {
+    "name": "v24.3.6",
+    "sha": "d1867fb4cf7d64b2d3d23b67e86df6ae5d9f993b"
+  },
+  {
+    "name": "v23.5.26",
+    "sha": "0100f6a5779831fa7a651e4b67ef389a8752bd9b"
+  },
+  {
+    "name": "v23.5.9",
+    "sha": "72b56fd0810c9a6cd38ea1c8f40feaa1bb4916b1"
+  },
+  {
+    "name": "v23.5.8",
+    "sha": "13fc75cb6b7b44793f3f5b4ba025ff403d012c9f"
+  },
+  {
+    "name": "v23.3.3",
+    "sha": "01834de25e4bf3975a9a00e816292b1ad0fe184b"
+  },
+  {
+    "name": "v23.1.21",
+    "sha": "ee848a02e17a94edaacd1dd95a1664b59c6f06b2"
+  },
+  {
+    "name": "v23.1.20",
+    "sha": "1703662285f5b2a2ee1a151b17755fd709ad2e13"
+  },
+  {
+    "name": "v23.1.4",
+    "sha": "af9ceabeef1a10c1004e2741f8c0c090ca59e5af"
+  },
+  {
+    "name": "v22.12.6",
+    "sha": "acf39ff056df8c9e5bfa32cf6f7b5e6b87a90544"
+  },
+  {
+    "name": "v22.12.06",
+    "sha": "acf39ff056df8c9e5bfa32cf6f7b5e6b87a90544"
+  },
+  {
+    "name": "v22.11.23",
+    "sha": "8f625561d053d232897790ad5fdcc9a6a1832133"
+  },
+  {
+    "name": "v22.11.22",
+    "sha": "9d2c04d62917847c3eb7c8ed49d63572aef5733a"
+  },
+  {
+    "name": "v22.10.26",
+    "sha": "203241ed3275625c8a25c4a1e7b86e3c0289c488"
+  },
+  {
+    "name": "v22.10.25",
+    "sha": "a54ca1e7595cb0c87dc5b78be3657bbd65421288"
+  },
+  {
+    "name": "v22.9.29",
+    "sha": "c92e78a9f841a6110ec27180d68d1f7f2afda21d"
+  },
+  {
+    "name": "v22.9.24",
+    "sha": "76ddae006f6e5068d2f26f235dbd167bd826a698"
+  },
+  {
+    "name": "v2.0.8",
+    "sha": "06c5c7ed0bd987a918cf88caafb094f22cdd1721"
+  },
+  {
+    "name": "v2.0.7",
+    "sha": "8367664f15c3ea2ee58c67dacf9d630b49466de5"
+  },
+  {
+    "name": "v2.0.6",
+    "sha": "615616cb5549a34bdf288c04bc1b94bd7a65c396"
+  },
+  {
+    "name": "v2.0.5",
+    "sha": "d0cede9c90c5257537c293517a21376408b549fa"
+  },
+  {
+    "name": "v2.0.5-last-supported-VS2010-12-13",
+    "sha": "d0cede9c90c5257537c293517a21376408b549fa"
+  },
+  {
+    "name": "v2.0.0",
+    "sha": "a9a295fecf3fbd5a4f571f53b01f63202a3e2113"
+  },
+  {
+    "name": "v1.12.1",
+    "sha": "697147a2e686486424b9d15fc3e1612586a60f97"
+  },
+  {
+    "name": "v1.12.0",
+    "sha": "6df40a2471737b27271bdd9b900ab5f3aec746c7"
+  },
+  {
+    "name": "v1.11.0",
+    "sha": "9e7e8cbe9f675123dd41b7c62868acad39188cae"
+  },
+  {
+    "name": "v1.10.0",
+    "sha": "c0698cc33f1e534bb59c455909b88cc2726089af"
+  },
+  {
+    "name": "v1.9.0",
+    "sha": "20a400e940634108bad812f571582eeffc728eac"
+  },
+  {
+    "name": "v1.8.0",
+    "sha": "34aea4361f829d3e4f1e4d50324e155ad4adec67"
+  }
+]

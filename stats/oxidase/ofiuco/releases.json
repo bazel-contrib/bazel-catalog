@@ -1,0 +1,116 @@
+[
+  {
+    "name": "v0.3.7",
+    "date": "2024-07-05T10:32:15Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ofiuco-0.3.7.tar.gz",
+        "count": 153,
+        "size": 78218
+      }
+    ]
+  },
+  {
+    "name": "v0.3.6",
+    "date": "2024-06-07T09:01:59Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.6.tar.gz",
+        "count": 2453,
+        "size": 72780
+      }
+    ]
+  },
+  {
+    "name": "v0.3.5",
+    "date": "2024-06-01T21:35:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.5.tar.gz",
+        "count": 105,
+        "size": 64084
+      }
+    ]
+  },
+  {
+    "name": "v0.3.4",
+    "date": "2024-04-23T13:54:42Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.4.tar.gz",
+        "count": 3242,
+        "size": 62255
+      }
+    ]
+  },
+  {
+    "name": "v0.3.3",
+    "date": "2024-03-25T23:22:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.3.tar.gz",
+        "count": 3103,
+        "size": 61760
+      }
+    ]
+  },
+  {
+    "name": "v0.3.2",
+    "date": "2024-03-22T08:48:42Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.2.tar.gz",
+        "count": 278,
+        "size": 48960
+      }
+    ]
+  },
+  {
+    "name": "v0.3.1",
+    "date": "2024-02-20T08:42:43Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.1.tar.gz",
+        "count": 466,
+        "size": 46444
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2023-11-03T15:49:06Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.3.0.tar.gz",
+        "count": 496,
+        "size": 46136
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-05-19T14:09:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_poetry-0.2.0.tar.gz",
+        "count": 622,
+        "size": 44221
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-04-01T22:02:40Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

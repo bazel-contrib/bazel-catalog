@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/rules_k8s/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_k8s/deployments",
   "created_at": "2017-08-29T16:05:44Z",
-  "updated_at": "2023-09-06T15:04:13Z",
+  "updated_at": "2024-06-10T08:30:40Z",
   "pushed_at": "2023-05-12T13:44:37Z",
   "git_url": "git://github.com/bazelbuild/rules_k8s.git",
   "ssh_url": "git@github.com:bazelbuild/rules_k8s.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/bazelbuild/rules_k8s",
   "homepage": "",
   "size": 795,
-  "stargazers_count": 287,
-  "watchers_count": 287,
+  "stargazers_count": 289,
+  "watchers_count": 289,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,7 +82,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 143,
+  "forks_count": 136,
   "mirror_url": null,
   "archived": true,
   "disabled": false,
@@ -107,17 +107,18 @@
     "kubernetes-deployment"
   ],
   "visibility": "public",
-  "forks": 143,
+  "forks": 136,
   "open_issues": 82,
-  "watchers": 287,
+  "watchers": 289,
   "default_branch": "master",
   "permissions": {
     "admin": false,
-    "maintain": true,
-    "push": true,
-    "triage": true,
+    "maintain": false,
+    "push": false,
+    "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -138,6 +139,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 143,
-  "subscribers_count": 11
+  "network_count": 136,
+  "subscribers_count": 12
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "v0.1.0",
+    "date": "2023-12-30T01:41:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_quickjs-v0.1.0.tar.gz",
+        "count": 334,
+        "size": 31266
+      }
+    ]
+  },
+  {
+    "name": "v0.0.0",
+    "date": "2023-12-29T19:06:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_quickjs-v0.0.0.tar.gz",
+        "count": 1,
+        "size": 14681
+      }
+    ]
+  }
+]

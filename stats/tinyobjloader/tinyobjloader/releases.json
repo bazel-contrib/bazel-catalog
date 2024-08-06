@@ -1,0 +1,170 @@
+[
+  {
+    "name": "v2.0-rc1",
+    "date": "2019-06-19T13:25:25Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.0.6",
+    "date": "2017-04-24T19:39:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 8789,
+        "size": 60884
+      }
+    ]
+  },
+  {
+    "name": "v1.0.5",
+    "date": "2016-12-31T12:10:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 185,
+        "size": 60580
+      }
+    ]
+  },
+  {
+    "name": "v1.0.4",
+    "date": "2016-12-06T16:04:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 58,
+        "size": 59164
+      }
+    ]
+  },
+  {
+    "name": "v1.0.2",
+    "date": "2016-10-24T15:05:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 90,
+        "size": 46343
+      }
+    ]
+  },
+  {
+    "name": "v1.0.1",
+    "date": "2016-10-20T08:52:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 41,
+        "size": 45923
+      }
+    ]
+  },
+  {
+    "name": "v1.0.0",
+    "date": "2016-08-20T09:08:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 171,
+        "size": 44467
+      }
+    ]
+  },
+  {
+    "name": "v0.9.25",
+    "date": "2016-08-20T08:47:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 94,
+        "size": 35405
+      }
+    ]
+  },
+  {
+    "name": "v0.9.24",
+    "date": "2016-07-08T16:36:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 70,
+        "size": 35359
+      }
+    ]
+  },
+  {
+    "name": "v0.9.23",
+    "date": "2016-05-13T12:37:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 103,
+        "size": 34623
+      }
+    ]
+  },
+  {
+    "name": "v0.9.22",
+    "date": "2016-05-13T11:20:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 37,
+        "size": 34765
+      }
+    ]
+  },
+  {
+    "name": "v0.9.21",
+    "date": "2016-03-12T09:15:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 58,
+        "size": 31674
+      }
+    ]
+  },
+  {
+    "name": "v0.9.20",
+    "date": "2016-03-11T17:19:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 31,
+        "size": 31674
+      }
+    ]
+  },
+  {
+    "name": "v0.9.19",
+    "date": "2016-02-19T03:28:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "tiny_obj_loader.h",
+        "count": 75,
+        "size": 31369
+      }
+    ]
+  },
+  {
+    "name": "v0.9.18",
+    "date": "2016-02-14T07:43:21Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

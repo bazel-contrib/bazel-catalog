@@ -1,0 +1,326 @@
+[
+  {
+    "name": "v2.13.5",
+    "date": "2024-07-23T14:12:08Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.13.5.tar.gz",
+        "count": 0,
+        "size": 422650
+      }
+    ]
+  },
+  {
+    "name": "v2.13.4",
+    "date": "2024-07-22T14:14:53Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.13.4.tar.gz",
+        "count": 0,
+        "size": 422409
+      }
+    ]
+  },
+  {
+    "name": "v2.13.3",
+    "date": "2024-07-19T17:45:08Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.13.3.tar.gz",
+        "count": 0,
+        "size": 422068
+      }
+    ]
+  },
+  {
+    "name": "v2.13.2",
+    "date": "2024-07-19T11:38:52Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.13.2.tar.gz",
+        "count": 0,
+        "size": 421935
+      }
+    ]
+  },
+  {
+    "name": "v2.13.1",
+    "date": "2024-07-15T14:04:12Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.13.1.tar.gz",
+        "count": 0,
+        "size": 420986
+      }
+    ]
+  },
+  {
+    "name": "v2.13.0",
+    "date": "2024-07-12T10:35:35Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "ra-2.13.0.tar.gz",
+        "count": 0,
+        "size": 420672
+      }
+    ]
+  },
+  {
+    "name": "v2.13.0-pre.1",
+    "date": "2024-07-11T11:06:39Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "ra-2.13.0-pre.1.tar.gz",
+        "count": 0,
+        "size": 420766
+      }
+    ]
+  },
+  {
+    "name": "v2.12.0",
+    "date": "2024-06-27T14:32:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.12.0.tar.gz",
+        "count": 3,
+        "size": 419899
+      }
+    ]
+  },
+  {
+    "name": "v2.11.0",
+    "date": "2024-06-17T19:45:33Z",
+    "mentions": 4,
+    "downloads": []
+  },
+  {
+    "name": "v2.10.0",
+    "date": "2024-04-29T10:36:10Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "ra-2.10.0.tar.gz",
+        "count": 3,
+        "size": 415789
+      }
+    ]
+  },
+  {
+    "name": "v2.10.0-pre.3",
+    "date": "2024-04-25T14:05:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "ra-2.10.0-pre.3.tar.gz",
+        "count": 3,
+        "size": 415896
+      }
+    ]
+  },
+  {
+    "name": "v2.10.0-pre.2",
+    "date": "2024-04-25T09:21:40Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "ra-2.10.0-pre.2.tar.gz",
+        "count": 3,
+        "size": 415789
+      }
+    ]
+  },
+  {
+    "name": "v2.10.0-pre.1",
+    "date": "2024-03-08T14:38:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "ra-2.10.0-pre.1.tar.gz",
+        "count": 3,
+        "size": 408662
+      }
+    ]
+  },
+  {
+    "name": "v2.9.1-pre.2",
+    "date": "2024-02-09T11:38:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "ra-2.9.1-pre.2.tar.gz",
+        "count": 12,
+        "size": 400033
+      }
+    ]
+  },
+  {
+    "name": "v2.9.1",
+    "date": "2024-02-09T14:38:32Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.9.1.tar.gz",
+        "count": 453,
+        "size": 399944
+      }
+    ]
+  },
+  {
+    "name": "v2.9.1-pre.1",
+    "date": "2024-02-08T17:24:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.9.1-pre.1.tar.gz",
+        "count": 12,
+        "size": 400007
+      }
+    ]
+  },
+  {
+    "name": "v2.9.0",
+    "date": "2024-01-25T22:29:37Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "ra-2.9.0.tar.gz",
+        "count": 6,
+        "size": 399556
+      }
+    ]
+  },
+  {
+    "name": "v2.7.3",
+    "date": "2024-01-12T11:49:27Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.7.3.tar.gz",
+        "count": 170,
+        "size": 398765
+      }
+    ]
+  },
+  {
+    "name": "v2.7.2",
+    "date": "2024-01-12T09:52:46Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.7.2.tar.gz",
+        "count": 3,
+        "size": 398756
+      }
+    ]
+  },
+  {
+    "name": "v2.7.1",
+    "date": "2024-01-03T14:14:10Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "ra-2.7.1.tar.gz",
+        "count": 558,
+        "size": 397950
+      }
+    ]
+  },
+  {
+    "name": "v2.7.0",
+    "date": "2023-09-28T10:34:52Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "ra-2.7.0.tar.gz",
+        "count": 2208,
+        "size": 397015
+      }
+    ]
+  },
+  {
+    "name": "v2.7.0-pre.3",
+    "date": "2023-09-25T09:21:26Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "ra-2.7.0-pre.3.tar.gz",
+        "count": 424,
+        "size": 397103
+      }
+    ]
+  },
+  {
+    "name": "v2.7.0-pre.2",
+    "date": "2023-09-12T13:57:19Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "ra-2.7.0-pre.2.tar.gz",
+        "count": 22,
+        "size": 392582
+      }
+    ]
+  },
+  {
+    "name": "v2.6.3",
+    "date": "2023-09-12T13:14:09Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.6.3.tar.gz",
+        "count": 2791,
+        "size": 388450
+      }
+    ]
+  },
+  {
+    "name": "v2.6.2",
+    "date": "2023-06-20T14:06:53Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "ra-2.6.2.tar.gz",
+        "count": 1807,
+        "size": 388427
+      }
+    ]
+  },
+  {
+    "name": "v2.6.1",
+    "date": "2023-05-11T21:45:27Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v2.5.1",
+    "date": "2023-04-05T21:33:40Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v2.5.0",
+    "date": "2023-03-22T11:30:34Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v2.4.9",
+    "date": "2023-02-23T12:17:24Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v2.4.6",
+    "date": "2023-01-05T03:33:27Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "name": "v2.4.11",
+    "date": "2023-03-15T12:39:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "doctest.h",
+        "count": 34490,
+        "size": 321644
+      }
+    ]
+  },
+  {
+    "name": "v2.4.10",
+    "date": "2023-02-27T17:22:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "doctest.h",
+        "count": 195,
+        "size": 320995
+      }
+    ]
+  },
+  {
+    "name": "v2.4.9",
+    "date": "2022-06-18T16:27:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "doctest.h",
+        "count": 36065,
+        "size": 325456
+      }
+    ]
+  },
+  {
+    "name": "v2.4.8",
+    "date": "2022-01-10T17:42:42Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.7",
+    "date": "2021-12-10T21:44:30Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.6",
+    "date": "2021-03-22T12:06:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.5",
+    "date": "2021-02-02T15:00:59Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.4",
+    "date": "2020-12-25T16:18:42Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.3",
+    "date": "2020-12-16T11:18:05Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.2",
+    "date": "2020-12-15T19:15:32Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.1",
+    "date": "2020-11-04T17:08:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.4.0",
+    "date": "2020-06-27T07:06:03Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.8",
+    "date": "2020-05-17T18:25:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.7",
+    "date": "2020-02-24T17:20:27Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.6",
+    "date": "2019-12-16T22:24:48Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.5",
+    "date": "2019-09-22T18:26:13Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.4",
+    "date": "2019-08-12T19:36:33Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.3",
+    "date": "2019-06-02T14:48:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.2",
+    "date": "2019-05-06T08:54:52Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.1",
+    "date": "2019-03-24T11:35:08Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.3.0",
+    "date": "2019-03-23T12:44:04Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.2.3",
+    "date": "2019-02-10T11:41:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.2.2",
+    "date": "2019-01-28T13:20:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.2.1",
+    "date": "2019-01-15T20:08:09Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.2.0",
+    "date": "2018-12-05T15:38:30Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.1.0",
+    "date": "2018-11-30T16:39:49Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.0.1",
+    "date": "2018-10-24T14:52:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "2.0.0",
+    "date": "2018-08-23T13:25:05Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.2.9",
+    "date": "2018-05-10T13:25:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.2.8",
+    "date": "2018-03-10T14:10:03Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

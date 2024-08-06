@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "A C++ header-only HTTP/HTTPS server and client library",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/yhirose/cpp-httplib/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/yhirose/cpp-httplib/contents/README.md",
+      "html_url": "https://github.com/yhirose/cpp-httplib/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-02-17T03:03:27Z"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "1.2.1",
+    "date": "2024-05-21T19:39:09Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.2.0",
+    "date": "2024-04-05T08:33:52Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.10",
+    "date": "2023-03-08T23:49:57Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.9",
+    "date": "2021-05-04T23:38:49Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.8",
+    "date": "2020-01-14T19:31:27Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.7",
+    "date": "2017-08-25T00:37:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.6",
+    "date": "2017-07-13T12:43:44Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.5",
+    "date": "2017-06-29T01:48:20Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.1.4",
+    "date": "2017-01-27T20:50:46Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "snappy-1.1.4.tar.gz",
+        "count": 82162,
+        "size": 1491767
+      }
+    ]
+  },
+  {
+    "name": "1.1.3",
+    "date": "2015-07-07T08:50:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "snappy-1.1.3.tar.gz",
+        "count": 920647,
+        "size": 1509026
+      }
+    ]
+  }
+]

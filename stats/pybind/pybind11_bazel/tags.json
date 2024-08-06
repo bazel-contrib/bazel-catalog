@@ -1,0 +1,22 @@
+[
+  {
+    "name": "v2.12.0",
+    "sha": "3946bd0164dc97a154b3136df180f3743cd2cbae"
+  },
+  {
+    "name": "v2.11.1",
+    "sha": "fd7d88857cca3d7435b06f3ac6abab77cd9983b2"
+  },
+  {
+    "name": "v2.11.1.bzl.3",
+    "sha": "1b3b9e6bf151854eeba4e6dd16a0ce759ff81e7b"
+  },
+  {
+    "name": "v2.11.1.bzl.2",
+    "sha": "5afa2e202fcb916bedf18e5140a1c715bfdfb21e"
+  },
+  {
+    "name": "v2.11.1.bzl.1",
+    "sha": "8889d39b2b925b2a47519ae09402a96f00ccf2b4"
+  }
+]

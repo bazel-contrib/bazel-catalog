@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v1.0.0",
+    "date": "2024-04-05T21:49:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_riscv_gnu-v1.0.0.tar.gz",
+        "count": 288,
+        "size": 34273
+      }
+    ]
+  },
+  {
+    "name": "v0.0.2",
+    "date": "2024-04-05T05:44:14Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_riscv_gnu-v0.0.2.tar.gz",
+        "count": 198,
+        "size": 33175
+      }
+    ]
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2024-04-05T05:20:50Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "toolchains_riscv_gnu-v0.0.1.tar.gz",
+        "count": 0,
+        "size": 33132
+      }
+    ]
+  }
+]

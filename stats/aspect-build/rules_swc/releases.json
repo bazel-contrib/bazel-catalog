@@ -1,12 +1,72 @@
 [
   {
+    "name": "v2.0.0-rc1",
+    "date": "2024-07-01T23:04:43Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "rules_swc-v2.0.0-rc1.tar.gz",
+        "count": 8928,
+        "size": 86815
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-rc0",
+    "date": "2024-05-22T01:13:04Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swc-v2.0.0-rc0.tar.gz",
+        "count": 11908,
+        "size": 83472
+      }
+    ]
+  },
+  {
+    "name": "v1.2.3",
+    "date": "2024-05-22T01:12:45Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swc-v1.2.3.tar.gz",
+        "count": 29435,
+        "size": 84213
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0-alpha.0",
+    "date": "2024-05-10T06:07:59Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swc-v2.0.0-alpha.0.tar.gz",
+        "count": 809,
+        "size": 77508
+      }
+    ]
+  },
+  {
+    "name": "v1.2.2",
+    "date": "2024-02-28T22:25:54Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_swc-v1.2.2.tar.gz",
+        "count": 310678,
+        "size": 74114
+      }
+    ]
+  },
+  {
     "name": "v1.1.0",
     "date": "2023-08-10T19:18:56Z",
     "mentions": 1,
     "downloads": [
       {
         "name": "rules_swc-v1.1.0.tar.gz",
-        "count": 49769,
+        "count": 498999,
         "size": 47138
       }
     ]
@@ -18,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_swc-v1.0.2.tar.gz",
-        "count": 3439,
+        "count": 12946,
         "size": 47349
       }
     ]
@@ -30,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_swc-v1.0.1.tar.gz",
-        "count": 242412,
+        "count": 363970,
         "size": 47025
       }
     ]
@@ -42,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_swc-v1.0.0.tar.gz",
-        "count": 7231,
+        "count": 8470,
         "size": 47653
       }
     ]
@@ -54,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_swc-v1.0.0-rc3.tar.gz",
-        "count": 40,
+        "count": 447,
         "size": 47713
       }
     ]
@@ -66,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_swc-v1.0.0-rc2.tar.gz",
-        "count": 6382,
+        "count": 7739,
         "size": 46810
       }
     ]
@@ -78,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_swc-v1.0.0-rc1.tar.gz",
-        "count": 4330,
+        "count": 10804,
         "size": 43481
       }
     ]
@@ -189,36 +249,6 @@
     "name": "v0.14.0",
     "date": "2022-07-30T04:11:10Z",
     "mentions": 2,
-    "downloads": []
-  },
-  {
-    "name": "v0.13.0",
-    "date": "2022-06-28T04:29:34Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "v0.12.0",
-    "date": "2022-06-21T05:12:55Z",
-    "mentions": 3,
-    "downloads": []
-  },
-  {
-    "name": "v0.11.0",
-    "date": "2022-06-11T00:24:37Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.10.0",
-    "date": "2022-06-03T23:14:33Z",
-    "mentions": 1,
-    "downloads": []
-  },
-  {
-    "name": "v0.9.1",
-    "date": "2022-06-03T18:11:53Z",
-    "mentions": 1,
     "downloads": []
   }
 ]

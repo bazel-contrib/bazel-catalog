@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/bazelbuild/rules_docker/releases{/id}",
   "deployments_url": "https://api.github.com/repos/bazelbuild/rules_docker/deployments",
   "created_at": "2017-03-30T21:19:58Z",
-  "updated_at": "2023-09-10T07:04:31Z",
-  "pushed_at": "2023-09-12T08:20:49Z",
+  "updated_at": "2024-07-19T21:31:49Z",
+  "pushed_at": "2023-10-02T20:51:47Z",
   "git_url": "git://github.com/bazelbuild/rules_docker.git",
   "ssh_url": "git@github.com:bazelbuild/rules_docker.git",
   "clone_url": "https://github.com/bazelbuild/rules_docker.git",
   "svn_url": "https://github.com/bazelbuild/rules_docker",
   "homepage": "",
-  "size": 12045,
-  "stargazers_count": 1056,
-  "watchers_count": 1056,
+  "size": 12046,
+  "stargazers_count": 1070,
+  "watchers_count": 1070,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 711,
+  "forks_count": 695,
   "mirror_url": null,
-  "archived": false,
+  "archived": true,
   "disabled": false,
-  "open_issues_count": 74,
+  "open_issues_count": 73,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -106,9 +106,9 @@
     "google"
   ],
   "visibility": "public",
-  "forks": 711,
-  "open_issues": 74,
-  "watchers": 1056,
+  "forks": 695,
+  "open_issues": 73,
+  "watchers": 1070,
   "default_branch": "master",
   "permissions": {
     "admin": true,
@@ -117,6 +117,7 @@
     "triage": true,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "bazelbuild",
     "id": 11684617,
@@ -137,6 +138,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 711,
-  "subscribers_count": 57
+  "network_count": 695,
+  "subscribers_count": 59
 }

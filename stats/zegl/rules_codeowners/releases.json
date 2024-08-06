@@ -1,0 +1,44 @@
+[
+  {
+    "name": "v0.2.1",
+    "date": "2023-11-22T16:33:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_codeowners_v0.2.1.zip",
+        "count": 4258,
+        "size": 14276
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-11-22T15:14:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_codeowners_v0.2.0.zip",
+        "count": 12,
+        "size": 14044
+      }
+    ]
+  },
+  {
+    "name": "v0.1.1",
+    "date": "2023-11-22T12:22:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_codeowners_v0.1.1.zip",
+        "count": 14,
+        "size": 14330
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-11-13T08:14:42Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "glew-2.2.0",
+    "date": "2021-01-10T01:38:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glew-2.2.0-win32.zip",
+        "count": 46739,
+        "size": 2646136
+      },
+      {
+        "name": "glew-2.2.0.tgz",
+        "count": 420101,
+        "size": 835861
+      },
+      {
+        "name": "glew-2.2.0.zip",
+        "count": 71118,
+        "size": 1334840
+      }
+    ]
+  },
+  {
+    "name": "glew-2.1.0",
+    "date": "2017-07-31T12:16:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glew-2.1.0-win32.zip",
+        "count": 34622,
+        "size": 2430727
+      },
+      {
+        "name": "glew-2.1.0.tgz",
+        "count": 172908,
+        "size": 764073
+      },
+      {
+        "name": "glew-2.1.0.zip",
+        "count": 40899,
+        "size": 1200796
+      }
+    ]
+  },
+  {
+    "name": "glew-2.0.0",
+    "date": "2016-07-24T01:04:32Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "glew-2.0.0-win32.zip",
+        "count": 3750,
+        "size": 2158207
+      },
+      {
+        "name": "glew-2.0.0.tgz",
+        "count": 4698,
+        "size": 667340
+      },
+      {
+        "name": "glew-2.0.0.zip",
+        "count": 7286,
+        "size": 1043367
+      }
+    ]
+  }
+]

@@ -25,7 +25,7 @@ while IFS= read -r ghrepo;
 do
     DESTDIR="$OUTPUT_ROOT/$ghrepo"
     echo "GET stats for ${ghrepo}..."
-            
+
     mkdir -p "$DESTDIR"
     ghapi "repos/$ghrepo" > "$DESTDIR/repo.json"
     ghapi "repos/$ghrepo/stats/participation" | jq .all > "$DESTDIR/participation.json"

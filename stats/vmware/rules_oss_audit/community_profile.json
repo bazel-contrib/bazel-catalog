@@ -1,37 +1,5 @@
 {
-  "health_percentage": 75,
-  "description": "The complexities of identifying and tracking open-source software (OSS) to comply with license requirements adds friction to the development process and can result in product-release delays. At VMware, we solve this problem using Bazel to create an accurate bill of materials containing OSS and third-party packages during a build.",
-  "documentation": null,
-  "files": {
-    "code_of_conduct": {
-      "key": "contributor_covenant",
-      "name": "Contributor Covenant",
-      "html_url": "https://github.com/vmware/rules_oss_audit/blob/main/CODE_OF_CONDUCT.md",
-      "url": "https://api.github.com/repos/vmware/rules_oss_audit/community/code_of_conduct"
-    },
-    "code_of_conduct_file": {
-      "url": "https://api.github.com/repos/vmware/rules_oss_audit/contents/CODE_OF_CONDUCT.md",
-      "html_url": "https://github.com/vmware/rules_oss_audit/blob/main/CODE_OF_CONDUCT.md"
-    },
-    "contributing": {
-      "url": "https://api.github.com/repos/vmware/rules_oss_audit/contents/CONTRIBUTING.md",
-      "html_url": "https://github.com/vmware/rules_oss_audit/blob/main/CONTRIBUTING.md"
-    },
-    "issue_template": null,
-    "pull_request_template": null,
-    "license": {
-      "key": "apache-2.0",
-      "name": "Apache License 2.0",
-      "spdx_id": "Apache-2.0",
-      "url": "https://api.github.com/licenses/apache-2.0",
-      "node_id": "MDc6TGljZW5zZTI=",
-      "html_url": "https://github.com/vmware/rules_oss_audit/blob/main/LICENSE"
-    },
-    "readme": {
-      "url": "https://api.github.com/repos/vmware/rules_oss_audit/contents/README.md",
-      "html_url": "https://github.com/vmware/rules_oss_audit/blob/main/README.md"
-    }
-  },
-  "updated_at": null,
-  "content_reports_enabled": false
+  "message": "Moved Permanently",
+  "url": "https://api.github.com/repositories/420042651/community/profile",
+  "documentation_url": "https://docs.github.com/rest/guides/best-practices-for-using-the-rest-api#follow-redirects"
 }

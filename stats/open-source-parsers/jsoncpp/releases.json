@@ -1,0 +1,218 @@
+[
+  {
+    "name": "1.9.5",
+    "date": "2021-11-03T17:55:37Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.9.4",
+    "date": "2020-09-26T02:21:31Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.9.3",
+    "date": "2020-05-29T21:15:55Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "00.11.0",
+    "date": "2020-04-30T08:03:01Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.9.2",
+    "date": "2019-11-13T21:53:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.9.1",
+    "date": "2019-07-11T21:41:55Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.9.0",
+    "date": "2019-07-02T23:50:38Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.10.7",
+    "date": "2018-12-04T04:19:10Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.8.4",
+    "date": "2017-12-20T21:08:09Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.8.3",
+    "date": "2017-08-30T22:28:02Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.8.2",
+    "date": "2017-08-27T20:34:05Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.8.1",
+    "date": "2017-06-26T05:18:22Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.8.0",
+    "date": "2016-12-14T19:41:27Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.7",
+    "date": "2016-10-02T16:33:54Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.6",
+    "date": "2016-09-26T00:08:40Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.5",
+    "date": "2016-09-01T07:53:39Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.4",
+    "date": "2016-07-09T18:29:50Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.3",
+    "date": "2016-06-27T05:13:11Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.10.6",
+    "date": "2016-04-22T05:30:15Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.2",
+    "date": "2016-03-25T20:10:27Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.7.1",
+    "date": "2016-03-22T02:18:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "jsoncpp-1.7.1.tar.gz.asc",
+        "count": 175,
+        "size": 473
+      }
+    ]
+  },
+  {
+    "name": "1.7.0",
+    "date": "2016-03-20T00:48:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "jsoncpp-1.7.0.tar.gz.asc",
+        "count": 102,
+        "size": 473
+      }
+    ]
+  },
+  {
+    "name": "1.6.5",
+    "date": "2015-07-23T05:45:38Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.10.5",
+    "date": "2015-07-23T05:44:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "jsoncpp-0.10.5.tar.gz.asc",
+        "count": 706,
+        "size": 473
+      }
+    ]
+  },
+  {
+    "name": "0.10.4",
+    "date": "2015-07-12T20:03:37Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "jsoncpp-0.10.4.tar.gz.asc",
+        "count": 87,
+        "size": 473
+      }
+    ]
+  },
+  {
+    "name": "0.10.2-p1",
+    "date": "2015-06-19T03:21:36Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "1.6.2",
+    "date": "2015-04-11T19:52:34Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.10.2",
+    "date": "2015-04-11T19:53:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "jsoncpp-0.10.2.tar.gz.asc",
+        "count": 47,
+        "size": 473
+      }
+    ]
+  },
+  {
+    "name": "1.6.1",
+    "date": "2015-03-31T20:12:32Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "0.10.1",
+    "date": "2015-03-31T20:12:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "jsoncpp-0.10.1.tar.gz.asc",
+        "count": 49,
+        "size": 473
+      }
+    ]
+  }
+]

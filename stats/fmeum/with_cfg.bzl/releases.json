@@ -1,0 +1,134 @@
+[
+  {
+    "name": "v0.4.2",
+    "date": "2024-07-30T17:21:39Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.4.2.tar.gz",
+        "count": 858,
+        "size": 45804
+      }
+    ]
+  },
+  {
+    "name": "v0.4.1",
+    "date": "2024-07-30T15:15:17Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.4.1.tar.gz",
+        "count": 49,
+        "size": 45804
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2024-07-24T14:50:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.4.0.tar.gz",
+        "count": 334,
+        "size": 45757
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2024-07-22T13:39:16Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.3.0.tar.gz",
+        "count": 316,
+        "size": 43838
+      }
+    ]
+  },
+  {
+    "name": "v0.2.5",
+    "date": "2024-06-20T08:13:57Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.2.5.tar.gz",
+        "count": 32850,
+        "size": 39316
+      }
+    ]
+  },
+  {
+    "name": "v0.2.4",
+    "date": "2024-04-07T15:56:16Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.2.4.tar.gz",
+        "count": 5881,
+        "size": 37122
+      }
+    ]
+  },
+  {
+    "name": "v0.2.3",
+    "date": "2024-02-16T12:18:51Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.2.3.tar.gz",
+        "count": 13215,
+        "size": 36963
+      }
+    ]
+  },
+  {
+    "name": "v0.2.2",
+    "date": "2024-02-16T12:01:19Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.2.2.tar.gz",
+        "count": 281,
+        "size": 36968
+      }
+    ]
+  },
+  {
+    "name": "v0.2.1",
+    "date": "2023-11-29T07:43:11Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.2.1.tar.gz",
+        "count": 4646,
+        "size": 35721
+      }
+    ]
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2023-10-23T22:58:38Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.2.0.tar.gz",
+        "count": 407,
+        "size": 35265
+      }
+    ]
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2023-10-13T18:32:55Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "with_cfg.bzl-v0.1.0.tar.gz",
+        "count": 526,
+        "size": 35651
+      }
+    ]
+  }
+]

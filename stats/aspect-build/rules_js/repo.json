@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/aspect-build/rules_js/releases{/id}",
   "deployments_url": "https://api.github.com/repos/aspect-build/rules_js/deployments",
   "created_at": "2021-10-28T23:05:47Z",
-  "updated_at": "2023-09-19T19:21:05Z",
-  "pushed_at": "2023-09-19T19:53:39Z",
+  "updated_at": "2024-08-04T22:45:40Z",
+  "pushed_at": "2024-08-05T17:38:23Z",
   "git_url": "git://github.com/aspect-build/rules_js.git",
   "ssh_url": "git@github.com:aspect-build/rules_js.git",
   "clone_url": "https://github.com/aspect-build/rules_js.git",
   "svn_url": "https://github.com/aspect-build/rules_js",
   "homepage": "https://docs.aspect.build/rules/aspect_rules_js",
-  "size": 10534,
-  "stargazers_count": 224,
-  "watchers_count": 224,
+  "size": 11163,
+  "stargazers_count": 295,
+  "watchers_count": 295,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": false,
@@ -82,11 +82,11 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": true,
-  "forks_count": 71,
+  "forks_count": 101,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 141,
+  "open_issues_count": 181,
   "license": {
     "key": "apache-2.0",
     "name": "Apache License 2.0",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": ["bazel", "bazel-rules"],
   "visibility": "public",
-  "forks": 71,
-  "open_issues": 141,
-  "watchers": 224,
+  "forks": 101,
+  "open_issues": 181,
+  "watchers": 295,
   "default_branch": "main",
   "permissions": {
     "admin": true,
@@ -110,6 +110,7 @@
     "triage": true,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "aspect-build",
     "id": 60951090,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 71,
-  "subscribers_count": 9
+  "network_count": 101,
+  "subscribers_count": 8
 }

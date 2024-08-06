@@ -1,0 +1,512 @@
+[
+  {
+    "name": "fuse-3.16.2",
+    "date": "2023-10-10T07:40:44Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.16.2.tar.gz",
+        "count": 40497,
+        "size": 14165836
+      },
+      {
+        "name": "fuse-3.16.2.tar.gz.sig",
+        "count": 1043,
+        "size": 146
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.16.1",
+    "date": "2023-08-08T10:18:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.16.1.tar.gz",
+        "count": 7844,
+        "size": 14175331
+      },
+      {
+        "name": "fuse-3.16.1.tar.gz.sig",
+        "count": 254,
+        "size": 146
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.15.1",
+    "date": "2023-07-05T10:28:13Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.15.1.tar.gz",
+        "count": 4710,
+        "size": 14078062
+      },
+      {
+        "name": "fuse-3.15.1.tar.gz.asc",
+        "count": 85,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.15.0",
+    "date": "2023-06-09T09:44:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.15.0.tar.xz",
+        "count": 34044,
+        "size": 4589124
+      },
+      {
+        "name": "fuse-3.15.0.tar.xz.asc",
+        "count": 58,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.14.1",
+    "date": "2023-03-26T10:51:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.14.1.tar.xz",
+        "count": 42017,
+        "size": 4404984
+      },
+      {
+        "name": "fuse-3.14.1.tar.xz.asc",
+        "count": 205,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.14.0",
+    "date": "2023-02-17T09:39:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.14.0.tar.xz",
+        "count": 38536,
+        "size": 4351852
+      },
+      {
+        "name": "fuse-3.14.0.tar.xz.asc",
+        "count": 179,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.13.1",
+    "date": "2023-02-03T10:06:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.13.1.tar.xz",
+        "count": 37960,
+        "size": 4011224
+      },
+      {
+        "name": "fuse-3.13.1.tar.xz.asc",
+        "count": 85,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.13.0",
+    "date": "2023-01-13T10:37:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.13.0.tar.xz",
+        "count": 40626,
+        "size": 3847800
+      },
+      {
+        "name": "fuse-3.13.0.tar.xz.asc",
+        "count": 113,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.12.0",
+    "date": "2022-09-08T10:06:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.12.0.tar.xz",
+        "count": 58054,
+        "size": 3206368
+      },
+      {
+        "name": "fuse-3.12.0.tar.xz.asc",
+        "count": 294,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.11.0",
+    "date": "2022-05-02T09:15:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.11.0.tar.xz",
+        "count": 49636,
+        "size": 3515332
+      },
+      {
+        "name": "fuse-3.11.0.tar.xz.asc",
+        "count": 331,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.10.5",
+    "date": "2021-09-06T12:49:01Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.10.5.tar.xz",
+        "count": 240713,
+        "size": 2931828
+      },
+      {
+        "name": "fuse-3.10.5.tar.xz.asc",
+        "count": 456,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.10.4",
+    "date": "2021-06-09T08:19:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.10.4.tar.xz",
+        "count": 14544,
+        "size": 2787472
+      },
+      {
+        "name": "fuse-3.10.4.tar.xz.asc",
+        "count": 275,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.10.3",
+    "date": "2021-04-12T10:20:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.10.3.tar.xz",
+        "count": 7225,
+        "size": 2558792
+      },
+      {
+        "name": "fuse-3.10.3.tar.xz.asc",
+        "count": 164,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.10.2",
+    "date": "2021-02-05T09:11:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.10.2.tar.xz",
+        "count": 5730,
+        "size": 2071936
+      },
+      {
+        "name": "fuse-3.10.2.tar.xz.asc",
+        "count": 157,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.10.1",
+    "date": "2020-12-07T10:17:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.10.1.tar.xz",
+        "count": 35210,
+        "size": 1898800
+      },
+      {
+        "name": "fuse-3.10.1.tar.xz.asc",
+        "count": 171,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.10.0",
+    "date": "2020-10-09T09:52:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.10.0.tar.xz",
+        "count": 15999,
+        "size": 1899596
+      },
+      {
+        "name": "fuse-3.10.0.tar.xz.asc",
+        "count": 155,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.9.3",
+    "date": "2020-08-09T11:53:42Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.9.3.tar.xz",
+        "count": 8444,
+        "size": 1805676
+      },
+      {
+        "name": "fuse-3.9.3.tar.xz.asc",
+        "count": 139,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.9.2",
+    "date": "2020-06-12T11:17:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.9.2.tar.xz",
+        "count": 51999,
+        "size": 1674292
+      },
+      {
+        "name": "fuse-3.9.2.tar.xz.asc",
+        "count": 159,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.9.1",
+    "date": "2020-03-19T20:10:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.9.1.tar.xz",
+        "count": 10450,
+        "size": 1595308
+      },
+      {
+        "name": "fuse-3.9.1.tar.xz.asc",
+        "count": 221,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.9.0",
+    "date": "2019-12-14T10:42:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.9.0.tar.xz",
+        "count": 8912,
+        "size": 1523028
+      },
+      {
+        "name": "fuse-3.9.0.tar.xz.asc",
+        "count": 299,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.8.0",
+    "date": "2019-11-03T09:56:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.8.0.tar.xz",
+        "count": 2590,
+        "size": 1416716
+      },
+      {
+        "name": "fuse-3.8.0.tar.xz.asc",
+        "count": 183,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.7.0",
+    "date": "2019-09-27T19:05:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.7.0.tar.xz",
+        "count": 2063,
+        "size": 1383700
+      },
+      {
+        "name": "fuse-3.7.0.tar.xz.asc",
+        "count": 142,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.6.2",
+    "date": "2019-07-09T12:39:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.6.2.tar.xz",
+        "count": 22235,
+        "size": 1255556
+      },
+      {
+        "name": "fuse-3.6.2.tar.xz.asc",
+        "count": 271,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.6.1",
+    "date": "2019-06-13T14:27:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.6.1.tar.xz",
+        "count": 1609,
+        "size": 1168980
+      },
+      {
+        "name": "fuse-3.6.1.tar.xz.asc",
+        "count": 144,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.6.0",
+    "date": "2019-06-13T12:05:31Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.6.0.tar.xz",
+        "count": 171,
+        "size": 1039368
+      },
+      {
+        "name": "fuse-3.6.0.tar.xz.asc",
+        "count": 25,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.5.0",
+    "date": "2019-04-16T18:51:06Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.5.0.tar.xz",
+        "count": 9460,
+        "size": 1021676
+      },
+      {
+        "name": "fuse-3.5.0.tar.xz.asc",
+        "count": 198,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.4.2",
+    "date": "2019-03-09T11:21:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.4.2.tar.xz",
+        "count": 1976,
+        "size": 1019864
+      },
+      {
+        "name": "fuse-3.4.2.tar.xz.asc",
+        "count": 172,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-2.9.9",
+    "date": "2019-01-04T13:44:20Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-2.9.9.tar.gz",
+        "count": 1340645,
+        "size": 1813177
+      },
+      {
+        "name": "fuse-2.9.9.tar.gz.asc",
+        "count": 7203,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.4.1",
+    "date": "2018-12-22T14:49:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.4.1.tar.xz",
+        "count": 8315,
+        "size": 1016436
+      },
+      {
+        "name": "fuse-3.4.1.tar.xz.asc",
+        "count": 195,
+        "size": 1012
+      }
+    ]
+  },
+  {
+    "name": "fuse-3.3.0",
+    "date": "2018-11-06T19:07:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "fuse-3.3.0.tar.xz",
+        "count": 4505,
+        "size": 1010840
+      },
+      {
+        "name": "fuse-3.3.0.tar.xz.asc",
+        "count": 180,
+        "size": 1012
+      }
+    ]
+  }
+]

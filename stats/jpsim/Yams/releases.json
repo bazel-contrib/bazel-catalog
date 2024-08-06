@@ -1,12 +1,60 @@
 [
   {
+    "name": "5.1.3",
+    "date": "2024-07-10T13:39:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Yams-5.1.3.tar.gz",
+        "count": 214,
+        "size": 660739
+      }
+    ]
+  },
+  {
+    "name": "5.1.2",
+    "date": "2024-04-10T14:00:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Yams-5.1.2.tar.gz",
+        "count": 12,
+        "size": 660354
+      }
+    ]
+  },
+  {
+    "name": "5.1.1",
+    "date": "2024-04-08T15:06:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Yams-5.1.1.tar.gz",
+        "count": 5,
+        "size": 660337
+      }
+    ]
+  },
+  {
+    "name": "5.1.0",
+    "date": "2024-03-23T20:33:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Yams-5.1.0.tar.gz",
+        "count": 315,
+        "size": 660161
+      }
+    ]
+  },
+  {
     "name": "5.0.6",
     "date": "2023-06-19T16:36:43Z",
     "mentions": null,
     "downloads": [
       {
         "name": "Yams-5.0.6.tar.gz",
-        "count": 69440,
+        "count": 255153,
         "size": 659441
       }
     ]
@@ -18,7 +66,7 @@
     "downloads": [
       {
         "name": "Yams-5.0.5.tar.gz",
-        "count": 18191,
+        "count": 27993,
         "size": 658941
       }
     ]

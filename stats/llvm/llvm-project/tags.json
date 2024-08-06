@@ -1,0 +1,122 @@
+[
+  {
+    "name": "llvmorg-20-init",
+    "sha": "10c6d6349e51bb245b9deec4aafca9885971135b"
+  },
+  {
+    "name": "llvmorg-19.1.0-rc2",
+    "sha": "d033ae172d1c5a85fd09c36e23608a9241ea2990"
+  },
+  {
+    "name": "llvmorg-19.1.0-rc1",
+    "sha": "a4902a36d5c27c3a5199cd1ba91eba17910fdd68"
+  },
+  {
+    "name": "llvmorg-19-init",
+    "sha": "987087df90026605fc8d03ebda5a1cd31b71e609"
+  },
+  {
+    "name": "llvmorg-18.1.8",
+    "sha": "3b5b5c1ec4a3095ab096dd780e84d7ab81f3d7ff"
+  },
+  {
+    "name": "llvmorg-18.1.7",
+    "sha": "768118d1ad38bf13c545828f67bd6b474d61fc55"
+  },
+  {
+    "name": "llvmorg-18.1.6",
+    "sha": "1118c2e05e67a36ed8ca250524525cdb66a55256"
+  },
+  {
+    "name": "llvmorg-18.1.5",
+    "sha": "617a15a9eac96088ae5e9134248d8236e34b91b1"
+  },
+  {
+    "name": "llvmorg-18.1.4",
+    "sha": "e6c3289804a67ea0bb6a86fadbe454dd93b8d855"
+  },
+  {
+    "name": "llvmorg-18.1.3",
+    "sha": "c13b7485b87909fcf739f62cfa382b55407433c0"
+  },
+  {
+    "name": "llvmorg-18.1.2",
+    "sha": "26a1d6601d727a96f4301d0d8647b5a42760ae0c"
+  },
+  {
+    "name": "llvmorg-18.1.1",
+    "sha": "dba2a75e9c7ef81fe84774ba5eee5e67e01d801a"
+  },
+  {
+    "name": "llvmorg-18.1.0",
+    "sha": "461274b81d8641eab64d494accddc81d7db8a09e"
+  },
+  {
+    "name": "llvmorg-18.1.0-rc4",
+    "sha": "461274b81d8641eab64d494accddc81d7db8a09e"
+  },
+  {
+    "name": "llvmorg-18.1.0-rc3",
+    "sha": "6c90f8dd546334b01c9a86387950e8c72d459f1e"
+  },
+  {
+    "name": "llvmorg-18.1.0-rc2",
+    "sha": "c6c86965d967886ca5a2ed8968c949cd42cdd49a"
+  },
+  {
+    "name": "llvmorg-18.1.0-rc1",
+    "sha": "bab01aead7d7a34436bc8e1639b90227374f079e"
+  },
+  {
+    "name": "llvmorg-18-init",
+    "sha": "4706251a3186c34da0ee8fd894f7e6b095da8fdc"
+  },
+  {
+    "name": "llvmorg-17.0.6",
+    "sha": "6009708b4367171ccdbf4b5905cb6a803753fe18"
+  },
+  {
+    "name": "llvmorg-17.0.5",
+    "sha": "98bfdac5ce82d1679f8af9a57501471812ab68d7"
+  },
+  {
+    "name": "llvmorg-17.0.4",
+    "sha": "309d55140c46384b6de7a7573206cbeba3f7077f"
+  },
+  {
+    "name": "llvmorg-17.0.3",
+    "sha": "888437e1b60011b8a375dd30928ec925b448da57"
+  },
+  {
+    "name": "llvmorg-17.0.2",
+    "sha": "b2417f51dbbd7435eb3aaf203de24de6754da50e"
+  },
+  {
+    "name": "llvmorg-17.0.1",
+    "sha": "e19b7dc36bc047b9eb72078d034596be766da350"
+  },
+  {
+    "name": "llvmorg-17.0.0",
+    "sha": "88bf774c565080e30e0a073676c316ab175303af"
+  },
+  {
+    "name": "llvmorg-17.0.0-rc4",
+    "sha": "092b6c5ee3707ea10b9f10d0a674e8d12395369b"
+  },
+  {
+    "name": "llvmorg-17.0.0-rc3",
+    "sha": "5bd2c0c745d4cec0efa15827d80cfb33e453d325"
+  },
+  {
+    "name": "llvmorg-17.0.0-rc2",
+    "sha": "edc0ee3ccad416ab186202bf928ea64e3a7987b7"
+  },
+  {
+    "name": "llvmorg-17.0.0-rc1",
+    "sha": "cff7a7747db02d1214b20e98677e5ddcb402ffe0"
+  },
+  {
+    "name": "llvmorg-17-init",
+    "sha": "603c286334b07f568d39f6706c848f576914f323"
+  }
+]

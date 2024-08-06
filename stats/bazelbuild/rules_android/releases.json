@@ -1,5 +1,17 @@
 [
   {
+    "name": "v0.5.0",
+    "date": "2024-07-24T20:06:40Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "rules_android-v0.5.0.tar.gz",
+        "count": 126,
+        "size": 418279
+      }
+    ]
+  },
+  {
     "name": "v0.1.1",
     "date": "2018-06-15T01:08:30Z",
     "mentions": null,

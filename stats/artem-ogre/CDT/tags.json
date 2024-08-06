@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PythonCDT-38dbffd",
+    "sha": "38dbffdbcd7155837a9baec3e785ec580f6125b2"
+  },
+  {
+    "name": "1.4.1",
+    "sha": "21fae3ba957551b46130349c318b030f85451be4"
+  },
+  {
+    "name": "1.4.0",
+    "sha": "58f34da24b438bd17629450fcec189ccb181dc9f"
+  },
+  {
+    "name": "1.3.6",
+    "sha": "6ec70ed46a4f1392b41cd6e9ff73ddcbbef638d3"
+  },
+  {
+    "name": "1.3.5",
+    "sha": "750600e4237a759d45c10b9664833c02db95ff9c"
+  },
+  {
+    "name": "1.3.4",
+    "sha": "cf4df316fb8902724dc67b978ff0a89f72d2aa1d"
+  },
+  {
+    "name": "1.3.3",
+    "sha": "ebbe76b38886b6b5d23f34c1dce0d4bcd3cd8054"
+  },
+  {
+    "name": "1.3.2",
+    "sha": "20297c4fd672a8cb9dd78b2527374c52686fb9db"
+  },
+  {
+    "name": "1.3.1",
+    "sha": "200021bc80af30794bdfa90c790358a80e6d904a"
+  },
+  {
+    "name": "1.3.0",
+    "sha": "212e3fe84abbda881797b2a30c34609462297e42"
+  },
+  {
+    "name": "1.2.0",
+    "sha": "6d51b91e2904f4d0bab6a9d32457670920589c33"
+  },
+  {
+    "name": "1.2",
+    "sha": "6d51b91e2904f4d0bab6a9d32457670920589c33"
+  },
+  {
+    "name": "1.1.2",
+    "sha": "42fdbb77d7f30fe6990d31ebd9da5bccf0854c6c"
+  },
+  {
+    "name": "1.1.1",
+    "sha": "6e86109bd60d43026f6a2159c58f2ca3bc2c7077"
+  },
+  {
+    "name": "1.1.0",
+    "sha": "ff12d27548f49741307e7a4dbed7608dc56b345c"
+  },
+  {
+    "name": "1.0.1",
+    "sha": "6c365672aff47e036b717a6dad4e10f67b6c3fed"
+  },
+  {
+    "name": "1.0.0",
+    "sha": "171f902ddd979e11ddc1a496389f715381f35ad5"
+  },
+  {
+    "name": "0.9.0",
+    "sha": "dff0febbbbb01e7884c9b1ccaf4444261a23573e"
+  }
+]

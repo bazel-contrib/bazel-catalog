@@ -1,0 +1,19 @@
+[
+  {
+    "name": "0.2.5",
+    "date": "2020-06-01T21:42:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "yaml-0.2.5.tar.gz",
+        "count": 442115,
+        "size": 609454
+      },
+      {
+        "name": "yaml-0.2.5.zip",
+        "count": 160081,
+        "size": 722241
+      }
+    ]
+  }
+]

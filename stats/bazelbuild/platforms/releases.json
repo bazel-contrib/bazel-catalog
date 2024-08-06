@@ -1,12 +1,48 @@
 [
   {
+    "name": "0.0.10",
+    "date": "2024-04-25T15:49:50Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "platforms-0.0.10.tar.gz",
+        "count": 706453,
+        "size": 7680
+      }
+    ]
+  },
+  {
+    "name": "0.0.9",
+    "date": "2024-03-21T18:06:01Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "platforms-0.0.9.tar.gz",
+        "count": 1231618,
+        "size": 7562
+      }
+    ]
+  },
+  {
+    "name": "0.0.8",
+    "date": "2023-10-18T15:49:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "platforms-0.0.8.tar.gz",
+        "count": 2237328,
+        "size": 6743
+      }
+    ]
+  },
+  {
     "name": "0.0.7",
     "date": "2023-07-28T19:48:59Z",
     "mentions": null,
     "downloads": [
       {
         "name": "platforms-0.0.7.tar.gz",
-        "count": 131679,
+        "count": 2915799,
         "size": 6384
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "platforms-0.0.6.tar.gz",
-        "count": 811791,
+        "count": 1244763,
         "size": 5537
       }
     ]
@@ -30,7 +66,7 @@
     "downloads": [
       {
         "name": "platforms-0.0.5.tar.gz",
-        "count": 498844,
+        "count": 587324,
         "size": 5399
       }
     ]
@@ -42,7 +78,7 @@
     "downloads": [
       {
         "name": "platforms-0.0.4.tar.gz",
-        "count": 267046,
+        "count": 372635,
         "size": 5356
       }
     ]
@@ -54,7 +90,7 @@
     "downloads": [
       {
         "name": "platforms-0.0.3.tar.gz",
-        "count": 7812,
+        "count": 9950,
         "size": 5299
       }
     ]
@@ -66,7 +102,7 @@
     "downloads": [
       {
         "name": "platforms-0.0.2.tar.gz",
-        "count": 28025,
+        "count": 28512,
         "size": 5278
       }
     ]

@@ -1,0 +1,25 @@
+{
+  "health_percentage": 57,
+  "description": "Light-weight, simple and fast XML parser for C++ with XPath support",
+  "documentation": "http://pugixml.org/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/zeux/pugixml/blob/master/LICENSE.md"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/zeux/pugixml/contents/README.md",
+      "html_url": "https://github.com/zeux/pugixml/blob/master/README.md"
+    }
+  },
+  "updated_at": "2019-03-09T14:54:50Z"
+}

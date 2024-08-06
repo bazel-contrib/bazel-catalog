@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.",
+  "documentation": "http://leethomason.github.io/tinyxml2/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "zlib",
+      "name": "zlib License",
+      "spdx_id": "Zlib",
+      "url": "https://api.github.com/licenses/zlib",
+      "node_id": "MDc6TGljZW5zZTI3",
+      "html_url": "https://github.com/leethomason/tinyxml2/blob/master/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/leethomason/tinyxml2/contents/readme.md",
+      "html_url": "https://github.com/leethomason/tinyxml2/blob/master/readme.md"
+    }
+  },
+  "updated_at": "2019-03-18T01:19:34Z"
+}

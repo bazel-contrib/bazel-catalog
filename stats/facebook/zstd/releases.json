@@ -1,0 +1,1057 @@
+[
+  {
+    "name": "v1.5.6",
+    "date": "2024-03-30T18:57:28Z",
+    "mentions": 43,
+    "downloads": [
+      {
+        "name": "zstd-1.5.6.tar.gz",
+        "count": 404260,
+        "size": 2406875
+      },
+      {
+        "name": "zstd-1.5.6.tar.gz.sha256",
+        "count": 13509,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.5.6.tar.gz.sig",
+        "count": 14802,
+        "size": 858
+      },
+      {
+        "name": "zstd-1.5.6.tar.zst",
+        "count": 16163,
+        "size": 1845516
+      },
+      {
+        "name": "zstd-1.5.6.tar.zst.sha256",
+        "count": 87,
+        "size": 85
+      },
+      {
+        "name": "zstd-1.5.6.tar.zst.sig",
+        "count": 1737,
+        "size": 858
+      },
+      {
+        "name": "zstd-v1.5.6-win32.zip",
+        "count": 1016,
+        "size": 1666709
+      },
+      {
+        "name": "zstd-v1.5.6-win64.zip",
+        "count": 35289,
+        "size": 1708727
+      }
+    ]
+  },
+  {
+    "name": "v1.5.5",
+    "date": "2023-04-04T22:20:32Z",
+    "mentions": 20,
+    "downloads": [
+      {
+        "name": "zstd-1.5.5.tar.gz",
+        "count": 2039485,
+        "size": 2368543
+      },
+      {
+        "name": "zstd-1.5.5.tar.gz.sha256",
+        "count": 11004,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.5.5.tar.gz.sig",
+        "count": 7667,
+        "size": 858
+      },
+      {
+        "name": "zstd-1.5.5.tar.zst",
+        "count": 38097,
+        "size": 1817544
+      },
+      {
+        "name": "zstd-1.5.5.tar.zst.sha256",
+        "count": 459,
+        "size": 85
+      },
+      {
+        "name": "zstd-1.5.5.tar.zst.sig",
+        "count": 4721,
+        "size": 858
+      },
+      {
+        "name": "zstd-v1.5.5-win32.zip",
+        "count": 4831,
+        "size": 1641034
+      },
+      {
+        "name": "zstd-v1.5.5-win64.zip",
+        "count": 70710,
+        "size": 1689223
+      }
+    ]
+  },
+  {
+    "name": "v1.5.4",
+    "date": "2023-02-10T00:55:48Z",
+    "mentions": 57,
+    "downloads": [
+      {
+        "name": "zstd-1.5.4.tar.gz",
+        "count": 423943,
+        "size": 2161536
+      },
+      {
+        "name": "zstd-1.5.4.tar.gz.sha256",
+        "count": 246,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.5.4.tar.gz.sig",
+        "count": 334,
+        "size": 858
+      },
+      {
+        "name": "zstd-1.5.4.tar.zst",
+        "count": 12214,
+        "size": 1620303
+      },
+      {
+        "name": "zstd-1.5.4.tar.zst.sha256",
+        "count": 164,
+        "size": 85
+      },
+      {
+        "name": "zstd-1.5.4.tar.zst.sig",
+        "count": 323,
+        "size": 858
+      },
+      {
+        "name": "zstd-v1.5.4-win64.zip",
+        "count": 18080,
+        "size": 1727645
+      }
+    ]
+  },
+  {
+    "name": "v1.5.2",
+    "date": "2022-01-20T21:54:37Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "zstd-1.5.2.tar.gz",
+        "count": 1878566,
+        "size": 1936664
+      },
+      {
+        "name": "zstd-1.5.2.tar.gz.sha256",
+        "count": 1304,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.5.2.tar.gz.sig",
+        "count": 1346,
+        "size": 858
+      },
+      {
+        "name": "zstd-1.5.2.tar.zst",
+        "count": 41478,
+        "size": 1480658
+      },
+      {
+        "name": "zstd-1.5.2.tar.zst.sha256",
+        "count": 246,
+        "size": 85
+      },
+      {
+        "name": "zstd-1.5.2.tar.zst.sig",
+        "count": 6960,
+        "size": 858
+      },
+      {
+        "name": "zstd-v1.5.2-win32.zip",
+        "count": 2543,
+        "size": 1466175
+      },
+      {
+        "name": "zstd-v1.5.2-win64.zip",
+        "count": 64009,
+        "size": 1634137
+      }
+    ]
+  },
+  {
+    "name": "v1.5.1",
+    "date": "2021-12-21T00:42:34Z",
+    "mentions": 38,
+    "downloads": [
+      {
+        "name": "zstd-1.5.1.tar.gz",
+        "count": 328905,
+        "size": 1934669
+      },
+      {
+        "name": "zstd-1.5.1.tar.gz.sha256",
+        "count": 172,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.5.1.tar.gz.sig",
+        "count": 120,
+        "size": 858
+      },
+      {
+        "name": "zstd-1.5.1.tar.zst",
+        "count": 986,
+        "size": 1478417
+      },
+      {
+        "name": "zstd-1.5.1.tar.zst.sha256",
+        "count": 85,
+        "size": 85
+      },
+      {
+        "name": "zstd-1.5.1.tar.zst.sig",
+        "count": 234,
+        "size": 858
+      },
+      {
+        "name": "zstd-v1.5.1-win32.zip",
+        "count": 540,
+        "size": 497622
+      },
+      {
+        "name": "zstd-v1.5.1-win64.zip",
+        "count": 3278,
+        "size": 557085
+      },
+      {
+        "name": "zstd151_silesia_9700k.png",
+        "count": 129438,
+        "size": 249309
+      },
+      {
+        "name": "zstd151_silesia_snap855.png",
+        "count": 128971,
+        "size": 417692
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0",
+    "date": "2021-05-14T16:01:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.5.0.tar.gz",
+        "count": 836813,
+        "size": 1851389
+      },
+      {
+        "name": "zstd-1.5.0.tar.gz.sha256",
+        "count": 822,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.5.0.tar.gz.sig",
+        "count": 375,
+        "size": 858
+      },
+      {
+        "name": "zstd-1.5.0.tar.zst",
+        "count": 36422,
+        "size": 1419199
+      },
+      {
+        "name": "zstd-1.5.0.tar.zst.sha256",
+        "count": 188,
+        "size": 85
+      },
+      {
+        "name": "zstd-1.5.0.tar.zst.sig",
+        "count": 1668,
+        "size": 858
+      },
+      {
+        "name": "zstd-v1.5.0-win32.zip",
+        "count": 17660,
+        "size": 1568982
+      },
+      {
+        "name": "zstd-v1.5.0-win64.zip",
+        "count": 70349,
+        "size": 1737158
+      }
+    ]
+  },
+  {
+    "name": "v1.4.9",
+    "date": "2021-03-03T20:38:04Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.9.tar.gz",
+        "count": 604573,
+        "size": 1821109
+      },
+      {
+        "name": "zstd-1.4.9.tar.gz.sha256",
+        "count": 305,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.9.tar.zst",
+        "count": 170913,
+        "size": 1402618
+      },
+      {
+        "name": "zstd-1.4.9.tar.zst.sha256",
+        "count": 111,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.9-win32.zip",
+        "count": 28160,
+        "size": 1398259
+      },
+      {
+        "name": "zstd-v1.4.9-win64.zip",
+        "count": 17575,
+        "size": 1565503
+      }
+    ]
+  },
+  {
+    "name": "v1.4.8",
+    "date": "2020-12-19T00:51:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.8.tar.gz",
+        "count": 1225932,
+        "size": 1803550
+      },
+      {
+        "name": "zstd-1.4.8.tar.gz.sha256",
+        "count": 270,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.8.tar.zst",
+        "count": 20477,
+        "size": 1391529
+      },
+      {
+        "name": "zstd-1.4.8.tar.zst.sha256",
+        "count": 88,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.8-win32.zip",
+        "count": 570,
+        "size": 1335040
+      },
+      {
+        "name": "zstd-v1.4.8-win64.zip",
+        "count": 3765,
+        "size": 1489936
+      }
+    ]
+  },
+  {
+    "name": "v1.4.7",
+    "date": "2020-12-17T03:32:24Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.7.tar.gz",
+        "count": 8385,
+        "size": 1803673
+      },
+      {
+        "name": "zstd-1.4.7.tar.gz.sha256",
+        "count": 80,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.7.tar.zst",
+        "count": 147,
+        "size": 1391646
+      },
+      {
+        "name": "zstd-1.4.7.tar.zst.sha256",
+        "count": 56,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.7-win32.zip",
+        "count": 152,
+        "size": 1335205
+      },
+      {
+        "name": "zstd-v1.4.7-win64.zip",
+        "count": 458,
+        "size": 1488308
+      }
+    ]
+  },
+  {
+    "name": "v1.4.5",
+    "date": "2020-05-22T07:08:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.5.tar.gz",
+        "count": 708529,
+        "size": 1973695
+      },
+      {
+        "name": "zstd-1.4.5.tar.gz.sha256",
+        "count": 395,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.5.tar.zst",
+        "count": 265527,
+        "size": 1437038
+      },
+      {
+        "name": "zstd-1.4.5.tar.zst.sha256",
+        "count": 135,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.5-win32.zip",
+        "count": 30314,
+        "size": 1338521
+      },
+      {
+        "name": "zstd-v1.4.5-win64.zip",
+        "count": 500439,
+        "size": 1445189
+      }
+    ]
+  },
+  {
+    "name": "v1.4.4",
+    "date": "2019-11-05T18:36:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.4.tar.gz",
+        "count": 143477,
+        "size": 1948426
+      },
+      {
+        "name": "zstd-1.4.4.tar.gz.sha256",
+        "count": 689,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.4.tar.zst",
+        "count": 518,
+        "size": 1401877
+      },
+      {
+        "name": "zstd-1.4.4.tar.zst.sha256",
+        "count": 126,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.4-win32.zip",
+        "count": 5074,
+        "size": 1316690
+      },
+      {
+        "name": "zstd-v1.4.4-win64.zip",
+        "count": 39113,
+        "size": 1420581
+      }
+    ]
+  },
+  {
+    "name": "v1.4.3",
+    "date": "2019-08-19T20:55:18Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.3.tar.gz",
+        "count": 36169,
+        "size": 1899158
+      },
+      {
+        "name": "zstd-1.4.3.tar.gz.sha256",
+        "count": 151,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.3.tar.zst",
+        "count": 210,
+        "size": 1366664
+      },
+      {
+        "name": "zstd-1.4.3.tar.zst.sha256",
+        "count": 74,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.3-win32.zip",
+        "count": 507,
+        "size": 1344151
+      },
+      {
+        "name": "zstd-v1.4.3-win64.zip",
+        "count": 1477,
+        "size": 1415946
+      }
+    ]
+  },
+  {
+    "name": "v1.4.2",
+    "date": "2019-07-25T17:48:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.2.tar.gz",
+        "count": 12435,
+        "size": 1896786
+      },
+      {
+        "name": "zstd-1.4.2.tar.gz.sha256",
+        "count": 110,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.2.tar.zst",
+        "count": 160,
+        "size": 1365016
+      },
+      {
+        "name": "zstd-1.4.2.tar.zst.sha256",
+        "count": 73,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.2-win32.zip",
+        "count": 243,
+        "size": 1341695
+      },
+      {
+        "name": "zstd-v1.4.2-win64.zip",
+        "count": 565,
+        "size": 1412243
+      }
+    ]
+  },
+  {
+    "name": "v1.4.1",
+    "date": "2019-07-19T19:03:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.1.tar.gz",
+        "count": 3053,
+        "size": 1895842
+      },
+      {
+        "name": "zstd-1.4.1.tar.gz.sha256",
+        "count": 84,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.1.tar.zst",
+        "count": 154,
+        "size": 1364538
+      },
+      {
+        "name": "zstd-1.4.1.tar.zst.sha256",
+        "count": 62,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.1-win32.zip",
+        "count": 190,
+        "size": 1329041
+      },
+      {
+        "name": "zstd-v1.4.1-win64.zip",
+        "count": 398,
+        "size": 1396950
+      }
+    ]
+  },
+  {
+    "name": "v1.4.0",
+    "date": "2019-04-16T22:53:28Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.4.0.tar.gz",
+        "count": 31325,
+        "size": 1886068
+      },
+      {
+        "name": "zstd-1.4.0.tar.gz.sha256",
+        "count": 171,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.4.0.tar.zst",
+        "count": 225,
+        "size": 1356153
+      },
+      {
+        "name": "zstd-1.4.0.tar.zst.sha256",
+        "count": 94,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.4.0-win32.zip",
+        "count": 544,
+        "size": 1258203
+      },
+      {
+        "name": "zstd-v1.4.0-win64.zip",
+        "count": 27819,
+        "size": 1348170
+      }
+    ]
+  },
+  {
+    "name": "v1.3.8",
+    "date": "2018-12-27T18:39:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.3.8.tar.gz",
+        "count": 216713,
+        "size": 1862954
+      },
+      {
+        "name": "zstd-1.3.8.tar.gz.sha256",
+        "count": 160,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.3.8.tar.sha256",
+        "count": 75,
+        "size": 81
+      },
+      {
+        "name": "zstd-1.3.8.tar.zst",
+        "count": 225,
+        "size": 1342453
+      },
+      {
+        "name": "zstd-1.3.8.tar.zst.sha256",
+        "count": 75,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.3.8-win32.zip",
+        "count": 610,
+        "size": 1250426
+      },
+      {
+        "name": "zstd-v1.3.8-win64.zip",
+        "count": 1757,
+        "size": 1338172
+      }
+    ]
+  },
+  {
+    "name": "v1.3.7",
+    "date": "2018-10-19T21:34:33Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.3.7.tar.gz",
+        "count": 10688,
+        "size": 1813285
+      },
+      {
+        "name": "zstd-1.3.7.tar.gz.sha256",
+        "count": 114,
+        "size": 84
+      },
+      {
+        "name": "zstd-1.3.7.tar.sha256",
+        "count": 71,
+        "size": 81
+      },
+      {
+        "name": "zstd-1.3.7.tar.zst",
+        "count": 172,
+        "size": 1296060
+      },
+      {
+        "name": "zstd-1.3.7.tar.zst.sha256",
+        "count": 63,
+        "size": 85
+      },
+      {
+        "name": "zstd-v1.3.7-win32.zip",
+        "count": 376,
+        "size": 1229482
+      },
+      {
+        "name": "zstd-v1.3.7-win64.zip",
+        "count": 968,
+        "size": 1311576
+      }
+    ]
+  },
+  {
+    "name": "regression-data",
+    "date": "2018-11-29T18:53:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "github.dict.zst",
+        "count": 1389,
+        "size": 9147
+      },
+      {
+        "name": "github.tar.zst",
+        "count": 1394,
+        "size": 33575
+      },
+      {
+        "name": "silesia.tar.zst",
+        "count": 1646,
+        "size": 4288008
+      }
+    ]
+  },
+  {
+    "name": "v1.3.6",
+    "date": "2018-10-05T16:48:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-1.3.6.tar.gz",
+        "count": 1454,
+        "size": 1811241
+      },
+      {
+        "name": "zstd-1.3.6.tar.gz.sha256",
+        "count": 101,
+        "size": 84
+      },
+      {
+        "name": "zstd-v1.3.6-win32.zip",
+        "count": 165,
+        "size": 1229064
+      },
+      {
+        "name": "zstd-v1.3.6-win64.zip",
+        "count": 314,
+        "size": 1310782
+      }
+    ]
+  },
+  {
+    "name": "v1.3.5",
+    "date": "2018-06-28T16:57:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-src.tar.zst",
+        "count": 368,
+        "size": 1209465
+      },
+      {
+        "name": "zstd-src.tar.zst.sha256.sig",
+        "count": 111,
+        "size": 189
+      },
+      {
+        "name": "zstd-v1.3.5-win32.zip",
+        "count": 431,
+        "size": 1240567
+      },
+      {
+        "name": "zstd-v1.3.5-win64.zip",
+        "count": 1563,
+        "size": 1316103
+      }
+    ]
+  },
+  {
+    "name": "v1.3.4",
+    "date": "2018-03-26T22:24:27Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-src.tar.zst",
+        "count": 344,
+        "size": 1561378
+      },
+      {
+        "name": "zstd-src.tar.zst.sha256.sig",
+        "count": 94,
+        "size": 189
+      },
+      {
+        "name": "zstd-v1.3.4-win32.zip",
+        "count": 449,
+        "size": 1125329
+      },
+      {
+        "name": "zstd-v1.3.4-win64.zip",
+        "count": 1845,
+        "size": 1221468
+      }
+    ]
+  },
+  {
+    "name": "v1.3.3",
+    "date": "2017-12-21T09:25:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.3.3-win32.zip",
+        "count": 3618,
+        "size": 1099995
+      },
+      {
+        "name": "zstd-v1.3.3-win64.zip",
+        "count": 3767,
+        "size": 1168164
+      }
+    ]
+  },
+  {
+    "name": "v1.3.2",
+    "date": "2017-10-09T23:31:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.3.2-win32.zip",
+        "count": 545,
+        "size": 1032124
+      },
+      {
+        "name": "zstd-v1.3.2-win64.zip",
+        "count": 1502,
+        "size": 1100346
+      }
+    ]
+  },
+  {
+    "name": "fuzz-corpora",
+    "date": "2017-09-22T23:16:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "block_decompress_seed_corpus.zip",
+        "count": 51746,
+        "size": 985271
+      },
+      {
+        "name": "block_round_trip_seed_corpus.zip",
+        "count": 51546,
+        "size": 65928414
+      },
+      {
+        "name": "decompress_cross_format_seed_corpus.zip",
+        "count": 6097,
+        "size": 244041
+      },
+      {
+        "name": "decompress_dstSize_tooSmall_seed_corpus.zip",
+        "count": 41289,
+        "size": 11208398
+      },
+      {
+        "name": "dictionary_decompress_seed_corpus.zip",
+        "count": 51528,
+        "size": 117184521
+      },
+      {
+        "name": "dictionary_loader_seed_corpus.zip",
+        "count": 45485,
+        "size": 3043545
+      },
+      {
+        "name": "dictionary_round_trip_seed_corpus.zip",
+        "count": 51327,
+        "size": 213270332
+      },
+      {
+        "name": "dictionary_stream_round_trip_seed_corpus.zip",
+        "count": 43053,
+        "size": 103490444
+      },
+      {
+        "name": "fse_read_ncount_seed_corpus.zip",
+        "count": 40842,
+        "size": 16940
+      },
+      {
+        "name": "generate_sequences_seed_corpus.zip",
+        "count": 6074,
+        "size": 35526244
+      },
+      {
+        "name": "huf_decompress_seed_corpus.zip",
+        "count": 29632,
+        "size": 161669
+      },
+      {
+        "name": "huf_round_trip_seed_corpus.zip",
+        "count": 31288,
+        "size": 857229
+      },
+      {
+        "name": "raw_dictionary_round_trip_seed_corpus.zip",
+        "count": 43359,
+        "size": 89617111
+      },
+      {
+        "name": "seekable_roundtrip_seed_corpus.zip",
+        "count": 33617,
+        "size": 997077
+      },
+      {
+        "name": "sequence_compression_api_seed_corpus.zip",
+        "count": 38180,
+        "size": 379379
+      },
+      {
+        "name": "simple_compress_seed_corpus.zip",
+        "count": 46526,
+        "size": 185686491
+      },
+      {
+        "name": "simple_decompress_seed_corpus.zip",
+        "count": 51504,
+        "size": 20811769
+      },
+      {
+        "name": "simple_round_trip_seed_corpus.zip",
+        "count": 51759,
+        "size": 141065863
+      },
+      {
+        "name": "stream_decompress_seed_corpus.zip",
+        "count": 51586,
+        "size": 14873750
+      },
+      {
+        "name": "stream_round_trip_seed_corpus.zip",
+        "count": 51442,
+        "size": 103490444
+      },
+      {
+        "name": "zstd_frame_info_seed_corpus.zip",
+        "count": 51239,
+        "size": 2652648
+      }
+    ]
+  },
+  {
+    "name": "v1.3.1",
+    "date": "2017-08-20T19:37:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.3.1-win32.zip",
+        "count": 262,
+        "size": 333049
+      },
+      {
+        "name": "zstd-v1.3.1-win64.zip",
+        "count": 561,
+        "size": 353434
+      }
+    ]
+  },
+  {
+    "name": "v1.3.0",
+    "date": "2017-07-05T18:05:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.3.0-win32.zip",
+        "count": 217,
+        "size": 898013
+      },
+      {
+        "name": "zstd-v1.3.0-win64.zip",
+        "count": 422,
+        "size": 960264
+      }
+    ]
+  },
+  {
+    "name": "v1.2.0",
+    "date": "2017-05-04T18:23:23Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.2.0-win32.zip",
+        "count": 309,
+        "size": 859856
+      },
+      {
+        "name": "zstd-v1.2.0-win64.zip",
+        "count": 607,
+        "size": 923138
+      }
+    ]
+  },
+  {
+    "name": "v1.1.4",
+    "date": "2017-03-17T21:33:25Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.1.4-win32-fix.zip",
+        "count": 193,
+        "size": 2696455
+      },
+      {
+        "name": "zstd-v1.1.4-win64-fix.zip",
+        "count": 312,
+        "size": 3021783
+      }
+    ]
+  },
+  {
+    "name": "v1.1.3",
+    "date": "2017-02-06T17:19:09Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "github_users_sample_set.tar.gz",
+        "count": 2092,
+        "size": 1074314
+      },
+      {
+        "name": "github_users_sample_set.tar.zst",
+        "count": 2087,
+        "size": 585218
+      }
+    ]
+  },
+  {
+    "name": "v1.1.2",
+    "date": "2016-12-15T08:00:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "zstd-v1.1.2-win32.zip",
+        "count": 296,
+        "size": 852908
+      },
+      {
+        "name": "zstd-v1.1.2-win64.zip",
+        "count": 526,
+        "size": 901303
+      }
+    ]
+  }
+]

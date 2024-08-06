@@ -1,0 +1,841 @@
+[
+  {
+    "name": "v24.3.25",
+    "date": "2024-03-26T05:27:38Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-15.zip",
+        "count": 21750,
+        "size": 2677794
+      },
+      {
+        "name": "Linux.flatc.binary.g++-13.zip",
+        "count": 1354,
+        "size": 2507986
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 12472,
+        "size": 2586038
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 125,
+        "size": 1329218
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 4387,
+        "size": 1368218
+      }
+    ]
+  },
+  {
+    "name": "v24.3.7",
+    "date": "2024-03-07T23:24:29Z",
+    "mentions": 37,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-15.zip",
+        "count": 1311,
+        "size": 2677733
+      },
+      {
+        "name": "Linux.flatc.binary.g++-13.zip",
+        "count": 82,
+        "size": 2508023
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 78,
+        "size": 2586559
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 27,
+        "size": 1329101
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 14,
+        "size": 16236
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 647,
+        "size": 1368002
+      }
+    ]
+  },
+  {
+    "name": "v24.3.6",
+    "date": "2024-03-07T07:25:43Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-15.zip",
+        "count": 27,
+        "size": 2677726
+      },
+      {
+        "name": "Linux.flatc.binary.g++-13.zip",
+        "count": 23,
+        "size": 2508023
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 19,
+        "size": 2586491
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 17,
+        "size": 1329102
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 8,
+        "size": 16874
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 121,
+        "size": 1367848
+      }
+    ]
+  },
+  {
+    "name": "v23.5.26",
+    "date": "2023-05-26T17:34:50Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 40300,
+        "size": 2510653
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 28582,
+        "size": 2394953
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 4570,
+        "size": 2484029
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 222,
+        "size": 1278508
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 111,
+        "size": 16176
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 6208,
+        "size": 1324004
+      }
+    ]
+  },
+  {
+    "name": "v23.5.9",
+    "date": "2023-05-09T16:36:58Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 111,
+        "size": 2542158
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 158,
+        "size": 2419826
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 65,
+        "size": 2530142
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 44,
+        "size": 1301788
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 14,
+        "size": 16164
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 468,
+        "size": 1349120
+      }
+    ]
+  },
+  {
+    "name": "v23.5.8",
+    "date": "2023-05-09T15:10:47Z",
+    "mentions": 23,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 26,
+        "size": 2537929
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 28,
+        "size": 2412594
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 18,
+        "size": 2518720
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 22,
+        "size": 1295620
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 10,
+        "size": 16188
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 54,
+        "size": 1342486
+      }
+    ]
+  },
+  {
+    "name": "v23.3.3",
+    "date": "2023-03-03T19:49:59Z",
+    "mentions": 16,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 2254,
+        "size": 1533595
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 18724,
+        "size": 1463817
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 305,
+        "size": 2483174
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 206,
+        "size": 1279190
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 37,
+        "size": 15082
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 1375,
+        "size": 1326491
+      }
+    ]
+  },
+  {
+    "name": "v23.1.21",
+    "date": "2023-01-21T20:49:45Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 10548,
+        "size": 1503120
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 12924,
+        "size": 1435701
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 291,
+        "size": 2432793
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 71,
+        "size": 1253462
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 28,
+        "size": 15090
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 1163,
+        "size": 1306524
+      }
+    ]
+  },
+  {
+    "name": "v23.1.20",
+    "date": "2023-01-21T20:07:04Z",
+    "mentions": 15,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 25,
+        "size": 1501039
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 27,
+        "size": 1434204
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 28,
+        "size": 2430834
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 21,
+        "size": 1252954
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 11,
+        "size": 15190
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 51,
+        "size": 1306068
+      }
+    ]
+  },
+  {
+    "name": "v23.1.4",
+    "date": "2023-01-04T23:25:32Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 466,
+        "size": 1487984
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 266,
+        "size": 1422239
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 119,
+        "size": 2409176
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 1079,
+        "size": 1241072
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 20,
+        "size": 15078
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 358,
+        "size": 1294624
+      }
+    ]
+  },
+  {
+    "name": "v22.12.6",
+    "date": "2023-01-04T22:38:10Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 28,
+        "size": 1487357
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 76,
+        "size": 1421743
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 172,
+        "size": 2407449
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 24,
+        "size": 1240046
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 11,
+        "size": 15098
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 677,
+        "size": 1294401
+      }
+    ]
+  },
+  {
+    "name": "v22.12.06",
+    "date": "2022-12-07T06:56:23Z",
+    "mentions": 12,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 660,
+        "size": 1487357
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 232,
+        "size": 1421743
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 277,
+        "size": 2407449
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 54,
+        "size": 1240046
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 22,
+        "size": 15102
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 620,
+        "size": 1294439
+      }
+    ]
+  },
+  {
+    "name": "v22.11.23",
+    "date": "2022-11-23T19:35:59Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 566,
+        "size": 1392001
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 11501,
+        "size": 1421025
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 75,
+        "size": 2406880
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 105,
+        "size": 1239820
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 25,
+        "size": 15098
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 447,
+        "size": 1293964
+      }
+    ]
+  },
+  {
+    "name": "v22.11.22",
+    "date": "2022-11-22T22:54:06Z",
+    "mentions": 23,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 32,
+        "size": 1391996
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 38,
+        "size": 1421022
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 25,
+        "size": 2406865
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 22,
+        "size": 1239814
+      },
+      {
+        "name": "multiple.intoto.jsonl",
+        "count": 11,
+        "size": 15106
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 80,
+        "size": 1294057
+      }
+    ]
+  },
+  {
+    "name": "v22.10.26",
+    "date": "2022-10-26T23:04:34Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 2411,
+        "size": 1371715
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 363,
+        "size": 1400284
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 402,
+        "size": 2373603
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 131,
+        "size": 1223421
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 2210,
+        "size": 1273739
+      }
+    ]
+  },
+  {
+    "name": "v22.10.25",
+    "date": "2022-10-26T07:06:50Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 29,
+        "size": 1370826
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 30,
+        "size": 1399764
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 26,
+        "size": 2372474
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 24,
+        "size": 1222994
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 60,
+        "size": 1273247
+      }
+    ]
+  },
+  {
+    "name": "v22.9.29",
+    "date": "2022-09-30T05:16:01Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 112208,
+        "size": 1339671
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 4599,
+        "size": 1366244
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 93,
+        "size": 2314431
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 59,
+        "size": 1194234
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 1214,
+        "size": 1245063
+      }
+    ]
+  },
+  {
+    "name": "v22.9.24",
+    "date": "2022-09-27T18:59:48Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "attestation.intoto.jsonl",
+        "count": 17,
+        "size": 15046
+      },
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 60,
+        "size": 1337618
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 84,
+        "size": 1365226
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 39,
+        "size": 2310798
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 34,
+        "size": 1191519
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 112,
+        "size": 1245606
+      }
+    ]
+  },
+  {
+    "name": "v2.0.8",
+    "date": "2022-08-30T04:10:05Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "attestation.intoto.jsonl",
+        "count": 42,
+        "size": 15030
+      },
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 4451,
+        "size": 1331664
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 3634,
+        "size": 1358633
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 493,
+        "size": 2300121
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 111,
+        "size": 1186756
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 792,
+        "size": 1241347
+      }
+    ]
+  },
+  {
+    "name": "v2.0.7",
+    "date": "2022-08-23T04:44:56Z",
+    "mentions": 47,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-12.zip",
+        "count": 193,
+        "size": 1334227
+      },
+      {
+        "name": "Linux.flatc.binary.g++-10.zip",
+        "count": 99,
+        "size": 1369380
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 109,
+        "size": 2338226
+      },
+      {
+        "name": "MacIntel.flatc.binary.zip",
+        "count": 52,
+        "size": 1210319
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 375,
+        "size": 1237985
+      }
+    ]
+  },
+  {
+    "name": "v2.0.0",
+    "date": "2021-05-10T19:33:05Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "Linux.flatc.binary.clang++-9.zip",
+        "count": 88035,
+        "size": 1097907
+      },
+      {
+        "name": "Mac.flatc.binary.zip",
+        "count": 42240,
+        "size": 991491
+      },
+      {
+        "name": "Windows.flatc.binary.zip",
+        "count": 28794,
+        "size": 1030936
+      }
+    ]
+  },
+  {
+    "name": "v1.12.0",
+    "date": "2020-03-12T22:47:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows.zip",
+        "count": 7678,
+        "size": 923721
+      }
+    ]
+  },
+  {
+    "name": "v1.11.0",
+    "date": "2019-04-24T18:54:59Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 6351,
+        "size": 611090
+      }
+    ]
+  },
+  {
+    "name": "v1.10.0",
+    "date": "2018-10-03T21:34:29Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 3831,
+        "size": 552464
+      }
+    ]
+  },
+  {
+    "name": "v1.9.0",
+    "date": "2018-04-05T22:26:55Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 4085,
+        "size": 432093
+      }
+    ]
+  },
+  {
+    "name": "v1.8.0",
+    "date": "2017-11-20T18:09:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 1609,
+        "size": 400788
+      }
+    ]
+  },
+  {
+    "name": "v1.7.1",
+    "date": "2017-06-20T16:53:34Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "v1.7.0",
+    "date": "2017-06-17T00:44:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 1247,
+        "size": 383714
+      }
+    ]
+  },
+  {
+    "name": "v1.6.0",
+    "date": "2017-02-15T22:57:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 1278,
+        "size": 254614
+      }
+    ]
+  },
+  {
+    "name": "v1.5.0",
+    "date": "2017-01-03T23:31:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "flatc_windows_exe.zip",
+        "count": 720,
+        "size": 245460
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "health_percentage": 62,
+  "description": "A C++ library for interacting with JSON.",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/open-source-parsers/jsoncpp/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/open-source-parsers/jsoncpp/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/open-source-parsers/jsoncpp/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/open-source-parsers/jsoncpp/contents/README.md",
+      "html_url": "https://github.com/open-source-parsers/jsoncpp/blob/master/README.md"
+    }
+  },
+  "updated_at": "2021-11-03T16:03:31Z",
+  "content_reports_enabled": false
+}

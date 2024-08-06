@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "Bazel rules for automating everything about programming contest problem preparation",
+  "documentation": "https://github.com/nya3jp/rules_contest/tree/master/docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/nya3jp/rules_contest/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/nya3jp/rules_contest/contents/README.md",
+      "html_url": "https://github.com/nya3jp/rules_contest/blob/main/README.md"
+    }
+  },
+  "updated_at": "2020-05-24T09:27:26Z"
+}

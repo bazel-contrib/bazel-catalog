@@ -1,5 +1,9 @@
 [
   {
+    "name": "v2.1.0",
+    "sha": "8abdd60755e5b6ebfa2b383cf6eaa0d9315335bd"
+  },
+  {
     "name": "v2.0.0",
     "sha": "37dad4d356ca9e13f1c533ad6309631b397a2b6b"
   },
@@ -114,9 +118,5 @@
   {
     "name": "pypi-v0.1.12",
     "sha": "cadaa1142b0669fb700a8c39859dc76eb1a6980d"
-  },
-  {
-    "name": "pypi-v0.1.11",
-    "sha": "c73b5e21d8c84a84f163970c860e2333dfbf356d"
   }
 ]

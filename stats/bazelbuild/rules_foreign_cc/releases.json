@@ -1,5 +1,41 @@
 [
   {
+    "name": "0.11.1",
+    "date": "2024-07-03T23:15:40Z",
+    "mentions": 20,
+    "downloads": [
+      {
+        "name": "rules_foreign_cc-0.11.1.tar.gz",
+        "count": 46970,
+        "size": 270538
+      }
+    ]
+  },
+  {
+    "name": "0.10.1",
+    "date": "2023-10-25T21:49:52Z",
+    "mentions": 26,
+    "downloads": [
+      {
+        "name": "rules_foreign_cc-0.10.1.tar.gz",
+        "count": 793784,
+        "size": 252777
+      }
+    ]
+  },
+  {
+    "name": "0.10.0",
+    "date": "2023-10-25T19:54:43Z",
+    "mentions": 26,
+    "downloads": [
+      {
+        "name": "rules_foreign_cc-0.10.0.tar.gz",
+        "count": 165,
+        "size": 252749
+      }
+    ]
+  },
+  {
     "name": "0.9.0",
     "date": "2022-08-02T20:08:12Z",
     "mentions": 11,

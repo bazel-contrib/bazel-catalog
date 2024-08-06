@@ -1,5 +1,101 @@
 [
   {
+    "name": "20240722.0",
+    "date": "2024-08-01T18:09:08Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20240722.0.tar.gz",
+        "count": 438,
+        "size": 2242861
+      }
+    ]
+  },
+  {
+    "name": "20240722.rc2",
+    "date": "2024-07-25T19:34:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "20240722.rc1",
+    "date": "2024-07-22T16:59:46Z",
+    "mentions": null,
+    "downloads": []
+  },
+  {
+    "name": "20240116.2",
+    "date": "2024-04-08T20:36:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20240116.2.tar.gz",
+        "count": 87914,
+        "size": 2151288
+      }
+    ]
+  },
+  {
+    "name": "20240116.1",
+    "date": "2024-02-12T20:05:45Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20240116.1.tar.gz",
+        "count": 73073,
+        "size": 2151012
+      }
+    ]
+  },
+  {
+    "name": "20230802.2",
+    "date": "2024-02-12T20:02:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20230802.2.tar.gz",
+        "count": 595,
+        "size": 2157683
+      }
+    ]
+  },
+  {
+    "name": "20230125.4",
+    "date": "2024-02-12T19:59:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20230125.4.tar.gz",
+        "count": 85,
+        "size": 2119851
+      }
+    ]
+  },
+  {
+    "name": "20220623.2",
+    "date": "2024-02-12T19:56:30Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20220623.2.tar.gz",
+        "count": 154,
+        "size": 1957614
+      }
+    ]
+  },
+  {
+    "name": "20240116.0",
+    "date": "2024-01-22T18:03:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "abseil-cpp-20240116.0.tar.gz",
+        "count": 158570,
+        "size": 2150815
+      }
+    ]
+  },
+  {
     "name": "20230802.1",
     "date": "2023-09-18T14:43:06Z",
     "mentions": null,
@@ -122,12 +218,6 @@
   {
     "name": "20200225.1",
     "date": "2020-03-04T22:08:21Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "20200225",
-    "date": "2020-02-26T18:21:12Z",
     "mentions": null,
     "downloads": []
   }

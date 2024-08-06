@@ -65,7 +65,7 @@
   "releases_url": "https://api.github.com/repos/acqio/rules_microsoft_azure/releases{/id}",
   "deployments_url": "https://api.github.com/repos/acqio/rules_microsoft_azure/deployments",
   "created_at": "2020-08-04T19:42:38Z",
-  "updated_at": "2022-08-31T05:08:27Z",
+  "updated_at": "2023-12-31T23:44:46Z",
   "pushed_at": "2021-03-29T20:46:40Z",
   "git_url": "git://github.com/acqio/rules_microsoft_azure.git",
   "ssh_url": "git@github.com:acqio/rules_microsoft_azure.git",
@@ -73,8 +73,8 @@
   "svn_url": "https://github.com/acqio/rules_microsoft_azure",
   "homepage": "",
   "size": 74,
-  "stargazers_count": 5,
-  "watchers_count": 5,
+  "stargazers_count": 6,
+  "watchers_count": 6,
   "language": "Starlark",
   "has_issues": true,
   "has_projects": true,
@@ -109,7 +109,7 @@
   "visibility": "public",
   "forks": 3,
   "open_issues": 2,
-  "watchers": 5,
+  "watchers": 6,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -118,6 +118,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "acqio",
     "id": 7242912,

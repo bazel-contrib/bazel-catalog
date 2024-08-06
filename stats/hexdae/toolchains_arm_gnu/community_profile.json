@@ -1,0 +1,25 @@
+{
+  "health_percentage": 42,
+  "description": "ARM embedded toolchains for Bazel",
+  "documentation": "https://asnaghi.me/post/embedded-bazel/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/hexdae/toolchains_arm_gnu/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/hexdae/toolchains_arm_gnu/contents/README.md",
+      "html_url": "https://github.com/hexdae/toolchains_arm_gnu/blob/master/README.md"
+    }
+  },
+  "updated_at": "2024-02-07T18:39:51Z"
+}

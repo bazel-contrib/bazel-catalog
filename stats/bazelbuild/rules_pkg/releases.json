@@ -1,12 +1,60 @@
 [
   {
+    "name": "1.0.1",
+    "date": "2024-07-09T18:27:17Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-1.0.1.tar.gz",
+        "count": 65254,
+        "size": 90016
+      }
+    ]
+  },
+  {
+    "name": "1.0.0",
+    "date": "2024-06-03T17:55:19Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "rules_pkg-1.0.0.tar.gz",
+        "count": 154476,
+        "size": 89969
+      }
+    ]
+  },
+  {
+    "name": "0.10.1",
+    "date": "2024-02-08T23:11:21Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.10.1.tar.gz",
+        "count": 1101843,
+        "size": 86596
+      }
+    ]
+  },
+  {
+    "name": "0.10.0",
+    "date": "2024-01-10T22:13:41Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "rules_pkg-0.10.0.tar.gz",
+        "count": 118861,
+        "size": 86284
+      }
+    ]
+  },
+  {
     "name": "0.9.1",
     "date": "2023-05-02T16:17:07Z",
     "mentions": null,
     "downloads": [
       {
         "name": "rules_pkg-0.9.1.tar.gz",
-        "count": 222739,
+        "count": 1562351,
         "size": 81011
       }
     ]
@@ -18,7 +66,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.9.0.tar.gz",
-        "count": 44149,
+        "count": 101292,
         "size": 81011
       }
     ]
@@ -30,7 +78,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.8.1.tar.gz",
-        "count": 52217,
+        "count": 206866,
         "size": 79490
       }
     ]
@@ -42,7 +90,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.8.0.tar.gz",
-        "count": 450032,
+        "count": 846953,
         "size": 79093
       }
     ]
@@ -54,7 +102,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.7.1.tar.gz",
-        "count": 332317,
+        "count": 721624,
         "size": 77334
       }
     ]
@@ -66,7 +114,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.7.0.tar.gz",
-        "count": 1482759,
+        "count": 3297728,
         "size": 76580
       }
     ]
@@ -78,7 +126,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.6.0.tar.gz",
-        "count": 846247,
+        "count": 886506,
         "size": 84381
       }
     ]
@@ -90,7 +138,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.5.1.tar.gz",
-        "count": 804611,
+        "count": 952311,
         "size": 78435
       }
     ]
@@ -102,7 +150,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.5.0.tar.gz",
-        "count": 27408,
+        "count": 27439,
         "size": 73161
       }
     ]
@@ -114,7 +162,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.4.0.tar.gz",
-        "count": 350207,
+        "count": 361648,
         "size": 60603
       }
     ]
@@ -126,7 +174,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.3.0.tar.gz",
-        "count": 460125,
+        "count": 540444,
         "size": 51821
       }
     ]
@@ -138,7 +186,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.6.tar.gz",
-        "count": 3900696,
+        "count": 4551204,
         "size": 43212
       }
     ]
@@ -156,7 +204,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.5.tar.gz",
-        "count": 905370,
+        "count": 947941,
         "size": 29857
       }
     ]
@@ -168,7 +216,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.4.tar.gz",
-        "count": 1405396,
+        "count": 1440569,
         "size": 26645
       }
     ]
@@ -180,7 +228,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.3.tar.gz",
-        "count": 2457,
+        "count": 2461,
         "size": 27343
       }
     ]
@@ -192,7 +240,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.2.tar.gz",
-        "count": 440300,
+        "count": 454813,
         "size": 24737
       }
     ]
@@ -204,7 +252,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.1.tar.gz",
-        "count": 3804,
+        "count": 3849,
         "size": 25042
       }
     ]
@@ -216,7 +264,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.2.0.tar.gz",
-        "count": 230843,
+        "count": 231943,
         "size": 23294
       }
     ]
@@ -228,7 +276,7 @@
     "downloads": [
       {
         "name": "rules_pkg-0.1.0.tar.gz",
-        "count": 18851,
+        "count": 21821,
         "size": 22451
       }
     ]

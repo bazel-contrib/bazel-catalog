@@ -65,16 +65,16 @@
   "releases_url": "https://api.github.com/repos/Tencent/rapidjson/releases{/id}",
   "deployments_url": "https://api.github.com/repos/Tencent/rapidjson/deployments",
   "created_at": "2014-03-04T05:53:37Z",
-  "updated_at": "2023-09-19T11:57:40Z",
-  "pushed_at": "2023-09-12T11:24:48Z",
+  "updated_at": "2024-08-05T12:01:23Z",
+  "pushed_at": "2024-07-23T08:24:12Z",
   "git_url": "git://github.com/Tencent/rapidjson.git",
   "ssh_url": "git@github.com:Tencent/rapidjson.git",
   "clone_url": "https://github.com/Tencent/rapidjson.git",
   "svn_url": "https://github.com/Tencent/rapidjson",
   "homepage": "http://rapidjson.org/",
-  "size": 30265,
-  "stargazers_count": 13373,
-  "watchers_count": 13373,
+  "size": 30296,
+  "stargazers_count": 14074,
+  "watchers_count": 14074,
   "language": "C++",
   "has_issues": true,
   "has_projects": true,
@@ -82,11 +82,11 @@
   "has_wiki": true,
   "has_pages": true,
   "has_discussions": false,
-  "forks_count": 3470,
+  "forks_count": 3512,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 677,
+  "open_issues_count": 733,
   "license": {
     "key": "other",
     "name": "Other",
@@ -99,9 +99,9 @@
   "web_commit_signoff_required": false,
   "topics": [],
   "visibility": "public",
-  "forks": 3470,
-  "open_issues": 677,
-  "watchers": 13373,
+  "forks": 3512,
+  "open_issues": 733,
+  "watchers": 14074,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -110,6 +110,7 @@
     "triage": false,
     "pull": true
   },
+  "custom_properties": {},
   "organization": {
     "login": "Tencent",
     "id": 18461506,
@@ -130,6 +131,6 @@
     "type": "Organization",
     "site_admin": false
   },
-  "network_count": 3470,
-  "subscribers_count": 563
+  "network_count": 3512,
+  "subscribers_count": 552
 }

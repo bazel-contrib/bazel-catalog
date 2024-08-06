@@ -1,12 +1,24 @@
 [
   {
+    "name": "0.7.0",
+    "date": "2024-06-20T17:54:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "stardoc-0.7.0.tar.gz",
+        "count": 197720,
+        "size": 36144
+      }
+    ]
+  },
+  {
     "name": "0.6.2",
     "date": "2023-08-11T19:02:42Z",
     "mentions": null,
     "downloads": [
       {
         "name": "stardoc-0.6.2.tar.gz",
-        "count": 414,
+        "count": 526465,
         "size": 12052612
       }
     ]
@@ -18,7 +30,7 @@
     "downloads": [
       {
         "name": "stardoc-0.6.1.tar.gz",
-        "count": 62,
+        "count": 711,
         "size": 12024779
       }
     ]
@@ -30,7 +42,7 @@
     "downloads": [
       {
         "name": "stardoc-0.6.0.tar.gz",
-        "count": 36,
+        "count": 450,
         "size": 12024586
       }
     ]
@@ -42,7 +54,7 @@
     "downloads": [
       {
         "name": "stardoc-0.5.6.tar.gz",
-        "count": 5827,
+        "count": 71826,
         "size": 21643933
       }
     ]
@@ -54,7 +66,7 @@
     "downloads": [
       {
         "name": "stardoc-0.5.4.tar.gz",
-        "count": 1518,
+        "count": 18615,
         "size": 21643880
       }
     ]
@@ -66,7 +78,7 @@
     "downloads": [
       {
         "name": "stardoc-0.5.3.tar.gz",
-        "count": 307622,
+        "count": 696314,
         "size": 21627189
       }
     ]
@@ -78,7 +90,7 @@
     "downloads": [
       {
         "name": "stardoc-0.5.2.tar.gz",
-        "count": 155,
+        "count": 180,
         "size": 21589228
       }
     ]
@@ -90,7 +102,7 @@
     "downloads": [
       {
         "name": "stardoc-0.5.1.tar.gz",
-        "count": 1775,
+        "count": 19496,
         "size": 20326789
       }
     ]
@@ -102,7 +114,7 @@
     "downloads": [
       {
         "name": "stardoc-0.5.0.tar.gz",
-        "count": 27889,
+        "count": 31345,
         "size": 17608707
       }
     ]

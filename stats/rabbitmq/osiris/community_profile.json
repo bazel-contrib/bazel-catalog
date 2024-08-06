@@ -1,0 +1,37 @@
+{
+  "health_percentage": 75,
+  "description": "Log based streaming subsystem for RabbitMQ",
+  "documentation": null,
+  "files": {
+    "code_of_conduct": {
+      "key": "contributor_covenant",
+      "name": "Contributor Covenant",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/rabbitmq/osiris/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/rabbitmq/.github/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/rabbitmq/.github/blob/main/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/rabbitmq/osiris/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/rabbitmq/osiris/blob/main/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/rabbitmq/osiris/blob/main/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/rabbitmq/osiris/contents/README.md",
+      "html_url": "https://github.com/rabbitmq/osiris/blob/main/README.md"
+    }
+  },
+  "updated_at": "2020-05-18T09:26:42Z",
+  "content_reports_enabled": false
+}

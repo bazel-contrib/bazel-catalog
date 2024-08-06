@@ -1,0 +1,513 @@
+[
+  {
+    "name": "v5.6.2",
+    "date": "2024-05-29T17:10:16Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.6.2.tar.bz2",
+        "count": 3354,
+        "size": 1702029
+      },
+      {
+        "name": "xz-5.6.2.tar.bz2.sig",
+        "count": 207,
+        "size": 566
+      },
+      {
+        "name": "xz-5.6.2.tar.gz",
+        "count": 66316,
+        "size": 2355785
+      },
+      {
+        "name": "xz-5.6.2.tar.gz.sig",
+        "count": 462,
+        "size": 566
+      },
+      {
+        "name": "xz-5.6.2.tar.xz",
+        "count": 8416,
+        "size": 1307448
+      },
+      {
+        "name": "xz-5.6.2.tar.xz.sig",
+        "count": 241,
+        "size": 566
+      },
+      {
+        "name": "xz-5213-547-562-libtool.patch",
+        "count": 175,
+        "size": 1458
+      },
+      {
+        "name": "xz-5213-547-562-libtool.patch.sig",
+        "count": 70,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.4.7",
+    "date": "2024-05-29T17:09:58Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.7.tar.bz2",
+        "count": 562,
+        "size": 2166519
+      },
+      {
+        "name": "xz-5.4.7.tar.bz2.sig",
+        "count": 117,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.7.tar.gz",
+        "count": 551,
+        "size": 2798247
+      },
+      {
+        "name": "xz-5.4.7.tar.gz.sig",
+        "count": 130,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.7.tar.xz",
+        "count": 910,
+        "size": 1615432
+      },
+      {
+        "name": "xz-5.4.7.tar.xz.sig",
+        "count": 113,
+        "size": 566
+      },
+      {
+        "name": "xz-5213-547-562-libtool.patch",
+        "count": 61,
+        "size": 1458
+      },
+      {
+        "name": "xz-5213-547-562-libtool.patch.sig",
+        "count": 49,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.2.13",
+    "date": "2024-05-29T17:09:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.2.13.tar.bz2",
+        "count": 132,
+        "size": 1696714
+      },
+      {
+        "name": "xz-5.2.13.tar.bz2.sig",
+        "count": 88,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.13.tar.gz",
+        "count": 316,
+        "size": 2113147
+      },
+      {
+        "name": "xz-5.2.13.tar.gz.sig",
+        "count": 101,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.13.tar.xz",
+        "count": 146,
+        "size": 1290096
+      },
+      {
+        "name": "xz-5.2.13.tar.xz.sig",
+        "count": 92,
+        "size": 566
+      },
+      {
+        "name": "xz-5213-547-562-libtool.patch",
+        "count": 45,
+        "size": 1458
+      },
+      {
+        "name": "xz-5213-547-562-libtool.patch.sig",
+        "count": 40,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.4.6",
+    "date": "2024-01-26T12:22:12Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.6.tar.bz2",
+        "count": 13705,
+        "size": 2181925
+      },
+      {
+        "name": "xz-5.4.6.tar.gz",
+        "count": 397688,
+        "size": 2889306
+      },
+      {
+        "name": "xz-5.4.6.tar.xz",
+        "count": 14841,
+        "size": 1684368
+      },
+      {
+        "name": "xz-5.4.6.tar.zst",
+        "count": 275,
+        "size": 1744129
+      }
+    ]
+  },
+  {
+    "name": "v5.4.5",
+    "date": "2023-11-01T13:18:56Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.5.tar.bz2",
+        "count": 111117,
+        "size": 2178771
+      },
+      {
+        "name": "xz-5.4.5.tar.gz",
+        "count": 125831,
+        "size": 2884510
+      },
+      {
+        "name": "xz-5.4.5.tar.xz",
+        "count": 87753,
+        "size": 1680520
+      },
+      {
+        "name": "xz-5.4.5.tar.zst",
+        "count": 216,
+        "size": 1740889
+      }
+    ]
+  },
+  {
+    "name": "v5.4.4",
+    "date": "2023-08-02T13:03:14Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.4.tar.bz2",
+        "count": 21716,
+        "size": 2166261
+      },
+      {
+        "name": "xz-5.4.4.tar.gz",
+        "count": 184476,
+        "size": 2874706
+      },
+      {
+        "name": "xz-5.4.4.tar.xz",
+        "count": 39930,
+        "size": 1661456
+      },
+      {
+        "name": "xz-5.4.4.tar.zst",
+        "count": 227,
+        "size": 1720244
+      }
+    ]
+  },
+  {
+    "name": "v5.4.3",
+    "date": "2023-05-04T15:46:00Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.3.tar.bz2",
+        "count": 22466,
+        "size": 2162349
+      },
+      {
+        "name": "xz-5.4.3.tar.gz",
+        "count": 223298,
+        "size": 2869347
+      },
+      {
+        "name": "xz-5.4.3.tar.xz",
+        "count": 14632,
+        "size": 1663396
+      },
+      {
+        "name": "xz-5.4.3.tar.zst",
+        "count": 210,
+        "size": 1721627
+      }
+    ]
+  },
+  {
+    "name": "v5.2.12",
+    "date": "2023-05-04T15:45:50Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.2.12.tar.bz2",
+        "count": 291,
+        "size": 1630382
+      },
+      {
+        "name": "xz-5.2.12.tar.gz",
+        "count": 92959,
+        "size": 2190541
+      },
+      {
+        "name": "xz-5.2.12.tar.xz",
+        "count": 4970,
+        "size": 1305412
+      },
+      {
+        "name": "xz-5.2.12.tar.zst",
+        "count": 211,
+        "size": 1348507
+      }
+    ]
+  },
+  {
+    "name": "v5.4.2",
+    "date": "2023-03-18T17:14:34Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.2.tar.bz2",
+        "count": 87,
+        "size": 2063576
+      },
+      {
+        "name": "xz-5.4.2.tar.bz2.sig",
+        "count": 36,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.2.tar.gz",
+        "count": 36634,
+        "size": 2799022
+      },
+      {
+        "name": "xz-5.4.2.tar.gz.sig",
+        "count": 99,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.2.tar.xz",
+        "count": 196,
+        "size": 1611636
+      },
+      {
+        "name": "xz-5.4.2.tar.xz.sig",
+        "count": 35,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.2.tar.zst",
+        "count": 35,
+        "size": 1668269
+      },
+      {
+        "name": "xz-5.4.2.tar.zst.sig",
+        "count": 32,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.2.11",
+    "date": "2023-03-18T16:59:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.2.11.tar.bz2",
+        "count": 44,
+        "size": 1635168
+      },
+      {
+        "name": "xz-5.2.11.tar.bz2.sig",
+        "count": 42,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.11.tar.gz",
+        "count": 92,
+        "size": 2130684
+      },
+      {
+        "name": "xz-5.2.11.tar.gz.sig",
+        "count": 34,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.11.tar.xz",
+        "count": 1059,
+        "size": 1296324
+      },
+      {
+        "name": "xz-5.2.11.tar.xz.sig",
+        "count": 40,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.11.tar.zst",
+        "count": 33,
+        "size": 1338641
+      },
+      {
+        "name": "xz-5.2.11.tar.zst.sig",
+        "count": 40,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.4.1",
+    "date": "2023-01-11T18:13:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.1.tar.bz2",
+        "count": 196,
+        "size": 1934128
+      },
+      {
+        "name": "xz-5.4.1.tar.bz2.sig",
+        "count": 37,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.1.tar.gz",
+        "count": 1683,
+        "size": 2528617
+      },
+      {
+        "name": "xz-5.4.1.tar.gz.sig",
+        "count": 71,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.1.tar.xz",
+        "count": 217,
+        "size": 1485272
+      },
+      {
+        "name": "xz-5.4.1.tar.xz.sig",
+        "count": 44,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.1.tar.zst",
+        "count": 40,
+        "size": 1535132
+      },
+      {
+        "name": "xz-5.4.1.tar.zst.sig",
+        "count": 37,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.4.0",
+    "date": "2022-12-13T20:27:52Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.4.0.tar.bz2",
+        "count": 44,
+        "size": 1862454
+      },
+      {
+        "name": "xz-5.4.0.tar.bz2.sig",
+        "count": 38,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.0.tar.gz",
+        "count": 219,
+        "size": 2332619
+      },
+      {
+        "name": "xz-5.4.0.tar.gz.sig",
+        "count": 40,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.0.tar.xz",
+        "count": 77,
+        "size": 1407792
+      },
+      {
+        "name": "xz-5.4.0.tar.xz.sig",
+        "count": 37,
+        "size": 566
+      },
+      {
+        "name": "xz-5.4.0.tar.zst",
+        "count": 40,
+        "size": 1453628
+      },
+      {
+        "name": "xz-5.4.0.tar.zst.sig",
+        "count": 35,
+        "size": 566
+      }
+    ]
+  },
+  {
+    "name": "v5.2.10",
+    "date": "2022-12-13T20:25:03Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "xz-5.2.10.tar.bz2",
+        "count": 135,
+        "size": 1642391
+      },
+      {
+        "name": "xz-5.2.10.tar.bz2.sig",
+        "count": 34,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.10.tar.gz",
+        "count": 2163,
+        "size": 2123206
+      },
+      {
+        "name": "xz-5.2.10.tar.gz.sig",
+        "count": 38,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.10.tar.xz",
+        "count": 56,
+        "size": 1291420
+      },
+      {
+        "name": "xz-5.2.10.tar.xz.sig",
+        "count": 41,
+        "size": 566
+      },
+      {
+        "name": "xz-5.2.10.tar.zst",
+        "count": 35,
+        "size": 1333536
+      },
+      {
+        "name": "xz-5.2.10.tar.zst.sig",
+        "count": 38,
+        "size": 566
+      }
+    ]
+  }
+]

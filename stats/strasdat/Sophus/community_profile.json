@@ -1,0 +1,25 @@
+{
+  "health_percentage": 57,
+  "description": "C++ implementation of Lie Groups using Eigen.",
+  "documentation": "http://strasdat.github.io/Sophus/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": null,
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/strasdat/Sophus/blob/main/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/strasdat/Sophus/contents/README.md",
+      "html_url": "https://github.com/strasdat/Sophus/blob/main/README.md"
+    }
+  },
+  "updated_at": "2019-05-26T02:16:00Z"
+}

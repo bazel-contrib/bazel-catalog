@@ -1,0 +1,38 @@
+[
+  {
+    "name": "v0.0.2",
+    "date": "2024-05-06T00:01:31Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_directory-v0.0.2.tar.gz",
+        "count": 112,
+        "size": 37985
+      }
+    ]
+  },
+  {
+    "name": "v0.0.1",
+    "date": "2024-05-02T23:30:10Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_directory-v0.0.1.tar.gz",
+        "count": 119,
+        "size": 34117
+      }
+    ]
+  },
+  {
+    "name": "v0.0.0",
+    "date": "2024-05-02T05:48:30Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_directory-v0.0.0.tar.gz",
+        "count": 2,
+        "size": 28113
+      }
+    ]
+  }
+]

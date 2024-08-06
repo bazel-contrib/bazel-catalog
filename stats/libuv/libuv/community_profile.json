@@ -1,0 +1,32 @@
+{
+  "health_percentage": 62,
+  "description": "Cross-platform asynchronous I/O",
+  "documentation": "https://libuv.org/",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/libuv/libuv/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/libuv/libuv/blob/v1.x/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/libuv/libuv/contents/.github/ISSUE_TEMPLATE.md",
+      "html_url": "https://github.com/libuv/libuv/blob/v1.x/.github/ISSUE_TEMPLATE.md"
+    },
+    "pull_request_template": null,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/libuv/libuv/blob/v1.x/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/libuv/libuv/contents/README.md",
+      "html_url": "https://github.com/libuv/libuv/blob/v1.x/README.md"
+    }
+  },
+  "updated_at": "2024-07-29T21:48:28Z",
+  "content_reports_enabled": false
+}

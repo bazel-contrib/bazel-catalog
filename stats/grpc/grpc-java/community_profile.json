@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "The Java gRPC implementation. HTTP/2 based RPC",
+  "documentation": "https://grpc.io/docs/languages/java/",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/grpc/grpc-java/blob/master/CODE-OF-CONDUCT.md",
+      "url": "https://api.github.com/repos/grpc/grpc-java/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/grpc/grpc-java/contents/CODE-OF-CONDUCT.md",
+      "html_url": "https://github.com/grpc/grpc-java/blob/master/CODE-OF-CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/grpc/grpc-java/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/grpc/grpc-java/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI=",
+      "html_url": "https://github.com/grpc/grpc-java/blob/master/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/grpc/grpc-java/contents/README.md",
+      "html_url": "https://github.com/grpc/grpc-java/blob/master/README.md"
+    }
+  },
+  "updated_at": "2024-05-09T14:41:16Z",
+  "content_reports_enabled": false
+}

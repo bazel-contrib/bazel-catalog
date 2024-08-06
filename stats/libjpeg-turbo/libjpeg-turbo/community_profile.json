@@ -1,0 +1,32 @@
+{
+  "health_percentage": 75,
+  "description": "Main libjpeg-turbo repository",
+  "documentation": "https://libjpeg-turbo.org",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/libjpeg-turbo/libjpeg-turbo/contents/.github/CONTRIBUTING.md",
+      "html_url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/.github/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/libjpeg-turbo/libjpeg-turbo/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/LICENSE.md"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/libjpeg-turbo/libjpeg-turbo/contents/README.md",
+      "html_url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/README.md"
+    }
+  },
+  "updated_at": "2024-01-16T23:03:41Z",
+  "content_reports_enabled": false
+}

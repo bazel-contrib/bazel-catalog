@@ -1,0 +1,44 @@
+[
+  {
+    "name": "v0.4.1",
+    "date": "2023-10-10T20:12:20Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel_rules_pmd-v0.4.1.tar.gz",
+        "count": 571192,
+        "size": 13222
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2023-10-06T18:36:05Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "bazel_rules_pmd-v0.4.0.tar.gz",
+        "count": 533,
+        "size": 13167
+      }
+    ]
+  },
+  {
+    "name": "v0.3.0",
+    "date": "2023-04-25T17:13:44Z",
+    "mentions": 2,
+    "downloads": []
+  },
+  {
+    "name": "v0.2.0",
+    "date": "2022-10-04T23:39:42Z",
+    "mentions": 1,
+    "downloads": []
+  },
+  {
+    "name": "v0.1.0",
+    "date": "2021-02-28T18:07:22Z",
+    "mentions": null,
+    "downloads": []
+  }
+]

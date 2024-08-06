@@ -1,5 +1,17 @@
 [
   {
+    "name": "v1.14.1",
+    "sha": "27cb4c76708608465c413f6d0e6b8d99a4d84302"
+  },
+  {
+    "name": "v1.14.0",
+    "sha": "238c9ffa5d1a14226eeabe10c9b63ffff3ed8b8e"
+  },
+  {
+    "name": "v1.13.0",
+    "sha": "7c02e204c92545f869e2f04edaab1f19fe8b19fd"
+  },
+  {
     "name": "v1.12.0",
     "sha": "7e635fca68d014934b4af8a1cf874f63989352b7"
   },
@@ -106,17 +118,5 @@
   {
     "name": "v0.16.3",
     "sha": "ccd675a286f457068ee8c823f8207f13c2325b26"
-  },
-  {
-    "name": "v0.16.2",
-    "sha": "813dcbcf637da5ee11a35943382c36c2a04b1bd8"
-  },
-  {
-    "name": "v0.16.1",
-    "sha": "c060a10c102a2e25f1d2fcfb46e1148d73b0f7d5"
-  },
-  {
-    "name": "v0.16.0",
-    "sha": "ed5498a2e91060c0a829b17da1a315ec232a296c"
   }
 ]

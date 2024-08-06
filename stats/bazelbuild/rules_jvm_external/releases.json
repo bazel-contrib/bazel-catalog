@@ -1,12 +1,48 @@
 [
   {
+    "name": "6.2",
+    "date": "2024-07-04T14:40:50Z",
+    "mentions": 10,
+    "downloads": [
+      {
+        "name": "rules_jvm_external-6.2.tar.gz",
+        "count": 217589,
+        "size": 4718414
+      }
+    ]
+  },
+  {
+    "name": "6.1",
+    "date": "2024-04-26T05:49:33Z",
+    "mentions": 15,
+    "downloads": [
+      {
+        "name": "rules_jvm_external-6.1.tar.gz",
+        "count": 320461,
+        "size": 4711562
+      }
+    ]
+  },
+  {
+    "name": "6.0",
+    "date": "2024-01-18T12:09:06Z",
+    "mentions": 12,
+    "downloads": [
+      {
+        "name": "rules_jvm_external-6.0.tar.gz",
+        "count": 1025746,
+        "size": 4641088
+      }
+    ]
+  },
+  {
     "name": "5.3",
     "date": "2023-06-23T14:57:04Z",
     "mentions": 7,
     "downloads": [
       {
         "name": "rules_jvm_external-5.3.tar.gz",
-        "count": 163638,
+        "count": 2265988,
         "size": 6973865
       }
     ]
@@ -18,7 +54,7 @@
     "downloads": [
       {
         "name": "rules_jvm_external-5.2.tar.gz",
-        "count": 324827,
+        "count": 1070843,
         "size": 6970719
       }
     ]
@@ -26,11 +62,11 @@
   {
     "name": "5.1",
     "date": "2023-03-08T14:12:08Z",
-    "mentions": 14,
+    "mentions": 13,
     "downloads": [
       {
         "name": "rules_jvm_external-5.1.tar.gz",
-        "count": 237916,
+        "count": 336569,
         "size": 6971014
       }
     ]
@@ -38,11 +74,11 @@
   {
     "name": "5.0",
     "date": "2023-03-07T18:02:07Z",
-    "mentions": 14,
+    "mentions": 13,
     "downloads": [
       {
         "name": "rules_jvm_external-5.0.tar.gz",
-        "count": 340,
+        "count": 1018,
         "size": 6974330
       }
     ]
@@ -74,7 +110,7 @@
   {
     "name": "4.3",
     "date": "2022-08-25T08:19:43Z",
-    "mentions": 19,
+    "mentions": 18,
     "downloads": []
   },
   {
@@ -182,24 +218,6 @@
   {
     "name": "2.1",
     "date": "2019-05-06T19:10:58Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "2.0.1",
-    "date": "2019-04-16T22:54:32Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "2.0",
-    "date": "2019-04-16T21:30:18Z",
-    "mentions": null,
-    "downloads": []
-  },
-  {
-    "name": "1.3",
-    "date": "2019-04-08T19:21:19Z",
     "mentions": null,
     "downloads": []
   }

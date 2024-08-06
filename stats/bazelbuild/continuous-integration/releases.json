@@ -1,0 +1,240 @@
+[
+  {
+    "name": "agent-0.2.2",
+    "date": "2023-06-16T15:17:54Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.2.2-aarch64-apple-darwin",
+        "count": 56314,
+        "size": 3714640
+      },
+      {
+        "name": "bazelci-agent-0.2.2-aarch64-unknown-linux-musl",
+        "count": 6319,
+        "size": 3776008
+      },
+      {
+        "name": "bazelci-agent-0.2.2-x86_64-apple-darwin",
+        "count": 182288,
+        "size": 3943216
+      },
+      {
+        "name": "bazelci-agent-0.2.2-x86_64-pc-windows-msvc.exe",
+        "count": 168873,
+        "size": 4755968
+      },
+      {
+        "name": "bazelci-agent-0.2.2-x86_64-unknown-linux-musl",
+        "count": 537869,
+        "size": 4718728
+      }
+    ]
+  },
+  {
+    "name": "agent-0.2.1",
+    "date": "2023-05-22T14:03:35Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.2.1-aarch64-apple-darwin",
+        "count": 2005,
+        "size": 3698048
+      },
+      {
+        "name": "bazelci-agent-0.2.1-aarch64-unknown-linux-musl",
+        "count": 184,
+        "size": 3735048
+      },
+      {
+        "name": "bazelci-agent-0.2.1-x86_64-apple-darwin",
+        "count": 8538,
+        "size": 3943136
+      },
+      {
+        "name": "bazelci-agent-0.2.1-x86_64-pc-windows-msvc.exe",
+        "count": 9347,
+        "size": 4776960
+      },
+      {
+        "name": "bazelci-agent-0.2.1-x86_64-unknown-linux-musl",
+        "count": 26166,
+        "size": 4673672
+      }
+    ]
+  },
+  {
+    "name": "agent-0.2.0",
+    "date": "2023-05-11T09:32:11Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.2.0-aarch64-apple-darwin",
+        "count": 814,
+        "size": 3747472
+      },
+      {
+        "name": "bazelci-agent-0.2.0-aarch64-unknown-linux-musl",
+        "count": 130,
+        "size": 3804680
+      },
+      {
+        "name": "bazelci-agent-0.2.0-x86_64-apple-darwin",
+        "count": 3481,
+        "size": 3975608
+      },
+      {
+        "name": "bazelci-agent-0.2.0-x86_64-pc-windows-msvc.exe",
+        "count": 3709,
+        "size": 4830208
+      },
+      {
+        "name": "bazelci-agent-0.2.0-x86_64-unknown-linux-musl",
+        "count": 11265,
+        "size": 4829288
+      }
+    ]
+  },
+  {
+    "name": "agent-0.1.4",
+    "date": "2023-01-18T10:02:02Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.1.4-aarch64-apple-darwin",
+        "count": 8144,
+        "size": 1230880
+      },
+      {
+        "name": "bazelci-agent-0.1.4-aarch64-unknown-linux-musl",
+        "count": 1508,
+        "size": 1275848
+      },
+      {
+        "name": "bazelci-agent-0.1.4-x86_64-apple-darwin",
+        "count": 36615,
+        "size": 1288984
+      },
+      {
+        "name": "bazelci-agent-0.1.4-x86_64-pc-windows-msvc.exe",
+        "count": 37280,
+        "size": 1344512
+      },
+      {
+        "name": "bazelci-agent-0.1.4-x86_64-unknown-linux-musl",
+        "count": 107528,
+        "size": 1636816
+      }
+    ]
+  },
+  {
+    "name": "agent-0.1.3",
+    "date": "2021-10-21T10:06:48Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.1.3-aarch64-apple-darwin",
+        "count": 1900,
+        "size": 1216032
+      },
+      {
+        "name": "bazelci-agent-0.1.3-aarch64-unknown-linux-musl",
+        "count": 19,
+        "size": 1275848
+      },
+      {
+        "name": "bazelci-agent-0.1.3-x86_64-apple-darwin",
+        "count": 73315,
+        "size": 1305304
+      },
+      {
+        "name": "bazelci-agent-0.1.3-x86_64-pc-windows-msvc.exe",
+        "count": 85900,
+        "size": 1319424
+      },
+      {
+        "name": "bazelci-agent-0.1.3-x86_64-unknown-linux-musl",
+        "count": 201386,
+        "size": 1443872
+      }
+    ]
+  },
+  {
+    "name": "agent-0.1.2",
+    "date": "2021-10-11T15:14:57Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.1.2-x86_64-apple-darwin",
+        "count": 1620,
+        "size": 1288888
+      },
+      {
+        "name": "bazelci-agent-0.1.2-x86_64-pc-windows-msvc.exe",
+        "count": 2168,
+        "size": 1304064
+      },
+      {
+        "name": "bazelci-agent-0.1.2-x86_64-unknown-linux-musl",
+        "count": 5621,
+        "size": 1427488
+      }
+    ]
+  },
+  {
+    "name": "agent-0.1.1",
+    "date": "2021-09-28T05:33:38Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.1.1-x86_64-apple-darwin",
+        "count": 1711,
+        "size": 1272336
+      },
+      {
+        "name": "bazelci-agent-0.1.1-x86_64-pc-windows-msvc.exe",
+        "count": 2271,
+        "size": 1296384
+      },
+      {
+        "name": "bazelci-agent-0.1.1-x86_64-unknown-linux-musl",
+        "count": 4318,
+        "size": 1398728
+      }
+    ]
+  },
+  {
+    "name": "agent-0.1.0",
+    "date": "2021-09-27T04:37:39Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci-agent-0.1.0-x86_64-apple-darwin",
+        "count": 7,
+        "size": 1272328
+      },
+      {
+        "name": "bazelci-agent-0.1.0-x86_64-pc-windows-msvc.exe",
+        "count": 6,
+        "size": 1294848
+      },
+      {
+        "name": "bazelci-agent-0.1.0-x86_64-unknown-linux-musl",
+        "count": 7,
+        "size": 1394632
+      }
+    ]
+  },
+  {
+    "name": "rules-1.0.0",
+    "date": "2021-09-23T04:26:47Z",
+    "mentions": null,
+    "downloads": [
+      {
+        "name": "bazelci_rules-1.0.0.tar.gz",
+        "count": 372432,
+        "size": 1078
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "health_percentage": 62,
+  "description": "The fastest feature-rich C++11/14/17/20/23 single-header testing framework",
+  "documentation": "https://bit.ly/doctest-docs",
+  "files": {
+    "code_of_conduct": null,
+    "code_of_conduct_file": null,
+    "contributing": {
+      "url": "https://api.github.com/repos/doctest/doctest/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/doctest/doctest/blob/master/CONTRIBUTING.md"
+    },
+    "issue_template": {
+      "url": "https://api.github.com/repos/doctest/doctest/contents/.github/issue_template.md",
+      "html_url": "https://github.com/doctest/doctest/blob/master/.github/issue_template.md"
+    },
+    "pull_request_template": {
+      "url": "https://api.github.com/repos/doctest/doctest/contents/.github/pull_request_template.md",
+      "html_url": "https://github.com/doctest/doctest/blob/master/.github/pull_request_template.md"
+    },
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz",
+      "html_url": "https://github.com/doctest/doctest/blob/master/LICENSE.txt"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/doctest/doctest/contents/README.md",
+      "html_url": "https://github.com/doctest/doctest/blob/master/README.md"
+    }
+  },
+  "updated_at": "2023-10-05T08:08:00Z",
+  "content_reports_enabled": false
+}

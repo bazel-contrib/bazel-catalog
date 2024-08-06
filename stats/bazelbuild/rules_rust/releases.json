@@ -1,1506 +1,1561 @@
 [
   {
+    "name": "0.49.1",
+    "date": "2024-08-02T15:38:12Z",
+    "mentions": 2,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 45,
+        "size": 16801376
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 14734848
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 30,
+        "size": 20198808
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 257,
+        "size": 17688320
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 29412723
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 8,
+        "size": 17338368
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 4846,
+        "size": 21009144
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 20853016
+      },
+      {
+        "name": "rules_rust-v0.49.1.tar.gz",
+        "count": 5189,
+        "size": 3944266
+      }
+    ]
+  },
+  {
+    "name": "0.49.0",
+    "date": "2024-08-01T17:58:28Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 16,
+        "size": 16811376
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 0,
+        "size": 14732800
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 7,
+        "size": 20191192
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 135,
+        "size": 17692432
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 0,
+        "size": 29451294
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 17343488
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 1678,
+        "size": 21019696
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 0,
+        "size": 20865584
+      },
+      {
+        "name": "rules_rust-v0.49.0.tar.gz",
+        "count": 1943,
+        "size": 3943867
+      }
+    ]
+  },
+  {
+    "name": "0.48.0",
+    "date": "2024-07-19T13:34:15Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 203,
+        "size": 16018288
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 0,
+        "size": 13943296
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 821,
+        "size": 19477248
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 161,
+        "size": 16859424
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 0,
+        "size": 29518027
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 11,
+        "size": 16292864
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 5768,
+        "size": 20248552
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 13,
+        "size": 20104144
+      },
+      {
+        "name": "rules_rust-v0.48.0.tar.gz",
+        "count": 10028,
+        "size": 3874594
+      }
+    ]
+  },
+  {
+    "name": "0.47.1",
+    "date": "2024-07-09T03:50:26Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 1649,
+        "size": 16018288
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 0,
+        "size": 13943296
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 12207,
+        "size": 19477248
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 462,
+        "size": 16859424
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 0,
+        "size": 29518027
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 2070,
+        "size": 16292864
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 18585,
+        "size": 20248552
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 0,
+        "size": 20104144
+      },
+      {
+        "name": "rules_rust-v0.47.1.tar.gz",
+        "count": 49121,
+        "size": 3840780
+      }
+    ]
+  },
+  {
+    "name": "0.46.0",
+    "date": "2024-06-10T13:19:12Z",
+    "mentions": 10,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 5531,
+        "size": 16339593
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13978624
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 8631,
+        "size": 23252864
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 6902,
+        "size": 17288072
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 34331235
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 3009,
+        "size": 16460288
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 151024,
+        "size": 23966264
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 58,
+        "size": 23994736
+      },
+      {
+        "name": "rules_rust-v0.46.0.tar.gz",
+        "count": 185801,
+        "size": 3817420
+      }
+    ]
+  },
+  {
+    "name": "0.45.1",
+    "date": "2024-05-16T19:25:39Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 805,
+        "size": 16301225
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13952512
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 23281,
+        "size": 23222736
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 652,
+        "size": 17260624
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 34348370
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 51,
+        "size": 16427008
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 45602,
+        "size": 23949224
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 44,
+        "size": 23977144
+      },
+      {
+        "name": "rules_rust-v0.45.1.tar.gz",
+        "count": 125715,
+        "size": 3816023
+      }
+    ]
+  },
+  {
+    "name": "0.45.0",
+    "date": "2024-05-16T16:33:23Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 5,
+        "size": 16301225
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13952512
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 1,
+        "size": 23222736
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 6,
+        "size": 17260624
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 34348370
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 16427008
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 32,
+        "size": 23949224
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 23977144
+      },
+      {
+        "name": "rules_rust-v0.45.0.tar.gz",
+        "count": 213,
+        "size": 3815976
+      }
+    ]
+  },
+  {
+    "name": "0.44.0",
+    "date": "2024-05-10T22:36:23Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 213,
+        "size": 16337369
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13978112
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 291,
+        "size": 23232416
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 229,
+        "size": 17262408
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 34345062
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 13,
+        "size": 16458752
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 26649,
+        "size": 23926464
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 10,
+        "size": 23953792
+      },
+      {
+        "name": "rules_rust-v0.44.0.tar.gz",
+        "count": 29696,
+        "size": 3810874
+      }
+    ]
+  },
+  {
+    "name": "0.43.0",
+    "date": "2024-05-09T15:02:22Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 152,
+        "size": 16337369
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13978112
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 4,
+        "size": 23232416
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 12,
+        "size": 17262408
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 34345062
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 5,
+        "size": 16458752
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 477,
+        "size": 23926464
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 23953792
+      },
+      {
+        "name": "rules_rust-v0.43.0.tar.gz",
+        "count": 730,
+        "size": 3810316
+      }
+    ]
+  },
+  {
+    "name": "0.42.1",
+    "date": "2024-04-15T16:29:08Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 4807,
+        "size": 16134121
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 13918208
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 65509,
+        "size": 23036944
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 3217,
+        "size": 16877272
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 3,
+        "size": 33490489
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 2249,
+        "size": 16050688
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 381541,
+        "size": 23515936
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 4,
+        "size": 23571040
+      },
+      {
+        "name": "rules_rust-v0.42.1.tar.gz",
+        "count": 189028,
+        "size": 3634939
+      }
+    ]
+  },
+  {
+    "name": "0.42.0",
+    "date": "2024-04-10T14:46:33Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 75,
+        "size": 16134121
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13918208
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 76,
+        "size": 23036944
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 36,
+        "size": 16877272
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 33490489
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 36,
+        "size": 16050688
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 5078,
+        "size": 23515936
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 23571040
+      },
+      {
+        "name": "rules_rust-v0.42.0.tar.gz",
+        "count": 5405,
+        "size": 3634624
+      }
+    ]
+  },
+  {
+    "name": "0.41.1",
+    "date": "2024-04-02T18:15:01Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 380,
+        "size": 16155641
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13844480
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 5415,
+        "size": 23017160
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 264,
+        "size": 16971888
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 33455455
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 22,
+        "size": 16052224
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 21686,
+        "size": 23605840
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 23635352
+      },
+      {
+        "name": "rules_rust-v0.41.1.tar.gz",
+        "count": 29790,
+        "size": 3500309
+      }
+    ]
+  },
+  {
+    "name": "0.41.0",
+    "date": "2024-03-28T12:42:15Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 365,
+        "size": 16139529
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13843968
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 5,
+        "size": 23016208
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 111,
+        "size": 16971584
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 33450893
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 108,
+        "size": 15960064
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 6266,
+        "size": 23602456
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 23636704
+      },
+      {
+        "name": "rules_rust-v0.41.0.tar.gz",
+        "count": 20402,
+        "size": 3288482
+      }
+    ]
+  },
+  {
+    "name": "0.40.0",
+    "date": "2024-02-29T11:00:32Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 540,
+        "size": 16034745
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13929472
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 555,
+        "size": 22911152
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 1425,
+        "size": 16853600
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 33573315
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 103,
+        "size": 16024576
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 145685,
+        "size": 23498928
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 23545096
+      },
+      {
+        "name": "rules_rust-v0.40.0.tar.gz",
+        "count": 166441,
+        "size": 3251248
+      }
+    ]
+  },
+  {
+    "name": "0.39.0",
+    "date": "2024-02-16T03:54:30Z",
+    "mentions": 11,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 15540,
+        "size": 15964649
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 1,
+        "size": 13889024
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 44,
+        "size": 22845536
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 15881,
+        "size": 16815720
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 1,
+        "size": 33213685
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 29058,
+        "size": 15946240
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 159611,
+        "size": 23404848
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 1,
+        "size": 23458816
+      },
+      {
+        "name": "rules_rust-v0.39.0.tar.gz",
+        "count": 205433,
+        "size": 3212597
+      }
+    ]
+  },
+  {
+    "name": "0.38.0",
+    "date": "2024-01-23T17:25:59Z",
+    "mentions": 12,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 5841,
+        "size": 15750777
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 13698560
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 78399,
+        "size": 23189928
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 2333,
+        "size": 16426944
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 3,
+        "size": 32972130
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 417,
+        "size": 15790080
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 655360,
+        "size": 23676168
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 3,
+        "size": 23730240
+      },
+      {
+        "name": "rules_rust-v0.38.0.tar.gz",
+        "count": 520399,
+        "size": 3168014
+      }
+    ]
+  },
+  {
+    "name": "0.36.2",
+    "date": "2024-01-02T18:40:44Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 1860,
+        "size": 15599353
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13565952
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 29439,
+        "size": 23031640
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 1770,
+        "size": 16301544
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 32700839
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 714,
+        "size": 15600640
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 80099,
+        "size": 23466264
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 3,
+        "size": 23506544
+      },
+      {
+        "name": "rules_rust-v0.36.2.tar.gz",
+        "count": 81272,
+        "size": 3175092
+      }
+    ]
+  },
+  {
+    "name": "0.36.1",
+    "date": "2023-12-28T19:00:52Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 33,
+        "size": 16188089
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13305856
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 3,
+        "size": 23917152
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 211,
+        "size": 16957168
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 36843086
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 15343104
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 1807,
+        "size": 24376984
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 24308832
+      },
+      {
+        "name": "rules_rust-v0.36.1.tar.gz",
+        "count": 2403,
+        "size": 3128036
+      }
+    ]
+  },
+  {
+    "name": "0.36.0",
+    "date": "2023-12-28T16:58:51Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 4,
+        "size": 16188089
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13305856
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 2,
+        "size": 23917152
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 4,
+        "size": 16957168
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 3,
+        "size": 36843086
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 15343104
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 17,
+        "size": 24376984
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 24308832
+      },
+      {
+        "name": "rules_rust-v0.36.0.tar.gz",
+        "count": 82,
+        "size": 3128060
+      }
+    ]
+  },
+  {
+    "name": "0.35.0",
+    "date": "2023-12-27T18:25:33Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 12,
+        "size": 16188089
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13305856
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 10,
+        "size": 23917152
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 5,
+        "size": 16957168
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 36843086
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 15343104
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 101,
+        "size": 24376984
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 24308832
+      },
+      {
+        "name": "rules_rust-v0.35.0.tar.gz",
+        "count": 9482,
+        "size": 3202233
+      }
+    ]
+  },
+  {
+    "name": "0.34.1",
+    "date": "2023-12-15T23:56:08Z",
+    "mentions": 3,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 457,
+        "size": 16254681
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13368320
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 2655,
+        "size": 23989552
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 263,
+        "size": 16998728
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 36930387
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 17,
+        "size": 15429120
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 60735,
+        "size": 24467208
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 24401208
+      },
+      {
+        "name": "rules_rust-v0.34.1.tar.gz",
+        "count": 228293,
+        "size": 3089749
+      }
+    ]
+  },
+  {
+    "name": "0.34.0",
+    "date": "2023-12-14T19:15:36Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 45,
+        "size": 16201593
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13271552
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 7,
+        "size": 23973296
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 12,
+        "size": 16964472
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 36883182
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 15398400
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 46209,
+        "size": 24424960
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 24359112
+      },
+      {
+        "name": "rules_rust-v0.34.0.tar.gz",
+        "count": 42246,
+        "size": 3087212
+      }
+    ]
+  },
+  {
+    "name": "0.33.0",
+    "date": "2023-12-12T21:08:51Z",
+    "mentions": 10,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 92,
+        "size": 16197065
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 13313024
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 7,
+        "size": 23962600
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 26,
+        "size": 16957024
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 3,
+        "size": 36921286
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 4,
+        "size": 15398912
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 14256,
+        "size": 24393008
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 3,
+        "size": 24326056
+      },
+      {
+        "name": "rules_rust-v0.33.0.tar.gz",
+        "count": 14842,
+        "size": 3084541
+      }
+    ]
+  },
+  {
+    "name": "0.32.0",
+    "date": "2023-11-27T16:37:02Z",
+    "mentions": 6,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 5248,
+        "size": 16147625
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13235200
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 5439,
+        "size": 23882672
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 2052,
+        "size": 16880576
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 36739051
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 2199,
+        "size": 15354880
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 281948,
+        "size": 24354232
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 24292024
+      },
+      {
+        "name": "rules_rust-v0.32.0.tar.gz",
+        "count": 214913,
+        "size": 3068376
+      }
+    ]
+  },
+  {
+    "name": "0.31.0",
+    "date": "2023-11-17T17:28:24Z",
+    "mentions": 13,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 7027,
+        "size": 16150585
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 13305344
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 24528,
+        "size": 23827920
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 6751,
+        "size": 16881376
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 36855030
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 1134,
+        "size": 15299072
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 210389,
+        "size": 24264176
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 3,
+        "size": 24198376
+      },
+      {
+        "name": "rules_rust-v0.31.0.tar.gz",
+        "count": 183360,
+        "size": 3065878
+      }
+    ]
+  },
+  {
+    "name": "0.30.0",
+    "date": "2023-10-27T14:05:02Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 1391,
+        "size": 12181433
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 11190784
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 10085,
+        "size": 19254328
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 1386,
+        "size": 12840512
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 26171996
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 38,
+        "size": 12825600
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 138101,
+        "size": 19692160
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 19821752
+      },
+      {
+        "name": "rules_rust-v0.30.0.tar.gz",
+        "count": 146144,
+        "size": 2921844
+      }
+    ]
+  },
+  {
+    "name": "0.29.1",
+    "date": "2023-10-19T14:41:33Z",
+    "mentions": 7,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 3956,
+        "size": 12181481
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 3,
+        "size": 11190784
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 495,
+        "size": 19257544
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 7760,
+        "size": 12840512
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 3,
+        "size": 26172094
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 2622,
+        "size": 12825600
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 83149,
+        "size": 19692680
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 4,
+        "size": 19821512
+      },
+      {
+        "name": "rules_rust-v0.29.1.tar.gz",
+        "count": 124911,
+        "size": 2916747
+      }
+    ]
+  },
+  {
+    "name": "0.29.0",
+    "date": "2023-10-12T17:11:40Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 1140,
+        "size": 12181481
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 11190784
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 736,
+        "size": 19257544
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 318,
+        "size": 12840512
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 2,
+        "size": 26172094
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 151,
+        "size": 12825600
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 113198,
+        "size": 19692680
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 19821512
+      },
+      {
+        "name": "rules_rust-v0.29.0.tar.gz",
+        "count": 114178,
+        "size": 2918142
+      }
+    ]
+  },
+  {
+    "name": "0.28.0",
+    "date": "2023-09-27T15:41:25Z",
+    "mentions": 9,
+    "downloads": [
+      {
+        "name": "cargo-bazel-aarch64-apple-darwin",
+        "count": 161,
+        "size": 12283417
+      },
+      {
+        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
+        "count": 2,
+        "size": 11275264
+      },
+      {
+        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
+        "count": 64,
+        "size": 19281808
+      },
+      {
+        "name": "cargo-bazel-x86_64-apple-darwin",
+        "count": 1301,
+        "size": 12673168
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
+        "count": 5,
+        "size": 26351655
+      },
+      {
+        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
+        "count": 1205,
+        "size": 12874752
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
+        "count": 11316,
+        "size": 19808392
+      },
+      {
+        "name": "cargo-bazel-x86_64-unknown-linux-musl",
+        "count": 2,
+        "size": 19923688
+      },
+      {
+        "name": "rules_rust-v0.28.0.tar.gz",
+        "count": 21863,
+        "size": 2875429
+      }
+    ]
+  },
+  {
     "name": "0.27.0",
     "date": "2023-08-31T20:33:10Z",
     "mentions": 11,
     "downloads": [
       {
         "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 175,
+        "count": 1275,
         "size": 12267657
       },
       {
         "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 1,
+        "count": 4,
         "size": 11256320
       },
       {
         "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 227,
+        "count": 688,
         "size": 19302856
       },
       {
         "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 448,
+        "count": 1176,
         "size": 12653592
       },
       {
         "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 1,
+        "count": 3,
         "size": 26338027
       },
       {
         "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 32,
+        "count": 632,
         "size": 12843008
       },
       {
         "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 7386,
+        "count": 38261,
         "size": 19796560
       },
       {
         "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
+        "count": 4,
         "size": 19913224
       },
       {
         "name": "rules_rust-v0.27.0.tar.gz",
-        "count": 8562,
+        "count": 41526,
         "size": 2832809
-      }
-    ]
-  },
-  {
-    "name": "0.26.0",
-    "date": "2023-07-28T14:33:19Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 854,
-        "size": 12059433
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 1,
-        "size": 10970624
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 15107,
-        "size": 18855976
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 3492,
-        "size": 12401816
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 1,
-        "size": 25723681
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 13,
-        "size": 12535296
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 46856,
-        "size": 19294808
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
-        "size": 19413952
-      },
-      {
-        "name": "rules_rust-v0.26.0.tar.gz",
-        "count": 81635,
-        "size": 2745609
-      }
-    ]
-  },
-  {
-    "name": "0.25.1",
-    "date": "2023-07-05T17:29:51Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 691,
-        "size": 11674297
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 2,
-        "size": 10651136
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 5845,
-        "size": 18326768
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 1853,
-        "size": 12113464
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 1,
-        "size": 25834188
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 1510,
-        "size": 12091904
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 45392,
-        "size": 18897600
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
-        "size": 18997600
-      },
-      {
-        "name": "rules_rust-v0.25.1.tar.gz",
-        "count": 83411,
-        "size": 2692261
-      }
-    ]
-  },
-  {
-    "name": "0.25.0",
-    "date": "2023-06-30T21:17:41Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 353,
-        "size": 11674297
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 1,
-        "size": 10651136
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 2147,
-        "size": 18326768
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 792,
-        "size": 12113464
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 1,
-        "size": 25834188
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 3,
-        "size": 12091904
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 15248,
-        "size": 18897600
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
-        "size": 18997600
-      },
-      {
-        "name": "rules_rust-v0.25.0.tar.gz",
-        "count": 9826,
-        "size": 2690363
-      }
-    ]
-  },
-  {
-    "name": "0.24.1",
-    "date": "2023-06-20T14:10:31Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 135,
-        "size": 11674297
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 0,
-        "size": 10651136
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 793,
-        "size": 18326744
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 5763,
-        "size": 12113464
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 0,
-        "size": 25834188
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 11,
-        "size": 12091904
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 12716,
-        "size": 18897600
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 51,
-        "size": 18997528
-      },
-      {
-        "name": "rules_rust-v0.24.1.tar.gz",
-        "count": 134820,
-        "size": 2602188
-      }
-    ]
-  },
-  {
-    "name": "0.24.0",
-    "date": "2023-06-19T16:11:54Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 59,
-        "size": 11674297
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 1,
-        "size": 10651136
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 1,
-        "size": 18326744
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 8,
-        "size": 12113464
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 1,
-        "size": 25834188
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 2,
-        "size": 12091904
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 13763,
-        "size": 18897600
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
-        "size": 18997528
-      },
-      {
-        "name": "rules_rust-v0.24.0.tar.gz",
-        "count": 13523,
-        "size": 2601707
-      }
-    ]
-  },
-  {
-    "name": "0.23.0",
-    "date": "2023-06-13T18:01:12Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 122,
-        "size": 11699401
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 0,
-        "size": 10707456
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 9,
-        "size": 18343264
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 1209,
-        "size": 12153400
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 0,
-        "size": 25854038
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 3533,
-        "size": 12169728
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 8501,
-        "size": 18933168
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 0,
-        "size": 19032064
-      },
-      {
-        "name": "rules_rust-v0.23.0.tar.gz",
-        "count": 14202,
-        "size": 2588107
-      }
-    ]
-  },
-  {
-    "name": "0.22.0",
-    "date": "2023-05-22T15:10:02Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 266,
-        "size": 11871977
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 3,
-        "size": 10711040
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 76,
-        "size": 18482560
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 1816,
-        "size": 12301392
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 2,
-        "size": 26137033
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 11,
-        "size": 12311552
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 61379,
-        "size": 19061520
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
-        "size": 19174328
-      },
-      {
-        "name": "rules_rust-v0.22.0.tar.gz",
-        "count": 97816,
-        "size": 2532235
-      }
-    ]
-  },
-  {
-    "name": "0.21.1",
-    "date": "2023-04-24T21:31:03Z",
-    "mentions": 1,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 190,
-        "size": 11871977
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 5,
-        "size": 10711040
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 15,
-        "size": 18482560
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 1268,
-        "size": 12301392
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 26137033
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 16,
-        "size": 12311552
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 62923,
-        "size": 19061728
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 19174744
-      },
-      {
-        "name": "rules_rust-v0.21.1.tar.gz",
-        "count": 110602,
-        "size": 2372906
-      }
-    ]
-  },
-  {
-    "name": "0.21.0",
-    "date": "2023-04-24T18:15:34Z",
-    "mentions": 9,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 4,
-        "size": 11871977
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 2,
-        "size": 10711040
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 2,
-        "size": 18482560
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 2,
-        "size": 12301392
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 2,
-        "size": 26137033
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 2,
-        "size": 12311552
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 8,
-        "size": 19061728
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 2,
-        "size": 19174744
-      },
-      {
-        "name": "rules_rust-v0.21.0.tar.gz",
-        "count": 73,
-        "size": 2372808
-      }
-    ]
-  },
-  {
-    "name": "0.20.0",
-    "date": "2023-03-28T17:09:27Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 993,
-        "size": 11897497
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 5,
-        "size": 10859520
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 1338,
-        "size": 18531896
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 12161,
-        "size": 12371984
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 26229570
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 119,
-        "size": 12330496
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 71611,
-        "size": 19159344
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 19266552
-      },
-      {
-        "name": "rules_rust-v0.20.0.tar.gz",
-        "count": 100129,
-        "size": 42365206
-      }
-    ]
-  },
-  {
-    "name": "0.19.1",
-    "date": "2023-03-22T10:49:18Z",
-    "mentions": 3,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 188,
-        "size": 11890169
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 3,
-        "size": 10868736
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 23314,
-        "size": 18533552
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 484,
-        "size": 12363712
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 26229433
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 112,
-        "size": 12326912
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 6626,
-        "size": 19150672
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 19264008
-      },
-      {
-        "name": "rules_rust-v0.19.1.tar.gz",
-        "count": 63429,
-        "size": 42264727
-      }
-    ]
-  },
-  {
-    "name": "0.19.0",
-    "date": "2023-03-15T14:42:36Z",
-    "mentions": 12,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 342,
-        "size": 11890169
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 6,
-        "size": 10870272
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 16,
-        "size": 18534008
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 4612,
-        "size": 12363704
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 26229343
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 3941,
-        "size": 12328960
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 87573,
-        "size": 19150248
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 19263744
-      },
-      {
-        "name": "rules_rust-v0.19.0.tar.gz",
-        "count": 84570,
-        "size": 42265013
-      }
-    ]
-  },
-  {
-    "name": "0.18.0",
-    "date": "2023-02-09T15:55:09Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 975,
-        "size": 11602313
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 4,
-        "size": 10627072
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 150,
-        "size": 18029504
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 4064,
-        "size": 12148480
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 25168996
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 82,
-        "size": 12143616
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 157985,
-        "size": 18697184
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 6,
-        "size": 18812848
-      },
-      {
-        "name": "rules_rust-v0.18.0.tar.gz",
-        "count": 212170,
-        "size": 41041903
-      }
-    ]
-  },
-  {
-    "name": "0.17.0",
-    "date": "2023-01-27T17:49:07Z",
-    "mentions": 9,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 233,
-        "size": 11498057
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 3,
-        "size": 10516480
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 514,
-        "size": 17916120
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 380,
-        "size": 12008368
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 24944186
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 372,
-        "size": 11977728
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 19532,
-        "size": 18526248
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 18646256
-      },
-      {
-        "name": "rules_rust-v0.17.0.tar.gz",
-        "count": 50840,
-        "size": 39545606
-      }
-    ]
-  },
-  {
-    "name": "0.16.1",
-    "date": "2023-01-06T21:29:59Z",
-    "mentions": 2,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 485,
-        "size": 11477817
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 7,
-        "size": 10506752
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 936,
-        "size": 17939320
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 2179,
-        "size": 11969400
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 6,
-        "size": 24803006
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 201,
-        "size": 11925504
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 65864,
-        "size": 18463904
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 8,
-        "size": 18595168
-      },
-      {
-        "name": "rules_rust-v0.16.1.tar.gz",
-        "count": 186299,
-        "size": 39346321
-      }
-    ]
-  },
-  {
-    "name": "0.16.0",
-    "date": "2023-01-05T15:05:20Z",
-    "mentions": 8,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 5,
-        "size": 11477977
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 3,
-        "size": 10509312
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 4,
-        "size": 17932496
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 5,
-        "size": 11969656
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 24796520
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 3,
-        "size": 11931136
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 41,
-        "size": 18461496
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 18592392
-      },
-      {
-        "name": "rules_rust-v0.16.0.tar.gz",
-        "count": 5369,
-        "size": 39339198
-      }
-    ]
-  },
-  {
-    "name": "0.15.0",
-    "date": "2022-12-16T17:01:26Z",
-    "mentions": 4,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 2297,
-        "size": 11266745
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 4,
-        "size": 10295808
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 55,
-        "size": 17689240
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 39282,
-        "size": 11701608
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 24379207
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 2361,
-        "size": 11659776
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 241601,
-        "size": 18158104
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 18278896
-      },
-      {
-        "name": "rules_rust-v0.15.0.tar.gz",
-        "count": 40761,
-        "size": 38687459
-      }
-    ]
-  },
-  {
-    "name": "0.14.0",
-    "date": "2022-12-01T19:35:04Z",
-    "mentions": 9,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 249,
-        "size": 11220441
-      },
-      {
-        "name": "cargo-bazel-aarch64-pc-windows-msvc.exe",
-        "count": 7,
-        "size": 10294784
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 23,
-        "size": 17539984
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 168,
-        "size": 11663936
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 6,
-        "size": 24246502
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 5400,
-        "size": 11649536
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 27674,
-        "size": 18030736
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 8,
-        "size": 18150304
-      },
-      {
-        "name": "rules_rust-v0.14.0.tar.gz",
-        "count": 108100,
-        "size": 38526011
-      }
-    ]
-  },
-  {
-    "name": "0.13.0",
-    "date": "2022-11-11T16:54:27Z",
-    "mentions": 7,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 102,
-        "size": 11075993
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 28,
-        "size": 17369120
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 1653,
-        "size": 11524256
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 10,
-        "size": 24048680
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 24,
-        "size": 11529728
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 6370,
-        "size": 17866264
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 9,
-        "size": 17983440
-      },
-      {
-        "name": "rules_rust-v0.13.0.tar.gz",
-        "count": 37792,
-        "size": 34632406
-      }
-    ]
-  },
-  {
-    "name": "0.12.0",
-    "date": "2022-11-04T16:44:02Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 26,
-        "size": 11074073
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 126,
-        "size": 17360456
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 119,
-        "size": 11524216
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 5,
-        "size": 24041730
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 6,
-        "size": 11514880
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 16300,
-        "size": 17857768
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 4,
-        "size": 17976216
-      },
-      {
-        "name": "rules_rust-v0.12.0.tar.gz",
-        "count": 39477,
-        "size": 34613776
-      }
-    ]
-  },
-  {
-    "name": "0.11.0",
-    "date": "2022-10-13T03:39:54Z",
-    "mentions": 15,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 96,
-        "size": 10373193
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 14,
-        "size": 16814152
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 192,
-        "size": 11282576
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 23503783
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 8,
-        "size": 11307008
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 4908,
-        "size": 17375600
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 4,
-        "size": 17504448
-      },
-      {
-        "name": "rules_rust-v0.11.0.tar.gz",
-        "count": 49631,
-        "size": 33701024
-      }
-    ]
-  },
-  {
-    "name": "0.10.0",
-    "date": "2022-08-29T21:25:50Z",
-    "mentions": 11,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 626,
-        "size": 10359977
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 728,
-        "size": 16761984
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 6240,
-        "size": 11251968
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 23438670
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 1971,
-        "size": 11187200
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 327553,
-        "size": 17250256
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 6,
-        "size": 17388432
-      },
-      {
-        "name": "rules_rust-v0.10.0.tar.gz",
-        "count": 454172,
-        "size": 33396332
-      }
-    ]
-  },
-  {
-    "name": "0.9.0",
-    "date": "2022-08-08T15:35:12Z",
-    "mentions": 5,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 1033,
-        "size": 10426697
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 11,
-        "size": 16848088
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 4620,
-        "size": 11283832
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 23494377
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 13,
-        "size": 11124224
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 126401,
-        "size": 17282560
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 2,
-        "size": 17421680
-      },
-      {
-        "name": "rules_rust-v0.9.0.tar.gz",
-        "count": 90691,
-        "size": 33459939
-      }
-    ]
-  },
-  {
-    "name": "0.8.1",
-    "date": "2022-07-26T17:06:00Z",
-    "mentions": 1,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 250,
-        "size": 10426713
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 34,
-        "size": 16844040
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 174,
-        "size": 11283832
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 5,
-        "size": 23487181
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 8,
-        "size": 11123200
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 57256,
-        "size": 17282456
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 5,
-        "size": 17421232
-      },
-      {
-        "name": "rules_rust-v0.8.1.tar.gz",
-        "count": 47784,
-        "size": 638579
-      }
-    ]
-  },
-  {
-    "name": "0.8.0",
-    "date": "2022-07-22T13:01:00Z",
-    "mentions": 12,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 9,
-        "size": 10426713
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 4,
-        "size": 16844040
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 152,
-        "size": 11283832
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 23487181
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 5,
-        "size": 11123200
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 231,
-        "size": 17282456
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 5,
-        "size": 17421232
-      },
-      {
-        "name": "rules_rust-v0.8.0.tar.gz",
-        "count": 518,
-        "size": 638460
-      }
-    ]
-  },
-  {
-    "name": "0.7.0",
-    "date": "2022-07-07T16:47:00Z",
-    "mentions": 6,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 185,
-        "size": 10421897
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 2,
-        "size": 16837448
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 347,
-        "size": 11266496
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 1,
-        "size": 23432234
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 10,
-        "size": 11102720
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 11898,
-        "size": 17257856
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 1,
-        "size": 17400528
-      },
-      {
-        "name": "rules_rust-v0.7.0.tar.gz",
-        "count": 5055,
-        "size": 603927
-      }
-    ]
-  },
-  {
-    "name": "0.6.0",
-    "date": "2022-06-14T16:09:28Z",
-    "mentions": 7,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 90,
-        "size": 10549241
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 4,
-        "size": 17170960
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 78,
-        "size": 11390008
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 23955923
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 12,
-        "size": 10975744
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 2968,
-        "size": 17600624
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 4,
-        "size": 17750360
-      },
-      {
-        "name": "rules_rust-v0.6.0.tar.gz",
-        "count": 599868,
-        "size": 596708
-      }
-    ]
-  },
-  {
-    "name": "0.5.0",
-    "date": "2022-05-24T13:31:36Z",
-    "mentions": 9,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 195,
-        "size": 10567353
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 9,
-        "size": 17179960
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 174,
-        "size": 11440224
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 4,
-        "size": 23922143
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 11,
-        "size": 11001856
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 53898,
-        "size": 17636408
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 4,
-        "size": 17784864
-      },
-      {
-        "name": "rules_rust-v0.5.0.tar.gz",
-        "count": 57046,
-        "size": 589929
-      }
-    ]
-  },
-  {
-    "name": "0.4.0",
-    "date": "2022-05-09T18:53:44Z",
-    "mentions": 9,
-    "downloads": [
-      {
-        "name": "cargo-bazel-aarch64-apple-darwin",
-        "count": 34,
-        "size": 10208057
-      },
-      {
-        "name": "cargo-bazel-aarch64-unknown-linux-gnu",
-        "count": 4,
-        "size": 16576904
-      },
-      {
-        "name": "cargo-bazel-x86_64-apple-darwin",
-        "count": 276,
-        "size": 10934368
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-gnu.exe",
-        "count": 3,
-        "size": 23163116
-      },
-      {
-        "name": "cargo-bazel-x86_64-pc-windows-msvc.exe",
-        "count": 8,
-        "size": 11229184
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-gnu",
-        "count": 5502,
-        "size": 16993216
-      },
-      {
-        "name": "cargo-bazel-x86_64-unknown-linux-musl",
-        "count": 3,
-        "size": 17150488
-      },
-      {
-        "name": "rules_rust-v0.4.0.tar.gz",
-        "count": 27820,
-        "size": 594383
       }
     ]
   }

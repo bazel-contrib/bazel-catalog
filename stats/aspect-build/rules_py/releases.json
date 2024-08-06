@@ -1,12 +1,508 @@
 [
   {
+    "name": "v0.7.4",
+    "date": "2024-07-22T15:12:03Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_py-v0.7.4.tar.gz",
+        "count": 3013,
+        "size": 182918
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin",
+        "count": 24,
+        "size": 5945911
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin.sha256",
+        "count": 0,
+        "size": 93
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu",
+        "count": 283,
+        "size": 11531688
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu.sha256",
+        "count": 0,
+        "size": 98
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin",
+        "count": 13,
+        "size": 6443752
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin.sha256",
+        "count": 0,
+        "size": 92
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu",
+        "count": 2235,
+        "size": 11485152
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu.sha256",
+        "count": 0,
+        "size": 97
+      },
+      {
+        "name": "venv-aarch64-apple-darwin",
+        "count": 21,
+        "size": 1587317
+      },
+      {
+        "name": "venv-aarch64-apple-darwin.sha256",
+        "count": 0,
+        "size": 91
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu",
+        "count": 283,
+        "size": 6553400
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu.sha256",
+        "count": 0,
+        "size": 96
+      },
+      {
+        "name": "venv-x86_64-apple-darwin",
+        "count": 13,
+        "size": 1737800
+      },
+      {
+        "name": "venv-x86_64-apple-darwin.sha256",
+        "count": 0,
+        "size": 90
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu",
+        "count": 2155,
+        "size": 6262168
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu.sha256",
+        "count": 0,
+        "size": 95
+      }
+    ]
+  },
+  {
+    "name": "v0.7.3",
+    "date": "2024-05-01T00:56:03Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_py-v0.7.3.tar.gz",
+        "count": 123076,
+        "size": 222493
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin",
+        "count": 342,
+        "size": 5894679
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 93
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu",
+        "count": 506,
+        "size": 11453928
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 98
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin",
+        "count": 52,
+        "size": 6377488
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 92
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu",
+        "count": 45329,
+        "size": 11410720
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu.sha256",
+        "count": 2,
+        "size": 97
+      },
+      {
+        "name": "venv-aarch64-apple-darwin",
+        "count": 325,
+        "size": 1519861
+      },
+      {
+        "name": "venv-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu",
+        "count": 498,
+        "size": 6475008
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 96
+      },
+      {
+        "name": "venv-x86_64-apple-darwin",
+        "count": 50,
+        "size": 1671816
+      },
+      {
+        "name": "venv-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 90
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu",
+        "count": 45153,
+        "size": 6182824
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 95
+      }
+    ]
+  },
+  {
+    "name": "v0.7.2",
+    "date": "2024-04-26T04:13:06Z",
+    "mentions": 8,
+    "downloads": [
+      {
+        "name": "rules_py-v0.7.2.tar.gz",
+        "count": 579,
+        "size": 177473
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin",
+        "count": 22,
+        "size": 6068263
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 93
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu",
+        "count": 11,
+        "size": 12650584
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 98
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin",
+        "count": 9,
+        "size": 6537528
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 92
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu",
+        "count": 121,
+        "size": 12440600
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 97
+      },
+      {
+        "name": "venv-aarch64-apple-darwin",
+        "count": 22,
+        "size": 1631141
+      },
+      {
+        "name": "venv-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu",
+        "count": 10,
+        "size": 7583800
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 96
+      },
+      {
+        "name": "venv-x86_64-apple-darwin",
+        "count": 9,
+        "size": 1763904
+      },
+      {
+        "name": "venv-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 90
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu",
+        "count": 118,
+        "size": 7154496
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 95
+      }
+    ]
+  },
+  {
+    "name": "v0.7.1",
+    "date": "2024-03-03T00:01:40Z",
+    "mentions": 1,
+    "downloads": [
+      {
+        "name": "rules_py-v0.7.1.tar.gz",
+        "count": 447424,
+        "size": 171657
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin",
+        "count": 963,
+        "size": 6067271
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 93
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu",
+        "count": 21962,
+        "size": 12647248
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu.sha256",
+        "count": 2,
+        "size": 98
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin",
+        "count": 594,
+        "size": 6536632
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 92
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu",
+        "count": 146821,
+        "size": 12437688
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu.sha256",
+        "count": 2,
+        "size": 97
+      },
+      {
+        "name": "venv-aarch64-apple-darwin",
+        "count": 940,
+        "size": 1606853
+      },
+      {
+        "name": "venv-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu",
+        "count": 21948,
+        "size": 7556440
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 96
+      },
+      {
+        "name": "venv-x86_64-apple-darwin",
+        "count": 585,
+        "size": 1756856
+      },
+      {
+        "name": "venv-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 90
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu",
+        "count": 147551,
+        "size": 7128328
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 95
+      }
+    ]
+  },
+  {
+    "name": "v0.7.0",
+    "date": "2024-03-02T17:06:40Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_py-v0.7.0.tar.gz",
+        "count": 28,
+        "size": 168974
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin",
+        "count": 10,
+        "size": 6067271
+      },
+      {
+        "name": "unpack-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 93
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu",
+        "count": 8,
+        "size": 12647248
+      },
+      {
+        "name": "unpack-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 98
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin",
+        "count": 8,
+        "size": 6536632
+      },
+      {
+        "name": "unpack-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 92
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu",
+        "count": 83,
+        "size": 12437688
+      },
+      {
+        "name": "unpack-x86_64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 97
+      },
+      {
+        "name": "venv-aarch64-apple-darwin",
+        "count": 8,
+        "size": 1606853
+      },
+      {
+        "name": "venv-aarch64-apple-darwin.sha256",
+        "count": 1,
+        "size": 91
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu",
+        "count": 9,
+        "size": 7556440
+      },
+      {
+        "name": "venv-aarch64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 96
+      },
+      {
+        "name": "venv-x86_64-apple-darwin",
+        "count": 6,
+        "size": 1756856
+      },
+      {
+        "name": "venv-x86_64-apple-darwin.sha256",
+        "count": 1,
+        "size": 90
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu",
+        "count": 82,
+        "size": 7128328
+      },
+      {
+        "name": "venv-x86_64-unknown-linux-gnu.sha256",
+        "count": 1,
+        "size": 95
+      }
+    ]
+  },
+  {
+    "name": "v0.6.0",
+    "date": "2024-02-28T01:04:45Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_py-v0.6.0.tar.gz",
+        "count": 472,
+        "size": 56505
+      }
+    ]
+  },
+  {
+    "name": "v0.5.0",
+    "date": "2023-11-27T21:16:33Z",
+    "mentions": 4,
+    "downloads": [
+      {
+        "name": "rules_py-v0.5.0.tar.gz",
+        "count": 131810,
+        "size": 53517
+      }
+    ]
+  },
+  {
+    "name": "v0.4.0",
+    "date": "2023-10-19T18:57:39Z",
+    "mentions": 5,
+    "downloads": [
+      {
+        "name": "rules_py-v0.4.0.tar.gz",
+        "count": 61428,
+        "size": 41467
+      }
+    ]
+  },
+  {
     "name": "v0.3.0",
     "date": "2023-06-02T18:24:39Z",
     "mentions": 2,
     "downloads": [
       {
         "name": "rules_py-v0.3.0.tar.gz",
-        "count": 8340,
+        "count": 11560,
         "size": 42918
       }
     ]
@@ -18,7 +514,7 @@
     "downloads": [
       {
         "name": "rules_py-v0.2.0.tar.gz",
-        "count": 50171,
+        "count": 82403,
         "size": 41525
       }
     ]

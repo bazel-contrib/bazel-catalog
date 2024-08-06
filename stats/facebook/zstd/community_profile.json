@@ -1,0 +1,37 @@
+{
+  "health_percentage": 87,
+  "description": "Zstandard - Fast real-time compression algorithm",
+  "documentation": "http://www.zstd.net",
+  "files": {
+    "code_of_conduct": {
+      "key": "other",
+      "name": "Other",
+      "html_url": "https://github.com/facebook/zstd/blob/dev/CODE_OF_CONDUCT.md",
+      "url": "https://api.github.com/repos/facebook/zstd/community/code_of_conduct"
+    },
+    "code_of_conduct_file": {
+      "url": "https://api.github.com/repos/facebook/zstd/contents/CODE_OF_CONDUCT.md",
+      "html_url": "https://github.com/facebook/zstd/blob/dev/CODE_OF_CONDUCT.md"
+    },
+    "contributing": {
+      "url": "https://api.github.com/repos/facebook/zstd/contents/CONTRIBUTING.md",
+      "html_url": "https://github.com/facebook/zstd/blob/dev/CONTRIBUTING.md"
+    },
+    "issue_template": null,
+    "pull_request_template": null,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA=",
+      "html_url": "https://github.com/facebook/zstd/blob/dev/LICENSE"
+    },
+    "readme": {
+      "url": "https://api.github.com/repos/facebook/zstd/contents/README.md",
+      "html_url": "https://github.com/facebook/zstd/blob/dev/README.md"
+    }
+  },
+  "updated_at": "2024-05-30T11:54:47Z",
+  "content_reports_enabled": false
+}
