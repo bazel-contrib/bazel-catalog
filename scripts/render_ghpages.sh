@@ -29,7 +29,7 @@ do
     # Calculate some derivative metrics
     downloads_per_day=$((total_downloads / repo_age_days))
     health_percentage=$(jq --raw-output '.health_percentage' "$SCRIPT_DIR/../stats/$ghrepo/community_profile.json")
-
+    maintainers=$(jq --raw-output --arg ghrepo "$ghrepo" --from-file "$SCRIPT_DIR/../filters/maintainers.jq" "$SCRIPT_DIR"/../rulesets.json)
     # Render the output
     cat > "$DESTDIR"/index.md <<EOF
 # $ghrepo
@@ -65,7 +65,7 @@ Most recent tag: ${last_tag}
 EOF
 
     # Finally record our result in the table on the homepage.
-    echo "| [${ghrepo}](./${ghrepo}) | ![GitHub all releases](https://img.shields.io/github/downloads/$ghrepo/total) ![GitHub forks](https://img.shields.io/github/forks/$ghrepo) ![GitHub stars](https://img.shields.io/github/stars/$ghrepo) | ![GitHub contributors](https://img.shields.io/github/contributors/$ghrepo) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/$ghrepo) ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/$ghrepo) ![GitHub issues](https://img.shields.io/github/issues/$ghrepo) ![GitHub pull requests](https://img.shields.io/github/issues-pr/$ghrepo) | ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/$ghrepo) |" >> "$OUTPUT_ROOT"/index.md
+    echo "| [${ghrepo}](./${ghrepo}) | ![GitHub all releases](https://img.shields.io/github/downloads/$ghrepo/total) ![GitHub forks](https://img.shields.io/github/forks/$ghrepo) ![GitHub stars](https://img.shields.io/github/stars/$ghrepo) | ![GitHub contributors](https://img.shields.io/github/contributors/$ghrepo) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/$ghrepo) ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/$ghrepo) ![GitHub issues](https://img.shields.io/github/issues/$ghrepo) ![GitHub pull requests](https://img.shields.io/github/issues-pr/$ghrepo) | ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/$ghrepo) | $maintainers |" >> "$OUTPUT_ROOT"/index.md
 done < <(
     jq --raw-output \
     --from-file "${SCRIPT_DIR}"/../filters/ghrepo.jq \
